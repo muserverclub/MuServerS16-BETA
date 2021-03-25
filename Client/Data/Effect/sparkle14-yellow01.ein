@@ -1,0 +1,121 @@
+
+{
+	"Billboarding" : 2,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Bursts" : 
+			[
+				
+				{
+					"Count" : 12,
+					"Time" : 0.50
+				},
+				
+				{
+					"Count" : 18,
+					"Time" : 1.200000047683716
+				},
+				
+				{
+					"Count" : 16,
+					"Time" : 2.0
+				},
+				
+				{
+					"Count" : 11,
+					"Time" : 2.50
+				}
+			],
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 1.0,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.3026797473430634,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 1.0 ],
+					"MinBrightness" : 0.8000000119209290,
+					"MinColor" : [ 0.50, 0.50, 0.50, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.2000000029802322,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : -6.283185482025147,
+					"Min" : -6.283185482025147,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.07999999821186066,
+					"Min" : 0.03999999910593033,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 10.0,
+					"Min" : 8.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 1.0,
+			"MaxEmissionCount" : 18,
+			"MinEmissionCount" : 0,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : null,
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.07999999821186066,
+					"Value" : [ 1.0, 0.9843137264251709, 0.9411764740943909 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.9450980424880981, 0.8352941274642944, 0.5607843399047852 ]
+				}
+			],
+			"Type" : 1
+		}
+	],
+	"Duration" : 3.0,
+	"LengthScale" : 5.0,
+	"Looping" : true,
+	"MaxParticle" : 50,
+	"Name" : "sparkle14-yellow01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, -0.9512044191360474, -1.623156189918518 ],
+	"Scale" : 0.50,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : -2.50,
+	"Texture" : "Data\\Effect\\SwordEffor2.OZJ",
+	"Type" : 0
+}

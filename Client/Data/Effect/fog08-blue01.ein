@@ -1,0 +1,119 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 1.0, 0.50, 0.3000000119209290 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 0.03921568766236305, 0.2313725501298904, 0.4470588266849518, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 0.2509804069995880, 0.2509804069995880, 0.2509804069995880, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 10.0,
+					"Min" : 10.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.05000000074505806,
+					"Min" : 0.05000000074505806,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 5,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.3000000119209290,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.05999999865889549, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Type" : 4
+		},
+		
+		{
+			"Bounding" : 1.0,
+			"Type" : 7
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.8999999761581421,
+	"Looping" : true,
+	"MaxParticle" : 20,
+	"Name" : "fog08-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 5.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0
+}

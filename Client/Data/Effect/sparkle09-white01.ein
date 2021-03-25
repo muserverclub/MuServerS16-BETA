@@ -1,0 +1,121 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 1.0, 1.0, 0.50 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 0.6274510025978088, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 0.50, 0.50, 0.50, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 4.0,
+					"Min" : 2.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.3799999952316284,
+					"Min" : 0.3799999952316284,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.4000000059604645,
+					"Min" : 0.250,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 35,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.8799999952316284,
+					"Value" : 0.3000000119209290
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 1.017212867736816,
+					"Time" : 0.0,
+					"Value" : 0.6050000190734863
+				},
+				
+				{
+					"Tangent" : 0.06914741545915604,
+					"Time" : 0.3490000069141388,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : -0.3401266038417816,
+					"Time" : 1.0,
+					"Value" : 0.7488999962806702
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 10,
+	"Name" : "sparkle09-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 10.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\water.OZJ",
+	"Type" : 0
+}

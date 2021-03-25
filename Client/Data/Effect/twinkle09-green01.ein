@@ -1,0 +1,108 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 0.0, 0.0, 0.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 0.0, 0.7529411911964417, 0.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 0.0, 0.7529411911964417, 0.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 2.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.1099999994039536,
+					"Min" : 0.05000000074505806,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 15,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.3000000119209290
+				},
+				
+				{
+					"Time" : 0.4399999976158142,
+					"Value" : 0.6980392336845398
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.3000000119209290
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 1.570796370506287,
+			"Min" : -1.570796370506287,
+			"Type" : 3
+		}
+	],
+	"Duration" : 0.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 7,
+	"Name" : "twinkle09-green01",
+	"Position" : [ 0.0, 0.0, 5.0 ],
+	"Rotation" : [ -1.570796370506287, 0.0, 0.0 ],
+	"Scale" : 3.0,
+	"SpaceIsLocal" : false,
+	"SpeedScale" : 5.0,
+	"Texture" : "Data\\Effect\\Magic_Ground2.OZJ",
+	"Type" : 0
+}

@@ -1,0 +1,333 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : true,
+							"RandomDirection" : true,
+							"Shape" : 0,
+							"Size" : [ 0.1000000014901161, 0.1000000014901161, 0.1000000014901161 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 0.6392157077789307, 0.6274510025978088, 1.0, 1.0 ],
+							"MinBrightness" : 2.0,
+							"MinColor" : [ 0.50, 0.50, 0.50, 0.50 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.3000000119209290,
+							"Min" : 0.1000000014901161,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025147,
+							"Min" : -6.283185482025147,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 2.0,
+							"Min" : 1.50,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.0,
+							"Min" : 0.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"MaxEmissionCount" : 5,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2599999904632568,
+							"Value" : 0.6823529601097107
+						},
+						
+						{
+							"Time" : 0.4699999988079071,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.7400000095367432,
+							"Value" : 0.5607843399047852
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Type" : 4
+				}
+			],
+			"Duration" : 0.009999999776482582,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 20,
+			"Name" : "lighting_mega02",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\bluewave0001_R.OZJ",
+			"Type" : 0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : true,
+							"RandomDirection" : true,
+							"Shape" : 0,
+							"Size" : [ 0.1000000014901161, 0.1000000014901161, 0.1000000014901161 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 0.6392157077789307, 0.6274510025978088, 1.0, 1.0 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 0.50, 0.50, 0.50, 0.50 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.3000000119209290,
+							"Min" : 0.1000000014901161,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025147,
+							"Min" : -6.283185482025147,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 2.0,
+							"Min" : 1.50,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.0,
+							"Min" : 0.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"MaxEmissionCount" : 5,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2599999904632568,
+							"Value" : 0.6823529601097107
+						},
+						
+						{
+							"Time" : 0.4699999988079071,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.7400000095367432,
+							"Value" : 0.5607843399047852
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 0.009999999776482582,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 20,
+			"Name" : "lighting_mega02",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\hole.OZJ",
+			"Type" : 0
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : true,
+					"Shape" : 0,
+					"Size" : [ 0.1000000014901161, 0.1000000014901161, 0.1000000014901161 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 2.0,
+					"MinColor" : [ 0.50, 0.50, 0.50, 0.50 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.3000000119209290,
+					"Min" : 0.1000000014901161,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : -6.283185482025147,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 1.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 3,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.4799999892711639,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Type" : 4
+		}
+	],
+	"Duration" : 0.009999999776482582,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 20,
+	"Name" : "lighting02-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\backLight.OZJ",
+	"Type" : 0
+}

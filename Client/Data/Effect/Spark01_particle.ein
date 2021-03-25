@@ -1,0 +1,183 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"Radius" : 0.50,
+					"RandomDirection" : false,
+					"Shape" : 2,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.5360000133514404,
+					"MaxColor" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 1.0 ],
+					"MinBrightness" : 0.5360000133514404,
+					"MinColor" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 5.0,
+					"Min" : 3.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.05000000074505806,
+					"Min" : 0.05000000074505806,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.3000000119209290,
+					"Min" : 0.2000000029802322,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxEmissionCount" : 2,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.8000000119209290,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : -0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.250,
+					"Value" : 0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.50,
+					"Value" : -0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.750,
+					"Value" : 0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.1000000014901161
+				}
+			],
+			"CurveY" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.250,
+					"Value" : -0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.50,
+					"Value" : 0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.750,
+					"Value" : -0.1000000014901161
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.1000000014901161
+				}
+			],
+			"CurveZ" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.07000000029802322
+				}
+			],
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 6.283185482025147,
+			"Min" : -6.283185482025147,
+			"Type" : 3
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 6,
+	"Name" : "Spark01_particle",
+	"Position" : [ 0.0, 0.0, 0.50 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\flareBlue.OZJ",
+	"Type" : 0
+}

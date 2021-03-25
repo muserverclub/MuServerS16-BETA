@@ -1,0 +1,171 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 2.191999912261963,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 2.191999912261963,
+			"Children" : 
+			[
+				
+				{
+					"Billboarding" : 0,
+					"Blending" : 2,
+					"Brightness" : 2.191999912261963,
+					"Color" : [ 1.0, 0.5019608139991760, 0.0, 1.0 ],
+					"Components" : 
+					[
+						
+						{
+							"AlphaGradation" : 
+							[
+								
+								{
+									"Time" : 0.0,
+									"Value" : 1.0
+								},
+								
+								{
+									"Time" : 0.2599999904632568,
+									"Value" : 0.8039215803146362
+								},
+								
+								{
+									"Time" : 0.50,
+									"Value" : 0.8999999761581421
+								},
+								
+								{
+									"Time" : 0.6999999880790710,
+									"Value" : 0.7137255072593689
+								},
+								
+								{
+									"Time" : 1.0,
+									"Value" : 1.0
+								}
+							],
+							"ColorGradation" : null,
+							"Type" : 0
+						}
+					],
+					"Duration" : 1.0,
+					"Height" : 2.0,
+					"Looping" : true,
+					"Name" : "twinkle10-red01",
+					"Position" : [ 0.0, 0.0, 0.0 ],
+					"Rotation" : [ 0.0, 0.0, 0.0 ],
+					"RotationAngle" : 0.0,
+					"Scale" : 0.8000000119209290,
+					"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+					"Texture" : "Data\\Effect\\lightmarks.OZJ",
+					"Type" : 1,
+					"Width" : 1.399999976158142
+				}
+			],
+			"Color" : [ 1.0, 0.5019608139991760, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.2599999904632568,
+							"Value" : 0.8039215803146362
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 0.8999999761581421
+						},
+						
+						{
+							"Time" : 0.6999999880790710,
+							"Value" : 0.7137255072593689
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 0.50,
+			"Height" : 1.600000023841858,
+			"Looping" : true,
+			"Name" : "twinkle10-red01",
+			"Position" : [ 0.0, 0.0, -0.05000000074505806 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.3000000119209290,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\lightmarks.OZJ",
+			"Type" : 1,
+			"Width" : 1.399999976158142
+		}
+	],
+	"Color" : [ 0.4823529422283173, 0.3960784375667572, 0.007843137718737125, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.2599999904632568,
+					"Value" : 0.8039215803146362
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 0.8999999761581421
+				},
+				
+				{
+					"Time" : 0.6999999880790710,
+					"Value" : 0.7137255072593689
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 0.50,
+	"Height" : 1.600000023841858,
+	"Looping" : true,
+	"Name" : "twinkle11-yellow01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 10.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\lightmarks.OZJ",
+	"Type" : 1,
+	"Width" : 1.399999976158142
+}

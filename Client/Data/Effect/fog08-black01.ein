@@ -1,0 +1,134 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 1,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : true,
+					"Height" : 0.07999999821186066,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 7.862823963165283,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : 
+					[
+						0.3058823645114899,
+						0.3058823645114899,
+						0.3058823645114899,
+						0.2000000029802322
+					],
+					"MinBrightness" : 1.0,
+					"MinColor" : 
+					[
+						0.2784313857555389,
+						0.2784313857555389,
+						0.2784313857555389,
+						0.2000000029802322
+					],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 10.0,
+					"Min" : 10.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.004999999888241291,
+					"Min" : 0.004999999888241291,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 7,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.3000000119209290,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Type" : 4
+		},
+		
+		{
+			"Bounding" : 1.0,
+			"Type" : 7
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.8999999761581421,
+	"Looping" : true,
+	"MaxParticle" : 30,
+	"Name" : "fog08-black01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 5.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\fi02.OZT",
+	"Type" : 0
+}

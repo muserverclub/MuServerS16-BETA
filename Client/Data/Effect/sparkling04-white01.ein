@@ -1,0 +1,118 @@
+
+{
+	"Billboarding" : 2,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : true,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 0.4000000059604645, 0.4000000059604645, 0.50 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 1.0
+						}
+					],
+					"BrightnessGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : [ 0.6274510025978088, 1.0, 1.0 ]
+						},
+						
+						{
+							"Time" : 0.7400000095367432,
+							"Value" : [ 1.0, 1.0, 1.0 ]
+						}
+					],
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 0.50, 0.50, 0.50, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.50,
+					"Min" : 1.50,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 1.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 0.4000000059604645,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 20,
+			"MinEmissionCount" : 13,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : null,
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"HorizentalTiles" : 1,
+			"MaxTileIndex" : 0,
+			"MinTileIndex" : 0,
+			"TileIndices" : null,
+			"Type" : 6,
+			"VerticalTiles" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 0.8000000119209290,
+	"Looping" : true,
+	"MaxParticle" : 12,
+	"Name" : "sparkling04-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, -3.141592741012573, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 1.0,
+	"Texture" : "Data\\Effect\\waterFall3.OZJ",
+	"Type" : 0
+}

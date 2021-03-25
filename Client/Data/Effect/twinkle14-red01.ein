@@ -1,0 +1,113 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 0.7529411911964417, 0.3411764800548554, 0.6999999880790710 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.2700000107288361,
+							"Value" : 0.8999999761581421
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.6100000143051148,
+							"Value" : 0.8999999761581421
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 0.50,
+			"Height" : 2.0,
+			"Looping" : true,
+			"Name" : "twinkle13-red01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.3000000119209290,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\lightmarks.OZJ",
+			"Type" : 1,
+			"Width" : 3.0
+		}
+	],
+	"Color" : [ 0.9490196108818054, 0.6784313917160034, 0.1764705926179886, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.2700000107288361,
+					"Value" : 0.8999999761581421
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.6100000143051148,
+					"Value" : 0.8999999761581421
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 0.50,
+	"Height" : 2.0,
+	"Looping" : true,
+	"Name" : "twinkle14-red02",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\lightmarks.OZJ",
+	"Type" : 1,
+	"Width" : 3.0
+}

@@ -1,0 +1,334 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 2,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"Cylinder" : false,
+							"EmitFromShell" : false,
+							"Height" : 0.3000000119209290,
+							"Radius" : 0.0,
+							"RandomDirection" : false,
+							"Shape" : 1,
+							"Tangent" : 0.3110824525356293,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 1.0, 0.0, 0.0, 1.0 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 1.0, 0.0, 0.0, 1.0 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.0,
+							"Min" : 0.2000000029802322,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 0.0,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.07999999821186066,
+							"Min" : 0.02999999932944775,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 5.0,
+							"Min" : 3.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 5.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.01200000010430813,
+							"Value" : 5.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.03500000014901161,
+							"Value" : 0.0
+						}
+					],
+					"Delay" : 0.0,
+					"MaxEmissionCount" : 5,
+					"MinEmissionCount" : 5,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.50,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.1848099827766419
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4070000052452087,
+							"Value" : 1.273279905319214
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.09880000352859497
+						}
+					],
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 2.035199880599976
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4189999997615814,
+							"Value" : 2.252279996871948
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.7981599569320679
+						}
+					],
+					"Type" : 5
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 7,
+			"Name" : "sparkle012-red01-01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.7853981852531433, 0.0 ],
+			"Scale" : 0.50,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 2.50,
+			"Texture" : "Data\\Effect\\flareRed.OZJ",
+			"Type" : 0
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Shape" : 3,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 1.0, 0.0, 0.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.50,
+					"Min" : 2.099999904632568,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.05000000074505806,
+					"Min" : 0.02999999932944775,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 5.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.01200000010430813,
+					"Value" : 5.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.05799999833106995,
+					"Value" : 0.0
+				}
+			],
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 10,
+			"MinEmissionCount" : 5,
+			"Type" : 0
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"CurveY" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"CurveZ" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.4907900094985962
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : -1.0
+				}
+			],
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 3.141592741012573,
+			"Min" : -3.141592741012573,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.275419950485230
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"Type" : 5
+		},
+		
+		{
+			"Bounding" : 3.0,
+			"Type" : 7
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 0.0,
+	"Looping" : true,
+	"MaxParticle" : 20,
+	"Name" : "sparkle12-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\red_ball.OZJ",
+	"Type" : 0
+}

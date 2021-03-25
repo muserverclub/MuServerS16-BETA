@@ -1,0 +1,149 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 3.0, 0.50, 0.50 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.8000000119209290,
+					"MaxColor" : [ 0.0, 1.0, 0.7529411911964417, 0.8999999761581421 ],
+					"MinBrightness" : 0.8000000119209290,
+					"MinColor" : [ 0.0, 1.0, 0.7529411911964417, 0.8999999761581421 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.0,
+					"Min" : 1.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.50,
+					"Min" : 0.50,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 4,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.2899999916553497,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, -0.07999999821186066 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 6.283185482025147,
+			"Min" : -3.141592741012573,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.7116000056266785
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 10.0,
+	"LengthScale" : 5.0,
+	"Looping" : true,
+	"MaxParticle" : 7,
+	"Name" : "sparkle20-cyan01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 5.0,
+	"Texture" : "Data\\Effect\\flareBlue.OZJ",
+	"Type" : 0
+}

@@ -1,0 +1,115 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Children" : 
+			[
+				
+				{
+					"Billboarding" : 4,
+					"Blending" : 2,
+					"Brightness" : 2.0,
+					"Color" : [ 0.0, 0.5019608139991760, 1.0, 1.0 ],
+					"Duration" : 5.0,
+					"Height" : 1.0,
+					"Looping" : true,
+					"Name" : "marks_m03",
+					"Position" : [ 0.0, 0.0, 0.0 ],
+					"Rotation" : [ 0.0, 0.0, 0.0 ],
+					"RotationAngle" : 0.0,
+					"Scale" : 1.450000047683716,
+					"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+					"Texture" : "Data\\Effect\\marks_m03.OZJ",
+					"Type" : 1,
+					"Width" : 1.0
+				}
+			],
+			"Color" : [ 0.0, 0.7529411911964417, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -0.8726646304130554,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "somasi01_R",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.100000023841858,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\somasi01_R.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 2.0,
+			"Color" : [ 0.3803921639919281, 0.9960784316062927, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : null,
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : 0.8726646304130554,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "somasi05_R",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.8999999761581421,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\somasi05_R.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		}
+	],
+	"Color" : [ 0.3803921639919281, 0.9960784316062927, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : 0.8726646304130554,
+			"Curve" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twister04-cyan01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 0.8000000119209290,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\ring_of_gradation.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

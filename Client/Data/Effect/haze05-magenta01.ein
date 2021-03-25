@@ -1,0 +1,136 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : true,
+					"EmitFromShell" : true,
+					"Height" : 0.50,
+					"Radius" : 0.0,
+					"RandomDirection" : true,
+					"Shape" : 1,
+					"Tangent" : 0.01745506562292576,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 3.285999774932861,
+					"MaxColor" : [ 0.5019608139991760, 0.0, 0.5019608139991760, 1.0 ],
+					"MinBrightness" : 3.285999774932861,
+					"MinColor" : [ 0.5019608139991760, 0.0, 0.5019608139991760, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 7.0,
+					"Min" : 7.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 4.712388992309570,
+					"Min" : -0.7853981852531433,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.1000000014901161,
+					"Min" : 0.05000000074505806,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 10,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.3000000119209290,
+					"Value" : 0.4862745106220245
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 1.0, 0.6274510025978088, 1.0 ]
+				},
+				
+				{
+					"Time" : 0.7300000190734863,
+					"Value" : [ 0.2901960909366608, 0.2901960909366608, 1.0 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.5235987901687622,
+			"Min" : -0.5235987901687622,
+			"Type" : 3
+		},
+		
+		{
+			"Bounding" : 1.50,
+			"Type" : 7
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 1000,
+	"Name" : "haze05-magenta01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0
+}

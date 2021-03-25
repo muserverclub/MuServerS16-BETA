@@ -1,0 +1,273 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 0.6509804129600525, 0.7921568751335144, 0.9411764740943909, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.1700000017881393,
+							"Value" : 0.2431372553110123
+						},
+						
+						{
+							"Time" : 0.3600000143051148,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.6999999880790710,
+							"Value" : 0.4000000059604645
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.8000000119209290
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 0.50,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "flare01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\flare01.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 0.6509804129600525, 0.7921568751335144, 0.9411764740943909, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.1700000017881393,
+							"Value" : 0.2431372553110123
+						},
+						
+						{
+							"Time" : 0.3600000143051148,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.6999999880790710,
+							"Value" : 0.4000000059604645
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.8000000119209290
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 0.50,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "flare01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\flare01.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 0.6509804129600525, 0.7921568751335144, 0.9411764740943909, 0.50 ],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "shiny06",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.7853981852531433,
+			"Scale" : 0.50,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\shiny06.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : 
+			[
+				0.6509804129600525,
+				0.7921568751335144,
+				0.9411764740943909,
+				0.2549999952316284
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "spark04",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.7853981852531433,
+			"Scale" : 0.4000000059604645,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\Spark04.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : 
+			[
+				0.6509804129600525,
+				0.7921568751335144,
+				0.9411764740943909,
+				0.6000000238418579
+			],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.1700000017881393,
+							"Value" : 0.2431372553110123
+						},
+						
+						{
+							"Time" : 0.3600000143051148,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.6999999880790710,
+							"Value" : 0.4000000059604645
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.8000000119209290
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 0.50,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "bluewave0001_R",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.6000000238418579,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\bluewave0001_R.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		}
+	],
+	"Color" : [ 0.6509804129600525, 0.7921568751335144, 0.9411764740943909, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.8000000119209290
+				},
+				
+				{
+					"Time" : 0.1700000017881393,
+					"Value" : 0.2431372553110123
+				},
+				
+				{
+					"Time" : 0.3600000143051148,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.6999999880790710,
+					"Value" : 0.4000000059604645
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.8000000119209290
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 0.50,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle07-cyan01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 5.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\flare01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

@@ -1,0 +1,199 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2300000041723251,
+							"Value" : 0.3490196168422699
+						},
+						
+						{
+							"Time" : 0.4499999880790710,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : -3.141592741012573,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 3.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "volcano_ston_gold",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\Impack02.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2899999916553497,
+							"Value" : 0.3490196168422699
+						},
+						
+						{
+							"Time" : 0.6399999856948853,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : -1.047197580337524,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 3.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "volcano_ston_gold",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\Impack03.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2899999916553497,
+							"Value" : 0.3803921639919281
+						},
+						
+						{
+							"Time" : 0.6399999856948853,
+							"Value" : 0.8941176533699036
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : -1.047197580337524,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 3.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "volcano_ston_gold",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.50,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\Damage1mono.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		}
+	],
+	"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : 3.141592741012573,
+			"Curve" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 3.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle06-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\impack01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

@@ -1,0 +1,150 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"Cylinder" : true,
+							"EmitFromShell" : false,
+							"Height" : 11.0,
+							"Radius" : 7.0,
+							"RandomDirection" : false,
+							"Shape" : 1,
+							"Tangent" : 0.3922179043292999,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 0.6509804129600525, 0.7921568751335144, 0.9411764740943909, 1.0 ],
+							"MinBrightness" : 3.0,
+							"MinColor" : [ 0.8549019694328308, 0.8705882430076599, 0.9215686321258545, 1.0 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.6000000238418579,
+							"Min" : 0.4000000059604645,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025147,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 6.0,
+							"Min" : 3.0,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.0,
+							"Min" : 0.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"MaxEmissionCount" : 15,
+					"MinEmissionCount" : 15,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 15,
+			"Name" : "sparticle",
+			"Position" : [ 0.0, 0.0, -5.50 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : false,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\pin_star.OZJ",
+			"Type" : 0
+		}
+	],
+	"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.01999999955296516,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.4699999988079071,
+					"Value" : 0.1372549086809158
+				},
+				
+				{
+					"Time" : 0.9800000190734863,
+					"Value" : 1.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 1.0,
+	"Height" : 10.0,
+	"Looping" : true,
+	"Name" : "spark_paritlce01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\flare01.OZJ",
+	"Type" : 1,
+	"Width" : 10.0
+}

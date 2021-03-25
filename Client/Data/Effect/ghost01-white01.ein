@@ -1,0 +1,120 @@
+
+{
+	"Billboarding" : 1,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 2.0, 2.0, 1.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 10.0,
+					"Min" : 5.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 0,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.2599999904632568,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.7400000095367432,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.2000000029802322, 0.0, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.2617993950843811,
+			"Min" : -0.2617993950843811,
+			"Type" : 3
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 2,
+	"Name" : "ghost01-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : false,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\ghosteffect01.OZJ",
+	"Type" : 0
+}

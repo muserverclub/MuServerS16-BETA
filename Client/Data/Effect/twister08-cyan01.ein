@@ -1,0 +1,115 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 1.0, 1.0, 0.6999999880790710 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -3.490658521652222,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "twinkle02-yellow01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\lightning2.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 4.571000099182129,
+			"Color" : [ 0.0, 1.0, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.617993831634522,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "twinkle02-yellow01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.50,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\flare_mono.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 4.571000099182129,
+			"Color" : [ 0.0, 1.0, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : 2.617993831634522,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "twinkle02-yellow01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.50,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\flare_mono.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		}
+	],
+	"Color" : [ 1.0, 1.0, 1.0, 0.6999999880790710 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : 3.490658521652222,
+			"Curve" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twister08-cyan01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\lightning2.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

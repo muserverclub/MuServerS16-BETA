@@ -1,0 +1,201 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 1,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : false,
+							"RandomDirection" : false,
+							"Shape" : 0,
+							"Size" : [ 0.2000000029802322, 0.2000000029802322, 0.2000000029802322 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.50,
+							"Min" : 1.50,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 0.0,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.0,
+							"Min" : 1.0,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.0,
+							"Min" : 1.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"MaxEmissionCount" : 2,
+					"MinEmissionCount" : 2,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.50,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 2.0,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 5,
+			"Name" : "Smoke",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\fi02.OZT",
+			"Type" : 0
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"Radius" : 0.2000000029802322,
+					"RandomDirection" : false,
+					"Shape" : 2,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 1.50,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 1.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 20,
+			"MinEmissionCount" : 10,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.4000000059604645,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.50 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 1000,
+	"Name" : "fire04-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\fi01.OZJ",
+	"Type" : 0
+}

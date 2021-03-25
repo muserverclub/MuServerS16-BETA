@@ -1,0 +1,95 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 1.0, 1.0, 0.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 2.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.2000000029802322,
+					"Min" : 0.1000000014901161,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.50,
+					"Min" : 3.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 5,
+			"MinEmissionCount" : 5,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.50,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 20,
+	"Name" : "sparkle05-red01",
+	"Position" : [ 0.0, 0.0, 5.0 ],
+	"Rotation" : [ 3.141592741012573, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\Spark02.OZJ",
+	"Type" : 0
+}

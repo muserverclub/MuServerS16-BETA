@@ -1,0 +1,121 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 0.0,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.3639702200889587,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.6000000238418579,
+					"MaxColor" : [ 0.0, 1.0, 1.0, 0.8000000119209290 ],
+					"MinBrightness" : 0.6000000238418579,
+					"MinColor" : [ 0.0, 1.0, 1.0, 0.8000000119209290 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 4.0,
+					"Min" : 4.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 4.712388992309570,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.05999999865889549,
+					"Min" : 0.05999999865889549,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 10,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.2000000029802322,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.5500000119209290,
+					"Value" : 0.7411764860153198
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.0,
+			"Min" : 0.0,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : null,
+			"Type" : 5
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 1000,
+	"Name" : "haze02-cyan01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0
+}

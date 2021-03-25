@@ -1,0 +1,109 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 0.05000000074505806,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 12.40714645385742,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 0.3333333432674408, 0.0, 0.7529411911964417, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 0.4156862795352936, 0.4156862795352936, 0.4156862795352936, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 5.0,
+					"Min" : 5.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.02999999932944775,
+					"Min" : 0.02999999932944775,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 3,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.3000000119209290,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Bounding" : 1.0,
+			"Type" : 7
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.50,
+	"Looping" : true,
+	"MaxParticle" : 1000,
+	"Name" : "fog02-magenta01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 5.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.1000000014901161,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0
+}

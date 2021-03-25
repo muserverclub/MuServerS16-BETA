@@ -1,0 +1,48 @@
+﻿[FontConfig "Korean"]
+fontlib "fonts_all.swf"
+map "$DevFont" = "Arial Unicode MS" Normal
+map "$NormalFont" = "나눔고딕" Bold
+map "$IMECandidateListFont" = "Arial Unicode MS" Normal
+tr "LocalLang" = "Korean (한국어)"
+tr "TransTestText" = "번역 테스트 문자열 - 가나다라 ABCD"
+tr "trDevFont" = "Arial Unicode MS"
+tr "trNormalFont" = "나눔고딕"
+
+
+[FontConfig "English"]
+fontlib "fonts_all.swf"
+map "$DevFont" = "Arial Unicode MS" Normal
+map "$NormalFont" = "Arial Unicode MS" Normal
+tr "LocalLang" = "English (영어)"
+tr "TransTestText" = "Translation test string - ABCD, abcd"
+tr "trDevFont" = "Arial Unicode MS"
+tr "trNormalFont" = "Arial Unicode MS"
+
+
+[FontConfig "Japan"]
+fontlib "fonts_all.swf"
+map "$DevFont" = "Arial Unicode MS" Normal
+map "$NormalFont" = "MS PGothic" Normal
+tr "LocalLang" = "Japan (일본)"
+tr "TransTestText" = "翻訳テスト文字列 - ひらがな、カタカナ"
+tr "trDevFont" = "Arial Unicode MS"
+tr "trNormalFont" = "MS PGothic"
+
+
+[FontConfig "China"]
+fontlib "fonts_all.swf"
+map "$DevFont" = "Arial Unicode MS" Normal
+map "$NormalFont" = "Arial Unicode MS" Normal
+tr "LocalLang" = "China (중국)"
+tr "TransTestText" = "翻译测试字符串 - 简化，ABCD"
+tr "trDevFont" = "Arial Unicode MS"
+tr "trNormalFont" = "Arial Unicode MS"
+
+[FontConfig "Taiwan"]
+fontlib "fonts_all.swf"
+map "$DevFont" = "Arial Unicode MS" Normal
+map "$NormalFont" = "Arial Unicode MS" Normal
+tr "LocalLang" = "Taiwan (대만)"
+tr "TransTestText" = "翻譯測試字符串 - 傳統，ABCD"
+tr "trDevFont" = "Arial Unicode MS"
+tr "trNormalFont" = "Arial Unicode MS"

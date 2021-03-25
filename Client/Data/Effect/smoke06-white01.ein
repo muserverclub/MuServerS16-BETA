@@ -1,0 +1,157 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : true,
+					"Shape" : 0,
+					"Size" : [ 1.149999976158142, 1.149999976158142, 0.009999999776482582 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.6999999880790710,
+					"MaxColor" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 0.8999999761581421 ],
+					"MinBrightness" : 0.6999999880790710,
+					"MinColor" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 0.8999999761581421 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 10.0,
+					"Min" : 4.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 4.712388992309570,
+					"Min" : 0.7853981852531433,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.8999999761581421,
+					"Min" : 0.6000000238418579,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.009999999776482582,
+					"Min" : 0.009999999776482582,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 7,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1700000017881393,
+					"Value" : 0.3000000119209290
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.2669999897480011,
+					"Value" : 0.7876899838447571
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.50,
+					"Value" : 0.9118000268936157
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.7559999823570252,
+					"Value" : 0.6994900107383728
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.8000000119209290
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 30.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 25,
+	"Name" : "smoke06-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 5.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 5.0,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0
+}

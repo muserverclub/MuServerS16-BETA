@@ -1,0 +1,55 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 5.0,
+	"Color" : [ 0.7529411911964417, 0.2823529541492462, 0.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 0.3600000143051148,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 0.6499999761581421,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.50
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 0.50,
+	"Height" : 2.0,
+	"Looping" : true,
+	"Name" : "twinkle12-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 10.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\lightmarks.OZJ",
+	"Type" : 1,
+	"Width" : 3.0
+}

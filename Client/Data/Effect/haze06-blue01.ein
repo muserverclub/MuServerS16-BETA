@@ -1,0 +1,245 @@
+
+{
+	"Billboarding" : 3,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"Radius" : 0.8000000119209290,
+					"RandomDirection" : false,
+					"Shape" : 4,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.50,
+					"MaxColor" : 
+					[
+						0.2431372553110123,
+						0.5254902243614197,
+						0.9529411792755127,
+						0.8000000119209290
+					],
+					"MinBrightness" : 0.50,
+					"MinColor" : 
+					[
+						0.2431372553110123,
+						0.5254902243614197,
+						0.9529411792755127,
+						0.8000000119209290
+					],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 8.0,
+					"Min" : 8.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 3.141592741012573,
+					"Min" : -4.712388992309570,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.799999952316284,
+					"Min" : 1.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.009999999776482582,
+					"Min" : 0.009999999776482582,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 10,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1500000059604645,
+					"Value" : 0.5294117927551270
+				},
+				
+				{
+					"Time" : 0.5199999809265137,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.8799999952316284,
+					"Value" : 0.6666666865348816
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 0.0, 0.0, 0.0 ]
+				},
+				
+				{
+					"Time" : 0.1800000071525574,
+					"Value" : [ 0.7529411911964417, 0.8627451062202454, 0.7529411911964417 ]
+				},
+				
+				{
+					"Time" : 0.5299999713897705,
+					"Value" : [ 0.6509804129600525, 0.7921568751335144, 0.9411764740943909 ]
+				},
+				
+				{
+					"Time" : 0.8600000143051148,
+					"Value" : [ 0.7529411911964417, 0.8627451062202454, 0.7529411911964417 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.0, 0.0, 0.0 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"CurveY" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"CurveZ" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.5235987901687622,
+			"Min" : 0.1745329201221466,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.3082590103149414,
+					"Time" : 0.0,
+					"Value" : 1.620860099792481
+				},
+				
+				{
+					"Tangent" : 0.4212428033351898,
+					"Time" : 0.3140000104904175,
+					"Value" : 1.291309952735901
+				},
+				
+				{
+					"Tangent" : -1.240999579429627,
+					"Time" : 0.7089999914169312,
+					"Value" : 1.404639959335327
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 1.758440017700195
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 1.017212867736816,
+					"Time" : 0.0,
+					"Value" : 0.4000000059604645
+				},
+				
+				{
+					"Tangent" : 1.591049790382385,
+					"Time" : 0.6000000238418579,
+					"Value" : 0.3019999861717224
+				},
+				
+				{
+					"Tangent" : 1.168553233146668,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 10.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 8,
+	"Name" : "haze06-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 2.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\clouds.OZJ",
+	"Type" : 0
+}

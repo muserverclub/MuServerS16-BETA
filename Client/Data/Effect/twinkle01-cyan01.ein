@@ -1,0 +1,109 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : 6.283185482025147,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.3000000119209290
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.50,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.3000000119209290
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 4.0,
+			"Height" : 0.6999999880790710,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\flareBlue.OZJ",
+			"Type" : 1,
+			"Width" : 0.6999999880790710
+		}
+	],
+	"Color" : [ 0.0, 0.8627451062202454, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : 6.283185482025147,
+			"Curve" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.3000000119209290
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.50,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.3000000119209290
+				}
+			],
+			"Type" : 2
+		}
+	],
+	"Duration" : 4.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle01-cyan01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\shiny04.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

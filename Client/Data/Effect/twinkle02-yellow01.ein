@@ -1,0 +1,28 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : 1.570796370506287,
+			"Curve" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle02-yellow01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\Flare.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

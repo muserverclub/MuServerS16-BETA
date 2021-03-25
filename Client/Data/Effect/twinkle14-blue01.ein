@@ -1,0 +1,71 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.149999976158142,
+	"Color" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.2399999946355820,
+					"Value" : 0.5764706134796143
+				},
+				
+				{
+					"Time" : 0.3199999928474426,
+					"Value" : 0.8470588326454163
+				},
+				
+				{
+					"Time" : 0.4199999868869782,
+					"Value" : 0.5294117927551270
+				},
+				
+				{
+					"Time" : 0.5199999809265137,
+					"Value" : 0.7882353067398071
+				},
+				
+				{
+					"Time" : 0.7699999809265137,
+					"Value" : 0.4549019634723663
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		},
+		
+		{
+			"Constant" : 4.712388992309570,
+			"Curve" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle14-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\flareBlue.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

@@ -1,0 +1,19 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 0.6999999880790710,
+	"Color" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 1.0 ],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle03-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.01745329238474369,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\Spark04.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

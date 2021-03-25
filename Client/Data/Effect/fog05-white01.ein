@@ -1,0 +1,656 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Children" : 
+			[
+				
+				{
+					"Billboarding" : 0,
+					"Blending" : 2,
+					"Components" : 
+					[
+						
+						{
+							"Components" : 
+							[
+								
+								{
+									"EmitFromShell" : false,
+									"Radius" : 0.1500000059604645,
+									"RandomDirection" : false,
+									"Shape" : 4,
+									"Type" : 0
+								},
+								
+								{
+									"AlphaGradation" : null,
+									"BrightnessGradation" : null,
+									"ColorGradation" : null,
+									"MaxBrightness" : 0.50,
+									"MaxColor" : [ 1.0, 1.0, 1.0, 0.2910000085830689 ],
+									"MinBrightness" : 0.50,
+									"MinColor" : [ 1.0, 1.0, 1.0, 0.2910000085830689 ],
+									"Type" : 1
+								},
+								
+								{
+									"Curve" : null,
+									"Max" : 12.0,
+									"Min" : 8.0,
+									"Type" : 2
+								},
+								
+								{
+									"Max" : 6.283185482025147,
+									"Min" : 0.0,
+									"Type" : 3
+								},
+								
+								{
+									"Curve" : null,
+									"Max" : 1.799999952316284,
+									"Min" : 1.0,
+									"Type" : 4
+								},
+								
+								{
+									"Curve" : null,
+									"Max" : 0.009999999776482582,
+									"Min" : 0.009999999776482582,
+									"Type" : 5
+								}
+							],
+							"CurveEmissionCount" : null,
+							"Delay" : 0.0,
+							"MaxEmissionCount" : 30,
+							"MinEmissionCount" : 15,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : 
+							[
+								
+								{
+									"Time" : 0.0,
+									"Value" : 0.0
+								},
+								
+								{
+									"Time" : 0.1500000059604645,
+									"Value" : 0.5294117927551270
+								},
+								
+								{
+									"Time" : 0.5199999809265137,
+									"Value" : 1.0
+								},
+								
+								{
+									"Time" : 0.8799999952316284,
+									"Value" : 0.6666666865348816
+								},
+								
+								{
+									"Time" : 1.0,
+									"Value" : 0.0
+								}
+							],
+							"ColorGradation" : null,
+							"Type" : 1
+						},
+						
+						{
+							"Constant" : [ 0.0, 0.0, 0.0 ],
+							"CurveX" : 
+							[
+								
+								{
+									"Tangent" : 0.0,
+									"Time" : 0.0,
+									"Value" : 0.0
+								}
+							],
+							"CurveY" : 
+							[
+								
+								{
+									"Tangent" : 0.0,
+									"Time" : 0.0,
+									"Value" : 0.0
+								}
+							],
+							"CurveZ" : 
+							[
+								
+								{
+									"Tangent" : 0.0,
+									"Time" : 0.0,
+									"Value" : 0.0
+								}
+							],
+							"Type" : 2
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.3490658402442932,
+							"Min" : 0.1745329201221466,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : 
+							[
+								
+								{
+									"Tangent" : 0.3082590103149414,
+									"Time" : 0.0,
+									"Value" : 1.620860099792481
+								},
+								
+								{
+									"Tangent" : 0.4212428033351898,
+									"Time" : 0.3140000104904175,
+									"Value" : 1.291309952735901
+								},
+								
+								{
+									"Tangent" : -1.240999579429627,
+									"Time" : 0.7089999914169312,
+									"Value" : 1.404639959335327
+								},
+								
+								{
+									"Tangent" : 0.0,
+									"Time" : 1.0,
+									"Value" : 1.758440017700195
+								}
+							],
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : 
+							[
+								
+								{
+									"Tangent" : 1.017212867736816,
+									"Time" : 0.0,
+									"Value" : 0.4000000059604645
+								},
+								
+								{
+									"Tangent" : 1.591049790382385,
+									"Time" : 0.6000000238418579,
+									"Value" : 0.3019999861717224
+								},
+								
+								{
+									"Tangent" : 1.168553233146668,
+									"Time" : 1.0,
+									"Value" : 1.0
+								}
+							],
+							"Type" : 5
+						}
+					],
+					"Duration" : 10.0,
+					"LengthScale" : 1.0,
+					"Looping" : true,
+					"MaxParticle" : 30,
+					"Name" : "haze07-yellow01",
+					"Position" : [ 0.2000000029802322, 0.0, 0.2000000029802322 ],
+					"Rotation" : [ 3.141592741012573, 0.0, 0.0 ],
+					"Scale" : 1.0,
+					"SpaceIsLocal" : true,
+					"SpeedScale" : 0.0,
+					"Texture" : "Data\\Effect\\clouds.OZJ",
+					"Type" : 0
+				}
+			],
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : false,
+							"Radius" : 0.1500000059604645,
+							"RandomDirection" : false,
+							"Shape" : 4,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 0.50,
+							"MaxColor" : [ 0.2078431397676468, 0.7137255072593689, 0.5137255191802979, 1.0 ],
+							"MinBrightness" : 0.50,
+							"MinColor" : [ 0.2078431397676468, 0.7137255072593689, 0.5137255191802979, 1.0 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 12.0,
+							"Min" : 8.0,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025147,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.799999952316284,
+							"Min" : 1.0,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.009999999776482582,
+							"Min" : 0.009999999776482582,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"MaxEmissionCount" : 30,
+					"MinEmissionCount" : 15,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.1500000059604645,
+							"Value" : 0.5294117927551270
+						},
+						
+						{
+							"Time" : 0.5199999809265137,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.8799999952316284,
+							"Value" : 0.6666666865348816
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : [ 0.0, 0.0, 0.0 ]
+						},
+						
+						{
+							"Time" : 0.1800000071525574,
+							"Value" : [ 0.3568627536296845, 0.1137254908680916, 0.4980392158031464 ]
+						},
+						
+						{
+							"Time" : 0.5299999713897705,
+							"Value" : [ 0.6784313917160034, 0.4196078479290009, 0.8078431487083435 ]
+						},
+						
+						{
+							"Time" : 0.8600000143051148,
+							"Value" : [ 0.5019608139991760, 0.3411764800548554, 0.7960784435272217 ]
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : [ 0.0, 0.0, 0.0 ]
+						}
+					],
+					"Type" : 1
+				},
+				
+				{
+					"Constant" : [ 0.0, 0.0, 0.0 ],
+					"CurveX" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.0
+						}
+					],
+					"CurveY" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.0
+						}
+					],
+					"CurveZ" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.0
+						}
+					],
+					"Type" : 2
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.3490658402442932,
+					"Min" : 0.1745329201221466,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.3082590103149414,
+							"Time" : 0.0,
+							"Value" : 1.620860099792481
+						},
+						
+						{
+							"Tangent" : 0.4212428033351898,
+							"Time" : 0.3140000104904175,
+							"Value" : 1.291309952735901
+						},
+						
+						{
+							"Tangent" : -1.240999579429627,
+							"Time" : 0.7089999914169312,
+							"Value" : 1.404639959335327
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.758440017700195
+						}
+					],
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 1.017212867736816,
+							"Time" : 0.0,
+							"Value" : 0.4000000059604645
+						},
+						
+						{
+							"Tangent" : 1.591049790382385,
+							"Time" : 0.6000000238418579,
+							"Value" : 0.3019999861717224
+						},
+						
+						{
+							"Tangent" : 1.168553233146668,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 5
+				}
+			],
+			"Duration" : 10.0,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 30,
+			"Name" : "haze07-yellow01",
+			"Position" : [ 0.0, 0.2000000029802322, 0.2000000029802322 ],
+			"Rotation" : [ 0.0, 3.141592741012573, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\clouds.OZJ",
+			"Type" : 0
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"Radius" : 0.50,
+					"RandomDirection" : false,
+					"Shape" : 4,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.5379999876022339,
+					"MaxColor" : 
+					[
+						0.7490196228027344,
+						0.3176470696926117,
+						0.9058823585510254,
+						0.8270000219345093
+					],
+					"MinBrightness" : 0.5379999876022339,
+					"MinColor" : 
+					[
+						0.7490196228027344,
+						0.3176470696926117,
+						0.9058823585510254,
+						0.8270000219345093
+					],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 12.0,
+					"Min" : 8.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.799999952316284,
+					"Min" : 1.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.009999999776482582,
+					"Min" : 0.009999999776482582,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"MaxEmissionCount" : 30,
+			"MinEmissionCount" : 15,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1500000059604645,
+					"Value" : 0.5294117927551270
+				},
+				
+				{
+					"Time" : 0.5199999809265137,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.8799999952316284,
+					"Value" : 0.6666666865348816
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 0.0, 0.0, 0.0 ]
+				},
+				
+				{
+					"Time" : 0.1800000071525574,
+					"Value" : [ 0.3568627536296845, 0.1137254908680916, 0.4980392158031464 ]
+				},
+				
+				{
+					"Time" : 0.5299999713897705,
+					"Value" : [ 0.6784313917160034, 0.4196078479290009, 0.8078431487083435 ]
+				},
+				
+				{
+					"Time" : 0.8600000143051148,
+					"Value" : [ 0.5019608139991760, 0.3411764800548554, 0.7960784435272217 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.0, 0.0, 0.0 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"CurveY" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"CurveZ" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				}
+			],
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.3490658402442932,
+			"Min" : 0.1745329201221466,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 1.017212867736816,
+					"Time" : 0.0,
+					"Value" : 0.4000000059604645
+				},
+				
+				{
+					"Tangent" : 1.591049790382385,
+					"Time" : 0.6000000238418579,
+					"Value" : 0.3019999861717224
+				},
+				
+				{
+					"Tangent" : 1.168553233146668,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 10.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 30,
+	"Name" : "fog05-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\clouds.OZJ",
+	"Type" : 0
+}

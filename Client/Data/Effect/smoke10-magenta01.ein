@@ -1,0 +1,168 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 1,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 0.3000000119209290,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.2777004837989807,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 0.0, 1.0, 0.6999999880790710 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 1.0, 0.0, 1.0, 0.6999999880790710 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.0,
+					"Min" : 2.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.6999999880790710,
+					"Min" : 0.3000000119209290,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 8,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1700000017881393,
+					"Value" : 0.8980392217636108
+				},
+				
+				{
+					"Time" : 0.5600000023841858,
+					"Value" : 0.9019607901573181
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 0.3450980484485626, 0.0, 0.3450980484485626 ]
+				},
+				
+				{
+					"Time" : 0.2700000107288361,
+					"Value" : [ 1.0, 0.3411764800548554, 1.0 ]
+				},
+				
+				{
+					"Time" : 0.8600000143051148,
+					"Value" : [ 1.0, 0.9137254953384399, 1.0 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.1803921610116959, 0.0, 0.1803921610116959 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 1.570796370506287,
+			"Min" : -1.570796370506287,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.2000000029802322
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.3000000119209290,
+					"Value" : 0.4696000218391419
+				},
+				
+				{
+					"Tangent" : -1.180361986160278,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : null,
+			"Type" : 5
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.2000000029802322,
+	"Looping" : true,
+	"MaxParticle" : 12,
+	"Name" : "smoke10-magenta01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\fi02.OZT",
+	"Type" : 0
+}

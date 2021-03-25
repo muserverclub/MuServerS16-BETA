@@ -1,0 +1,133 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : true,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 0.009999999776482582, 0.50, 0.009999999776482582 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 3.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 3.0,
+					"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 1.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 3.141592741012573,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 1.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.799999952316284,
+					"Min" : 1.50,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1500000059604645,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 0.9700000286102295,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.0,
+			"Min" : 0.0,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.06914741545915604,
+					"Time" : 0.50,
+					"Value" : 1.535000085830689
+				},
+				
+				{
+					"Tangent" : 0.1126589551568031,
+					"Time" : 1.0,
+					"Value" : 1.419000029563904
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 0.3000000119209290,
+	"Looping" : true,
+	"MaxParticle" : 100,
+	"Name" : "sparkle04-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 1.570796370506287, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.50,
+	"Texture" : "Data\\Effect\\waterFall1.OZJ",
+	"Type" : 0
+}

@@ -1,0 +1,128 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 0.0,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.1271806061267853,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 0.6274510025978088, 0.6274510025978088, 0.6000000238418579 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 1.0, 0.6274510025978088, 0.6274510025978088, 0.6000000238418579 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 1.50,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 1.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 2.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 5,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.09000000357627869,
+					"Value" : 0.8470588326454163
+				},
+				
+				{
+					"Time" : 0.7400000095367432,
+					"Value" : 0.7254902124404907
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.6125336289405823,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.2012259066104889,
+					"Time" : 0.4300000071525574,
+					"Value" : 0.4769999980926514
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 2.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 15,
+	"Name" : "smoke17-red01",
+	"Position" : [ 0.0, 0.0, 1.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 1.0,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0
+}

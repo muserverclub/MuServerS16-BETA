@@ -1,0 +1,138 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 2.50,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 0.0, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.3000000119209290
+						},
+						
+						{
+							"Time" : 0.6700000166893005,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.3000000119209290
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 8.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\ground_crack_light02.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.200000047683716,
+			"Color" : [ 0.7529411911964417, 0.2823529541492462, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.7699999809265137,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 8.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\ground_crack_light03.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		}
+	],
+	"Color" : [ 1.0, 0.0, 0.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.2000000029802322
+				},
+				
+				{
+					"Time" : 0.7099999785423279,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.2000000029802322
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 8.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "crack01-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 2.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\ground_crack_light01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}
