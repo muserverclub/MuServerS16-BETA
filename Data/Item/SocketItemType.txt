@@ -170,4 +170,18 @@
 20,40     3           //Lapis Lazuli Necklace
 20,41     3           //Battle Jasper Necklace
 20,42     3           //Battle Lagoon Necklace
+
+
+4,45      3           //Weiwen Magic Gun
+4,46      3           //Cannon Magic Gun
+7,210     3           //Titan Gunner Helmet
+7,211     3           //StormWinger Helmet
+8,210     3           //Titan Gunner Armor
+8,211     3           //StormWinger  Armor
+9,210     3           //Titan Gunner Pants
+9,211     3           //StormWinger  Pants
+10,210    3           //Titan Gunner Glooves
+10,211    3           //StormWinger  Glooves
+11,210    3           //Titan Gunner Boots
+11,211    3           //StormWinger  Boots
 end
