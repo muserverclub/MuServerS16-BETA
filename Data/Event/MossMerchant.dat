@@ -1,0 +1,177 @@
+0
+//Year   Month   Day   DoW   Hour   Minute   Second
+*        *       *     *     2      0        0
+*        *       *     *     8      0        0
+*        *       *     *     14     0        0
+*        *       *     *     20     0        0
+end
+
+1
+//Index   State   ItemIndex   ItemCount   ItemIndex   ItemCount
+0         1       *           1000000     *           *
+1         1       *           1000000     *           * 
+2         1       *           1000000     *           *
+3         1       *           1000000     *           *
+4         1       *           1000000     *           *
+5         0       7181        1           *           *
+6         0       7182        1           *           *
+7         0       7581        1           *           *
+8         1       7181        1           *           *
+9         0       *           0           *           *
+end
+
+2         0
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+5         9         9         9         9         9         9         9         1290         //Blade
+6         9         9         9         9         9         9         9         1290         //Gladius
+7         9         9         9         9         9         9         9         1290         //Falchion
+8         9         9         9         9         9         9         9         1290         //Serpent Sword
+9         9         9         9         9         9         9         9         1290         //Sword of Salamander
+10        9         9         9         9         9         9         9         1290         //Light Saber
+11        9         9         9         9         9         9         9         1290         //Legendary Sword
+12        9         9         9         9         9         9         9         1290         //Heliacal Sword
+13        9         9         9         9         9         9         9         1290         //Double Blade
+14        9         9         9         9         9         9         9         1290         //Lighting Sword
+15        9         9         9         9         9         9         9         1290         //Giant Sword
+16        9         9         9         9         9         9         9         1290         //Sword of Destruction
+17        9         9         9         9         9         9         9         1290         //Dark Breaker
+18        9         9         9         9         9         9         9         1290         //Thunder Blade
+20        9         9         9         9         9         9         9         1290         //Knight Blade
+25        9         9         9         9         9         9         9         1290         //Sword Dancer
+517       9         9         9         9         9         9         9         1290         //Battle Axe
+518       9         9         9         9         9         9         9         1290         //Nikea Axe
+519       9         9         9         9         9         9         9         1290         //Larkan Axe
+520       9         9         9         9         9         9         9         1290         //Crescent Axe
+1024      9         9         9         9         9         9         9         1290         //Mace
+1025      9         9         9         9         9         9         9         1290         //Morning Star
+1026      9         9         9         9         9         9         9         1290         //Flail
+1027      9         9         9         9         9         9         9         1290         //Great Hammer
+1029      9         9         9         9         9         9         9         1290         //Crystal Sword
+1541      9         9         9         9         9         9         9         1290         //Double Poleaxe
+1542      9         9         9         9         9         9         9         1290         //Halberd
+1543      9         9         9         9         9         9         9         1290         //Berdysh
+1544      9         9         9         9         9         9         9         1290         //Great Scythe
+1545      9         9         9         9         9         9         9         1290         //Bill of Balrog
+1546      9         9         9         9         9         9         9         1290         //Dragon Spear
+1547      9         9         9         9         9         9         9         1000         //Brova
+7221      *         *         *         *         *         *         *         4000         //Talisman of Luck
+7264      *         *         *         *         *         *         *         4000         //Talisman of Chaos Assembly
+end
+
+2         1
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+2562      9         9         9         9         9         9         9         5000         //Serpent Staff
+2563      9         9         9         9         9         9         9         5000         //Thunder Staff
+2564      9         9         9         9         9         9         9         5000         //Gorgon Staff
+2565      9         9         9         9         9         9         9         5000         //Legendary Staff
+2566      9         9         9         9         9         9         9         5000         //Staff of Resurrection
+2568      9         9         9         9         9         9         9         5000         //Staff of Destruction
+2569      9         9         9         9         9         9         9         5000         //Dragon Soul Staff
+2571      9         9         9         9         9         9         9         5000         //Staff of Kundun
+2593      9         9         9         9         9         9         9         1000         //Chromatic Staff
+7221      *         *         *         *         *         *         *         4000         //Talisman of Luck
+7264      *         *         *         *         *         *         *         4000         //Talisman of Chaos Assembly
+end
+
+2         2
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+2053      9         9         9         9         9         9         9         3076         //Silver Bow
+2056      9         9         9         9         9         9         9         3076         //Crossbow
+2057      9         9         9         9         9         9         9         3076         //Golden Crossbow
+2058      9         9         9         9         9         9         9         3076         //Arquebus
+2059      9         9         9         9         9         9         9         3076         //Light Crossbow
+2060      9         9         9         9         9         9         9         3076         //Serpent Crossbow
+2061      9         9         9         9         9         9         9         3076         //Bluewing Crossbow
+2062      9         9         9         9         9         9         9         3076         //Aquagold Crossbow
+2064      9         9         9         9         9         9         9         3076         //Saint Crossbow
+2065      9         9         9         9         9         9         9         3076         //Celestial Bow
+2067      9         9         9         9         9         9         9         3076         //Great Reign Crossbow
+2068      9         9         9         9         9         9         9         3076         //Arrow Viper Bow
+2070      9         9         9         9         9         9         9         3076         //Albatross Bow
+2072      9         9         9         9         9         9         9         1000         //Aileen Bow
+7221      *         *         *         *         *         *         *         4000         //Talisman of Luck
+7264      *         *         *         *         *         *         *         4000         //Talisman of Chaos Assembly
+end
+
+2         3
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+1032      9         9         9         9         9         9         9         8000         //Battle Scepter
+1033      9         9         9         9         9         9         9         8000         //Master Scepter
+1034      9         9         9         9         9         9         9         8000         //Great Scepter
+1035      9         9         9         9         9         9         9         8000         //Lord Scepter
+1036      9         9         9         9         9         9         9         8000         //Great Lord Scepter
+1042      9         9         9         9         9         9         9         1000         //Striker Scepter
+7221      *         *         *         *         *         *         *         4000         //Talisman of Luck
+7264      *         *         *         *         *         *         *         4000         //Talisman of Chaos Assembly
+end
+
+2         4
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+2574      9         9         9         9         9         9         9         8000         //Mystery Stick
+2575      9         9         9         9         9         9         9         8000         //Violent Wind Stick
+2576      9         9         9         9         9         9         9         8000         //Red Wing Stick
+2577      9         9         9         9         9         9         9         8000         //Ancient Stick
+2578      9         9         9         9         9         9         9         8000         //Demonic Stick
+2594      9         9         9         9         9         9         9         1000         //Raven Stick
+7221      *         *         *         *         *         *         *         4000         //Talisman of Luck
+7264      *         *         *         *         *         *         *         4000         //Talisman of Chaos Assembly
+end
+
+2         5
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+19        9         9         9         9         9         9         9         6666         //Divine Sword of Archangel
+6451      *         *         *         *         *         *         5         6666         //Lemuria's Orb
+6669      *         *         *         *         1         *         *         5000         //Pendant of Fire
+6709      *         *         *         *         *         *         *         2500         //Condor Feather
+6932      *         *         *         *         *         *         *         2500         //Conqueror's Badge
+7221      *         *         *         *         *         *         *         6666         //Talisman of Luck
+7392      *         *         *         *         *         *         *         6666         //Bless of Light (Greater)
+7448      *         *         *         *         *         *         *         6666         //Master EXP Potion (6)
+7520      *         *         *         *         *         *         *         6666         //Ruud Box (1000)
+end
+
+2         6
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+6356      *         *         *         *         *         *         5         6666         //Arca's Prophecy
+6669      *         *         *         *         1         *         *         5000         //Pendant of Fire
+6924      *         *         *         *         *         *         *         2500         //Dark Transformation Ring
+7135      *         *         *         *         *         *         *         2500         //Event Map Ticket
+7181      *         *         *         *         *         *         *         6666         //Jewel of Bless
+7357      *         *         *         *         *         *         *         6666         //Elemental Talisman of Luck
+7392      *         *         *         *         *         *         *         6666         //Bless of Light (Greater)
+7444      *         *         *         *         *         *         *         6666         //Master EXP Potion (4)
+7520      *         *         *         *         *         *         *         6666         //Ruud Box(1000)
+end
+
+2         7
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+6356      *         *         *         *         *         *         5         6666         //Arca's Prophecy
+6709      *         *         *         *         *         *         *         1250         //Condor Feather
+6924      *         *         *         *         *         *         *         1250         //Dark Transformation Ring
+7135      *         *         *         *         *         *         *         1250         //Event Map Ticket
+7221      *         *         *         *         *         *         *         6666         //Talisman of Luck
+7444      *         *         *         *         *         *         *         6666         //Master EXP Potion (4)
+end
+
+2         8
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+6159      *         *         *         *         *         *         *         6666         //Jewel of Chaos
+6593      *         *         *         *         *         *         *         2500         //300 Article Earring
+6601      *         *         *         *         *         *         *         2500         //700 Article Earring
+6668      *         *         *         *         1         *         *         2500         //Necklace of Lightning
+6677      *         *         *         *         1         *         *         2500         //Ring of Fire
+7182      *         *         *         *         *         *         *         6666         //Jewel of Soul
+7184      *         *         *         *         *         *         *         6666         //Jewel of Life
+7190      *         *         *         *         *         *         *         6666         //Jewel of Creation
+7199      *         *         *         *         *         *         *         6666         //Guardian Jewel
+7210      *         *         *         *         *         *         *         6666         //Jewel of Harmony
+end
+
+3
+//Index   MinLevel   MinOption1   MinOption2   MinOption3   MinNewOption   MinSetOption   MinSocketOption   Name
+1547      0          0            0            0            1              0              0                 "Excellent Brova"
+2593      0          0            0            0            1              0              0                 "Excellent Chromatic Staff"
+2072      0          0            0            0            1              0              0                 "Excellent Aileen Bow"
+1042      0          0            0            0            1              0              0                 "Excellent Striker Scepter"
+2594      0          0            0            0            1              0              0                 "Excellent Raven Stick"
+end

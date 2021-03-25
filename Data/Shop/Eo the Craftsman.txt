@@ -1,0 +1,23 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+3597      3       0       0         1         1         0           //Spirit Helm
+4109      3       0       0         1         1         0           //Spirit Armor
+4621      3       0       0         1         1         0           //Spirit Pants
+5133      3       0       0         1         1         0           //Spirit Gloves
+5645      3       0       0         1         1         0           //Spirit Boots
+3598      3       0       0         1         1         0           //Guardian Helm
+4110      3       0       0         1         1         0           //Guardian Armor
+4622      3       0       0         1         1         0           //Guardian Pants
+5134      3       0       0         1         1         0           //Guardian Gloves
+5646      3       0       0         1         1         0           //Guardian Boots
+2056      1       0       1         1         1         0           //Crossbow
+2057      3       0       1         1         1         0           //Golden Crossbow
+2048      0       0       1         1         1         0           //Short Bow
+2049      0       0       1         1         1         0           //Bow
+2050      2       0       1         1         1         0           //Elven Bow
+2051      3       0       1         1         1         0           //Battle Bow
+2059      3       0       1         1         1         0           //Light Crossbow
+2052      3       0       1         1         1         0           //Tiger Bow
+2058      3       0       1         1         1         0           //Arquebus
+3075      3       0       1         1         1         0           //Elven Shield
+end
+

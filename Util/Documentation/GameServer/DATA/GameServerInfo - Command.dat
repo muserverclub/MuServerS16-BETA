@@ -1,0 +1,400 @@
+[GameServerInfo]
+;==================================================
+; Post Command Settings
+;==================================================
+CommandPostSwitch -> "/post" command state (0=Off/1=On).
+CommandPostType -> "/post" message color (0=Gold/1=Blue/2=Green/3=White/4=Gold(GLOBAL)/5=Blue(GLOBAL)/6=Green(GLOBAL)/7=White(GLOBAL))
+CommandPostEnable_AL0 -> "/post" utilization state  (0=Off/1=On) (Free).
+CommandPostEnable_AL1 -> "/post" utilization state  (0=Off/1=On) (Vip1).
+CommandPostEnable_AL2 -> "/post" utilization state  (0=Off/1=On) (Vip2).
+CommandPostEnable_AL3 -> "/post" utilization state  (0=Off/1=On) (Vip3).
+CommandPostLevel_AL0 -> Required level to use "/post" (Free).
+CommandPostLevel_AL1 -> Required level to use "/post" (Vip1).
+CommandPostLevel_AL2 -> Required level to use "/post" (Vip2).
+CommandPostLevel_AL3 -> Required level to use "/post" (Vip3).
+CommandPostReset_AL0 -> Required reset to use "/post" (Free).
+CommandPostReset_AL1 -> Required reset to use "/post" (Vip1).
+CommandPostReset_AL2 -> Required reset to use "/post" (Vip2).
+CommandPostReset_AL3 -> Required reset to use "/post" (Vip3).
+CommandPostMoney_AL0 -> Required money to use "/post" (Free).
+CommandPostMoney_AL1 -> Required money to use "/post" (Vip1).
+CommandPostMoney_AL2 -> Required money to use "/post" (Vip2).
+CommandPostMoney_AL3 -> Required money to use "/post" (Vip3).
+CommandPostDelay_AL0 -> Delay between messages (Free).
+CommandPostDelay_AL1 -> Delay between messages (Vip1).
+CommandPostDelay_AL2 -> Delay between messages (Vip2).
+CommandPostDelay_AL3 -> Delay between messages (Vip3).
+
+# SYNTAX = /post <MESSAGE> #
+
+;==================================================
+; Add Point Command Settings
+;==================================================
+CommandAddPointSwitch -> "/add" command state (0=Off/1=On).
+CommandAddPointEnable_AL0 -> "/add" utilization state  (0=Off/1=On) (Free).
+CommandAddPointEnable_AL1 -> "/add" utilization state  (0=Off/1=On) (Vip1).
+CommandAddPointEnable_AL2 -> "/add" utilization state  (0=Off/1=On) (Vip2).
+CommandAddPointEnable_AL3 -> "/add" utilization state  (0=Off/1=On) (Vip3).
+CommandAddPointAutoEnable_AL0 -> "/add auto" utilization state  (0=Off/1=On) (Free).
+CommandAddPointAutoEnable_AL1 -> "/add auto" utilization state  (0=Off/1=On) (Vip1).
+CommandAddPointAutoEnable_AL2 -> "/add auto" utilization state  (0=Off/1=On) (Vip2).
+CommandAddPointAutoEnable_AL3 -> "/add auto" utilization state  (0=Off/1=On) (Vip3).
+CommandAddPointMoney_AL0 -> Required money to use "/add" (Free).
+CommandAddPointMoney_AL1 -> Required money to use "/add" (Vip1).
+CommandAddPointMoney_AL2 -> Required money to use "/add" (Vip2).
+CommandAddPointMoney_AL3 -> Required money to use "/add" (Vip3).
+
+# SYNTAX = /add <AMOUNT> #
+
+# SYNTAX = /add auto <AMOUNT> #
+
+;==================================================
+; PK Clear Command Settings
+;==================================================
+CommandPKClearSwitch -> "/pkclear" command state (0=Off/1=On).
+CommandPKClearType -> "/pkclear" command type (0=Fixed price/1=Dynamic price).
+CommandPKClearEnable_AL0 -> "/pkclear" utilization state  (0=Off/1=On) (Free).
+CommandPKClearEnable_AL1 -> "/pkclear" utilization state  (0=Off/1=On) (Vip1).
+CommandPKClearEnable_AL2 -> "/pkclear" utilization state  (0=Off/1=On) (Vip2).
+CommandPKClearEnable_AL3 -> "/pkclear" utilization state  (0=Off/1=On) (Vip3).
+CommandPKClearMoney_AL0 -> Required money to use "/pkclear" (Free).
+CommandPKClearMoney_AL1 -> Required money to use "/pkclear" (Vip1).
+CommandPKClearMoney_AL2 -> Required money to use "/pkclear" (Vip2).
+CommandPKClearMoney_AL3 -> Required money to use "/pkclear" (Vip3).
+
+# SYNTAX = /pkclear #
+
+;==================================================
+; Money Command Settings
+;==================================================
+CommandMoneySwitch -> "/money" command state (0=Off/1=On).
+CommandMoneyEnable_AL0 -> "/money" utilization state  (0=Off/1=On) (Free).
+CommandMoneyEnable_AL1 -> "/money" utilization state  (0=Off/1=On) (Vip1).
+CommandMoneyEnable_AL2 -> "/money" utilization state  (0=Off/1=On) (Vip2).
+CommandMoneyEnable_AL3 -> "/money" utilization state  (0=Off/1=On) (Vip3).
+
+# SYNTAX = /money <AMOUNT> #
+
+;==================================================
+; Change Command Settings
+;==================================================
+CommandChangeSwitch -> "/change" command state (0=Off/1=On).
+CommandChangeEnable_AL0 -> "/change" utilization state  (0=Off/1=On) (Free).
+CommandChangeEnable_AL1 -> "/change" utilization state  (0=Off/1=On) (Vip1).
+CommandChangeEnable_AL2 -> "/change" utilization state  (0=Off/1=On) (Vip2).
+CommandChangeEnable_AL3 -> "/change" utilization state  (0=Off/1=On) (Vip3).
+CommandChangeMoney_AL0 -> Required money to use "/change" (Free).
+CommandChangeMoney_AL1 -> Required money to use "/change" (Vip1).
+CommandChangeMoney_AL2 -> Required money to use "/change" (Vip2).
+CommandChangeMoney_AL3 -> Required money to use "/change" (Vip3).
+CommandChangeLimit_AL0 -> Max evolution (Free).
+CommandChangeLimit_AL1 -> Max evolution (Vip1).
+CommandChangeLimit_AL2 -> Max evolution (Vip2).
+CommandChangeLimit_AL3 -> Max evolution (Vip3).
+
+# SYNTAX = /change #
+
+;==================================================
+; Ware Command Settings
+;==================================================
+CommandWareSwitch -> "/ware" command state (0=Off/1=On).
+CommandWareEnable_AL0 -> "/ware" utilization state  (0=Off/1=On) (Free).
+CommandWareEnable_AL1 -> "/ware" utilization state  (0=Off/1=On) (Vip1).
+CommandWareEnable_AL2 -> "/ware" utilization state  (0=Off/1=On) (Vip2).
+CommandWareEnable_AL3 -> "/ware" utilization state  (0=Off/1=On) (Vip3).
+CommandWareNumber_AL0 -> Max avaliable warehouses (Free).
+CommandWareNumber_AL1 -> Max avaliable warehouses (Vip1).
+CommandWareNumber_AL2 -> Max avaliable warehouses (Vip2).
+CommandWareNumber_AL3 -> Max avaliable warehouses (Vip3).
+
+# SYNTAX = /ware <WARE_NUMBER> #
+
+;==================================================
+; Reset Command Settings
+;==================================================
+CommandResetSwitch -> "/reset" command state (0=Off/1=On).
+CommandResetType -> "/reset" utilization mode (0=Keep Points/1=Reset Points).
+CommandResetEnable_AL0 -> "/reset" utilization state  (0=Off/1=On) (Free).
+CommandResetEnable_AL1 -> "/reset" utilization state  (0=Off/1=On) (Vip1).
+CommandResetEnable_AL2 -> "/reset" utilization state  (0=Off/1=On) (Vip2).
+CommandResetEnable_AL3 -> "/reset" utilization state  (0=Off/1=On) (Vip3).
+CommandResetAutoEnable_AL0 -> "/reset auto" utilization state  (0=Off/1=On) (Free).
+CommandResetAutoEnable_AL1 -> "/reset auto" utilization state  (0=Off/1=On) (Vip1).
+CommandResetAutoEnable_AL2 -> "/reset auto" utilization state  (0=Off/1=On) (Vip2).
+CommandResetAutoEnable_AL3 -> "/reset auto" utilization state  (0=Off/1=On) (Vip3).
+CommandResetCheckItem_AL0 -> Check equipped items (0=No/1=Yes) (Free).
+CommandResetCheckItem_AL1 -> Check equipped items (0=No/1=Yes) (Vip1).
+CommandResetCheckItem_AL2 -> Check equipped items (0=No/1=Yes) (Vip2).
+CommandResetCheckItem_AL3 -> Check equipped items (0=No/1=Yes) (Vip3).
+CommandResetMove_AL0 -> Move character to safe zone (0=No/1=Yes) (Free).
+CommandResetMove_AL1 -> Move character to safe zone (0=No/1=Yes) (Vip1).
+CommandResetMove_AL2 -> Move character to safe zone (0=No/1=Yes) (Vip2).
+CommandResetMove_AL3 -> Move character to safe zone (0=No/1=Yes) (Vip3).
+CommandResetQuest_AL0 -> Clear character quests (0=No/1=Yes) (Free).
+CommandResetQuest_AL1 -> Clear character quests (0=No/1=Yes) (Vip1).
+CommandResetQuest_AL2 -> Clear character quests (0=No/1=Yes) (Vip2).
+CommandResetQuest_AL3 -> Clear character quests (0=No/1=Yes) (Vip3).
+CommandResetSkill_AL0 -> Clear character skills (0=No/1=Yes) (Free).
+CommandResetSkill_AL1 -> Clear character skills (0=No/1=Yes) (Vip1).
+CommandResetSkill_AL2 -> Clear character skills (0=No/1=Yes) (Vip2).
+CommandResetSkill_AL3 -> Clear character skills (0=No/1=Yes) (Vip3).
+CommandResetLevel_AL0 -> Required level to use "/reset" (Free).
+CommandResetLevel_AL1 -> Required level to use "/reset" (Vip1).
+CommandResetLevel_AL2 -> Required level to use "/reset" (Vip2).
+CommandResetLevel_AL3 -> Required level to use "/reset" (Vip3).
+CommandResetMoney_AL0 -> Required money to use "/reset" (Free).
+CommandResetMoney_AL1 -> Required money to use "/reset" (Vip1).
+CommandResetMoney_AL2 -> Required money to use "/reset" (Vip2).
+CommandResetMoney_AL3 -> Required money to use "/reset" (Vip3).
+CommandResetCount_AL0 -> Amount of resets gain utilizing "/reset" (Free).
+CommandResetCount_AL1 -> Amount of resets gain utilizing "/reset" (Vip1).
+CommandResetCount_AL2 -> Amount of resets gain utilizing "/reset" (Vip2).
+CommandResetCount_AL3 -> Amount of resets gain utilizing "/reset" (Vip3).
+CommandResetLimit_AL0 -> Maximum resets (Free).
+CommandResetLimit_AL1 -> Maximum resets (Vip1).
+CommandResetLimit_AL2 -> Maximum resets (Vip2).
+CommandResetLimit_AL3 -> Maximum resets (Vip3).
+CommandResetLimitDay_AL0 -> Maximum resets per day (Free).
+CommandResetLimitDay_AL1 -> Maximum resets per day (Vip1).
+CommandResetLimitDay_AL2 -> Maximum resets per day (Vip2).
+CommandResetLimitDay_AL3 -> Maximum resets per day (Vip3).
+CommandResetLimitWek_AL0 -> Maximum resets per week (Free).
+CommandResetLimitWek_AL1 -> Maximum resets per week (Vip1).
+CommandResetLimitWek_AL2 -> Maximum resets per week (Vip2).
+CommandResetLimitWek_AL3 -> Maximum resets per week (Vip3).
+CommandResetLimitMon_AL0 -> Maximum resets per month (Free).
+CommandResetLimitMon_AL1 -> Maximum resets per month (Vip1).
+CommandResetLimitMon_AL2 -> Maximum resets per month (Vip2).
+CommandResetLimitMon_AL3 -> Maximum resets per month (Vip3).
+CommandResetStartLevel_AL0 -> Character level after utilizing "/reset" (Free).
+CommandResetStartLevel_AL1 -> Character level after utilizing "/reset" (Vip1).
+CommandResetStartLevel_AL2 -> Character level after utilizing "/reset" (Vip2).
+CommandResetStartLevel_AL3 -> Character level after utilizing "/reset" (Vip3).
+CommandResetPoint_AL0 -> Amount of points gain (Free).
+CommandResetPoint_AL1 -> Amount of points gain (Vip1).
+CommandResetPoint_AL2 -> Amount of points gain (Vip2).
+CommandResetPoint_AL3 -> Amount of points gain (Vip3).
+CommandResetPointRateDW -> Percentage of points gain (Dark Wizard).
+CommandResetPointRateDK -> Percentage of points gain (Dark Knight).
+CommandResetPointRateFE -> Percentage of points gain (Fairy Elf).
+CommandResetPointRateMG -> Percentage of points gain (Magic Gladiator).
+CommandResetPointRateDL -> Percentage of points gain (Dark Lord).
+CommandResetPointRateSU -> Percentage of points gain (Summoner).
+CommandResetPointRateRF -> Percentage of points gain (Rage Fighter).
+CommandResetPointRateGL -> Percentage of points gain (Grow Lancer).
+CommandResetPointRateRW -> Percentage of points gain (Rune Wizard).
+CommandResetPointRateSL -> Percentage of points gain (Slayer).
+
+# SYNTAX = /reset #
+
+# SYNTAX = /reset auto #
+
+# SYNTAX = /reset auto <STR_AMOUNT> <DEX_AMOUNT> <VIT_AMOUNT> <ENE_AMOUNT> <CMD_AMOUNT> #
+
+;==================================================
+; Master Reset Command Settings
+;==================================================
+CommandMasterResetSwitch -> "/mreset" command state (0=Off/1=On).
+CommandMasterResetType -> "/mreset" utilization mode (0=Keep Points/1=Reset Points).
+CommandMasterResetEnable_AL0 -> "/mreset" utilization state  (0=Off/1=On) (Free).
+CommandMasterResetEnable_AL1 -> "/mreset" utilization state  (0=Off/1=On) (Vip1).
+CommandMasterResetEnable_AL2 -> "/mreset" utilization state  (0=Off/1=On) (Vip2).
+CommandMasterResetEnable_AL3 -> "/mreset" utilization state  (0=Off/1=On) (Vip3).
+CommandMasterResetCheckItem_AL0 -> Check equipped items (0=No/1=Yes) (Free).
+CommandMasterResetCheckItem_AL1 -> Check equipped items (0=No/1=Yes) (Vip1).
+CommandMasterResetCheckItem_AL2 -> Check equipped items (0=No/1=Yes) (Vip2).
+CommandMasterResetCheckItem_AL3 -> Check equipped items (0=No/1=Yes) (Vip3).
+CommandMasterResetMove_AL0 -> Move character to safe zone (0=No/1=Yes) (Free).
+CommandMasterResetMove_AL1 -> Move character to safe zone (0=No/1=Yes) (Vip1).
+CommandMasterResetMove_AL2 -> Move character to safe zone (0=No/1=Yes) (Vip2).
+CommandMasterResetMove_AL3 -> Move character to safe zone (0=No/1=Yes) (Vip3).
+CommandMasterResetQuest_AL0 -> Clear character quests (0=No/1=Yes) (Free).
+CommandMasterResetQuest_AL1 -> Clear character quests (0=No/1=Yes) (Vip1).
+CommandMasterResetQuest_AL2 -> Clear character quests (0=No/1=Yes) (Vip2).
+CommandMasterResetQuest_AL3 -> Clear character quests (0=No/1=Yes) (Vip3).
+CommandMasterResetSkill_AL0 -> Clear character skills (0=No/1=Yes) (Free).
+CommandMasterResetSkill_AL1 -> Clear character skills (0=No/1=Yes) (Vip1).
+CommandMasterResetSkill_AL2 -> Clear character skills (0=No/1=Yes) (Vip2).
+CommandMasterResetSkill_AL3 -> Clear character skills (0=No/1=Yes) (Vip3).
+CommandMasterResetLevel_AL0 -> Required level to use "/mreset" (Free).
+CommandMasterResetLevel_AL1 -> Required level to use "/mreset" (Vip1).
+CommandMasterResetLevel_AL2 -> Required level to use "/mreset" (Vip2).
+CommandMasterResetLevel_AL3 -> Required level to use "/mreset" (Vip3).
+CommandMasterResetReset_AL0 -> Required reset to use "/mreset" (Free).
+CommandMasterResetReset_AL1 -> Required reset to use "/mreset" (Vip1).
+CommandMasterResetReset_AL2 -> Required reset to use "/mreset" (Vip2).
+CommandMasterResetReset_AL3 -> Required reset to use "/mreset" (Vip3).
+CommandMasterResetMoney_AL0 -> Required money to use "/mreset" (Free).
+CommandMasterResetMoney_AL1 -> Required money to use "/mreset" (Vip1).
+CommandMasterResetMoney_AL2 -> Required money to use "/mreset" (Vip2).
+CommandMasterResetMoney_AL3 -> Required money to use "/mreset" (Vip3).
+CommandMasterResetCount_AL0 -> Amount of master resets gain utilizing "/mreset" (Free).
+CommandMasterResetCount_AL1 -> Amount of master resets gain utilizing "/mreset" (Vip1).
+CommandMasterResetCount_AL2 -> Amount of master resets gain utilizing "/mreset" (Vip2).
+CommandMasterResetCount_AL3 -> Amount of master resets gain utilizing "/mreset" (Vip3).
+CommandMasterResetLimit_AL0 -> Maximum master resets (Free).
+CommandMasterResetLimit_AL1 -> Maximum master resets (Vip1).
+CommandMasterResetLimit_AL2 -> Maximum master resets (Vip2).
+CommandMasterResetLimit_AL3 -> Maximum master resets (Vip3).
+CommandMasterResetLimitDay_AL0 -> Maximum master resets per day (Free).
+CommandMasterResetLimitDay_AL1 -> Maximum master resets per day (Vip1).
+CommandMasterResetLimitDay_AL2 -> Maximum master resets per day (Vip2).
+CommandMasterResetLimitDay_AL3 -> Maximum master resets per day (Vip3).
+CommandMasterResetLimitWek_AL0 -> Maximum master resets per week (Free).
+CommandMasterResetLimitWek_AL1 -> Maximum master resets per week (Vip1).
+CommandMasterResetLimitWek_AL2 -> Maximum master resets per week (Vip2).
+CommandMasterResetLimitWek_AL3 -> Maximum master resets per week (Vip3).
+CommandMasterResetLimitMon_AL0 -> Maximum master resets per month (Free).
+CommandMasterResetLimitMon_AL1 -> Maximum master resets per month (Vip1).
+CommandMasterResetLimitMon_AL2 -> Maximum master resets per month (Vip2).
+CommandMasterResetLimitMon_AL3 -> Maximum master resets per month (Vip3).
+CommandMasterResetStartLevel_AL0 -> Character level after utilizing "/mreset" (Free).
+CommandMasterResetStartLevel_AL1 -> Character level after utilizing "/mreset" (Vip1).
+CommandMasterResetStartLevel_AL2 -> Character level after utilizing "/mreset" (Vip2).
+CommandMasterResetStartLevel_AL3 -> Character level after utilizing "/mreset" (Vip3).
+CommandMasterResetStartReset_AL0 -> Character reset after utilizing "/mreset" (Free).
+CommandMasterResetStartReset_AL1 -> Character reset after utilizing "/mreset" (Vip1).
+CommandMasterResetStartReset_AL2 -> Character reset after utilizing "/mreset" (Vip2).
+CommandMasterResetStartReset_AL3 -> Character reset after utilizing "/mreset" (Vip3).
+CommandMasterResetPoint_AL0 -> Amount of points gain (Free).
+CommandMasterResetPoint_AL1 -> Amount of points gain (Vip1).
+CommandMasterResetPoint_AL2 -> Amount of points gain (Vip2).
+CommandMasterResetPoint_AL3 -> Amount of points gain (Vip3).
+CommandMasterResetPointRateDW -> Percentage of points gain (Dark Wizard).
+CommandMasterResetPointRateDK -> Percentage of points gain (Dark Knight).
+CommandMasterResetPointRateFE -> Percentage of points gain (Fairy Elf).
+CommandMasterResetPointRateMG -> Percentage of points gain (Magic Gladiator).
+CommandMasterResetPointRateDL -> Percentage of points gain (Dark Lord).
+CommandMasterResetPointRateSU -> Percentage of points gain (Summoner).
+CommandMasterResetPointRateRF -> Percentage of points gain (Rage Fighter).
+CommandMasterResetPointRateGL -> Percentage of points gain (Grow Lancer).
+CommandMasterResetPointRateRW -> Percentage of points gain (Rune Wizard).
+CommandMasterResetPointRateSL -> Percentage of points gain (Slayer).
+
+# SYNTAX = /mreset #
+
+;==================================================
+; Follow Command Settings
+;==================================================
+CommandFollowSwitch -> "/follow" command state (0=Off/1=On).
+CommandFollowEnable_AL0 -> "/follow" utilization state  (0=Off/1=On) (Free).
+CommandFollowEnable_AL1 -> "/follow" utilization state  (0=Off/1=On) (Vip1).
+CommandFollowEnable_AL2 -> "/follow" utilization state  (0=Off/1=On) (Vip2).
+CommandFollowEnable_AL3 -> "/follow" utilization state  (0=Off/1=On) (Vip3).
+
+# SYNTAX = /follow <NAME> #
+
+;==================================================
+; Rebuild Command Settings
+;==================================================
+CommandRebuildSwitch -> "/rebuild" command state (0=Off/1=On).
+CommandRebuildEnable_AL0 -> "/rebuild" utilization state  (0=Off/1=On) (Free).
+CommandRebuildEnable_AL1 -> "/rebuild" utilization state  (0=Off/1=On) (Vip1).
+CommandRebuildEnable_AL2 -> "/rebuild" utilization state  (0=Off/1=On) (Vip2).
+CommandRebuildEnable_AL3 -> "/rebuild" utilization state  (0=Off/1=On) (Vip3).
+CommandRebuildCheckItem_AL0 -> Check equipped items (0=No/1=Yes) (Free).
+CommandRebuildCheckItem_AL1 -> Check equipped items (0=No/1=Yes) (Vip1).
+CommandRebuildCheckItem_AL2 -> Check equipped items (0=No/1=Yes) (Vip2).
+CommandRebuildCheckItem_AL3 -> Check equipped items (0=No/1=Yes) (Vip3).
+CommandRebuildMoney_AL0 -> Required money to use "/rebuild" (Free).
+CommandRebuildMoney_AL1 -> Required money to use "/rebuild" (Vip1).
+CommandRebuildMoney_AL2 -> Required money to use "/rebuild" (Vip2).
+CommandRebuildMoney_AL3 -> Required money to use "/rebuild" (Vip3).
+
+# SYNTAX = /rebuild #
+
+;==================================================
+; GM Move Command Settings
+;==================================================
+CommandGMMoveSwitch -> "/gmmove" command state (0=Off/1=On).
+CommandGMMoveGameMasterLevel -> Required Game Master Level to use "/gmmove".
+
+# SYNTAX = /gmmove <NAME> <MAP> <X> <Y> #
+
+;==================================================
+; GM Post Command Settings
+;==================================================
+CommandGMPostSwitch -> "/gmpost" command state (0=Off/1=On).
+CommandGMPostGameMasterLevel -> Required Game Master Level to use "/gmpost".
+
+# SYNTAX = /gmpost <MESSAGE> #
+
+;==================================================
+; Track Command Settings
+;==================================================
+CommandTrackSwitch -> "/track" command state (0=Off/1=On).
+CommandTrackGameMasterLevel -> Required Game Master Level to use "/track".
+
+# SYNTAX = /track <NAME> #
+
+;==================================================
+; Trace Command Settings
+;==================================================
+CommandTraceSwitch -> "/trace" command state (0=Off/1=On).
+CommandTraceGameMasterLevel -> Required Game Master Level to use "/trace".
+
+# SYNTAX = /trace <NAME> #
+
+;==================================================
+; Disconnect Command Settings
+;==================================================
+CommandDisconnectSwitch -> "/disconnect" command state (0=Off/1=On).
+CommandDisconnectGameMasterLevel -> Required Game Master Level to use "/disconnect".
+
+# SYNTAX = /disconnect <NAME> #
+
+;==================================================
+; Fireworks Command Settings
+;==================================================
+CommandFireworksSwitch -> "/fireworks" command state (0=Off/1=On).
+CommandFireworksGameMasterLevel -> Required Game Master Level to use "/fireworks".
+
+# SYNTAX = /fireworks #
+
+;==================================================
+; Make Command Settings
+;==================================================
+CommandMakeSwitch -> "/make" command state (0=Off/1=On).
+CommandMakeGameMasterLevel -> Required Game Master Level to use "/make".
+
+# SYNTAX = /make <ITEM_SECT> <ITEM_TYPE> <ITEM_LEVEL> <ITEM_OPT1> <ITEM_OPT2> <ITEM_OPT3> <ITEM_NEWOPT> <ITEM_SETOPT> #
+
+;==================================================
+; Skin Command Settings
+;==================================================
+CommandSkinSwitch -> "/skin" command state (0=Off/1=On).
+CommandSkinGameMasterLevel -> Required Game Master Level to use "/skin".
+
+# SYNTAX = /skin <NAME> <MOB_NUMBER> #
+
+;==================================================
+; Set Money Command Settings
+;==================================================
+CommandSetMoneySwitch -> "/setmoney" command state (0=Off/1=On).
+CommandSetMoneyGameMasterLevel -> Required Game Master Level to use "/setmoney".
+
+# SYNTAX = /setmoney <NAME> <MONEY_AMOUNT> #
+
+;==================================================
+; Notice Command Settings
+;==================================================
+CommandNoticeSwitch -> "/notice" command state (0=Off/1=On).
+CommandNoticeGameMasterLevel -> Required Game Master Level to use "/notice".
+
+# SYNTAX = /notice <MESSAGE> #
+
+;==================================================
+; Hide Command Settings
+;==================================================
+CommandHideSwitch -> "/hide" command state (0=Off/1=On).
+CommandHideGameMasterLevel -> Required Game Master Level to use "/hide".
+
+# SYNTAX = /hide #
+
+;==================================================
+; Mute Command Settings
+;==================================================
+CommandMuteSwitch -> "/mute" command state (0=Off/1=On).
+CommandMuteGameMasterLevel -> Required Game Master Level to use "/mute".
+
+# SYNTAX = /mute <NAME> <MUTE_TIME> #

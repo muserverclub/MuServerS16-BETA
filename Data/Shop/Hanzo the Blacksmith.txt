@@ -1,0 +1,37 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+32        0       0       1         1         1         0           //Sacred Glove
+33        1       0       1         1         1         0           //Holy Storm Claw
+34        2       0       1         1         1         0           //Piercing Blade Glove
+35        2       0       1         1         1         0           //Phoenix Soul Star
+1042      2       0       1         1         1         0           //Striker Scepter
+1547      2       0       1         1         1         0           //Brova
+2596      2       0       1         1         1         0           //Divine Stick of the Archangel
+3093      2       0       1         1         1         0           //Cross Shield
+6274      2       0       1         1         1         0           //Small Cape of Lord
+6275      2       0       1         1         1         0           //Small Wing of Curse
+6276      2       0       1         1         1         0           //Small Wings of Elf
+6277      2       0       1         1         1         0           //Small Wings of Heaven
+6278      2       0       1         1         1         0           //Small Wings of Satan
+6279      2       0       1         1         1         0           //Little Warrior's Cloak
+6763      0       1       0         0         0         0           //Lethal Wizard's Ring
+6765      0       1       0         0         0         0           //Sapphire Ring
+6766      0       1       0         0         0         0           //Ruby Ring
+6767      0       1       0         0         0         0           //Topaz Ring
+6768      0       1       0         0         0         0           //Amethyst Ring
+6769      0       1       0         0         0         0           //Ruby Necklace
+6770      0       1       0         0         0         0           //Emerald Necklace
+6771      0       1       0         0         0         0           //Sapphire Necklace
+7293      0       1       0         0         0         0           //Package Box
+7322      0       1       0         0         0         0           //Kalt Stone
+7321      0       1       0         0         0         0           //Stardust
+7330      0       1       0         0         0         0           //Magic Backpack
+6822      0       1       0         0         0         0           //Magic Backpack
+7710      0       1       0         0         0         0           //Chain Drive Parchment
+7711      0       1       0         0         0         0           //Dark Side Parchment
+7712      0       1       0         0         0         0           //Dragon Roar Parchment
+7713      0       1       0         0         0         0           //Dragon Slasher Parchment
+7714      0       1       0         0         0         0           //Ignore Defense Parchment
+7715      0       1       0         0         0         0           //Increase Health Parchment
+7716      0       1       0         0         0         0           //Increase Block Parchment
+end
+

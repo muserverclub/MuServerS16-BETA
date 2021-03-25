@@ -1,0 +1,346 @@
+0
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7015      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Trans
+7016      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Trans
+7017      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Trans
+7018      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Trans
+2601      0       0       0         0         0         0           100000  //Bloodangel Staff
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6434      0       0       0         0         0         0           1000    //Scroll of Meteor Strike
+6435      0       0       0         0         0         0           1000    //Scroll of Meteor Storm
+6436      0       0       0         0         0         0           1000    //Scroll of Soul Seeker
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+1
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7007      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Fury
+7008      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Fury
+7009      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Fury
+7010      0       0       0         0         0         0           50000   //Bloodangel Boots of Sealed Fury
+13,396    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Armor (Conviction)
+13,395    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Helm (Conviction)
+13,397    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Pants (Conviction)
+13,398    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Boots (Conviction)
+0042      0       0       0         0         0         0           100000  //Bloodangel Sword
+6,44      0       0       0         0         0         0           50000   //Bloodangel Shield
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6433      0       0       0         0         0         0           1000    //Orb of Fire Blow
+14,499    0       0       0         0         0         0           50000   //Offensive Knight Conversion Order
+14,500    0       0       0         0         0         0           50000   //Defensive Knight Conversion Order
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+2
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7019      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Flurry
+7020      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Flurry
+7021      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Flurry
+7022      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Flurry
+7023      0       0       0         0         0         0           30000   //Bloodangel Armor of Sealed Redem
+7024      0       0       0         0         0         0           30000   //Bloodangel Helm of Sealed Redem
+7025      0       0       0         0         0         0           30000   //Bloodangel Pants of Sealed Redem
+7026      0       0       0         0         0         0           30000   //Bloodangel Gloves of Sealed Redem
+2076      0       0       0         0         0         0           100000  //Bloodangel Bow
+2082      0       0       0         0         0         0           100000  //Bloodangel Quiver
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6437      0       0       0         0         0         0           1000    //Orb of Focus Shot
+7562      0       0       0         0         0         0           30000   //A. Type FE Transform Scroll
+7563      0       0       0         0         0         0           10000   //S. Type FE Transform Scroll
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+3
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7031      0       0       0         0         0         0           30000   //Bloodangel Armor of Sealed Captiv
+7032      0       0       0         0         0         0           30000   //Bloodangel Boots of Sealed Captiv
+7033      0       0       0         0         0         0           30000   //Bloodangel Pants of Sealed Captiv
+7034      0       0       0         0         0         0           30000   //Bloodangel Gloves of Sealed Captiv
+7027      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Extrem
+7028      0       0       0         0         0         0           50000   //Bloodangel Boots of Sealed Extrem
+7029      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Extrem
+7030      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Extrem
+0044      0       0       0         0         0         0           100000  //Bloodangel Magic Sword
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6441      0       0       0         0         0         0           1000    //Orb of Ice Blood
+6442      0       0       0         0         0         0           1000    //Orb of Fire Blood
+6443      0       0       0         0         0         0           1000    //Scroll of Dark Blast
+6444      0       0       0         0         0         0           1000    //Scroll of Meteor Strike
+7564      0       0       0         0         0         0           30000   //G. Type MG Transform Scroll
+7565      0       0       0         0         0         0           10000   //M. Type MG Transform Scroll
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+4
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7035      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Conq
+7036      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Conq
+7037      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Conq
+7038      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Conq
+1046      0       0       0         0         0         0           100000  //Bloodangel Scepter
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6447      0       0       0         0         0         0           1000    //Scroll of Wind Soul
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+5
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7043      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Honor
+7044      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Honor
+7045      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Honor
+7046      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Honor
+2603      0       0       0         0         0         0           100000  //Bloodangel Stick
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6439      0       0       0         0         0         0           1000    //Parchment of Fire Beast
+6440      0       0       0         0         0         0           1000    //Parchment of Aqua Beast
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+6
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7047      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Destr
+7048      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Destr
+7049      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Destr
+7050      0       0       0         0         0         0           50000   //Bloodangel Boots of Sealed Destr
+0046      0       0       0         0         0         0           100000  //Bloodangel Claws
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6449      0       0       0         0         0         0           1000    //Parchment of Dark Phoenix Shot
+6557      0       0       0         0         0         0           1000    //Spirit Hook Parchment
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+7
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7055      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Tenac
+7056      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Tenac
+7057      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Tenac
+7058      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Tenac
+1555      0       0       0         0         0         0           100000  //Bloodangel Lance
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+8
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7011      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Rebel
+7012      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Rebel
+7013      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Rebel
+7014      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Rebel
+1056      0       0       0         0         0         0           100000  //Bloodangel Rune Mace
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+7719      0       0       0         0         0         0           1000    //Lightning Storm Act
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+9
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+7039      0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Heart
+7040      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Heart
+7041      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Heart
+7042      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Heart
+0071      0       0       0         0         0         0           100000  //Bloodangel Short Sword
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+6623      0       0       0         0         0         0           1000    //Pierce Attack Bead
+6626      0       0       0         0         0         0           1000    //Demolish Bead
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end
+
+10
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Value   Comment
+13,403    0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Ritual
+13,404    0       0       0         0         0         0           50000   //Bloodangel Armor of Sealed Ritual
+13,405    0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Ritual
+13,406    0       0       0         0         0         0           50000   //Bloodangel Boots of Sealed Ritual
+4,48      0       0       0         0         0         0           50000   //Bloodangel Magic Gun
+7509      0       0       0         0         0         0           50000   //Darkangel Soul
+7554      0       0       0         0         0         0           100000  //Darkangel Anvil
+7557      0       0       0         0         0         0           50000   //Holyangel Soul
+7584      0       0       0         0         0         0           100000  //Holyangel Anvil
+7583      0       0       0         0         0         0           50000   //Awakening Soul
+7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
+7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
+12,493    0       0       0         0         0         0           1000    //Ice Blast Bead
+12,495    0       0       0         0         0         0           1000    //Bursting Flare Bead
+7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
+6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
+6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
+7617      0       0       0         0         0         0           50000   //Cold Marriage
+7618      0       0       0         0         0         0           100000  //Soul Moru
+14,495    0       0       0         0         0         0           100000  //Blue Eye Anvil
+14,502    0       0       0         0         0         0           100000  //Silver Heart's Anvil
+14,501    0       0       0         0         0         0           50000   //Manticore Soul
+14,458    0       0       0         0         0         0           1000    //Ancestral Frame
+14,494    0       0       0         0         0         0           1000    //Ancestral Spirit
+14,497    0       0       0         0         0         0           1000    //Glory of Honor
+14,498    0       0       0         0         0         0           10000   //Ice Dragon Seal
+end

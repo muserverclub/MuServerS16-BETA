@@ -1,0 +1,727 @@
+0
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            036          09             30         135            092            *              //Shadow
+0            036          09             30         124            082            *              //Shadow
+0            036          09             30         135            102            *              //Shadow
+0            036          09             30         131            087            *              //Shadow
+0            036          09             30         126            083            *              //Shadow
+0            036          09             30         146            087            *              //Shadow
+0            036          09             30         128            096            *              //Shadow
+0            036          09             30         139            098            *              //Shadow
+0            036          09             30         134            109            *              //Shadow
+0            036          09             30         146            102            *              //Shadow
+0            036          09             30         127            089            *              //Shadow
+0            036          09             30         144            098            *              //Shadow
+0            036          09             30         148            097            *              //Shadow
+0            036          09             30         134            095            *              //Shadow
+0            036          09             30         128            103            *              //Shadow
+0            036          09             30         148            101            *              //Shadow
+0            036          09             30         130            109            *              //Shadow
+0            036          09             30         122            086            *              //Shadow
+0            036          09             30         129            090            *              //Shadow
+0            036          09             30         121            100            *              //Shadow
+0            039          09             30         145            096            *              //Poison Shadow
+0            039          09             30         129            105            *              //Poison Shadow
+0            039          09             30         147            094            *              //Poison Shadow
+0            039          09             30         133            087            *              //Poison Shadow
+0            039          09             30         141            104            *              //Poison Shadow
+0            039          09             30         144            102            *              //Poison Shadow
+0            039          09             30         143            109            *              //Poison Shadow
+0            039          09             30         127            085            *              //Poison Shadow
+0            039          09             30         141            097            *              //Poison Shadow
+0            039          09             30         135            094            *              //Poison Shadow
+0            039          09             30         142            103            *              //Poison Shadow
+0            039          09             30         128            097            *              //Poison Shadow
+0            039          09             30         128            084            *              //Poison Shadow
+0            039          09             30         134            095            *              //Poison Shadow
+0            039          09             30         121            084            *              //Poison Shadow
+0            039          09             30         139            100            *              //Poison Shadow
+0            039          09             30         141            108            *              //Poison Shadow
+0            039          09             30         145            091            *              //Poison Shadow
+0            039          09             30         145            085            *              //Poison Shadow
+0            039          09             30         145            100            *              //Poison Shadow
+1            034          09             30         148            108            *              //Cursed Wizard
+1            034          09             30         148            090            *              //Cursed Wizard
+1            034          09             30         132            103            *              //Cursed Wizard
+1            034          09             30         129            102            *              //Cursed Wizard
+1            034          09             30         143            086            *              //Cursed Wizard
+1            034          09             30         140            104            *              //Cursed Wizard
+1            034          09             30         146            106            *              //Cursed Wizard
+1            034          09             30         134            105            *              //Cursed Wizard
+1            034          09             30         134            106            *              //Cursed Wizard
+1            034          09             30         124            109            *              //Cursed Wizard
+1            034          09             30         141            083            *              //Cursed Wizard
+1            034          09             30         136            085            *              //Cursed Wizard
+1            034          09             30         131            098            *              //Cursed Wizard
+1            034          09             30         121            083            *              //Cursed Wizard
+1            034          09             30         138            107            *              //Cursed Wizard
+1            041          09             30         142            109            *              //Death Cow
+1            041          09             30         143            088            *              //Death Cow
+1            041          09             30         146            096            *              //Death Cow
+1            041          09             30         146            101            *              //Death Cow
+1            041          09             30         139            082            *              //Death Cow
+1            041          09             30         139            099            *              //Death Cow
+1            041          09             30         137            105            *              //Death Cow
+1            041          09             30         134            108            *              //Death Cow
+1            041          09             30         128            109            *              //Death Cow
+1            041          09             30         139            090            *              //Death Cow
+1            041          09             30         148            096            *              //Death Cow
+1            041          09             30         127            092            *              //Death Cow
+1            041          09             30         144            097            *              //Death Cow
+1            041          09             30         127            095            *              //Death Cow
+1            041          09             30         121            107            *              //Death Cow
+2            035          09             30         130            096            *              //Death Gorgon
+2            035          09             30         137            090            *              //Death Gorgon
+2            035          09             30         137            093            *              //Death Gorgon
+2            035          09             30         131            094            *              //Death Gorgon
+2            035          09             30         133            102            *              //Death Gorgon
+2            035          09             30         124            091            *              //Death Gorgon
+2            035          09             30         141            082            *              //Death Gorgon
+2            035          09             30         142            105            *              //Death Gorgon
+2            035          09             30         132            086            *              //Death Gorgon
+2            035          09             30         136            090            *              //Death Gorgon
+2            040          09             30         121            082            *              //Death Knight
+2            040          09             30         123            100            *              //Death Knight
+2            040          09             30         141            094            *              //Death Knight
+2            040          09             30         124            090            *              //Death Knight
+2            040          09             30         137            090            *              //Death Knight
+2            040          09             30         130            098            *              //Death Knight
+2            040          09             30         144            089            *              //Death Knight
+2            040          09             30         124            092            *              //Death Knight
+2            040          09             30         140            102            *              //Death Knight
+2            040          09             30         130            086            *              //Death Knight
+3            038          09             30         132            096            *              //Balrog
+3            038          09             30         124            107            *              //Balrog
+3            038          09             30         132            084            *              //Balrog
+3            038          09             30         132            105            *              //Balrog
+3            038          09             30         133            100            *              //Balrog
+3            038          09             30         122            086            *              //Balrog
+3            038          09             30         126            094            *              //Balrog
+3            038          09             30         148            101            *              //Balrog
+3            038          09             30         140            090            *              //Balrog
+3            038          09             30         139            106            *              //Balrog
+end
+
+1
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            064          09             30         137            164            *              //Ogre archer
+0            064          09             30         126            154            *              //Ogre archer
+0            064          09             30         137            174            *              //Ogre archer
+0            064          09             30         133            159            *              //Ogre archer
+0            064          09             30         128            155            *              //Ogre archer
+0            064          09             30         148            159            *              //Ogre archer
+0            064          09             30         130            168            *              //Ogre archer
+0            064          09             30         141            170            *              //Ogre archer
+0            064          09             30         136            181            *              //Ogre archer
+0            064          09             30         148            174            *              //Ogre archer
+0            064          09             30         129            161            *              //Ogre archer
+0            064          09             30         146            170            *              //Ogre archer
+0            064          09             30         150            169            *              //Ogre archer
+0            064          09             30         136            167            *              //Ogre archer
+0            064          09             30         130            175            *              //Ogre archer
+0            064          09             30         150            173            *              //Ogre archer
+0            064          09             30         132            181            *              //Ogre archer
+0            064          09             30         124            158            *              //Ogre archer
+0            064          09             30         131            162            *              //Ogre archer
+0            064          09             30         123            172            *              //Ogre archer
+0            065          09             30         147            168            *              //Elite Ogre
+0            065          09             30         131            177            *              //Elite Ogre
+0            065          09             30         149            166            *              //Elite Ogre
+0            065          09             30         135            159            *              //Elite Ogre
+0            065          09             30         143            176            *              //Elite Ogre
+0            065          09             30         146            174            *              //Elite Ogre
+0            065          09             30         145            181            *              //Elite Ogre
+0            065          09             30         129            157            *              //Elite Ogre
+0            065          09             30         143            169            *              //Elite Ogre
+0            065          09             30         137            166            *              //Elite Ogre
+0            065          09             30         144            175            *              //Elite Ogre
+0            065          09             30         130            169            *              //Elite Ogre
+0            065          09             30         130            156            *              //Elite Ogre
+0            065          09             30         136            167            *              //Elite Ogre
+0            065          09             30         123            156            *              //Elite Ogre
+0            065          09             30         141            172            *              //Elite Ogre
+0            065          09             30         143            180            *              //Elite Ogre
+0            065          09             30         147            163            *              //Elite Ogre
+0            065          09             30         147            157            *              //Elite Ogre
+0            065          09             30         147            172            *              //Elite Ogre
+1            290          09             30         150            180            *              //Lizard Warrior
+1            290          09             30         150            162            *              //Lizard Warrior
+1            290          09             30         134            175            *              //Lizard Warrior
+1            290          09             30         131            174            *              //Lizard Warrior
+1            290          09             30         145            158            *              //Lizard Warrior
+1            290          09             30         142            176            *              //Lizard Warrior
+1            290          09             30         148            178            *              //Lizard Warrior
+1            290          09             30         136            177            *              //Lizard Warrior
+1            290          09             30         136            178            *              //Lizard Warrior
+1            290          09             30         126            181            *              //Lizard Warrior
+1            290          09             30         143            155            *              //Lizard Warrior
+1            290          09             30         138            157            *              //Lizard Warrior
+1            290          09             30         133            170            *              //Lizard Warrior
+1            290          09             30         123            155            *              //Lizard Warrior
+1            290          09             30         140            179            *              //Lizard Warrior
+1            294          09             30         144            181            *              //Ax Warrior
+1            294          09             30         145            160            *              //Ax Warrior
+1            294          09             30         148            168            *              //Ax Warrior
+1            294          09             30         148            173            *              //Ax Warrior
+1            294          09             30         141            154            *              //Ax Warrior
+1            294          09             30         141            171            *              //Ax Warrior
+1            294          09             30         139            177            *              //Ax Warrior
+1            294          09             30         136            180            *              //Ax Warrior
+1            294          09             30         130            181            *              //Ax Warrior
+1            294          09             30         141            162            *              //Ax Warrior
+1            294          09             30         150            168            *              //Ax Warrior
+1            294          09             30         129            164            *              //Ax Warrior
+1            294          09             30         146            169            *              //Ax Warrior
+1            294          09             30         129            167            *              //Ax Warrior
+1            294          09             30         123            179            *              //Ax Warrior
+2            061          09             30         132            168            *              //Beam Knight
+2            061          09             30         139            162            *              //Beam Knight
+2            061          09             30         139            165            *              //Beam Knight
+2            061          09             30         133            166            *              //Beam Knight
+2            061          09             30         135            174            *              //Beam Knight
+2            061          09             30         126            163            *              //Beam Knight
+2            061          09             30         143            154            *              //Beam Knight
+2            061          09             30         144            177            *              //Beam Knight
+2            061          09             30         134            158            *              //Beam Knight
+2            061          09             30         138            162            *              //Beam Knight
+2            070          09             30         123            154            *              //Queen Rainier
+2            070          09             30         125            172            *              //Queen Rainier
+2            070          09             30         143            166            *              //Queen Rainier
+2            070          09             30         126            162            *              //Queen Rainier
+2            070          09             30         139            162            *              //Queen Rainier
+2            070          09             30         132            170            *              //Queen Rainier
+2            070          09             30         146            161            *              //Queen Rainier
+2            070          09             30         126            164            *              //Queen Rainier
+2            070          09             30         142            174            *              //Queen Rainier
+2            070          09             30         132            158            *              //Queen Rainier
+3            063          09             30         134            168            *              //Death Beam Knight
+3            063          09             30         126            179            *              //Death Beam Knight
+3            063          09             30         134            156            *              //Death Beam Knight
+3            063          09             30         134            177            *              //Death Beam Knight
+3            063          09             30         135            172            *              //Death Beam Knight
+3            063          09             30         124            158            *              //Death Beam Knight
+3            063          09             30         128            166            *              //Death Beam Knight
+3            063          09             30         150            173            *              //Death Beam Knight
+3            063          09             30         142            162            *              //Death Beam Knight
+3            063          09             30         141            178            *              //Death Beam Knight
+end
+
+2
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            060          09             30         065            150            *              //Bloody wolf
+0            060          09             30         054            140            *              //Bloody wolf
+0            060          09             30         065            160            *              //Bloody wolf
+0            060          09             30         061            145            *              //Bloody wolf
+0            060          09             30         056            141            *              //Bloody wolf
+0            060          09             30         076            145            *              //Bloody wolf
+0            060          09             30         058            154            *              //Bloody wolf
+0            060          09             30         069            156            *              //Bloody wolf
+0            060          09             30         064            167            *              //Bloody wolf
+0            060          09             30         076            160            *              //Bloody wolf
+0            060          09             30         057            147            *              //Bloody wolf
+0            060          09             30         074            156            *              //Bloody wolf
+0            060          09             30         078            155            *              //Bloody wolf
+0            060          09             30         064            153            *              //Bloody wolf
+0            060          09             30         058            161            *              //Bloody wolf
+0            060          09             30         078            159            *              //Bloody wolf
+0            060          09             30         060            167            *              //Bloody wolf
+0            060          09             30         052            144            *              //Bloody wolf
+0            060          09             30         059            148            *              //Bloody wolf
+0            060          09             30         051            158            *              //Bloody wolf
+0            032          09             30         075            154            *              //Stone Golem
+0            032          09             30         059            163            *              //Stone Golem
+0            032          09             30         077            152            *              //Stone Golem
+0            032          09             30         063            145            *              //Stone Golem
+0            032          09             30         071            162            *              //Stone Golem
+0            032          09             30         074            160            *              //Stone Golem
+0            032          09             30         073            167            *              //Stone Golem
+0            032          09             30         057            143            *              //Stone Golem
+0            032          09             30         071            155            *              //Stone Golem
+0            032          09             30         065            152            *              //Stone Golem
+0            032          09             30         072            161            *              //Stone Golem
+0            032          09             30         058            155            *              //Stone Golem
+0            032          09             30         058            142            *              //Stone Golem
+0            032          09             30         064            153            *              //Stone Golem
+0            032          09             30         051            142            *              //Stone Golem
+0            032          09             30         069            158            *              //Stone Golem
+0            032          09             30         071            166            *              //Stone Golem
+0            032          09             30         075            149            *              //Stone Golem
+0            032          09             30         075            143            *              //Stone Golem
+0            032          09             30         075            158            *              //Stone Golem
+1            057          09             30         078            166            *              //Iron Wheel
+1            057          09             30         078            148            *              //Iron Wheel
+1            057          09             30         062            161            *              //Iron Wheel
+1            057          09             30         059            160            *              //Iron Wheel
+1            057          09             30         073            144            *              //Iron Wheel
+1            057          09             30         070            162            *              //Iron Wheel
+1            057          09             30         076            164            *              //Iron Wheel
+1            057          09             30         064            163            *              //Iron Wheel
+1            057          09             30         064            164            *              //Iron Wheel
+1            057          09             30         054            167            *              //Iron Wheel
+1            057          09             30         071            141            *              //Iron Wheel
+1            057          09             30         066            143            *              //Iron Wheel
+1            057          09             30         061            156            *              //Iron Wheel
+1            057          09             30         051            141            *              //Iron Wheel
+1            057          09             30         068            165            *              //Iron Wheel
+1            058          09             30         072            167            *              //Tantalos
+1            058          09             30         073            146            *              //Tantalos
+1            058          09             30         076            154            *              //Tantalos
+1            058          09             30         076            159            *              //Tantalos
+1            058          09             30         069            140            *              //Tantalos
+1            058          09             30         069            157            *              //Tantalos
+1            058          09             30         067            163            *              //Tantalos
+1            058          09             30         064            166            *              //Tantalos
+1            058          09             30         058            167            *              //Tantalos
+1            058          09             30         069            148            *              //Tantalos
+1            058          09             30         078            154            *              //Tantalos
+1            058          09             30         057            150            *              //Tantalos
+1            058          09             30         074            155            *              //Tantalos
+1            058          09             30         057            153            *              //Tantalos
+1            058          09             30         051            165            *              //Tantalos
+2            292          09             30         060            154            *              //Queen Bee
+2            292          09             30         067            148            *              //Queen Bee
+2            292          09             30         067            151            *              //Queen Bee
+2            292          09             30         061            152            *              //Queen Bee
+2            292          09             30         063            160            *              //Queen Bee
+2            292          09             30         054            149            *              //Queen Bee
+2            292          09             30         071            140            *              //Queen Bee
+2            292          09             30         072            163            *              //Queen Bee
+2            292          09             30         062            144            *              //Queen Bee
+2            292          09             30         066            148            *              //Queen Bee
+2            293          09             30         051            140            *              //Poison Golem
+2            293          09             30         053            158            *              //Poison Golem
+2            293          09             30         071            152            *              //Poison Golem
+2            293          09             30         054            148            *              //Poison Golem
+2            293          09             30         067            148            *              //Poison Golem
+2            293          09             30         060            156            *              //Poison Golem
+2            293          09             30         074            147            *              //Poison Golem
+2            293          09             30         054            150            *              //Poison Golem
+2            293          09             30         070            160            *              //Poison Golem
+2            293          09             30         060            144            *              //Poison Golem
+3            291          09             30         062            154            *              //Fire Golem
+3            291          09             30         054            165            *              //Fire Golem
+3            291          09             30         062            142            *              //Fire Golem
+3            291          09             30         062            163            *              //Fire Golem
+3            291          09             30         063            158            *              //Fire Golem
+3            291          09             30         052            144            *              //Fire Golem
+3            291          09             30         056            152            *              //Fire Golem
+3            291          09             30         078            159            *              //Fire Golem
+3            291          09             30         070            148            *              //Fire Golem
+3            291          09             30         069            164            *              //Fire Golem
+end
+
+3
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            069          09             30         069            086            *              //Alquamos
+0            069          09             30         058            076            *              //Alquamos
+0            069          09             30         069            096            *              //Alquamos
+0            069          09             30         065            081            *              //Alquamos
+0            069          09             30         060            077            *              //Alquamos
+0            069          09             30         080            081            *              //Alquamos
+0            069          09             30         062            090            *              //Alquamos
+0            069          09             30         073            092            *              //Alquamos
+0            069          09             30         068            103            *              //Alquamos
+0            069          09             30         080            096            *              //Alquamos
+0            069          09             30         061            083            *              //Alquamos
+0            069          09             30         078            092            *              //Alquamos
+0            069          09             30         082            091            *              //Alquamos
+0            069          09             30         068            089            *              //Alquamos
+0            069          09             30         062            097            *              //Alquamos
+0            069          09             30         082            095            *              //Alquamos
+0            069          09             30         064            103            *              //Alquamos
+0            069          09             30         056            080            *              //Alquamos
+0            069          09             30         063            084            *              //Alquamos
+0            069          09             30         055            094            *              //Alquamos
+0            071          09             30         079            090            *              //Mega Crust
+0            071          09             30         063            099            *              //Mega Crust
+0            071          09             30         081            088            *              //Mega Crust
+0            071          09             30         067            081            *              //Mega Crust
+0            071          09             30         075            098            *              //Mega Crust
+0            071          09             30         078            096            *              //Mega Crust
+0            071          09             30         077            103            *              //Mega Crust
+0            071          09             30         061            079            *              //Mega Crust
+0            071          09             30         075            091            *              //Mega Crust
+0            071          09             30         069            088            *              //Mega Crust
+0            071          09             30         076            097            *              //Mega Crust
+0            071          09             30         062            091            *              //Mega Crust
+0            071          09             30         062            078            *              //Mega Crust
+0            071          09             30         068            089            *              //Mega Crust
+0            071          09             30         055            078            *              //Mega Crust
+0            071          09             30         073            094            *              //Mega Crust
+0            071          09             30         075            102            *              //Mega Crust
+0            071          09             30         079            085            *              //Mega Crust
+0            071          09             30         079            079            *              //Mega Crust
+0            071          09             30         079            094            *              //Mega Crust
+1            073          09             30         082            102            *              //Drakan
+1            073          09             30         082            084            *              //Drakan
+1            073          09             30         066            097            *              //Drakan
+1            073          09             30         063            096            *              //Drakan
+1            073          09             30         077            080            *              //Drakan
+1            073          09             30         074            098            *              //Drakan
+1            073          09             30         080            100            *              //Drakan
+1            073          09             30         068            099            *              //Drakan
+1            073          09             30         068            100            *              //Drakan
+1            073          09             30         058            103            *              //Drakan
+1            073          09             30         075            077            *              //Drakan
+1            073          09             30         070            079            *              //Drakan
+1            073          09             30         065            092            *              //Drakan
+1            073          09             30         055            077            *              //Drakan
+1            073          09             30         072            101            *              //Drakan
+1            074          09             30         076            103            *              //Alpha Crust
+1            074          09             30         077            082            *              //Alpha Crust
+1            074          09             30         080            090            *              //Alpha Crust
+1            074          09             30         080            095            *              //Alpha Crust
+1            074          09             30         073            076            *              //Alpha Crust
+1            074          09             30         073            093            *              //Alpha Crust
+1            074          09             30         071            099            *              //Alpha Crust
+1            074          09             30         068            102            *              //Alpha Crust
+1            074          09             30         062            103            *              //Alpha Crust
+1            074          09             30         073            084            *              //Alpha Crust
+1            074          09             30         082            090            *              //Alpha Crust
+1            074          09             30         061            086            *              //Alpha Crust
+1            074          09             30         078            091            *              //Alpha Crust
+1            074          09             30         061            089            *              //Alpha Crust
+1            074          09             30         055            101            *              //Alpha Crust
+2            072          09             30         064            090            *              //Phantom Knight
+2            072          09             30         071            084            *              //Phantom Knight
+2            072          09             30         071            087            *              //Phantom Knight
+2            072          09             30         065            088            *              //Phantom Knight
+2            072          09             30         067            096            *              //Phantom Knight
+2            072          09             30         058            085            *              //Phantom Knight
+2            072          09             30         075            076            *              //Phantom Knight
+2            072          09             30         076            099            *              //Phantom Knight
+2            072          09             30         066            080            *              //Phantom Knight
+2            072          09             30         070            084            *              //Phantom Knight
+2            075          09             30         055            076            *              //Great Drakan
+2            075          09             30         057            094            *              //Great Drakan
+2            075          09             30         075            088            *              //Great Drakan
+2            075          09             30         058            084            *              //Great Drakan
+2            075          09             30         071            084            *              //Great Drakan
+2            075          09             30         064            092            *              //Great Drakan
+2            075          09             30         078            083            *              //Great Drakan
+2            075          09             30         058            086            *              //Great Drakan
+2            075          09             30         074            096            *              //Great Drakan
+2            075          09             30         064            080            *              //Great Drakan
+3            077          09             30         066            090            *              //Phoenix of Darkness
+3            077          09             30         058            101            *              //Phoenix of Darkness
+3            077          09             30         066            078            *              //Phoenix of Darkness
+3            077          09             30         066            099            *              //Phoenix of Darkness
+3            077          09             30         067            094            *              //Phoenix of Darkness
+3            077          09             30         056            080            *              //Phoenix of Darkness
+3            077          09             30         060            088            *              //Phoenix of Darkness
+3            077          09             30         082            095            *              //Phoenix of Darkness
+3            077          09             30         074            084            *              //Phoenix of Darkness
+3            077          09             30         073            100            *              //Phoenix of Darkness
+end
+
+4
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            434          32             30         136            092            *              //Gigantis
+0            434          32             30         125            082            *              //Gigantis
+0            434          32             30         136            102            *              //Gigantis
+0            434          32             30         132            087            *              //Gigantis
+0            434          32             30         127            083            *              //Gigantis
+0            434          32             30         147            087            *              //Gigantis
+0            434          32             30         129            096            *              //Gigantis
+0            434          32             30         140            098            *              //Gigantis
+0            434          32             30         135            109            *              //Gigantis
+0            434          32             30         147            102            *              //Gigantis
+0            434          32             30         128            089            *              //Gigantis
+0            434          32             30         145            098            *              //Gigantis
+0            434          32             30         149            097            *              //Gigantis
+0            434          32             30         135            095            *              //Gigantis
+0            434          32             30         129            103            *              //Gigantis
+0            434          32             30         149            101            *              //Gigantis
+0            434          32             30         131            109            *              //Gigantis
+0            434          32             30         123            086            *              //Gigantis
+0            434          32             30         130            090            *              //Gigantis
+0            434          32             30         122            100            *              //Gigantis
+0            435          32             30         146            096            *              //Berserker
+0            435          32             30         130            105            *              //Berserker
+0            435          32             30         148            094            *              //Berserker
+0            435          32             30         134            087            *              //Berserker
+0            435          32             30         142            104            *              //Berserker
+0            435          32             30         145            102            *              //Berserker
+0            435          32             30         144            109            *              //Berserker
+0            435          32             30         128            085            *              //Berserker
+0            435          32             30         142            097            *              //Berserker
+0            435          32             30         136            094            *              //Berserker
+0            435          32             30         143            103            *              //Berserker
+0            435          32             30         129            097            *              //Berserker
+0            435          32             30         129            084            *              //Berserker
+0            435          32             30         135            095            *              //Berserker
+0            435          32             30         122            084            *              //Berserker
+0            435          32             30         140            100            *              //Berserker
+0            435          32             30         142            108            *              //Berserker
+0            435          32             30         146            091            *              //Berserker
+0            435          32             30         146            085            *              //Berserker
+0            435          32             30         146            100            *              //Berserker
+1            436          32             30         149            108            *              //Balram (Trainee Soldier)
+1            436          32             30         149            090            *              //Balram (Trainee Soldier)
+1            436          32             30         133            103            *              //Balram (Trainee Soldier)
+1            436          32             30         130            102            *              //Balram (Trainee Soldier)
+1            436          32             30         144            086            *              //Balram (Trainee Soldier)
+1            436          32             30         141            104            *              //Balram (Trainee Soldier)
+1            436          32             30         147            106            *              //Balram (Trainee Soldier)
+1            436          32             30         135            105            *              //Balram (Trainee Soldier)
+1            436          32             30         135            106            *              //Balram (Trainee Soldier)
+1            436          32             30         125            109            *              //Balram (Trainee Soldier)
+1            436          32             30         142            083            *              //Balram (Trainee Soldier)
+1            436          32             30         137            085            *              //Balram (Trainee Soldier)
+1            436          32             30         132            098            *              //Balram (Trainee Soldier)
+1            436          32             30         122            083            *              //Balram (Trainee Soldier)
+1            436          32             30         139            107            *              //Balram (Trainee Soldier)
+1            437          32             30         143            109            *              //Soram (Trainee Soldier)
+1            437          32             30         144            088            *              //Soram (Trainee Soldier)
+1            437          32             30         147            096            *              //Soram (Trainee Soldier)
+1            437          32             30         147            101            *              //Soram (Trainee Soldier)
+1            437          32             30         140            082            *              //Soram (Trainee Soldier)
+1            437          32             30         140            099            *              //Soram (Trainee Soldier)
+1            437          32             30         138            105            *              //Soram (Trainee Soldier)
+1            437          32             30         135            108            *              //Soram (Trainee Soldier)
+1            437          32             30         129            109            *              //Soram (Trainee Soldier)
+1            437          32             30         140            090            *              //Soram (Trainee Soldier)
+1            437          32             30         149            096            *              //Soram (Trainee Soldier)
+1            437          32             30         128            092            *              //Soram (Trainee Soldier)
+1            437          32             30         145            097            *              //Soram (Trainee Soldier)
+1            437          32             30         128            095            *              //Soram (Trainee Soldier)
+1            437          32             30         122            107            *              //Soram (Trainee Soldier)
+2            438          32             30         131            096            *              //Persona
+2            438          32             30         138            090            *              //Persona
+2            438          32             30         138            093            *              //Persona
+2            438          32             30         132            094            *              //Persona
+2            438          32             30         134            102            *              //Persona
+2            438          32             30         125            091            *              //Persona
+2            438          32             30         142            082            *              //Persona
+2            438          32             30         143            105            *              //Persona
+2            438          32             30         133            086            *              //Persona
+2            438          32             30         137            090            *              //Persona
+2            439          32             30         122            082            *              //Dreadfear
+2            439          32             30         124            100            *              //Dreadfear
+2            439          32             30         142            094            *              //Dreadfear
+2            439          32             30         125            090            *              //Dreadfear
+2            439          32             30         138            090            *              //Dreadfear
+2            439          32             30         131            098            *              //Dreadfear
+2            439          32             30         145            089            *              //Dreadfear
+2            439          32             30         125            092            *              //Dreadfear
+2            439          32             30         141            102            *              //Dreadfear
+2            439          32             30         131            086            *              //Dreadfear
+3            440          32             30         133            096            *              //Dark Elf
+3            440          32             30         125            107            *              //Dark Elf
+3            440          32             30         133            084            *              //Dark Elf
+3            440          32             30         133            105            *              //Dark Elf
+3            440          32             30         134            100            *              //Dark Elf
+3            440          32             30         123            086            *              //Dark Elf
+3            440          32             30         127            094            *              //Dark Elf
+3            440          32             30         149            101            *              //Dark Elf
+3            440          32             30         141            090            *              //Dark Elf
+3            440          32             30         140            106            *              //Dark Elf
+end
+
+5
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            549          32             30         138            164            *              //Bloody Orc
+0            549          32             30         127            154            *              //Bloody Orc
+0            549          32             30         138            174            *              //Bloody Orc
+0            549          32             30         134            159            *              //Bloody Orc
+0            549          32             30         129            155            *              //Bloody Orc
+0            549          32             30         149            159            *              //Bloody Orc
+0            549          32             30         131            168            *              //Bloody Orc
+0            549          32             30         142            170            *              //Bloody Orc
+0            549          32             30         137            181            *              //Bloody Orc
+0            549          32             30         149            174            *              //Bloody Orc
+0            549          32             30         130            161            *              //Bloody Orc
+0            549          32             30         147            170            *              //Bloody Orc
+0            549          32             30         151            169            *              //Bloody Orc
+0            549          32             30         137            167            *              //Bloody Orc
+0            549          32             30         131            175            *              //Bloody Orc
+0            549          32             30         151            173            *              //Bloody Orc
+0            549          32             30         133            181            *              //Bloody Orc
+0            549          32             30         125            158            *              //Bloody Orc
+0            549          32             30         132            162            *              //Bloody Orc
+0            549          32             30         124            172            *              //Bloody Orc
+0            550          32             30         148            168            *              //Bloody Death Rider
+0            550          32             30         132            177            *              //Bloody Death Rider
+0            550          32             30         150            166            *              //Bloody Death Rider
+0            550          32             30         136            159            *              //Bloody Death Rider
+0            550          32             30         144            176            *              //Bloody Death Rider
+0            550          32             30         147            174            *              //Bloody Death Rider
+0            550          32             30         146            181            *              //Bloody Death Rider
+0            550          32             30         130            157            *              //Bloody Death Rider
+0            550          32             30         144            169            *              //Bloody Death Rider
+0            550          32             30         138            166            *              //Bloody Death Rider
+0            550          32             30         145            175            *              //Bloody Death Rider
+0            550          32             30         131            169            *              //Bloody Death Rider
+0            550          32             30         131            156            *              //Bloody Death Rider
+0            550          32             30         137            167            *              //Bloody Death Rider
+0            550          32             30         124            156            *              //Bloody Death Rider
+0            550          32             30         142            172            *              //Bloody Death Rider
+0            550          32             30         144            180            *              //Bloody Death Rider
+0            550          32             30         148            163            *              //Bloody Death Rider
+0            550          32             30         148            157            *              //Bloody Death Rider
+0            550          32             30         148            172            *              //Bloody Death Rider
+1            551          32             30         151            180            *              //Bloody Golem
+1            551          32             30         151            162            *              //Bloody Golem
+1            551          32             30         135            175            *              //Bloody Golem
+1            551          32             30         132            174            *              //Bloody Golem
+1            551          32             30         146            158            *              //Bloody Golem
+1            551          32             30         143            176            *              //Bloody Golem
+1            551          32             30         149            178            *              //Bloody Golem
+1            551          32             30         137            177            *              //Bloody Golem
+1            551          32             30         137            178            *              //Bloody Golem
+1            551          32             30         127            181            *              //Bloody Golem
+1            551          32             30         144            155            *              //Bloody Golem
+1            551          32             30         139            157            *              //Bloody Golem
+1            551          32             30         134            170            *              //Bloody Golem
+1            551          32             30         124            155            *              //Bloody Golem
+1            551          32             30         141            179            *              //Bloody Golem
+1            552          32             30         145            181            *              //Bloody Witch Queen
+1            552          32             30         146            160            *              //Bloody Witch Queen
+1            552          32             30         149            168            *              //Bloody Witch Queen
+1            552          32             30         149            173            *              //Bloody Witch Queen
+1            552          32             30         142            154            *              //Bloody Witch Queen
+1            552          32             30         142            171            *              //Bloody Witch Queen
+1            552          32             30         140            177            *              //Bloody Witch Queen
+1            552          32             30         137            180            *              //Bloody Witch Queen
+1            552          32             30         131            181            *              //Bloody Witch Queen
+1            552          32             30         142            162            *              //Bloody Witch Queen
+1            552          32             30         151            168            *              //Bloody Witch Queen
+1            552          32             30         130            164            *              //Bloody Witch Queen
+1            552          32             30         147            169            *              //Bloody Witch Queen
+1            552          32             30         130            167            *              //Bloody Witch Queen
+1            552          32             30         124            179            *              //Bloody Witch Queen
+2            553          32             30         133            168            *              //Berserker Warrior
+2            553          32             30         140            162            *              //Berserker Warrior
+2            553          32             30         140            165            *              //Berserker Warrior
+2            553          32             30         134            166            *              //Berserker Warrior
+2            553          32             30         136            174            *              //Berserker Warrior
+2            553          32             30         127            163            *              //Berserker Warrior
+2            553          32             30         144            154            *              //Berserker Warrior
+2            553          32             30         145            177            *              //Berserker Warrior
+2            553          32             30         135            158            *              //Berserker Warrior
+2            553          32             30         139            162            *              //Berserker Warrior
+2            555          32             30         124            154            *              //Gigantis Warrior
+2            555          32             30         126            172            *              //Gigantis Warrior
+2            555          32             30         144            166            *              //Gigantis Warrior
+2            555          32             30         127            162            *              //Gigantis Warrior
+2            555          32             30         140            162            *              //Gigantis Warrior
+2            555          32             30         133            170            *              //Gigantis Warrior
+2            555          32             30         147            161            *              //Gigantis Warrior
+2            555          32             30         127            164            *              //Gigantis Warrior
+2            555          32             30         143            174            *              //Gigantis Warrior
+2            555          32             30         133            158            *              //Gigantis Warrior
+3            558          32             30         135            168            *              //Ice Napin
+3            558          32             30         127            179            *              //Ice Napin
+3            558          32             30         135            156            *              //Ice Napin
+3            558          32             30         135            177            *              //Ice Napin
+3            558          32             30         136            172            *              //Ice Napin
+3            558          32             30         125            158            *              //Ice Napin
+3            558          32             30         129            166            *              //Ice Napin
+3            558          32             30         151            173            *              //Ice Napin
+3            558          32             30         143            162            *              //Ice Napin
+3            558          32             30         142            178            *              //Ice Napin
+end
+
+6
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            574          32             30         065            150            *              //Crypos
+0            574          32             30         054            140            *              //Crypos
+0            574          32             30         065            160            *              //Crypos
+0            574          32             30         061            145            *              //Crypos
+0            574          32             30         056            141            *              //Crypos
+0            574          32             30         076            145            *              //Crypos
+0            574          32             30         058            154            *              //Crypos
+0            574          32             30         069            156            *              //Crypos
+0            574          32             30         064            167            *              //Crypos
+0            574          32             30         076            160            *              //Crypos
+0            574          32             30         057            147            *              //Crypos
+0            574          32             30         074            156            *              //Crypos
+0            574          32             30         078            155            *              //Crypos
+0            574          32             30         064            153            *              //Crypos
+0            574          32             30         058            161            *              //Crypos
+0            574          32             30         078            159            *              //Crypos
+0            574          32             30         060            167            *              //Crypos
+0            574          32             30         052            144            *              //Crypos
+0            574          32             30         059            148            *              //Crypos
+0            574          32             30         051            158            *              //Crypos
+0            575          32             30         075            154            *              //Condra
+0            575          32             30         059            163            *              //Condra
+0            575          32             30         077            152            *              //Condra
+0            575          32             30         063            145            *              //Condra
+0            575          32             30         071            162            *              //Condra
+0            575          32             30         074            160            *              //Condra
+0            575          32             30         073            167            *              //Condra
+0            575          32             30         057            143            *              //Condra
+0            575          32             30         071            155            *              //Condra
+0            575          32             30         065            152            *              //Condra
+0            575          32             30         072            161            *              //Condra
+0            575          32             30         058            155            *              //Condra
+0            575          32             30         058            142            *              //Condra
+0            575          32             30         064            153            *              //Condra
+0            575          32             30         051            142            *              //Condra
+0            575          32             30         069            158            *              //Condra
+0            575          32             30         071            166            *              //Condra
+0            575          32             30         075            149            *              //Condra
+0            575          32             30         075            143            *              //Condra
+0            575          32             30         075            158            *              //Condra
+1            554          32             30         078            166            *              //Kentauros Warrior
+1            554          32             30         078            148            *              //Kentauros Warrior
+1            554          32             30         062            161            *              //Kentauros Warrior
+1            554          32             30         059            160            *              //Kentauros Warrior
+1            554          32             30         073            144            *              //Kentauros Warrior
+1            554          32             30         070            162            *              //Kentauros Warrior
+1            554          32             30         076            164            *              //Kentauros Warrior
+1            554          32             30         064            163            *              //Kentauros Warrior
+1            554          32             30         064            164            *              //Kentauros Warrior
+1            554          32             30         054            167            *              //Kentauros Warrior
+1            554          32             30         071            141            *              //Kentauros Warrior
+1            554          32             30         066            143            *              //Kentauros Warrior
+1            554          32             30         061            156            *              //Kentauros Warrior
+1            554          32             30         051            141            *              //Kentauros Warrior
+1            554          32             30         068            165            *              //Kentauros Warrior
+1            576          32             30         072            167            *              //Narcondra
+1            576          32             30         073            146            *              //Narcondra
+1            576          32             30         076            154            *              //Narcondra
+1            576          32             30         076            159            *              //Narcondra
+1            576          32             30         069            140            *              //Narcondra
+1            576          32             30         069            157            *              //Narcondra
+1            576          32             30         067            163            *              //Narcondra
+1            576          32             30         064            166            *              //Narcondra
+1            576          32             30         058            167            *              //Narcondra
+1            576          32             30         069            148            *              //Narcondra
+1            576          32             30         078            154            *              //Narcondra
+1            576          32             30         057            150            *              //Narcondra
+1            576          32             30         074            155            *              //Narcondra
+1            576          32             30         057            153            *              //Narcondra
+1            576          32             30         051            165            *              //Narcondra
+2            556          32             30         060            154            *              //Genocider Warrior
+2            556          32             30         067            148            *              //Genocider Warrior
+2            556          32             30         067            151            *              //Genocider Warrior
+2            556          32             30         061            152            *              //Genocider Warrior
+2            556          32             30         063            160            *              //Genocider Warrior
+2            556          32             30         054            149            *              //Genocider Warrior
+2            556          32             30         071            140            *              //Genocider Warrior
+2            556          32             30         072            163            *              //Genocider Warrior
+2            556          32             30         062            144            *              //Genocider Warrior
+2            556          32             30         066            148            *              //Genocider Warrior
+2            557          32             30         051            140            *              //Sapi Queen
+2            557          32             30         053            158            *              //Sapi Queen
+2            557          32             30         071            152            *              //Sapi Queen
+2            557          32             30         054            148            *              //Sapi Queen
+2            557          32             30         067            148            *              //Sapi Queen
+2            557          32             30         060            156            *              //Sapi Queen
+2            557          32             30         074            147            *              //Sapi Queen
+2            557          32             30         054            150            *              //Sapi Queen
+2            557          32             30         070            160            *              //Sapi Queen
+2            557          32             30         060            144            *              //Sapi Queen
+3            559          32             30         062            154            *              //Shadow Master
+3            559          32             30         054            165            *              //Shadow Master
+3            559          32             30         062            142            *              //Shadow Master
+3            559          32             30         062            163            *              //Shadow Master
+3            559          32             30         063            158            *              //Shadow Master
+3            559          32             30         052            144            *              //Shadow Master
+3            559          32             30         056            152            *              //Shadow Master
+3            559          32             30         078            159            *              //Shadow Master
+3            559          32             30         070            148            *              //Shadow Master
+3            559          32             30         069            164            *              //Shadow Master
+end

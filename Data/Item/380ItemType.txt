@@ -1,0 +1,42 @@
+//Index   OptionIndex1   OptionValue1   OptionIndex2   OptionValue2   Comment
+22        2              *              1              *              //Bone Blade
+23        2              *              1              *              //Explosion Blade
+35        2              *              1              *              //Phoenix Soul Star
+1038      2              *              1              *              //Soleil Sceptor
+2069      2              *              1              *              //Sylph Wind Bow
+2572      2              *              1              *              //Grand Viper Staff
+2579      2              *              1              *              //Storm Blitz Stick
+3613      8              *              3              *              //Dragon Knight Helm
+3614      8              *              3              *              //Venom Mist Helm
+3615      8              *              3              *              //Sylphid Ray Helm
+3617      8              *              3              *              //Sunlight Mask
+3627      8              *              3              *              //Storm Blitz Helm
+3657      8              *              3              *              //Phoenix Soul Helmet
+4125      7              *              3              *              //Dragon Knight Armor
+4126      7              *              3              *              //Venom Mist Armor
+4127      7              *              3              *              //Sylphid Ray Armor
+4128      7              *              3              *              //Volcano Armor
+4129      7              *              3              *              //Sunlight Armor
+4139      7              *              3              *              //Storm Blitz Armor
+4169      7              *              3              *              //Phoenix Soul Armor
+4637      4              *              3              *              //Dragon Knight Pants
+4638      4              *              3              *              //Venom Mist Pants
+4639      4              *              3              *              //Sylphid Ray Pants
+4640      4              *              3              *              //Volcano Pants
+4641      4              *              3              *              //Sunlight Pants
+4651      4              *              3              *              //Storm Blitz Pants
+4681      4              *              3              *              //Phoenix Soul Pants
+5149      5              *              3              *              //Dragon Knight Gloves
+5150      5              *              3              *              //Venom Mist Gloves
+5151      5              *              3              *              //Sylphid Ray Gloves
+5152      5              *              3              *              //Volcano Gloves
+5153      5              *              3              *              //Sunlight Gloves
+5163      5              *              3              *              //Storm Blitz Gloves
+5661      6              *              3              *              //Dragon Knight Boots
+5662      6              *              3              *              //Venom Mist Boots
+5663      6              *              3              *              //Sylphid Ray Boots
+5664      6              *              3              *              //Volcano Boots
+5665      6              *              3              *              //Sunlight Boots
+5675      6              *              3              *              //Storm Blitz Boots
+5705      6              *              3              *              //Phoenix Soul Boots
+end

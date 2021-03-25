@@ -1,0 +1,90 @@
+0
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            364          39             00         188            110            *              //Maya
+0            354          39             30         176            066            *              //Blade Hunter
+0            354          39             30         176            069            *              //Blade Hunter
+0            354          39             30         176            072            *              //Blade Hunter
+0            354          39             30         179            067            *              //Blade Hunter
+0            354          39             30         179            071            *              //Blade Hunter
+0            354          39             30         211            065            *              //Blade Hunter
+0            354          39             30         211            068            *              //Blade Hunter
+0            354          39             30         211            071            *              //Blade Hunter
+0            354          39             30         213            067            *              //Blade Hunter
+0            354          39             30         213            070            *              //Blade Hunter
+0            354          39             30         196            073            *              //Blade Hunter
+0            354          39             30         199            073            *              //Blade Hunter
+0            354          39             30         202            073            *              //Blade Hunter
+0            354          39             30         190            072            *              //Blade Hunter
+0            354          39             30         187            072            *              //Blade Hunter
+0            354          39             30         203            068            *              //Blade Hunter
+0            354          39             30         200            084            *              //Blade Hunter
+0            354          39             30         203            084            *              //Blade Hunter
+0            354          39             30         181            081            *              //Blade Hunter
+0            354          39             30         184            081            *              //Blade Hunter
+0            354          39             30         191            060            *              //Blade Hunter
+0            354          39             30         179            079            *              //Blade Hunter
+0            354          39             30         182            079            *              //Blade Hunter
+0            354          39             30         185            079            *              //Blade Hunter
+0            354          39             30         199            081            *              //Blade Hunter
+0            354          39             30         202            081            *              //Blade Hunter
+0            354          39             30         196            080            *              //Blade Hunter
+0            354          39             30         196            060            *              //Blade Hunter
+0            354          39             30         186            060            *              //Blade Hunter
+0            354          39             30         191            067            *              //Blade Hunter
+0            360          39             30         177            060            *              //Dreadfear
+0            360          39             30         177            060            *              //Dreadfear
+0            360          39             30         193            080            *              //Dreadfear
+0            360          39             30         191            080            *              //Dreadfear
+0            360          39             30         207            086            *              //Dreadfear
+0            360          39             30         214            078            *              //Dreadfear
+0            360          39             30         209            059            *              //Dreadfear
+0            360          39             30         193            067            *              //Dreadfear
+0            360          39             30         189            067            *              //Dreadfear
+0            360          39             30         189            081            *              //Dreadfear
+1            364          39             00         188            110            *              //Maya
+1            359          39             30         178            060            *              //Twin Tale
+1            359          39             30         178            064            *              //Twin Tale
+1            359          39             30         177            080            *              //Twin Tale
+1            359          39             30         179            083            *              //Twin Tale
+1            359          39             30         179            083            *              //Twin Tale
+1            359          39             30         179            083            *              //Twin Tale
+1            359          39             30         214            078            *              //Twin Tale
+1            359          39             30         214            075            *              //Twin Tale
+1            359          39             30         213            065            *              //Twin Tale
+1            359          39             30         210            062            *              //Twin Tale
+1            359          39             30         187            072            *              //Twin Tale
+1            359          39             30         195            072            *              //Twin Tale
+1            360          39             30         176            072            *              //Dreadfear
+1            360          39             30         189            081            *              //Dreadfear
+1            360          39             30         197            084            *              //Dreadfear
+1            360          39             30         192            081            *              //Dreadfear
+1            360          39             30         213            070            *              //Dreadfear
+1            360          39             30         203            072            *              //Dreadfear
+1            360          39             30         192            058            *              //Dreadfear
+1            360          39             30         200            058            *              //Dreadfear
+2            360          39             30         078            115            *              //Dreadfear
+2            360          39             30         080            100            *              //Dreadfear
+2            360          39             30         079            127            *              //Dreadfear
+2            360          39             30         081            127            *              //Dreadfear
+2            358          39             30         076            136            *              //Persona
+2            358          39             30         080            136            *              //Persona
+2            358          39             30         086            127            *              //Persona
+2            358          39             30         087            114            *              //Persona
+2            357          39             30         078            098            *              //Genocider
+2            357          39             30         084            099            *              //Genocider
+2            357          39             30         075            111            *              //Genocider
+2            357          39             30         078            111            *              //Genocider
+2            357          39             30         081            111            *              //Genocider
+2            357          39             30         084            111            *              //Genocider
+2            357          39             30         079            122            *              //Genocider
+3            364          39             00         188            110            *              //Maya
+4            364          39             00         188            110            *              //Maya
+5            364          39             00         188            110            *              //Maya
+6            360          39             30         075            111            *              //Dreadfear
+6            360          39             30         082            111            *              //Dreadfear
+6            360          39             30         079            115            *              //Dreadfear
+6            360          39             30         077            133            *              //Dreadfear
+6            360          39             30         081            133            *              //Dreadfear
+6            360          39             30         079            128            *              //Dreadfear
+6            360          39             30         077            121            *              //Dreadfear
+end

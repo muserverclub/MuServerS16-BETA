@@ -1,0 +1,44 @@
+3
+//Index   DropRate
+0         10000
+1         5000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         *         10000         100000        0             1    1    1    1    1    1    1    1
+0         5         10000         0             0             1    1    1    1    1    1    1    1
+0         6         10000         0             0             1    1    1    1    1    1    1    1
+1         *         10000         100000        0             1    1    1    1    1    1    1    1
+1         5         10000         0             0             1    1    1    1    1    1    1    1
+1         6         10000         0             0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,016    0       0       *         *         *         *         *         *         *         0          //Jewel of Life
+14,022    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+12,030    0       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Bless
+12,031    0       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Soul
+12,136    0       0       *         *         *         *         *         *         *         0          //Jewel of Life Bundle
+12,137    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation Bundle
+12,141    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos Bundle
+12,030    1       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Bless
+12,031    1       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Soul
+12,136    1       0       *         *         *         *         *         *         *         0          //Jewel of Life Bundle
+12,137    1       0       *         *         *         *         *         *         *         0          //Jewel of Creation Bundle
+12,141    1       0       *         *         *         *         *         *         *         0          //Jewel of Chaos Bundle
+12,030    2       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Bless
+12,031    2       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Soul
+12,136    2       0       *         *         *         *         *         *         *         0          //Jewel of Life Bundle
+12,137    2       0       *         *         *         *         *         *         *         0          //Jewel of Creation Bundle
+12,141    2       0       *         *         *         *         *         *         *         0          //Jewel of Chaos Bundle
+12,267    0       0       *         *         *         *         *         *         *         2592000    //Wings of Angel and Devil
+end

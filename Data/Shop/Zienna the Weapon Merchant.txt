@@ -1,0 +1,19 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+3585      3       0       0         1         1         0           //Dragon Helm
+4097      3       0       0         1         1         0           //Dragon Armor
+4609      3       0       0         1         1         0           //Dragon Pants
+5121      3       0       0         1         1         0           //Dragon Gloves
+5633      3       0       0         1         1         0           //Dragon Boots
+9         3       0       1         1         1         0           //Sword of Salamander
+11        3       0       1         1         1         0           //Legendary Sword
+15        3       0       1         1         1         0           //Giant Sword
+13        3       0       1         1         1         0           //Double Blade
+12        3       0       1         1         1         0           //Heliacal Sword
+14        3       0       1         1         1         0           //Lighting Sword
+2060      3       0       1         1         1         0           //Serpent Crossbow
+1544      3       0       1         1         1         0           //Great Scythe
+1545      3       0       1         1         1         0           //Bill of Balrog
+2053      3       0       1         1         1         0           //Silver Bow
+2061      3       0       1         1         1         0           //Bluewing Crossbow
+end
+

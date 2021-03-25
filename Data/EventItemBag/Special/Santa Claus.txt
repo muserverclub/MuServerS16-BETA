@@ -1,0 +1,25 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+13,000    0       0       *         *         *         *         *         *         *         0          //Guardian Angel
+13,001    0       0       *         *         *         *         *         *         *         0          //Imp
+13,068    0       0       *         *         *         *         *         *         *         0          //Snowman Transformation Ring
+14,099    0       0       *         *         *         *         *         *         *         0          //Christmas Firecracker
+14,019    0       0       37        *         *         *         *         *         *         0          //Devil's Invitation [Level: +5~7]
+13,018    0       0       39        *         *         *         *         *         *         0          //Invisibility Cloak [Level: +6~8]
+14,028    7       0       *         *         *         *         *         *         *         0          //Lost Map [Level: 7]
+13,051    0       0       35        *         *         *         *         *         *         0          //Scroll of Blood [Level: +4~6]
+13,067    0       0       *         *         *         *         *         *         *         0          //Pet Rudolph
+13,041    0       0       *         *         *         *         *         *         *         0          //Transfer Christmas Ring
+end

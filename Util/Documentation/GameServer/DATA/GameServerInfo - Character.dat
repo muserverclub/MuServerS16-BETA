@@ -1,0 +1,1362 @@
+[GameServerInfo]
+;==================================================
+; Character Damage Rate Settings
+;==================================================
+DuelDamageRate -> Duel damage percentage.
+GensDamageRate -> Gens damage percentage.
+CustomArenaDamageRate -> Custom Arena PvP damage percentage.
+ChaosCastleDamageRate -> Chaos Castle PvP damage percentage.
+ArcaBattleDamageRate1 -> Arca Battle PvP damage percentage.
+ArcaBattleDamageRate2 -> Arca Battle obelisk damage percentage.
+IllusionTempleDamageRate -> Illusion Temple PvP damage percentage.
+CastleSiegeDamageRate1 -> Castle Siege PvP damage percentage.
+CastleSiegeDamageRate2 -> Castle Siege PvP friendly fire damage percentage.
+CastleSiegeDamageRate3 -> Castle Siege gate/statue damage percentage.
+GeneralDamageRatePvP -> General PvP damage percentage.
+GeneralDamageRatePvM -> General PvM damage percentage.
+ReflectDamageRatePvP -> General PvP reflect damage percentage.
+ReflectDamageRatePvM -> General PvM reflect damage percentage.
+
+;==================================================
+; Character Class Damage Rate Settings
+;==================================================
+DWDamageRatePvP -> DW PvP damage percentage.
+DKDamageRatePvP -> DK PvP damage percentage.
+FEDamageRatePvP -> FE PvP damage percentage.
+MGDamageRatePvP -> MG PvP damage percentage.
+DLDamageRatePvP -> DL PvP damage percentage.
+SUDamageRatePvP -> SU PvP damage percentage.
+RFDamageRatePvP -> RF PvP damage percentage.
+GLDamageRatePvP -> GL PvP damage percentage.
+RWDamageRatePvP -> RW PvP damage percentage.
+SLDamageRatePvP -> SL PvP damage percentage.
+DWDamageRatePvM -> DW PvM damage percentage.
+DKDamageRatePvM -> DK PvM damage percentage.
+FEDamageRatePvM -> FE PvM damage percentage.
+MGDamageRatePvM -> MG PvM damage percentage.
+DLDamageRatePvM -> DL PvM damage percentage.
+SUDamageRatePvM -> SU PvM damage percentage.
+RFDamageRatePvM -> RF PvM damage percentage.
+GLDamageRatePvM -> GL PvM damage percentage.
+RWDamageRatePvM -> RW PvM damage percentage.
+SLDamageRatePvM -> SL PvM damage percentage.
+
+;==================================================
+; Character Class x Class Damage Rate Settings
+;==================================================
+DWDamageRateToDW -> DW vs DW damage percentage.
+DWDamageRateToDK -> DW vs DK damage percentage.
+DWDamageRateToFE -> DW vs FE damage percentage.
+DWDamageRateToMG -> DW vs MG damage percentage.
+DWDamageRateToDL -> DW vs DL damage percentage.
+DWDamageRateToSU -> DW vs SU damage percentage.
+DWDamageRateToRF -> DW vs RF damage percentage.
+DWDamageRateToGL -> DW vs GL damage percentage.
+DWDamageRateToRW -> DW vs RW damage percentage.
+DWDamageRateToSL -> DW vs SL damage percentage.
+DKDamageRateToDW -> DK vs DW damage percentage.
+DKDamageRateToDK -> DK vs DK damage percentage.
+DKDamageRateToFE -> DK vs FE damage percentage.
+DKDamageRateToMG -> DK vs MG damage percentage.
+DKDamageRateToDL -> DK vs DL damage percentage.
+DKDamageRateToSU -> DK vs SU damage percentage.
+DKDamageRateToRF -> DK vs RF damage percentage.
+DKDamageRateToGL -> DK vs GL damage percentage.
+DKDamageRateToRW -> DK vs RW damage percentage.
+DKDamageRateToSL -> DK vs SL damage percentage.
+FEDamageRateToDW -> FE vs DW damage percentage.
+FEDamageRateToDK -> FE vs DK damage percentage.
+FEDamageRateToFE -> FE vs FE damage percentage.
+FEDamageRateToMG -> FE vs MG damage percentage.
+FEDamageRateToDL -> FE vs DK damage percentage.
+FEDamageRateToSU -> FE vs SU damage percentage.
+FEDamageRateToRF -> FE vs RF damage percentage.
+FEDamageRateToGL -> FE vs GL damage percentage.
+FEDamageRateToRW -> FE vs RW damage percentage.
+FEDamageRateToSL -> FE vs SL damage percentage.
+MGDamageRateToDW -> MG vs DW damage percentage.
+MGDamageRateToDK -> MG vs DK damage percentage.
+MGDamageRateToFE -> MG vs FE damage percentage.
+MGDamageRateToMG -> MG vs MG damage percentage.
+MGDamageRateToDL -> MG vs DL damage percentage.
+MGDamageRateToSU -> MG vs SU damage percentage.
+MGDamageRateToRF -> MG vs RF damage percentage.
+MGDamageRateToGL -> MG vs GL damage percentage.
+MGDamageRateToRW -> MG vs RW damage percentage.
+MGDamageRateToSL -> MG vs SL damage percentage.
+DLDamageRateToDW -> DL vs DW damage percentage.
+DLDamageRateToDK -> DL vs DK damage percentage.
+DLDamageRateToFE -> DL vs FE damage percentage.
+DLDamageRateToMG -> DL vs MG damage percentage.
+DLDamageRateToDL -> DL vs DL damage percentage.
+DLDamageRateToSU -> DL vs SU damage percentage.
+DLDamageRateToRF -> DL vs RF damage percentage.
+DLDamageRateToGL -> DL vs GL damage percentage.
+DLDamageRateToRW -> DL vs RW damage percentage.
+DLDamageRateToSL -> DL vs SL damage percentage.
+SUDamageRateToDW -> SU vs DW damage percentage.
+SUDamageRateToDK -> SU vs DK damage percentage.
+SUDamageRateToFE -> SU vs FE damage percentage.
+SUDamageRateToMG -> SU vs MG damage percentage.
+SUDamageRateToDL -> SU vs DL damage percentage.
+SUDamageRateToSU -> SU vs SU damage percentage.
+SUDamageRateToRF -> SU vs RF damage percentage.
+SUDamageRateToGL -> SU vs GL damage percentage.
+SUDamageRateToRW -> SU vs RW damage percentage.
+SUDamageRateToSL -> SU vs SL damage percentage.
+RFDamageRateToDW -> RF vs DW damage percentage.
+RFDamageRateToDK -> RF vs DK damage percentage.
+RFDamageRateToFE -> RF vs FE damage percentage.
+RFDamageRateToMG -> RF vs MG damage percentage.
+RFDamageRateToDL -> RF vs DL damage percentage.
+RFDamageRateToSU -> RF vs SU damage percentage.
+RFDamageRateToRF -> RF vs RF damage percentage.
+RFDamageRateToGL -> RF vs GL damage percentage.
+RFDamageRateToRW -> RF vs RW damage percentage.
+RFDamageRateToSL -> RF vs SL damage percentage.
+GLDamageRateToDW -> GL vs DW damage percentage.
+GLDamageRateToDK -> GL vs DK damage percentage.
+GLDamageRateToFE -> GL vs FE damage percentage.
+GLDamageRateToMG -> GL vs MG damage percentage.
+GLDamageRateToDL -> GL vs DL damage percentage.
+GLDamageRateToSU -> GL vs SU damage percentage.
+GLDamageRateToRF -> GL vs RF damage percentage.
+GLDamageRateToGL -> GL vs GL damage percentage.
+GLDamageRateToRW -> GL vs RW damage percentage.
+GLDamageRateToSL -> GL vs SL damage percentage.
+RWDamageRateToDW -> RW vs DW damage percentage.
+RWDamageRateToDK -> RW vs DK damage percentage.
+RWDamageRateToFE -> RW vs FE damage percentage.
+RWDamageRateToMG -> RW vs MG damage percentage.
+RWDamageRateToDL -> RW vs DL damage percentage.
+RWDamageRateToSU -> RW vs SU damage percentage.
+RWDamageRateToRF -> RW vs RF damage percentage.
+RWDamageRateToGL -> RW vs GL damage percentage.
+RWDamageRateToRW -> RW vs RW damage percentage.
+RWDamageRateToSL -> RW vs SL damage percentage.
+SLDamageRateToDW -> SL vs DW damage percentage.
+SLDamageRateToDK -> SL vs DK damage percentage.
+SLDamageRateToFE -> SL vs FE damage percentage.
+SLDamageRateToMG -> SL vs MG damage percentage.
+SLDamageRateToDL -> SL vs DL damage percentage.
+SLDamageRateToSU -> SL vs SU damage percentage.
+SLDamageRateToRF -> SL vs RF damage percentage.
+SLDamageRateToGL -> SL vs GL damage percentage.
+SLDamageRateToRW -> SL vs RW damage percentage.
+SLDamageRateToSL -> SL vs SL damage percentage.
+
+;==================================================
+; Character Stuck Rate Settings
+;==================================================
+DWDamageStuckRate -> DW stuck rate after taking damage.
+DKDamageStuckRate -> DK stuck rate after taking damage.
+FEDamageStuckRate -> FE stuck rate after taking damage.
+MGDamageStuckRate -> MG stuck rate after taking damage.
+DLDamageStuckRate -> DL stuck rate after taking damage.
+SUDamageStuckRate -> SU stuck rate after taking damage.
+RFDamageStuckRate -> RF stuck rate after taking damage.
+GLDamageStuckRate -> GL stuck rate after taking damage.
+RWDamageStuckRate -> RW stuck rate after taking damage.
+SLDamageStuckRate -> SL stuck rate after taking damage.
+
+;==================================================
+; Character Damage Multiplier Settings
+;==================================================
+DKDamageMultiplierConstA -> DK damage multiplier (Energy divisor).
+DLDamageMultiplierConstA -> DL damage multiplier (Energy divisor).
+RFDamageMultiplierConstA -> RF damage multiplier (Dexterity divisor).
+RFDamageMultiplierConstB -> RF damage multiplier (Vitality divisor).
+RFDamageMultiplierConstC -> RF damage multiplier (Energy divisor).
+GLDamageMultiplierConstA -> GL damage multiplier (Strength divisor).
+GLDamageMultiplierConstB -> GL damage multiplier (Dexterity divisor).
+SLDamageMultiplierConstA -> SL damage multiplier (Strength divisor).
+SLDamageMultiplierConstB -> SL damage multiplier (Dexterity divisor).
+DKDamageMultiplierMaxRate -> DK maximum damage multiplier.
+DLDamageMultiplierMaxRate -> DL maximum damage multiplier.
+RFDamageMultiplierMaxRate -> RF maximum damage multiplier.
+GLDamageMultiplierMaxRate -> GL maximum damage multiplier.
+SLDamageMultiplierMaxRate -> SL maximum damage multiplier.
+
+;==================================================
+; Character Max Attack Speed Settings
+;==================================================
+DWMaxAttackSpeed -> DW maximum attack speed.
+DKMaxAttackSpeed -> DK maximum attack speed.
+FEMaxAttackSpeed -> FE maximum attack speed.
+MGMaxAttackSpeed -> MG maximum attack speed.
+DLMaxAttackSpeed -> DL maximum attack speed.
+SUMaxAttackSpeed -> SU maximum attack speed.
+RFMaxAttackSpeed -> RF maximum attack speed.
+GLMaxAttackSpeed -> GL maximum attack speed.
+RWMaxAttackSpeed -> RW maximum attack speed.
+SLMaxAttackSpeed -> SL maximum attack speed.
+
+;==================================================
+; Character Max Damage Reduction Settings
+;==================================================
+DWMaxDamageReduction -> DW maximum damage reduction.
+DKMaxDamageReduction -> DK maximum damage reduction.
+FEMaxDamageReduction -> FE maximum damage reduction.
+MGMaxDamageReduction -> MG maximum damage reduction.
+DLMaxDamageReduction -> DL maximum damage reduction.
+SUMaxDamageReduction -> SU maximum damage reduction.
+RFMaxDamageReduction -> RF maximum damage reduction.
+GLMaxDamageReduction -> GL maximum damage reduction.
+RWMaxDamageReduction -> RW maximum damage reduction.
+SLMaxDamageReduction -> SL maximum damage reduction.
+
+;==================================================
+; Character Max Damage Reflection Settings
+;==================================================
+DWMaxDamageReflection -> DW maximum damage reflection.
+DKMaxDamageReflection -> DK maximum damage reflection.
+FEMaxDamageReflection -> FE maximum damage reflection.
+MGMaxDamageReflection -> MG maximum damage reflection.
+DLMaxDamageReflection -> DL maximum damage reflection.
+SUMaxDamageReflection -> SU maximum damage reflection.
+RFMaxDamageReflection -> RF maximum damage reflection.
+GLMaxDamageReflection -> GL maximum damage reflection.
+RWMaxDamageReflection -> RW maximum damage reflection.
+SLMaxDamageReflection -> SL maximum damage reflection.
+
+;==================================================
+; Character Max Critical Damage Rate Settings
+;==================================================
+DWMaxCriticalDamageRate -> DW maximum critical damage rate.
+DKMaxCriticalDamageRate -> DK maximum critical damage rate.
+FEMaxCriticalDamageRate -> FE maximum critical damage rate.
+MGMaxCriticalDamageRate -> MG maximum critical damage rate.
+DLMaxCriticalDamageRate -> DL maximum critical damage rate.
+SUMaxCriticalDamageRate -> SU maximum critical damage rate.
+RFMaxCriticalDamageRate -> RF maximum critical damage rate.
+GLMaxCriticalDamageRate -> GL maximum critical damage rate.
+RWMaxCriticalDamageRate -> RW maximum critical damage rate.
+SLMaxCriticalDamageRate -> SL maximum critical damage rate.
+
+;==================================================
+; Character Max Excellent Damage Rate Settings
+;==================================================
+DWMaxExcellentDamageRate -> DW maximum excellent damage rate.
+DKMaxExcellentDamageRate -> DK maximum excellent damage rate.
+FEMaxExcellentDamageRate -> FE maximum excellent damage rate.
+MGMaxExcellentDamageRate -> MG maximum excellent damage rate.
+DLMaxExcellentDamageRate -> DL maximum excellent damage rate.
+SUMaxExcellentDamageRate -> SU maximum excellent damage rate.
+RFMaxExcellentDamageRate -> RF maximum excellent damage rate.
+GLMaxExcellentDamageRate -> GL maximum excellent damage rate.
+RWMaxExcellentDamageRate -> RW maximum excellent damage rate.
+SLMaxExcellentDamageRate -> SL maximum excellent damage rate.
+
+;==================================================
+; Character Dark Raven Settings
+;==================================================
+DarkRavenRangeAttackRate -> Dark Raven rate to use an area attack.
+DarkRavenAttackDamageMinConstA -> Dark Raven min damage formula const.
+DarkRavenAttackDamageMinConstB -> Dark Raven min damage formula const.
+DarkRavenAttackDamageMinConstC -> Dark Raven min damage formula const.
+DarkRavenAttackDamageMaxConstA -> Dark Raven max damage formula const.
+DarkRavenAttackDamageMaxConstB -> Dark Raven max damage formula const.
+DarkRavenAttackDamageMaxConstC -> Dark Raven max damage formula const.
+DarkRavenAttackSpeedConstA -> Dark Raven speed formula const.
+DarkRavenAttackSpeedConstB -> Dark Raven speed formula const.
+DarkRavenAttackSpeedConstC -> Dark Raven speed formula const.
+DarkRavenAttackSpeedConstD -> Dark Raven speed formula const.
+DarkRavenAttackSuccessRateConstA -> Dark Raven attack success rate formula const.
+DarkRavenAttackSuccessRateConstB -> Dark Raven attack success rate formula const.
+DarkRavenAttackSuccessRateConstC -> Dark Raven attack success rate formula const.
+DarkRavenDoubleDamageRateConstA -> Dark Raven double damage rate formula const.
+DarkRavenDoubleDamageRateConstB -> Dark Raven double damage rate formula const.
+DarkRavenDoubleDamageRateConstC -> Dark Raven double damage rate formula const.
+DarkRavenIgnoreDefenseRateConstA -> Dark Raven ignore defense rate formula const.
+DarkRavenIgnoreDefenseRateConstB -> Dark Raven ignore defense rate formula const.
+DarkRavenIgnoreDefenseRateConstC -> Dark Raven ignore defense rate formula const.
+DarkRavenCriticalDamageRateConstA -> Dark Raven critical damage rate formula const.
+DarkRavenCriticalDamageRateConstB -> Dark Raven critical damage rate formula const.
+DarkRavenCriticalDamageRateConstC -> Dark Raven critical damage rate formula const.
+DarkRavenExcellentDamageRateConstA -> Dark Raven excellent damage rate formula const.
+DarkRavenExcellentDamageRateConstB -> Dark Raven excellent damage rate formula const.
+DarkRavenExcellentDamageRateConstC -> Dark Raven excellent damage rate formula const.
+
+# FORMULA = (DarkRavenAttackDamageMinConstA+(DarkRavenLevel*DarkRavenAttackDamageMinConstB)+(PlayerLeadership/DarkRavenAttackDamageMinConstC)) #
+
+# FORMULA = (DarkRavenAttackDamageMaxConstA+(DarkRavenLevel*DarkRavenAttackDamageMaxConstB)+(PlayerLeadership/DarkRavenAttackDamageMaxConstC)) #
+
+# FORMULA = (DarkRavenAttackSpeedConstA+((DarkRavenLevel*DarkRavenAttackSpeedConstB)/DarkRavenAttackSpeedConstC)+(PlayerLeadership/DarkRavenAttackSpeedConstD)) #
+
+# FORMULA = (DarkRavenAttackSuccessRateConstA+((DarkRavenLevel*DarkRavenAttackSuccessRateConstB)/DarkRavenAttackSuccessRateConstC)) #
+
+# FORMULA = (DarkRavenDoubleDamageRateConstA+(DarkRavenLevel/DarkRavenDoubleDamageRateConstB)+(PlayerLeadership/DarkRavenDoubleDamageRateConstC)) #
+
+# FORMULA = (DarkRavenIgnoreDefenseRateConstA+(DarkRavenLevel/DarkRavenIgnoreDefenseRateConstB)+(PlayerLeadership/DarkRavenIgnoreDefenseRateConstC)) #
+
+# FORMULA = (DarkRavenCriticalDamageRateConstA+(DarkRavenLevel/DarkRavenCriticalDamageRateConstB)+(PlayerLeadership/DarkRavenCriticalDamageRateConstC)) #
+
+# FORMULA = (DarkRavenExcellentDamageRateConstA+(DarkRavenLevel/DarkRavenExcellentDamageRateConstB)+(PlayerLeadership/DarkRavenExcellentDamageRateConstC)) #
+
+;==================================================
+; Character Combo Skill Damage Settings
+;==================================================
+DWComboDamageConstA -> DW combo damage formula const.
+DWComboDamageConstB -> DW combo damage formula const.
+DKComboDamageConstA -> DK combo damage formula const.
+DKComboDamageConstB -> DK combo damage formula const.
+FEComboDamageConstA -> FE combo damage formula const.
+FEComboDamageConstB -> FE combo damage formula const.
+MGComboDamageConstA -> MG combo damage formula const.
+MGComboDamageConstB -> MG combo damage formula const.
+DLComboDamageConstA -> DL combo damage formula const.
+DLComboDamageConstB -> DL combo damage formula const.
+SUComboDamageConstA -> SU combo damage formula const.
+SUComboDamageConstB -> SU combo damage formula const.
+RFComboDamageConstA -> RF combo damage formula const.
+RFComboDamageConstB -> RF combo damage formula const.
+GLComboDamageConstA -> GL combo damage formula const.
+GLComboDamageConstB -> GL combo damage formula const.
+RWComboDamageConstA -> RW combo damage formula const.
+RWComboDamageConstB -> RW combo damage formula const.
+SLComboDamageConstA -> SL combo damage formula const.
+SLComboDamageConstB -> SL combo damage formula const.
+
+# FORMULA = (((PlayerStrength+PlayerDexterity+PlayerEnergy)/ComboDamageConstA)*ComboDamageConstB) #
+
+;==================================================
+; Character Earthquake Skill Damage Settings
+;==================================================
+EarthquakeDamageConstA -> Earthquake skill damage formula const.
+EarthquakeDamageConstB -> Earthquake skill damage formula const.
+EarthquakeDamageConstC -> Earthquake skill damage formula const.
+
+# FORMULA = ((PlayerStrength/EarthquakeDamageConstA)+(PlayerLeadership/EarthquakeDamageConstB)+(DarkHorseLevel*EarthquakeDamageConstC)) #
+
+;==================================================
+; Character Electric Spark Skill Damage Settings
+;==================================================
+ElectricSparkDamageConstA -> Electric Spark skill damage formula const.
+ElectricSparkDamageConstB -> Electric Spark skill damage formula const.
+
+# FORMULA = ((PlayerLeadership/ElectricSparkDamageConstA)+ElectricSparkDamageConstB) #
+
+;==================================================
+; Character Dark Lord Skill Damage Settings
+;==================================================
+DLSkillDamageConstA -> Dark Lord skill damage formula const.
+DLSkillDamageConstB -> Dark Lord skill damage formula const.
+
+# FORMULA = ((PlayerStrength/DLSkillDamageConstA)+(PlayerEnergy/DLSkillDamageConstB)) #
+
+;==================================================
+; Character Nova Skill Damage Settings
+;==================================================
+NovaDamageConstA -> Nova skill damage formula const.
+NovaDamageConstB -> Nova skill damage formula const.
+NovaDamageConstC -> Nova skill damage formula const.
+
+# FORMULA = ((NovaDamageConstA*(NovaCount*NovaDamageConstB))+(PlayerStrength/NovaDamageConstC)) #
+
+;==================================================
+; Character HP Recovery Settings
+;==================================================
+DWHPRecoveryRate -> DW periodic HP recovery percentage.
+DKHPRecoveryRate -> DK periodic HP recovery percentage.
+FEHPRecoveryRate -> FE periodic HP recovery percentage.
+MGHPRecoveryRate -> MG periodic HP recovery percentage.
+DLHPRecoveryRate -> DL periodic HP recovery percentage.
+SUHPRecoveryRate -> SU periodic HP recovery percentage.
+RFHPRecoveryRate -> RF periodic HP recovery percentage.
+GLHPRecoveryRate -> GL periodic HP recovery percentage.
+RWHPRecoveryRate -> RW periodic HP recovery percentage.
+SLHPRecoveryRate -> SL periodic HP recovery percentage.
+
+;==================================================
+; Character MP Recovery Settings
+;==================================================
+DWMPRecoveryRate -> DW periodic MP recovery percentage.
+DKMPRecoveryRate -> DK periodic MP recovery percentage.
+FEMPRecoveryRate -> FE periodic MP recovery percentage.
+MGMPRecoveryRate -> MG periodic MP recovery percentage.
+DLMPRecoveryRate -> DL periodic MP recovery percentage.
+SUMPRecoveryRate -> SU periodic MP recovery percentage.
+RFMPRecoveryRate -> RF periodic MP recovery percentage.
+GLMPRecoveryRate -> GL periodic MP recovery percentage.
+RWMPRecoveryRate -> RW periodic MP recovery percentage.
+SLMPRecoveryRate -> SL periodic MP recovery percentage.
+
+;==================================================
+; Character BP Recovery Settings
+;==================================================
+DWBPRecoveryRate -> DW periodic BP recovery percentage.
+DKBPRecoveryRate -> DK periodic BP recovery percentage.
+FEBPRecoveryRate -> FE periodic BP recovery percentage.
+MGBPRecoveryRate -> MG periodic BP recovery percentage.
+DLBPRecoveryRate -> DL periodic BP recovery percentage.
+SUBPRecoveryRate -> SU periodic BP recovery percentage.
+RFBPRecoveryRate -> RF periodic BP recovery percentage.
+GLBPRecoveryRate -> GL periodic BP recovery percentage.
+RWBPRecoveryRate -> RW periodic BP recovery percentage.
+SLBPRecoveryRate -> SL periodic BP recovery percentage.
+
+;==================================================
+; Character SD Recovery Settings
+;==================================================
+DWSDRecoveryRate -> DW periodic SD recovery percentage.
+DKSDRecoveryRate -> DK periodic SD recovery percentage.
+FESDRecoveryRate -> FE periodic SD recovery percentage.
+MGSDRecoveryRate -> MG periodic SD recovery percentage.
+DLSDRecoveryRate -> DL periodic SD recovery percentage.
+SUSDRecoveryRate -> SU periodic SD recovery percentage.
+RFSDRecoveryRate -> RF periodic SD recovery percentage.
+GLSDRecoveryRate -> GL periodic SD recovery percentage.
+RWSDRecoveryRate -> RW periodic SD recovery percentage.
+SLSDRecoveryRate -> SL periodic SD recovery percentage.
+
+;==================================================
+; Character Plasma Storm Skill Damage Settings
+;==================================================
+DWPlasmaStormDamageConstA -> DW Plasma Storm skill damage formula const.
+DWPlasmaStormDamageConstB -> DW Plasma Storm skill damage formula const.
+DWPlasmaStormDamageConstC -> DW Plasma Storm skill damage formula const.
+DWPlasmaStormDamageConstD -> DW Plasma Storm skill damage formula const.
+DKPlasmaStormDamageConstA -> DK Plasma Storm skill damage formula const.
+DKPlasmaStormDamageConstB -> DK Plasma Storm skill damage formula const.
+DKPlasmaStormDamageConstC -> DK Plasma Storm skill damage formula const.
+DKPlasmaStormDamageConstD -> DK Plasma Storm skill damage formula const.
+FEPlasmaStormDamageConstA -> FE Plasma Storm skill damage formula const.
+FEPlasmaStormDamageConstB -> FE Plasma Storm skill damage formula const.
+FEPlasmaStormDamageConstC -> FE Plasma Storm skill damage formula const.
+FEPlasmaStormDamageConstD -> FE Plasma Storm skill damage formula const.
+MGPlasmaStormDamageConstA -> MG Plasma Storm skill damage formula const.
+MGPlasmaStormDamageConstB -> MG Plasma Storm skill damage formula const.
+MGPlasmaStormDamageConstC -> MG Plasma Storm skill damage formula const.
+MGPlasmaStormDamageConstD -> MG Plasma Storm skill damage formula const.
+DLPlasmaStormDamageConstA -> DL Plasma Storm skill damage formula const.
+DLPlasmaStormDamageConstB -> DL Plasma Storm skill damage formula const.
+DLPlasmaStormDamageConstC -> DL Plasma Storm skill damage formula const.
+DLPlasmaStormDamageConstD -> DL Plasma Storm skill damage formula const.
+DLPlasmaStormDamageConstE -> DL Plasma Storm skill damage formula const.
+SUPlasmaStormDamageConstA -> SU Plasma Storm skill damage formula const.
+SUPlasmaStormDamageConstB -> SU Plasma Storm skill damage formula const.
+SUPlasmaStormDamageConstC -> SU Plasma Storm skill damage formula const.
+SUPlasmaStormDamageConstD -> SU Plasma Storm skill damage formula const.
+RFPlasmaStormDamageConstA -> RF Plasma Storm skill damage formula const.
+RFPlasmaStormDamageConstB -> RF Plasma Storm skill damage formula const.
+RFPlasmaStormDamageConstC -> RF Plasma Storm skill damage formula const.
+RFPlasmaStormDamageConstD -> RF Plasma Storm skill damage formula const.
+GLPlasmaStormDamageConstA -> GL Plasma Storm skill damage formula const.
+GLPlasmaStormDamageConstB -> GL Plasma Storm skill damage formula const.
+GLPlasmaStormDamageConstC -> GL Plasma Storm skill damage formula const.
+GLPlasmaStormDamageConstD -> GL Plasma Storm skill damage formula const.
+RWPlasmaStormDamageConstA -> RW Plasma Storm skill damage formula const.
+RWPlasmaStormDamageConstB -> RW Plasma Storm skill damage formula const.
+RWPlasmaStormDamageConstC -> RW Plasma Storm skill damage formula const.
+RWPlasmaStormDamageConstD -> RW Plasma Storm skill damage formula const.
+SLPlasmaStormDamageConstA -> SL Plasma Storm skill damage formula const.
+SLPlasmaStormDamageConstB -> SL Plasma Storm skill damage formula const.
+SLPlasmaStormDamageConstC -> SL Plasma Storm skill damage formula const.
+SLPlasmaStormDamageConstD -> SL Plasma Storm skill damage formula const.
+
+# FORMULA = ((PlayerStrength/PlasmaStormDamageConstA)+(PlayerDexterity/PlasmaStormDamageConstB)+(PlayerVitality/PlasmaStormDamageConstC)+(PlayerEnergy/PlasmaStormDamageConstD)+(PlayerLeadership/PlasmaStormDamageConstE)) #
+
+;==================================================
+; Character Damage Settings
+;==================================================
+DWPhysiDamageMinConstA -> DW Physi min damage formula const.
+DWPhysiDamageMaxConstA -> DW Physi max damage formula const.
+DWMagicDamageMinConstA -> DW Magic min damage formula const.
+DWMagicDamageMaxConstA -> DW Magic max damage formula const.
+
+# FORMULA = (PlayerStrength/DWPhysiDamageMinConstA) #
+
+# FORMULA = (PlayerStrength/DWPhysiDamageMaxConstA) #
+
+# FORMULA = (PlayerEnergy/DWMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/DWMagicDamageMaxConstA) #
+
+DKPhysiDamageMinConstA -> DK Physi min damage formula const.
+DKPhysiDamageMaxConstA -> DK Physi max damage formula const.
+DKMagicDamageMinConstA -> DK Magic min damage formula const.
+DKMagicDamageMaxConstA -> DK Magic max damage formula const.
+
+# FORMULA = (PlayerStrength/DKPhysiDamageMinConstA) #
+
+# FORMULA = (PlayerStrength/DKPhysiDamageMaxConstA) #
+
+# FORMULA = (PlayerEnergy/DKMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/DKMagicDamageMaxConstA) #
+
+FEPhysiDamageMinConstA -> FE Physi min damage formula const.
+FEPhysiDamageMaxConstA -> FE Physi max damage formula const.
+FEPhysiDamageMinBowConstA -> FE Physi min bow damage formula const.
+FEPhysiDamageMinBowConstB -> FE Physi min bow damage formula const.
+FEPhysiDamageMaxBowConstA -> FE Physi max bow damage formula const.
+FEPhysiDamageMaxBowConstB -> FE Physi max bow damage formula const.
+FEMagicDamageMinConstA -> FE Magic min damage formula const.
+FEMagicDamageMaxConstA -> FE Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength+PlayerDexterity)/FEPhysiDamageMinConstA) #
+
+# FORMULA = ((PlayerStrength+PlayerDexterity)/FEPhysiDamageMaxConstA) #
+
+# FORMULA = ((PlayerStrength/FEPhysiDamageMinBowConstA)+(PlayerDexterity/FEPhysiDamageMinBowConstB)) #
+
+# FORMULA = ((PlayerStrength/FEPhysiDamageMaxBowConstA)+(PlayerDexterity/FEPhysiDamageMaxBowConstB)) #
+
+# FORMULA = (PlayerEnergy/FEMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/FEMagicDamageMaxConstA) #
+
+MGPhysiDamageMinConstA -> MG Physi min damage formula const.
+MGPhysiDamageMinConstB -> MG Physi min damage formula const.
+MGPhysiDamageMaxConstA -> MG Physi max damage formula const.
+MGPhysiDamageMaxConstB -> MG Physi max damage formula const.
+MGMagicDamageMinConstA -> MG Magic min damage formula const.
+MGMagicDamageMaxConstA -> MG Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength/MGPhysiDamageMinConstA)+(PlayerEnergy/MGPhysiDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/MGPhysiDamageMaxConstA)+(PlayerEnergy/MGPhysiDamageMaxConstB)) #
+
+# FORMULA = (PlayerEnergy/MGMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/MGMagicDamageMaxConstA) #
+
+DLPhysiDamageMinConstA -> DL Physi min damage formula const.
+DLPhysiDamageMinConstB -> DL Physi min damage formula const.
+DLPhysiDamageMaxConstA -> DL Physi max damage formula const.
+DLPhysiDamageMaxConstB -> DL Physi max damage formula const.
+DLMagicDamageMinConstA -> DL Magic min damage formula const.
+DLMagicDamageMaxConstA -> DL Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength/DLPhysiDamageMinConstA)+(PlayerEnergy/DLPhysiDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/DLPhysiDamageMaxConstA)+(PlayerEnergy/DLPhysiDamageMaxConstB)) #
+
+# FORMULA = (PlayerEnergy/DLMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/DLMagicDamageMaxConstA) #
+
+SUPhysiDamageMinConstA -> SU Physi min damage formula const.
+SUPhysiDamageMaxConstA -> SU Physi max damage formula const.
+SUMagicDamageMinConstA -> SU Magic min damage formula const.
+SUMagicDamageMaxConstA -> SU Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength+PlayerDexterity)/SUPhysiDamageMinConstA) #
+
+# FORMULA = ((PlayerStrength+PlayerDexterity)/SUPhysiDamageMaxConstA) #
+
+# FORMULA = (PlayerEnergy/SUMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/SUMagicDamageMaxConstA) #
+
+RFPhysiDamageMinConstA -> RF Physi min damage formula const.
+RFPhysiDamageMinConstB -> RF Physi min damage formula const.
+RFPhysiDamageMaxConstA -> RF Physi max damage formula const.
+RFPhysiDamageMaxConstB -> RF Physi max damage formula const.
+RFMagicDamageMinConstA -> RF Magic min damage formula const.
+RFMagicDamageMaxConstA -> RF Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength/RFPhysiDamageMinConstA)+(PlayerVitality/RFPhysiDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/RFPhysiDamageMaxConstA)+(PlayerVitality/RFPhysiDamageMaxConstB)) #
+
+# FORMULA = (PlayerEnergy/RFMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/RFMagicDamageMaxConstA) #
+
+GLPhysiDamageMinConstA -> GL Physi min damage formula const.
+GLPhysiDamageMinConstB -> GL Physi min damage formula const.
+GLPhysiDamageMaxConstA -> GL Physi max damage formula const.
+GLPhysiDamageMaxConstB -> GL Physi max damage formula const.
+GLMagicDamageMinConstA -> GL Magic min damage formula const.
+GLMagicDamageMaxConstA -> GL Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength/GLPhysiDamageMinConstA)+(PlayerDexterity/GLPhysiDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/GLPhysiDamageMaxConstA)+(PlayerDexterity/GLPhysiDamageMaxConstB)) #
+
+# FORMULA = (PlayerEnergy/GLMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/GLMagicDamageMaxConstA) #
+
+RWPhysiDamageMinConstA -> RW Physi min damage formula const.
+RWPhysiDamageMaxConstA -> RW Physi max damage formula const.
+RWMagicDamageMinConstA -> RW Magic min damage formula const.
+RWMagicDamageMaxConstA -> RW Magic max damage formula const.
+
+# FORMULA = (PlayerStrength/RWPhysiDamageMinConstA) #
+
+# FORMULA = (PlayerStrength/RWPhysiDamageMaxConstA) #
+
+# FORMULA = (PlayerEnergy/RWMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/RWMagicDamageMaxConstA) #
+
+SLPhysiDamageMinConstA -> SL Physi min damage formula const.
+SLPhysiDamageMinConstB -> SL Physi min damage formula const.
+SLPhysiDamageMaxConstA -> SL Physi max damage formula const.
+SLPhysiDamageMaxConstB -> SL Physi max damage formula const.
+SLMagicDamageMinConstA -> SL Magic min damage formula const.
+SLMagicDamageMaxConstA -> SL Magic max damage formula const.
+
+# FORMULA = ((PlayerStrength/SLPhysiDamageMinConstA)+(PlayerDexterity/SLPhysiDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/SLPhysiDamageMaxConstA)+(PlayerDexterity/SLPhysiDamageMaxConstB)) #
+
+# FORMULA = (PlayerEnergy/SLMagicDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/SLMagicDamageMaxConstA) #
+
+;==================================================
+; Character Attack Success Rate Settings
+;==================================================
+DWAttackSuccessRateConstA -> DW Attack succes rate formula const.
+DWAttackSuccessRateConstB -> DW Attack succes rate formula const.
+DWAttackSuccessRateConstC -> DW Attack succes rate formula const.
+DWAttackSuccessRateConstD -> DW Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*DWAttackSuccessRateConstA)+((PlayerDexterity*DWAttackSuccessRateConstB)/DWAttackSuccessRateConstC)+(PlayerStrength/DWAttackSuccessRateConstD)) #
+
+DKAttackSuccessRateConstA -> DK Attack succes rate formula const.
+DKAttackSuccessRateConstB -> DK Attack succes rate formula const.
+DKAttackSuccessRateConstC -> DK Attack succes rate formula const.
+DKAttackSuccessRateConstD -> DK Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*DKAttackSuccessRateConstA)+((PlayerDexterity*DKAttackSuccessRateConstB)/DKAttackSuccessRateConstC)+(PlayerStrength/DKAttackSuccessRateConstD)) #
+
+FEAttackSuccessRateConstA -> FE Attack succes rate formula const.
+FEAttackSuccessRateConstB -> FE Attack succes rate formula const.
+FEAttackSuccessRateConstC -> FE Attack succes rate formula const.
+FEAttackSuccessRateConstD -> FE Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*FEAttackSuccessRateConstA)+((PlayerDexterity*FEAttackSuccessRateConstB)/FEAttackSuccessRateConstC)+(PlayerStrength/FEAttackSuccessRateConstD)) #
+
+MGAttackSuccessRateConstA -> MG Attack succes rate formula const.
+MGAttackSuccessRateConstB -> MG Attack succes rate formula const.
+MGAttackSuccessRateConstC -> MG Attack succes rate formula const.
+MGAttackSuccessRateConstD -> MG Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*MGAttackSuccessRateConstA)+((PlayerDexterity*MGAttackSuccessRateConstB)/MGAttackSuccessRateConstC)+(PlayerStrength/MGAttackSuccessRateConstD)) #
+
+DLAttackSuccessRateConstA -> DL Attack succes rate formula const.
+DLAttackSuccessRateConstB -> DL Attack succes rate formula const.
+DLAttackSuccessRateConstC -> DL Attack succes rate formula const.
+DLAttackSuccessRateConstD -> DL Attack succes rate formula const.
+DLAttackSuccessRateConstE -> DL Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*DLAttackSuccessRateConstA)+((PlayerDexterity*DLAttackSuccessRateConstB)/DLAttackSuccessRateConstC)+(PlayerStrength/DLAttackSuccessRateConstD)+(PlayerLeadership/DLAttackSuccessRateConstE)) #
+
+SUAttackSuccessRateConstA -> SU Attack succes rate formula const.
+SUAttackSuccessRateConstB -> SU Attack succes rate formula const.
+SUAttackSuccessRateConstC -> SU Attack succes rate formula const.
+SUAttackSuccessRateConstD -> SU Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*SUAttackSuccessRateConstA)+((PlayerDexterity*SUAttackSuccessRateConstB)/SUAttackSuccessRateConstC)+(PlayerStrength/SUAttackSuccessRateConstD)) #
+
+RFAttackSuccessRateConstA -> RF Attack succes rate formula const.
+RFAttackSuccessRateConstB -> RF Attack succes rate formula const.
+RFAttackSuccessRateConstC -> RF Attack succes rate formula const.
+RFAttackSuccessRateConstD -> RF Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*RFAttackSuccessRateConstA)+((PlayerDexterity*RFAttackSuccessRateConstB)/RFAttackSuccessRateConstC)+(PlayerStrength/RFAttackSuccessRateConstD)) #
+
+GLAttackSuccessRateConstA -> GL Attack succes rate formula const.
+GLAttackSuccessRateConstB -> GL Attack succes rate formula const.
+GLAttackSuccessRateConstC -> GL Attack succes rate formula const.
+GLAttackSuccessRateConstD -> GL Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*GLAttackSuccessRateConstA)+((PlayerDexterity*GLAttackSuccessRateConstB)/GLAttackSuccessRateConstC)+(PlayerStrength/GLAttackSuccessRateConstD)) #
+
+RWAttackSuccessRateConstA -> RW Attack succes rate formula const.
+RWAttackSuccessRateConstB -> RW Attack succes rate formula const.
+RWAttackSuccessRateConstC -> RW Attack succes rate formula const.
+RWAttackSuccessRateConstD -> RW Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*RWAttackSuccessRateConstA)+((PlayerDexterity*RWAttackSuccessRateConstB)/RWAttackSuccessRateConstC)+(PlayerStrength/RWAttackSuccessRateConstD)) #
+
+SLAttackSuccessRateConstA -> SL Attack succes rate formula const.
+SLAttackSuccessRateConstB -> SL Attack succes rate formula const.
+SLAttackSuccessRateConstC -> SL Attack succes rate formula const.
+SLAttackSuccessRateConstD -> SL Attack succes rate formula const.
+
+# FORMULA = ((PlayerLevel*SLAttackSuccessRateConstA)+((PlayerDexterity*SLAttackSuccessRateConstB)/SLAttackSuccessRateConstC)+(PlayerStrength/SLAttackSuccessRateConstD)) #
+
+;==================================================
+; Character Attack Success Rate PvP Settings
+;==================================================
+DWAttackSuccessRatePvPConstA -> DW Attack succes rate PvP formula const.
+DWAttackSuccessRatePvPConstB -> DW Attack succes rate PvP formula const.
+DWAttackSuccessRatePvPConstC -> DW Attack succes rate PvP formula const.
+DWAttackSuccessRatePvPConstD -> DW Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*DWAttackSuccessRatePvPConstA)/DWAttackSuccessRatePvPConstB)+((PlayerDexterity*DWAttackSuccessRatePvPConstC)/DWAttackSuccessRatePvPConstD)) #
+
+DKAttackSuccessRatePvPConstA -> DK Attack succes rate PvP formula const.
+DKAttackSuccessRatePvPConstB -> DK Attack succes rate PvP formula const.
+DKAttackSuccessRatePvPConstC -> DK Attack succes rate PvP formula const.
+DKAttackSuccessRatePvPConstD -> DK Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*DKAttackSuccessRatePvPConstA)/DKAttackSuccessRatePvPConstB)+((PlayerDexterity*DKAttackSuccessRatePvPConstC)/DKAttackSuccessRatePvPConstD)) #
+
+FEAttackSuccessRatePvPConstA -> FE Attack succes rate PvP formula const.
+FEAttackSuccessRatePvPConstB -> FE Attack succes rate PvP formula const.
+FEAttackSuccessRatePvPConstC -> FE Attack succes rate PvP formula const.
+FEAttackSuccessRatePvPConstD -> FE Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*FEAttackSuccessRatePvPConstA)/FEAttackSuccessRatePvPConstB)+((PlayerDexterity*FEAttackSuccessRatePvPConstC)/FEAttackSuccessRatePvPConstD)) #
+
+MGAttackSuccessRatePvPConstA -> MG Attack succes rate PvP formula const.
+MGAttackSuccessRatePvPConstB -> MG Attack succes rate PvP formula const.
+MGAttackSuccessRatePvPConstC -> MG Attack succes rate PvP formula const.
+MGAttackSuccessRatePvPConstD -> MG Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*MGAttackSuccessRatePvPConstA)/MGAttackSuccessRatePvPConstB)+((PlayerDexterity*MGAttackSuccessRatePvPConstC)/MGAttackSuccessRatePvPConstD)) #
+
+DLAttackSuccessRatePvPConstA -> DL Attack succes rate PvP formula const.
+DLAttackSuccessRatePvPConstB -> DL Attack succes rate PvP formula const.
+DLAttackSuccessRatePvPConstC -> DL Attack succes rate PvP formula const.
+DLAttackSuccessRatePvPConstD -> DL Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*DLAttackSuccessRatePvPConstA)/DLAttackSuccessRatePvPConstB)+((PlayerDexterity*DLAttackSuccessRatePvPConstC)/DLAttackSuccessRatePvPConstD)) #
+
+SUAttackSuccessRatePvPConstA -> SU Attack succes rate PvP formula const.
+SUAttackSuccessRatePvPConstB -> SU Attack succes rate PvP formula const.
+SUAttackSuccessRatePvPConstC -> SU Attack succes rate PvP formula const.
+SUAttackSuccessRatePvPConstD -> SU Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*SUAttackSuccessRatePvPConstA)/SUAttackSuccessRatePvPConstB)+((PlayerDexterity*SUAttackSuccessRatePvPConstC)/SUAttackSuccessRatePvPConstD)) #
+
+RFAttackSuccessRatePvPConstA -> RF Attack succes rate PvP formula const.
+RFAttackSuccessRatePvPConstB -> RF Attack succes rate PvP formula const.
+RFAttackSuccessRatePvPConstC -> RF Attack succes rate PvP formula const.
+RFAttackSuccessRatePvPConstD -> RF Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*RFAttackSuccessRatePvPConstA)/RFAttackSuccessRatePvPConstB)+((PlayerDexterity*RFAttackSuccessRatePvPConstC)/RFAttackSuccessRatePvPConstD)) #
+
+GLAttackSuccessRatePvPConstA -> GL Attack succes rate PvP formula const.
+GLAttackSuccessRatePvPConstB -> GL Attack succes rate PvP formula const.
+GLAttackSuccessRatePvPConstC -> GL Attack succes rate PvP formula const.
+GLAttackSuccessRatePvPConstD -> GL Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*GLAttackSuccessRatePvPConstA)/GLAttackSuccessRatePvPConstB)+((PlayerDexterity*GLAttackSuccessRatePvPConstC)/GLAttackSuccessRatePvPConstD)) #
+
+RWAttackSuccessRatePvPConstA -> RW Attack succes rate PvP formula const.
+RWAttackSuccessRatePvPConstB -> RW Attack succes rate PvP formula const.
+RWAttackSuccessRatePvPConstC -> RW Attack succes rate PvP formula const.
+RWAttackSuccessRatePvPConstD -> RW Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*RWAttackSuccessRatePvPConstA)/RWAttackSuccessRatePvPConstB)+((PlayerDexterity*RWAttackSuccessRatePvPConstC)/RWAttackSuccessRatePvPConstD)) #
+
+SLAttackSuccessRatePvPConstA -> SL Attack succes rate PvP formula const.
+SLAttackSuccessRatePvPConstB -> SL Attack succes rate PvP formula const.
+SLAttackSuccessRatePvPConstC -> SL Attack succes rate PvP formula const.
+SLAttackSuccessRatePvPConstD -> SL Attack succes rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*SLAttackSuccessRatePvPConstA)/SLAttackSuccessRatePvPConstB)+((PlayerDexterity*SLAttackSuccessRatePvPConstC)/SLAttackSuccessRatePvPConstD)) #
+
+;==================================================
+; Character Speed Settings
+;==================================================
+DWPhysiSpeedConstA -> DW physi speed formula const.
+DWMagicSpeedConstA -> DW magic speed formula const.
+
+# FORMULA = (PlayerDexterity/DWPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/DWMagicSpeedConstA) #
+
+DKPhysiSpeedConstA -> DK physi speed formula const.
+DKMagicSpeedConstA -> DK magic speed formula const.
+
+# FORMULA = (PlayerDexterity/DKPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/DKMagicSpeedConstA) #
+
+FEPhysiSpeedConstA -> FE physi speed formula const.
+FEMagicSpeedConstA -> FE magic speed formula const.
+
+# FORMULA = (PlayerDexterity/FEPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/FEMagicSpeedConstA) #
+
+MGPhysiSpeedConstA -> MG physi speed formula const.
+MGMagicSpeedConstA -> MG magic speed formula const.
+
+# FORMULA = (PlayerDexterity/MGPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/MGMagicSpeedConstA) #
+
+DLPhysiSpeedConstA -> DL physi speed formula const.
+DLMagicSpeedConstA -> DL magic speed formula const.
+
+# FORMULA = (PlayerDexterity/DLPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/DLMagicSpeedConstA) #
+
+SUPhysiSpeedConstA -> SU physi speed formula const.
+SUMagicSpeedConstA -> SU magic speed formula const.
+
+# FORMULA = (PlayerDexterity/SUPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/SUMagicSpeedConstA) #
+
+RFPhysiSpeedConstA -> RF physi speed formula const.
+RFMagicSpeedConstA -> RF magic speed formula const.
+
+# FORMULA = (PlayerDexterity/RFPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/RFMagicSpeedConstA) #
+
+GLPhysiSpeedConstA -> GL physi speed formula const.
+GLMagicSpeedConstA -> GL magic speed formula const.
+
+# FORMULA = (PlayerDexterity/GLPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/GLMagicSpeedConstA) #
+
+RWPhysiSpeedConstA -> RW physi speed formula const.
+RWMagicSpeedConstA -> RW magic speed formula const.
+
+# FORMULA = (PlayerDexterity/RWPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/RWMagicSpeedConstA) #
+
+SLPhysiSpeedConstA -> SL physi speed formula const.
+SLMagicSpeedConstA -> SL magic speed formula const.
+
+# FORMULA = (PlayerDexterity/SLPhysiSpeedConstA) #
+
+# FORMULA = (PlayerDexterity/SLMagicSpeedConstA) #
+
+;==================================================
+; Character Defense Success Rate Settings
+;==================================================
+DWDefenseSuccessRateConstA -> DW defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/DWDefenseSuccessRateConstA) #
+
+DKDefenseSuccessRateConstA -> DK defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/DKDefenseSuccessRateConstA) #
+
+FEDefenseSuccessRateConstA -> FE defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/FEDefenseSuccessRateConstA) #
+
+MGDefenseSuccessRateConstA -> MG defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/MGDefenseSuccessRateConstA) #
+
+DLDefenseSuccessRateConstA -> DL defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/DLDefenseSuccessRateConstA) #
+
+SUDefenseSuccessRateConstA -> SU defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/SUDefenseSuccessRateConstA) #
+
+RFDefenseSuccessRateConstA -> RF defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/RFDefenseSuccessRateConstA) #
+
+GLDefenseSuccessRateConstA -> GL defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/GLDefenseSuccessRateConstA) #
+
+RWDefenseSuccessRateConstA -> RW defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/RWDefenseSuccessRateConstA) #
+
+SLDefenseSuccessRateConstA -> SL defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/SLDefenseSuccessRateConstA) #
+
+;==================================================
+; Character Defense Success Rate PvP Settings
+;==================================================
+DWDefenseSuccessRatePvPConstA -> DW defense success rate PvP formula const.
+DWDefenseSuccessRatePvPConstB -> DW defense success rate PvP formula const.
+DWDefenseSuccessRatePvPConstC -> DW defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*DWDefenseSuccessRatePvPConstA)/DWDefenseSuccessRatePvPConstB)+(PlayerDexterity/DWDefenseSuccessRatePvPConstC)) #
+
+DKDefenseSuccessRatePvPConstA -> DK defense success rate PvP formula const.
+DKDefenseSuccessRatePvPConstB -> DK defense success rate PvP formula const.
+DKDefenseSuccessRatePvPConstC -> DK defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*DKDefenseSuccessRatePvPConstA)/DKDefenseSuccessRatePvPConstB)+(PlayerDexterity/DKDefenseSuccessRatePvPConstC)) #
+
+FEDefenseSuccessRatePvPConstA -> FE defense success rate PvP formula const.
+FEDefenseSuccessRatePvPConstB -> FE defense success rate PvP formula const.
+FEDefenseSuccessRatePvPConstC -> FE defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*FEDefenseSuccessRatePvPConstA)/FEDefenseSuccessRatePvPConstB)+(PlayerDexterity/FEDefenseSuccessRatePvPConstC)) #
+
+MGDefenseSuccessRatePvPConstA -> MG defense success rate PvP formula const.
+MGDefenseSuccessRatePvPConstB -> MG defense success rate PvP formula const.
+MGDefenseSuccessRatePvPConstC -> MG defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*MGDefenseSuccessRatePvPConstA)/MGDefenseSuccessRatePvPConstB)+(PlayerDexterity/MGDefenseSuccessRatePvPConstC)) #
+
+DLDefenseSuccessRatePvPConstA -> DL defense success rate PvP formula const.
+DLDefenseSuccessRatePvPConstB -> DL defense success rate PvP formula const.
+DLDefenseSuccessRatePvPConstC -> DL defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*DLDefenseSuccessRatePvPConstA)/DLDefenseSuccessRatePvPConstB)+(PlayerDexterity/DLDefenseSuccessRatePvPConstC)) #
+
+SUDefenseSuccessRatePvPConstA -> SU defense success rate PvP formula const.
+SUDefenseSuccessRatePvPConstB -> SU defense success rate PvP formula const.
+SUDefenseSuccessRatePvPConstC -> SU defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*SUDefenseSuccessRatePvPConstA)/SUDefenseSuccessRatePvPConstB)+(PlayerDexterity/SUDefenseSuccessRatePvPConstC)) #
+
+RFDefenseSuccessRatePvPConstA -> RF defense success rate PvP formula const.
+RFDefenseSuccessRatePvPConstB -> RF defense success rate PvP formula const.
+RFDefenseSuccessRatePvPConstC -> RF defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*RFDefenseSuccessRatePvPConstA)/RFDefenseSuccessRatePvPConstB)+(PlayerDexterity/RFDefenseSuccessRatePvPConstC)) #
+
+GLDefenseSuccessRatePvPConstA -> GL defense success rate PvP formula const.
+GLDefenseSuccessRatePvPConstB -> GL defense success rate PvP formula const.
+GLDefenseSuccessRatePvPConstC -> GL defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*GLDefenseSuccessRatePvPConstA)/GLDefenseSuccessRatePvPConstB)+(PlayerDexterity/GLDefenseSuccessRatePvPConstC)) #
+
+RWDefenseSuccessRatePvPConstA -> RW defense success rate PvP formula const.
+RWDefenseSuccessRatePvPConstB -> RW defense success rate PvP formula const.
+RWDefenseSuccessRatePvPConstC -> RW defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*RWDefenseSuccessRatePvPConstA)/RWDefenseSuccessRatePvPConstB)+(PlayerDexterity/RWDefenseSuccessRatePvPConstC)) #
+
+SLDefenseSuccessRatePvPConstA -> SL defense success rate PvP formula const.
+SLDefenseSuccessRatePvPConstB -> SL defense success rate PvP formula const.
+SLDefenseSuccessRatePvPConstC -> SL defense success rate PvP formula const.
+
+# FORMULA = (((PlayerLevel*SLDefenseSuccessRatePvPConstA)/SLDefenseSuccessRatePvPConstB)+(PlayerDexterity/SLDefenseSuccessRatePvPConstC)) #
+
+;==================================================
+; Character Defense Settings
+;==================================================
+DWDefenseConstA -> DW defense formula const.
+
+# FORMULA = (PlayerDexterity/DWDefenseConstA) #
+
+DKDefenseConstA -> DK defense formula const.
+
+# FORMULA = (PlayerDexterity/DKDefenseConstA) #
+
+FEDefenseConstA -> FE defense formula const.
+
+# FORMULA = (PlayerDexterity/FEDefenseConstA) #
+
+MGDefenseConstA -> MG defense formula const.
+
+# FORMULA = (PlayerDexterity/MGDefenseConstA) #
+
+DLDefenseConstA -> MG defense formula const.
+
+# FORMULA = (PlayerDexterity/DLDefenseConstA) #
+
+SUDefenseConstA -> SU defense formula const.
+
+# FORMULA = (PlayerDexterity/SUDefenseConstA) #
+
+RFDefenseConstA -> RF defense formula const.
+
+# FORMULA = (PlayerDexterity/RFDefenseConstA) #
+
+GLDefenseConstA -> GL defense formula const.
+
+# FORMULA = (PlayerDexterity/GLDefenseConstA) #
+
+RWDefenseConstA -> RW defense formula const.
+
+# FORMULA = (PlayerDexterity/RWDefenseConstA) #
+
+SLDefenseConstA -> SL defense formula const.
+
+# FORMULA = (PlayerDexterity/SLDefenseConstA) #
+
+;==================================================
+; Character Elemental Damage Rate Settings
+;==================================================
+DuelElementalDamageRate -> Duel elemental damage percentage.
+GensElementalDamageRate -> Gens elemental damage percentage.
+CustomArenaElementalDamageRate -> Custom Arena PvP elemental damage percentage.
+ChaosCastleElementalDamageRate -> Chaos Castle PvP elemental damage percentage.
+IllusionTempleElementalDamageRate -> Illusion Temple PvP elemental damage percentage.
+CastleSiegeElementalDamageRate1 -> Castle Siege PvP elemental damage percentage.
+CastleSiegeElementalDamageRate2 -> Castle Siege PvP friendly fire elemental damage percentage.
+GeneralElementalDamageRatePvP -> General PvP elemental damage percentage.
+GeneralElementalDamageRatePvM -> General PvM elemental damage percentage.
+
+;==================================================
+; Character Class Elemental Damage Rate Settings
+;==================================================
+DWElementalDamageRatePvP -> DW PvP elemental damage percentage.
+DKElementalDamageRatePvP -> DK PvP elemental damage percentage.
+FEElementalDamageRatePvP -> FE PvP elemental damage percentage.
+MGElementalDamageRatePvP -> MG PvP elemental damage percentage.
+DLElementalDamageRatePvP -> DL PvP elemental damage percentage.
+SUElementalDamageRatePvP -> SU PvP elemental damage percentage.
+RFElementalDamageRatePvP -> RF PvP elemental damage percentage.
+GLElementalDamageRatePvP -> GL PvP elemental damage percentage.
+RWElementalDamageRatePvP -> RW PvP elemental damage percentage.
+SLElementalDamageRatePvP -> SL PvP elemental damage percentage.
+DWElementalDamageRatePvM -> DW PvM elemental damage percentage.
+DKElementalDamageRatePvM -> DK PvM elemental damage percentage.
+FEElementalDamageRatePvM -> FE PvM elemental damage percentage.
+MGElementalDamageRatePvM -> MG PvM elemental damage percentage.
+DLElementalDamageRatePvM -> DL PvM elemental damage percentage.
+SUElementalDamageRatePvM -> SU PvM elemental damage percentage.
+RFElementalDamageRatePvM -> RF PvM elemental damage percentage.
+GLElementalDamageRatePvM -> GL PvM elemental damage percentage.
+RWElementalDamageRatePvM -> RW PvM elemental damage percentage.
+SLElementalDamageRatePvM -> SL PvM elemental damage percentage.
+
+;==================================================
+; Character Class x Class Elemental Damage Rate Settings
+;==================================================
+DWElementalDamageRateToDW -> DW vs DW elemental damage percentage.
+DWElementalDamageRateToDK -> DW vs DK elemental damage percentage.
+DWElementalDamageRateToFE -> DW vs FE elemental damage percentage.
+DWElementalDamageRateToMG -> DW vs MG elemental damage percentage.
+DWElementalDamageRateToDL -> DW vs DL elemental damage percentage.
+DWElementalDamageRateToSU -> DW vs SU elemental damage percentage.
+DWElementalDamageRateToRF -> DW vs RF elemental damage percentage.
+DWElementalDamageRateToGL -> DW vs GL elemental damage percentage.
+DWElementalDamageRateToRW -> DW vs RW elemental damage percentage.
+DWElementalDamageRateToSL -> DW vs SL elemental damage percentage.
+DKElementalDamageRateToDW -> DK vs DW elemental damage percentage.
+DKElementalDamageRateToDK -> DK vs DK elemental damage percentage.
+DKElementalDamageRateToFE -> DK vs FE elemental damage percentage.
+DKElementalDamageRateToMG -> DK vs MG elemental damage percentage.
+DKElementalDamageRateToDL -> DK vs DL elemental damage percentage.
+DKElementalDamageRateToSU -> DK vs SU elemental damage percentage.
+DKElementalDamageRateToRF -> DK vs RF elemental damage percentage.
+DKElementalDamageRateToGL -> DK vs GL elemental damage percentage.
+DKElementalDamageRateToRW -> DK vs RW elemental damage percentage.
+DKElementalDamageRateToSL -> DK vs SL elemental damage percentage.
+FEElementalDamageRateToDW -> FE vs DW elemental damage percentage.
+FEElementalDamageRateToDK -> FE vs DK elemental damage percentage.
+FEElementalDamageRateToFE -> FE vs FE elemental damage percentage.
+FEElementalDamageRateToMG -> FE vs MG elemental damage percentage.
+FEElementalDamageRateToDL -> FE vs DK elemental damage percentage.
+FEElementalDamageRateToSU -> FE vs SU elemental damage percentage.
+FEElementalDamageRateToRF -> FE vs RF elemental damage percentage.
+FEElementalDamageRateToGL -> FE vs GL elemental damage percentage.
+FEElementalDamageRateToRW -> FE vs RW elemental damage percentage.
+FEElementalDamageRateToSL -> FE vs SL elemental damage percentage.
+MGElementalDamageRateToDW -> MG vs DW elemental damage percentage.
+MGElementalDamageRateToDK -> MG vs DK elemental damage percentage.
+MGElementalDamageRateToFE -> MG vs FE elemental damage percentage.
+MGElementalDamageRateToMG -> MG vs MG elemental damage percentage.
+MGElementalDamageRateToDL -> MG vs DL elemental damage percentage.
+MGElementalDamageRateToSU -> MG vs SU elemental damage percentage.
+MGElementalDamageRateToRF -> MG vs RF elemental damage percentage.
+MGElementalDamageRateToGL -> MG vs GL elemental damage percentage.
+MGElementalDamageRateToRW -> MG vs RW elemental damage percentage.
+MGElementalDamageRateToSL -> MG vs SL elemental damage percentage.
+DLElementalDamageRateToDW -> DL vs DW elemental damage percentage.
+DLElementalDamageRateToDK -> DL vs DK elemental damage percentage.
+DLElementalDamageRateToFE -> DL vs FE elemental damage percentage.
+DLElementalDamageRateToMG -> DL vs MG elemental damage percentage.
+DLElementalDamageRateToDL -> DL vs DL elemental damage percentage.
+DLElementalDamageRateToSU -> DL vs SU elemental damage percentage.
+DLElementalDamageRateToRF -> DL vs RF elemental damage percentage.
+DLElementalDamageRateToGL -> DL vs GL elemental damage percentage.
+DLElementalDamageRateToRW -> DL vs RW elemental damage percentage.
+DLElementalDamageRateToSL -> DL vs SL elemental damage percentage.
+SUElementalDamageRateToDW -> SU vs DW elemental damage percentage.
+SUElementalDamageRateToDK -> SU vs DK elemental damage percentage.
+SUElementalDamageRateToFE -> SU vs FE elemental damage percentage.
+SUElementalDamageRateToMG -> SU vs MG elemental damage percentage.
+SUElementalDamageRateToDL -> SU vs DL elemental damage percentage.
+SUElementalDamageRateToSU -> SU vs SU elemental damage percentage.
+SUElementalDamageRateToRF -> SU vs RF elemental damage percentage.
+SUElementalDamageRateToGL -> SU vs GL elemental damage percentage.
+SUElementalDamageRateToRW -> SU vs RW elemental damage percentage.
+SUElementalDamageRateToSL -> SU vs SL elemental damage percentage.
+RFElementalDamageRateToDW -> RF vs DW elemental damage percentage.
+RFElementalDamageRateToDK -> RF vs DK elemental damage percentage.
+RFElementalDamageRateToFE -> RF vs FE elemental damage percentage.
+RFElementalDamageRateToMG -> RF vs MG elemental damage percentage.
+RFElementalDamageRateToDL -> RF vs DL elemental damage percentage.
+RFElementalDamageRateToSU -> RF vs SU elemental damage percentage.
+RFElementalDamageRateToRF -> RF vs RF elemental damage percentage.
+RFElementalDamageRateToGL -> RF vs GL elemental damage percentage.
+RFElementalDamageRateToRW -> RF vs RW elemental damage percentage.
+RFElementalDamageRateToSL -> RF vs SL elemental damage percentage.
+GLElementalDamageRateToDW -> GL vs DW elemental damage percentage.
+GLElementalDamageRateToDK -> GL vs DK elemental damage percentage.
+GLElementalDamageRateToFE -> GL vs FE elemental damage percentage.
+GLElementalDamageRateToMG -> GL vs MG elemental damage percentage.
+GLElementalDamageRateToDL -> GL vs DL elemental damage percentage.
+GLElementalDamageRateToSU -> GL vs SU elemental damage percentage.
+GLElementalDamageRateToRF -> GL vs RF elemental damage percentage.
+GLElementalDamageRateToGL -> GL vs GL elemental damage percentage.
+GLElementalDamageRateToRW -> GL vs RW elemental damage percentage.
+GLElementalDamageRateToSL -> GL vs SL elemental damage percentage.
+RWElementalDamageRateToDW -> RW vs DW elemental damage percentage.
+RWElementalDamageRateToDK -> RW vs DK elemental damage percentage.
+RWElementalDamageRateToFE -> RW vs FE elemental damage percentage.
+RWElementalDamageRateToMG -> RW vs MG elemental damage percentage.
+RWElementalDamageRateToDL -> RW vs DL elemental damage percentage.
+RWElementalDamageRateToSU -> RW vs SU elemental damage percentage.
+RWElementalDamageRateToRF -> RW vs RF elemental damage percentage.
+RWElementalDamageRateToGL -> RW vs GL elemental damage percentage.
+RWElementalDamageRateToRW -> RW vs RW elemental damage percentage.
+RWElementalDamageRateToSL -> RW vs SL elemental damage percentage.
+SLElementalDamageRateToDW -> SL vs DW elemental damage percentage.
+SLElementalDamageRateToDK -> SL vs DK elemental damage percentage.
+SLElementalDamageRateToFE -> SL vs FE elemental damage percentage.
+SLElementalDamageRateToMG -> SL vs MG elemental damage percentage.
+SLElementalDamageRateToDL -> SL vs DL elemental damage percentage.
+SLElementalDamageRateToSU -> SL vs SU elemental damage percentage.
+SLElementalDamageRateToRF -> SL vs RF elemental damage percentage.
+SLElementalDamageRateToGL -> SL vs GL elemental damage percentage.
+SLElementalDamageRateToRW -> SL vs RW elemental damage percentage.
+SLElementalDamageRateToSL -> SL vs SL elemental damage percentage.
+
+;==================================================
+; Character Elemental Defense Settings
+;==================================================
+DWElementalDefenseConstA -> DW elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/DWElementalDefenseConstA) #
+
+DKElementalDefenseConstA -> DK elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/DKElementalDefenseConstA) #
+
+FEElementalDefenseConstA -> FE elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/FEElementalDefenseConstA) #
+
+MGElementalDefenseConstA -> MG elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/MGElementalDefenseConstA) #
+
+DLElementalDefenseConstA -> DL elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/DLElementalDefenseConstA) #
+
+SUElementalDefenseConstA -> SU elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/SUElementalDefenseConstA) #
+
+RFElementalDefenseConstA -> RF elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/RFElementalDefenseConstA) #
+
+GLElementalDefenseConstA -> GL elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/GLElementalDefenseConstA) #
+
+RWElementalDefenseConstA -> RW elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/RWElementalDefenseConstA) #
+
+SLElementalDefenseConstA -> SL elemental defense formula const.
+
+# FORMULA = (PlayerDexterity/SLElementalDefenseConstA) #
+
+;==================================================
+; Character Elemental Damage Settings
+;==================================================
+DWElementalDamageMinConstA -> DW elemental damage min formula const.
+DWElementalDamageMaxConstA -> DW elemental damage max formula const.
+
+# FORMULA = (PlayerEnergy/DWElementalDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/DWElementalDamageMaxConstA) #
+
+DKElementalDamageMinConstA -> DK elemental damage min formula const.
+DKElementalDamageMaxConstA -> DK elemental damage max formula const.
+
+# FORMULA = (PlayerStrength/DKElementalDamageMinConstA) #
+
+# FORMULA = (PlayerStrength/DKElementalDamageMaxConstA) #
+
+FEElementalDamageMinConstA -> FE elemental damage min formula const.
+FEElementalDamageMinConstB -> FE elemental damage min formula const.
+FEElementalDamageMaxConstA -> FE elemental damage max formula const.
+FEElementalDamageMaxConstB -> FE elemental damage max formula const.
+
+# FORMULA = ((PlayerStrength/FEElementalDamageMinConstA)+(PlayerDexterity/FEElementalDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/FEElementalDamageMaxConstA)+(PlayerDexterity/FEElementalDamageMaxConstB)) #
+
+MGElementalDamageMinConstA -> MG elemental damage min formula const.
+MGElementalDamageMinConstB -> MG elemental damage min formula const.
+MGElementalDamageMaxConstA -> MG elemental damage max formula const.
+MGElementalDamageMaxConstB -> MG elemental damage max formula const.
+
+# FORMULA = ((PlayerStrength/MGElementalDamageMinConstA)+(PlayerEnergy/MGElementalDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/MGElementalDamageMaxConstA)+(PlayerEnergy/MGElementalDamageMaxConstB)) #
+
+DLElementalDamageMinConstA -> DL elemental damage min formula const.
+DLElementalDamageMinConstB -> DL elemental damage min formula const.
+DLElementalDamageMaxConstA -> DL elemental damage max formula const.
+DLElementalDamageMaxConstB -> DL elemental damage max formula const.
+
+# FORMULA = ((PlayerStrength/DLElementalDamageMinConstA)+(PlayerEnergy/DLElementalDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/DLElementalDamageMaxConstA)+(PlayerEnergy/DLElementalDamageMaxConstB)) #
+
+SUElementalDamageMinConstA -> SU elemental damage min formula const.
+SUElementalDamageMaxConstA -> SU elemental damage max formula const.
+
+# FORMULA = (PlayerEnergy/SUElementalDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/SUElementalDamageMaxConstA) #
+
+RFElementalDamageMinConstA -> RF elemental damage min formula const.
+RFElementalDamageMinConstB -> RF elemental damage min formula const.
+RFElementalDamageMaxConstA -> RF elemental damage max formula const.
+RFElementalDamageMaxConstB -> RF elemental damage max formula const.
+
+# FORMULA = ((PlayerStrength/RFElementalDamageMinConstA)+(PlayerVitality/RFElementalDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/RFElementalDamageMaxConstA)+(PlayerVitality/RFElementalDamageMaxConstB)) #
+
+GLElementalDamageMinConstA -> GL elemental damage min formula const.
+GLElementalDamageMinConstB -> GL elemental damage min formula const.
+GLElementalDamageMaxConstA -> GL elemental damage max formula const.
+GLElementalDamageMaxConstB -> GL elemental damage max formula const.
+
+# FORMULA = ((PlayerStrength/GLElementalDamageMinConstA)+(PlayerDexterity/GLElementalDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/GLElementalDamageMaxConstA)+(PlayerDexterity/GLElementalDamageMaxConstB)) #
+
+RWElementalDamageMinConstA -> RW elemental damage min formula const.
+RWElementalDamageMaxConstA -> RW elemental damage max formula const.
+
+# FORMULA = (PlayerEnergy/RWElementalDamageMinConstA) #
+
+# FORMULA = (PlayerEnergy/RWElementalDamageMaxConstA) #
+
+SLElementalDamageMinConstA -> SL elemental damage min formula const.
+SLElementalDamageMinConstB -> SL elemental damage min formula const.
+SLElementalDamageMaxConstA -> SL elemental damage max formula const.
+SLElementalDamageMaxConstB -> SL elemental damage max formula const.
+
+# FORMULA = ((PlayerStrength/SLElementalDamageMinConstA)+(PlayerDexterity/SLElementalDamageMinConstB)) #
+
+# FORMULA = ((PlayerStrength/SLElementalDamageMaxConstA)+(PlayerDexterity/SLElementalDamageMaxConstB)) #
+
+;==================================================
+; Character Elemental Attack Success Rate Settings
+;==================================================
+DWElementalAttackSuccessRateConstA -> DW elemental attack success rate formula const.
+DWElementalAttackSuccessRateConstB -> DW elemental attack success rate formula const.
+DWElementalAttackSuccessRateConstC -> DW elemental attack success rate formula const.
+DWElementalAttackSuccessRateConstD -> DW elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*DWElementalAttackSuccessRateConstA)+(PlayerStrength/DWElementalAttackSuccessRateConstB)+((PlayerDexterity*DWElementalAttackSuccessRateConstC)/DWElementalAttackSuccessRateConstD)) #
+
+DKElementalAttackSuccessRateConstA -> DK elemental attack success rate formula const.
+DKElementalAttackSuccessRateConstB -> DK elemental attack success rate formula const.
+DKElementalAttackSuccessRateConstC -> DK elemental attack success rate formula const.
+DKElementalAttackSuccessRateConstD -> DK elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*DKElementalAttackSuccessRateConstA)+(PlayerStrength/DKElementalAttackSuccessRateConstB)+((PlayerDexterity*DKElementalAttackSuccessRateConstC)/DKElementalAttackSuccessRateConstD)) #
+
+FEElementalAttackSuccessRateConstA -> FE elemental attack success rate formula const.
+FEElementalAttackSuccessRateConstB -> FE elemental attack success rate formula const.
+FEElementalAttackSuccessRateConstC -> FE elemental attack success rate formula const.
+FEElementalAttackSuccessRateConstD -> FE elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*FEElementalAttackSuccessRateConstA)+(PlayerStrength/FEElementalAttackSuccessRateConstB)+((PlayerDexterity*FEElementalAttackSuccessRateConstC)/FEElementalAttackSuccessRateConstD)) #
+
+MGElementalAttackSuccessRateConstA -> MG elemental attack success rate formula const.
+MGElementalAttackSuccessRateConstB -> MG elemental attack success rate formula const.
+MGElementalAttackSuccessRateConstC -> MG elemental attack success rate formula const.
+MGElementalAttackSuccessRateConstD -> MG elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*MGElementalAttackSuccessRateConstA)+(PlayerStrength/MGElementalAttackSuccessRateConstB)+((PlayerDexterity*MGElementalAttackSuccessRateConstC)/MGElementalAttackSuccessRateConstD)) #
+
+DLElementalAttackSuccessRateConstA -> DL elemental attack success rate formula const.
+DLElementalAttackSuccessRateConstB -> DL elemental attack success rate formula const.
+DLElementalAttackSuccessRateConstC -> DL elemental attack success rate formula const.
+DLElementalAttackSuccessRateConstD -> DL elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*DLElementalAttackSuccessRateConstA)+(PlayerStrength/DLElementalAttackSuccessRateConstB)+((PlayerDexterity*DLElementalAttackSuccessRateConstC)/DLElementalAttackSuccessRateConstD)) #
+
+SUElementalAttackSuccessRateConstA -> SU elemental attack success rate formula const.
+SUElementalAttackSuccessRateConstB -> SU elemental attack success rate formula const.
+SUElementalAttackSuccessRateConstC -> SU elemental attack success rate formula const.
+SUElementalAttackSuccessRateConstD -> SU elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*SUElementalAttackSuccessRateConstA)+(PlayerStrength/SUElementalAttackSuccessRateConstB)+((PlayerDexterity*SUElementalAttackSuccessRateConstC)/SUElementalAttackSuccessRateConstD)) #
+
+RFElementalAttackSuccessRateConstA -> RF elemental attack success rate formula const.
+RFElementalAttackSuccessRateConstB -> RF elemental attack success rate formula const.
+RFElementalAttackSuccessRateConstC -> RF elemental attack success rate formula const.
+RFElementalAttackSuccessRateConstD -> RF elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*RFElementalAttackSuccessRateConstA)+(PlayerStrength/RFElementalAttackSuccessRateConstB)+((PlayerDexterity*RFElementalAttackSuccessRateConstC)/RFElementalAttackSuccessRateConstD)) #
+
+GLElementalAttackSuccessRateConstA -> GL elemental attack success rate formula const.
+GLElementalAttackSuccessRateConstB -> GL elemental attack success rate formula const.
+GLElementalAttackSuccessRateConstC -> GL elemental attack success rate formula const.
+GLElementalAttackSuccessRateConstD -> GL elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*GLElementalAttackSuccessRateConstA)+(PlayerStrength/GLElementalAttackSuccessRateConstB)+((PlayerDexterity*GLElementalAttackSuccessRateConstC)/GLElementalAttackSuccessRateConstD)) #
+
+RWElementalAttackSuccessRateConstA -> RW elemental attack success rate formula const.
+RWElementalAttackSuccessRateConstB -> RW elemental attack success rate formula const.
+RWElementalAttackSuccessRateConstC -> RW elemental attack success rate formula const.
+RWElementalAttackSuccessRateConstD -> RW elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*RWElementalAttackSuccessRateConstA)+(PlayerStrength/RWElementalAttackSuccessRateConstB)+((PlayerDexterity*RWElementalAttackSuccessRateConstC)/RWElementalAttackSuccessRateConstD)) #
+
+SLElementalAttackSuccessRateConstA -> SL elemental attack success rate formula const.
+SLElementalAttackSuccessRateConstB -> SL elemental attack success rate formula const.
+SLElementalAttackSuccessRateConstC -> SL elemental attack success rate formula const.
+SLElementalAttackSuccessRateConstD -> SL elemental attack success rate formula const.
+
+# FORMULA = ((PlayerLevel*SLElementalAttackSuccessRateConstA)+(PlayerStrength/SLElementalAttackSuccessRateConstB)+((PlayerDexterity*SLElementalAttackSuccessRateConstC)/SLElementalAttackSuccessRateConstD)) #
+
+;==================================================
+; Character Elemental Defense Success Rate Settings
+;==================================================
+DWElementalDefenseSuccessRateConstA -> DW elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/DWElementalDefenseSuccessRateConstA) #
+
+DKElementalDefenseSuccessRateConstA -> DK elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/DKElementalDefenseSuccessRateConstA) #
+
+FEElementalDefenseSuccessRateConstA -> FE elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/FEElementalDefenseSuccessRateConstA) #
+
+MGElementalDefenseSuccessRateConstA -> MG elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/MGElementalDefenseSuccessRateConstA) #
+
+DLElementalDefenseSuccessRateConstA -> DL elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/DLElementalDefenseSuccessRateConstA) #
+
+SUElementalDefenseSuccessRateConstA -> SU elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/SUElementalDefenseSuccessRateConstA) #
+
+RFElementalDefenseSuccessRateConstA -> RF elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/RFElementalDefenseSuccessRateConstA) #
+
+GLElementalDefenseSuccessRateConstA -> GL elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/GLElementalDefenseSuccessRateConstA) #
+
+RWElementalDefenseSuccessRateConstA -> RW elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/RWElementalDefenseSuccessRateConstA) #
+
+SLElementalDefenseSuccessRateConstA -> SL elemental defense success rate formula const.
+
+# FORMULA = (PlayerDexterity/SLElementalDefenseSuccessRateConstA) #

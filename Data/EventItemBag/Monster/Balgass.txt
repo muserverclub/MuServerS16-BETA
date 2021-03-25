@@ -1,0 +1,69 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,016    0       0       *         12        12        12        12        *         *         0          //Sword of Destruction [Skill Luck Option: +4 Exc: 1]
+02,010    0       0       *         12        12        12        12        *         *         0          //Great Scepter [Skill Luck Option: +4 Exc: 1]
+03,010    0       0       *         12        12        12        12        *         *         0          //Dragon Spear [Skill Luck Option: +4 Exc: 1]
+04,016    0       0       *         12        12        12        12        *         *         0          //Saint Crossbow [Skill Luck Option: +4 Exc: 1]
+04,017    0       0       *         12        12        12        12        *         *         0          //Celestial Bow [Skill Luck Option: +4 Exc: 1]
+05,008    0       0       *         12        12        12        12        *         *         0          //Staff of Destruction [Skill Luck Option: +4 Exc: 1]
+05,009    0       0       *         12        12        12        12        *         *         0          //Dragon Soul Staff [Skill Luck Option: +4 Exc: 1]
+07,021    0       0       33        *         12        12        *         *         *         0          //Great Dragon Helm [Level: +3~5 Luck Option: +4]
+07,022    0       0       33        *         12        12        *         *         *         0          //Dark Soul Helm [Level: +3~5 Luck Option: +4]
+07,024    0       0       33        *         12        12        *         *         *         0          //Red Spirit Helm [Level: +3~5 Luck Option: +4]
+07,028    0       0       33        *         12        12        *         *         *         0          //Dark Master Mask [Level: +3~5 Luck Option: +4]
+08,021    0       0       33        *         12        12        *         *         *         0          //Great Dragon Armor [Level: +3~5 Luck Option: +4]
+08,022    0       0       33        *         12        12        *         *         *         0          //Dark Soul Armor [Level: +3~5 Luck Option: +4]
+08,023    0       0       33        *         12        12        *         *         *         0          //Hurricane Armor [Level: +3~5 Luck Option: +4]
+08,024    0       0       33        *         12        12        *         *         *         0          //Red Sprit Armor [Level: +3~5 Luck Option: +4]
+08,028    0       0       33        *         12        12        *         *         *         0          //Dark Master Armor [Level: +3~5 Luck Option: +4]
+09,021    0       0       33        *         12        12        *         *         *         0          //Great Dragon Pants [Level: +3~5 Luck Option: +4]
+09,022    0       0       33        *         12        12        *         *         *         0          //Dark Soul Pants [Level: +3~5 Luck Option: +4]
+09,023    0       0       33        *         12        12        *         *         *         0          //Hurricane Pants [Level: +3~5 Luck Option: +4]
+09,024    0       0       33        *         12        12        *         *         *         0          //Red Spirit Pants [Level: +3~5 Luck Option: +4]
+09,028    0       0       33        *         12        12        *         *         *         0          //Dark Master Pants [Level: +3~5 Luck Option: +4]
+10,021    0       0       33        *         12        12        *         *         *         0          //Great Dragon Gloves [Level: +3~5 Luck Option: +4]
+10,022    0       0       33        *         12        12        *         *         *         0          //Dark Soul Gloves [Level: +3~5 Luck Option: +4]
+10,023    0       0       33        *         12        12        *         *         *         0          //Hurricane Gloves [Level: +3~5 Luck Option: +4]
+10,024    0       0       33        *         12        12        *         *         *         0          //Red Spirit Gloves [Level: +3~5 Luck Option: +4]
+10,028    0       0       33        *         12        12        *         *         *         0          //Dark Master Gloves [Level: +3~5 Luck Option: +4]
+11,021    0       0       33        *         12        12        *         *         *         0          //Great Dragon Boots [Level: +3~5 Luck Option: +4]
+11,022    0       0       33        *         12        12        *         *         *         0          //Dark Soul Boots [Level: +3~5 Luck Option: +4]
+11,023    0       0       33        *         12        12        *         *         *         0          //Hurricane Boots [Level: +3~5 Luck Option: +4]
+11,024    0       0       33        *         12        12        *         *         *         0          //Red Spirit Boots [Level: +3~5 Luck Option: +4]
+11,028    0       0       33        *         12        12        *         *         *         0          //Dark Master Boots [Level: +3~5 Luck Option: +4]
+07,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Helm [Luck Option: +4 Exc: 1]
+07,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Helm [Luck Option: +4 Exc: 1]
+07,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Helm [Luck Option: +4 Exc: 1]
+07,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Mask [Luck Option: +4 Exc: 1]
+08,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Armor [Luck Option: +4 Exc: 1]
+08,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Armor [Luck Option: +4 Exc: 1]
+08,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Armor [Luck Option: +4 Exc: 1]
+08,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Armor [Luck Option: +4 Exc: 1]
+08,020    0       0       *         *         12        12        12        *         *         0          //Thunder Hawk Armor [Luck Option: +4 Exc: 1]
+09,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Pants [Luck Option: +4 Exc: 1]
+09,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Pants [Luck Option: +4 Exc: 1]
+09,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Pants [Luck Option: +4 Exc: 1]
+09,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Pants [Luck Option: +4 Exc: 1]
+09,020    0       0       *         *         12        12        12        *         *         0          //Thunder Hawk Pants [Luck Option: +4 Exc: 1]
+10,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Gloves [Luck Option: +4 Exc: 1]
+10,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Gloves [Luck Option: +4 Exc: 1]
+10,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Gloves [Luck Option: +4 Exc: 1]
+10,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Gloves [Luck Option: +4 Exc: 1]
+10,020    0       0       *         *         12        12        12        *         *         0          //Thunder Hawk Gloves [Luck Option: +4 Exc: 1]
+11,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Boots [Luck Option: +4 Exc: 1]
+11,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Boots [Luck Option: +4 Exc: 1]
+11,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Boots [Luck Option: +4 Exc: 1]
+11,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Boots [Luck Option: +4 Exc: 1]
+11,020    0       0       *         *         12        12        12        *         *         0          //Thunder Hawk Boots [Luck Option: +4 Exc: 1]
+end

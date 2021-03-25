@@ -1,0 +1,55 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,000    5       0       *         *         *         *         *         *         *         0          //Kris [Level: 5]
+00,002    5       0       *         *         *         *         *         *         *         0          //Rapier [Level: 5]
+00,004    5       0       *         *         *         *         *         *         *         0          //Sword of Assassin [Level: 5]
+00,003    5       0       *         *         *         *         *         *         *         0          //Katana [Level: 5]
+01,001    5       0       *         *         *         *         *         *         *         0          //Hand Axe [Level: 5]
+01,002    5       0       *         *         *         *         *         *         *         0          //Double Axe [Level: 5]
+02,000    5       0       *         *         *         *         *         *         *         0          //Mace [Level: 5]
+02,001    5       0       *         *         *         *         *         *         *         0          //Morning Star [Level: 5]
+03,002    5       0       *         *         *         *         *         *         *         0          //Dragon Lance [Level: 5]
+04,008    5       0       *         *         *         *         *         *         *         0          //Crossbow [Level: 5]
+04,001    5       0       *         *         *         *         *         *         *         0          //Bow [Level: 5]
+04,009    5       0       *         *         *         *         *         *         *         0          //Golden Crossbow [Level: 5]
+05,000    5       0       *         *         *         *         *         *         *         0          //Skull Staff [Level: 5]
+06,004    5       0       *         *         *         *         *         *         *         0          //Buckler [Level: 5]
+06,001    5       0       *         *         *         *         *         *         *         0          //Horn Shield [Level: 5]
+06,002    5       0       *         *         *         *         *         *         *         0          //Kite Shield [Level: 5]
+07,005    5       0       *         *         *         *         *         *         *         0          //Leather Helm [Level: 5]
+07,002    5       0       *         *         *         *         *         *         *         0          //Pad Helm [Level: 5]
+07,010    5       0       *         *         *         *         *         *         *         0          //Vine Helm [Level: 5]
+08,005    5       0       *         *         *         *         *         *         *         0          //Leather Armor [Level: 5]
+08,002    5       0       *         *         *         *         *         *         *         0          //Pad Armor [Level: 5]
+08,010    5       0       *         *         *         *         *         *         *         0          //Vine Armor [Level: 5]
+09,005    5       0       *         *         *         *         *         *         *         0          //Leather Pants [Level: 5]
+09,002    5       0       *         *         *         *         *         *         *         0          //Pad Pants [Level: 5]
+09,010    5       0       *         *         *         *         *         *         *         0          //Vine Pants [Level: 5]
+10,005    5       0       *         *         *         *         *         *         *         0          //Leather Gloves [Level: 5]
+10,002    5       0       *         *         *         *         *         *         *         0          //Pad Gloves [Level: 5]
+10,010    5       0       *         *         *         *         *         *         *         0          //Vine Gloves [Level: 5]
+11,005    5       0       *         *         *         *         *         *         *         0          //Leather Boots [Level: 5]
+11,002    5       0       *         *         *         *         *         *         *         0          //Pad Boots [Level: 5]
+11,010    5       0       *         *         *         *         *         *         *         0          //Vine Boots [Level: 5]
+13,000    0       0       *         *         *         *         *         *         *         0          //Guardian Angel
+13,001    0       0       *         *         *         *         *         *         *         0          //Imp
+13,002    0       0       *         *         *         *         *         *         *         0          //Horn of Uniria
+13,008    0       0       *         *         *         13        *         *         *         0          //Ring of Ice [Option: +8]
+13,009    0       0       *         *         *         13        *         *         *         0          //Ring of Poison [Option: +8]
+13,012    0       0       *         *         *         13        *         *         *         0          //Pendant of Lighting [Option: +8]
+13,013    0       0       *         *         *         13        *         *         *         0          //Pendant of Fire [Option: +8]
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+end

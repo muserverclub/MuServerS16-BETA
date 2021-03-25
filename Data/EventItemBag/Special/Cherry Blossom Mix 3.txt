@@ -1,0 +1,28 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+13,015    0       0       *         *         *         *         *         *         *         0          //Fruits
+13,015    1       0       *         *         *         *         *         *         *         0          //Fruits [Level: 1]
+13,015    2       0       *         *         *         *         *         *         *         0          //Fruits [Level: 2]
+13,015    3       0       *         *         *         *         *         *         *         0          //Fruits [Level: 3]
+13,015    4       0       *         *         *         *         *         *         *         0          //Fruits [Level: 4]
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,022    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation
+14,016    0       0       *         *         *         *         *         *         *         0          //Jewel of Life
+14,041    0       0       *         *         *         *         *         *         *         0          //Gemstone
+14,042    0       0       *         *         *         *         *         *         *         0          //Jewel of Harmony
+12,030    2       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Bless [Level: 2]
+12,031    2       0       *         *         *         *         *         *         *         0          //Bundle of Jewel of Soul [Level: 2]
+end

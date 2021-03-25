@@ -1,0 +1,32 @@
+0
+//State   Year   Month   Day   DoW   Hour   Minute   Second   Comment
+1         *      *       *     *     0      0        0        //Sign Register
+2         *      *       *     3     21     0        0        //Guild Master Register
+3         *      *       *     3     21     25       0        //Guild Member Register
+4         *      *       *     3     21     50       0        //Event Ready
+5         *      *       *     3     21     55       0        //Event Party
+6         *      *       *     3     22     0        0        //Event Start
+7         *      *       *     3     22     30       0        //Event Final
+8         *      *       *     3     22     31       0        //Event Clean
+9         *      *       *     3     22     35       0        //Event Clear
+end
+
+1
+//Group   MapN   MapX   MapY   CommonLife   OccupyLife
+0         92     89     41     500000       300000
+1         92     188    101    500000       300000
+2         96     162    54     500000       300000
+end
+
+2
+//Group   Index   MapN   MapX   MapY
+0         0       92     89     58
+0         1       92     84     30
+0         2       92     104    36
+1         0       92     175    102
+1         1       92     192    110
+1         2       92     200    96
+2         0       96     154    60
+2         1       96     162    45
+2         2       96     165    67
+end

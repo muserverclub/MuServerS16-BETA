@@ -1,0 +1,554 @@
+[GameServerInfo]
+;==================================================
+; Mana Shield Skill Settings
+;==================================================
+ManaShieldConstA -> Mana Shield skill damage reduction formula const.
+ManaShieldConstB -> Mana Shield skill damage reduction formula const.
+ManaShieldConstC -> Mana Shield skill damage reduction formula const.
+ManaShieldRateDW -> DW Mana Shield effect percentage.
+ManaShieldRateDK -> DK Mana Shield effect percentage.
+ManaShieldRateFE -> FE Mana Shield effect percentage.
+ManaShieldRateMG -> MG Mana Shield effect percentage.
+ManaShieldRateDL -> DL Mana Shield effect percentage.
+ManaShieldRateSU -> SU Mana Shield effect percentage.
+ManaShieldRateRF -> RF Mana Shield effect percentage.
+ManaShieldRateGL -> GL Mana Shield effect percentage.
+ManaShieldRateRW -> RW Mana Shield effect percentage.
+ManaShieldRateSL -> SL Mana Shield effect percentage.
+ManaShieldTimeConstA -> Mana Shield skill duration formula const (Seconds).
+ManaShieldTimeConstB -> Mana Shield skill duration formula const (Seconds).
+ManaShieldMaxRate -> Mana Shield skill maximum damage reduction.
+
+# FORMULA = (ManaShieldConstA+(PlayerDexterity/ManaShieldConstB)+(PlayerEnergy/gServerInfo.m_ManaShieldConstC)) #
+
+# FORMULA = (ManaShieldTimeConstA+(PlayerEnergy/ManaShieldTimeConstB)) #
+
+;==================================================
+; Defense Skill Settings
+;==================================================
+DefenseConstA -> Defense skill damage reduction.
+DefenseTimeConstA -> Defense skill duration (Seconds).
+
+;==================================================
+; Heal Skill Settings
+;==================================================
+HealConstA -> Heal skill recover HP formula const.
+HealConstB -> Heal skill recover HP formula const.
+
+# FORMULA = (HealConstA+(PlayerEnergy/HealConstB)) #
+
+;==================================================
+; Greater Defense Skill Settings
+;==================================================
+GreaterDefenseConstA -> Greater Defense skill increase defense formula const.
+GreaterDefenseConstB -> Greater Defense skill increase defense formula const.
+GreaterDefenseRateDW -> DW Greater Defense effect percentage.
+GreaterDefenseRateDK -> DK Greater Defense effect percentage.
+GreaterDefenseRateFE -> FE Greater Defense effect percentage.
+GreaterDefenseRateMG -> MG Greater Defense effect percentage.
+GreaterDefenseRateDL -> DL Greater Defense effect percentage.
+GreaterDefenseRateSU -> SU Greater Defense effect percentage.
+GreaterDefenseRateRF -> RF Greater Defense effect percentage.
+GreaterDefenseRateGL -> GL Greater Defense effect percentage.
+GreaterDefenseRateRW -> RW Greater Defense effect percentage.
+GreaterDefenseRateSL -> SL Greater Defense effect percentage.
+GreaterDefenseTimeConstA -> Greater Defense skill duration (Seconds).
+
+# FORMULA = (GreaterDefenseConstA+(PlayerEnergy/GreaterDefenseConstB)) #
+
+;==================================================
+; Greater Damage Skill Settings
+;==================================================
+GreaterDamageConstA -> Greater Damage skill increase damage formula const.
+GreaterDamageConstB -> Greater Damage skill increase damage formula const.
+GreaterDamageRateDW -> DW Greater Damage effect percentage.
+GreaterDamageRateDK -> DK Greater Damage effect percentage.
+GreaterDamageRateFE -> FE Greater Damage effect percentage.
+GreaterDamageRateMG -> MG Greater Damage effect percentage.
+GreaterDamageRateDL -> DL Greater Damage effect percentage.
+GreaterDamageRateSU -> SU Greater Damage effect percentage.
+GreaterDamageRateRF -> RF Greater Damage effect percentage.
+GreaterDamageRateGL -> GL Greater Damage effect percentage.
+GreaterDamageRateRW -> RW Greater Damage effect percentage.
+GreaterDamageRateSL -> SL Greater Damage effect percentage.
+GreaterDamageTimeConstA -> Greater Damage skill duration (Seconds).
+
+# FORMULA = (GreaterDamageConstA+(PlayerEnergy/GreaterDamageConstB)) #
+
+;==================================================
+; Summon Monster Skill Settings
+;==================================================
+SummonMaxLifeRate -> Summon Monster skill monster base life percentage.
+SummonDefenseRate -> Summon Monster skill monster base defense percentage.
+SummonDefenseSuccessRateRate -> Summon Monster skill monster base defense success rate percentage.
+SummonPhysiDamageRate -> Summon Monster skill monster base damage percentage.
+SummonAttackSuccessRateRate -> Summon Monster skill monster base attack success rate percentage.
+
+;==================================================
+; Greater Life Skill Settings
+;==================================================
+GreaterLifeConstA -> Greater Life skill increase life percentage formula const.
+GreaterLifeConstB -> Greater Life skill increase life percentage formula const.
+GreaterLifeConstC -> Greater Life skill increase life percentage formula const.
+GreaterLifeRateDW -> DW Greater Life effect percentage.
+GreaterLifeRateDK -> DK Greater Life effect percentage.
+GreaterLifeRateFE -> FE Greater Life effect percentage.
+GreaterLifeRateMG -> MG Greater Life effect percentage.
+GreaterLifeRateDL -> DL Greater Life effect percentage.
+GreaterLifeRateSU -> SU Greater Life effect percentage.
+GreaterLifeRateRF -> RF Greater Life effect percentage.
+GreaterLifeRateGL -> GL Greater Life effect percentage.
+GreaterLifeRateRW -> RW Greater Life effect percentage.
+GreaterLifeRateSL -> SL Greater Life effect percentage.
+GreaterLifeTimeConstA -> Greater Life skill duration formula const (Seconds).
+GreaterLifeTimeConstB -> Greater Life skill duration formula const (Seconds).
+GreaterLifeMaxRate -> Greater Life skill maximum increase life percentage.
+
+# FORMULA = (GreaterLifeConstA+(PlayerVitality/GreaterLifeConstB)+(PlayerEnergy/GreaterLifeConstC)) #
+
+# FORMULA = (GreaterLifeTimeConstA+(PlayerEnergy/GreaterLifeTimeConstB)) #
+
+;==================================================
+; Fire Slash Skill Settings
+;==================================================
+FireSlashConstA -> Fire Slash skill decrease defense percentage formula const.
+FireSlashConstB -> Fire Slash skill decrease defense percentage formula const.
+FireSlashTimeConstA -> Fire Slash skill duration (Seconds).
+FireSlashMaxRate -> Fire Slash skill maximum decrease defense percentage.
+
+# FORMULA = (FireSlashConstA+(PlayerEnergy/FireSlashConstB)) #
+
+;==================================================
+; Greater Critical Damage Skill Settings
+;==================================================
+GreaterCriticalDamageConstA -> Greater Critical Damage skill increase critical damage formula const.
+GreaterCriticalDamageConstB -> Greater Critical Damage skill increase critical damage formula const.
+GreaterCriticalDamageTimeConstA -> Greater Critical Damage skill duration formula const.
+GreaterCriticalDamageTimeConstB -> Greater Critical Damage skill duration formula const.
+
+# FORMULA = ((PlayerEnergy/GreaterCriticalDamageConstA)+(PlayerLeadership/GreaterCriticalDamageConstB)) #
+
+# FORMULA = (GreaterCriticalDamageTimeConstA+(PlayerEnergy/GreaterCriticalDamageTimeConstB)) #
+
+;==================================================
+; Stern Skill Settings
+;==================================================
+SternTimeConstA -> Stern skill duration (Seconds).
+
+;==================================================
+; Greater Mana Skill Settings
+;==================================================
+GreaterManaConstA -> Greater Mana skill increase mana percentage.
+GreaterManaTimeConstA -> Greater Mana skill duration (Seconds).
+
+;==================================================
+; Invisibility Skill Settings
+;==================================================
+InvisibilityTimeConstA -> Invisibility skill duration (Seconds).
+
+;==================================================
+; Brand Skill Settings
+;==================================================
+BrandTimeConstA -> Brand skill duration (Seconds).
+
+;==================================================
+; Infinity Arrow Skill Settings
+;==================================================
+InfinityArrowTimeConstA -> Infinity Arrow skill duration (Seconds).
+
+;==================================================
+; Magic Damage Immunity Skill Settings
+;==================================================
+BrandTimeConstA -> Magic Damage Immunity skill duration (Seconds).
+
+;==================================================
+; Physi Damage Immunity Skill Settings
+;==================================================
+BrandTimeConstA -> Physi Damage Immunity skill duration (Seconds).
+
+;==================================================
+; Drain Life Skill Settings
+;==================================================
+DrainLifeConstA -> Drain Life skill absorb life formula const.
+DrainLifeConstB -> Drain Life skill absorb life formula const.
+
+# FORMULA = (((PlayerDamage*DrainLifeConstA)/100)+(PlayerEnergy/DrainLifeConstB)) #
+
+;==================================================
+; Reflect Damage Skill Settings
+;==================================================
+ReflectDamageConstA -> Reflect Damage skill damage reflection formula const.		
+ReflectDamageConstB -> Reflect Damage skill damage reflection formula const.
+ReflectDamageRateDW -> DW Reflect Damage effect percentage.
+ReflectDamageRateDK -> DK Reflect Damage effect percentage.
+ReflectDamageRateFE -> FE Reflect Damage effect percentage.
+ReflectDamageRateMG -> MG Reflect Damage effect percentage.
+ReflectDamageRateDL -> DL Reflect Damage effect percentage.
+ReflectDamageRateSU -> SU Reflect Damage effect percentage.
+ReflectDamageRateRF -> RF Reflect Damage effect percentage.
+ReflectDamageRateGL -> GL Reflect Damage effect percentage.
+ReflectDamageRateRW -> RW Reflect Damage effect percentage.
+ReflectDamageRateSL -> SL Reflect Damage effect percentage.
+ReflectDamageTimeConstA -> Reflect Damage skill duration formula const (Seconds).
+ReflectDamageTimeConstB -> Reflect Damage skill duration formula const (Seconds).
+ReflectDamageMaxRate -> Reflect Damage skill maximum damage reflection.
+
+# FORMULA = (ReflectDamageConstA+(PlayerEnergy/ReflectDamageConstB)) #
+
+# FORMULA = (ReflectDamageTimeConstA+(PlayerEnergy/ReflectDamageTimeConstB)) #
+
+;==================================================
+; Sword Power Skill Settings
+;==================================================
+SwordPowerConstA -> Sword Power skill increase damage & mana percentage formula const.
+SwordPowerConstB -> Sword Power skill decrease defense & life percentage formula const.
+SwordPowerTimeConstA -> Sword Power skill duration formula const (Seconds).
+SwordPowerTimeConstB -> Sword Power skill duration formula const (Seconds).
+SwordPowerMaxRate -> Sword Power skill maximum increase damage & mana percentage.
+
+# FORMULA = (PlayerEnergy/SwordPowerConstA) #
+
+# FORMULA = (40-(PlayerEnergy/SwordPowerConstB)) #
+
+# FORMULA = (SwordPowerTimeConstA+(PlayerEnergy/SwordPowerTimeConstB)) #
+
+;==================================================
+; Sleep Skill Settings
+;==================================================
+SleepConstA -> Sleep skill success rate formula const.
+SleepConstB -> Sleep skill success rate formula const.
+SleepTimeConstA -> Sleep skill duration formula const (Seconds).
+SleepTimeConstB -> Sleep skill duration formula const (Seconds).
+SleepMaxTime -> Sleep skill maximum duration.
+
+# FORMULA = (SleepConstA+(PlayerEnergy/SleepConstB)) #
+
+# FORMULA = (SleepTimeConstA+(PlayerEnergy/SleepTimeConstB)) #
+
+;==================================================
+; Lesser Defense Skill Settings
+;==================================================
+LesserDefenseConstA -> Lesser Defense skill success rate formula const.
+LesserDefenseConstB -> Lesser Defense skill success rate formula const.
+LesserDefenseConstC -> Lesser Defense skill decrease defense percentage formula const.
+LesserDefenseConstD -> Lesser Defense skill decrease defense percentage formula const.
+LesserDefenseTimeConstA -> Lesser Defense skill duration formula const (Seconds).
+LesserDefenseTimeConstB -> Lesser Defense skill duration formula const (Seconds).
+LesserDefenseMaxRate -> Lesser Defense skill maximum decrease defense percentage.
+
+# FORMULA = (LesserDefenseConstA+(PlayerEnergy/LesserDefenseConstB)) #
+
+# FORMULA = (LesserDefenseConstC+(PlayerEnergy/LesserDefenseConstD)) #
+
+# FORMULA = (LesserDefenseTimeConstA+(PlayerEnergy/LesserDefenseTimeConstB)) #
+
+;==================================================
+; Lesser Damage Skill Settings
+;==================================================
+LesserDamageConstA -> Lesser Damage skill success rate formula const.
+LesserDamageConstB -> Lesser Damage skill success rate formula const.
+LesserDamageConstC -> Lesser Damage skill decrease damage percentage formula const.
+LesserDamageConstD -> Lesser Damage skill decrease damage percentage formula const.
+LesserDamageTimeConstA -> Lesser Damage skill duration formula const (Seconds).
+LesserDamageTimeConstB -> Lesser Damage skill duration formula const (Seconds).
+LesserDamageMaxRate -> Lesser Damage skill maximum decrease damage percentage.
+
+# FORMULA = (LesserDamageConstA+(PlayerEnergy/LesserDamageConstB)) #
+
+# FORMULA = (LesserDamageConstC+(PlayerEnergy/LesserDamageConstD)) #
+
+# FORMULA = (LesserDamageTimeConstA+(PlayerEnergy/LesserDamageTimeConstB)) #
+
+;==================================================
+; Sahamutt Skill Settings
+;==================================================
+SahamuttConstA -> Sahamutt skill periodic damage percentage.
+
+;==================================================
+; Neil Skill Settings
+;==================================================
+NeilConstA -> Neil skill periodic damage percentage.
+
+;==================================================
+; Magic Circle Skill Settings
+;==================================================
+MagicCircleConstA -> Magic Circle skill increase min magic damage percentage.
+MagicCircleTimeConstA -> Magic Circle skill duration (Seconds).
+
+;==================================================
+; Shield Recover Skill Settings
+;==================================================
+ShieldRecoverConstA -> Shield Recover skill recover SD formula const.
+ShieldRecoverConstB -> Shield Recover skill recover SD formula const.
+
+# FORMULA = (ShieldRecoverConstA+(PlayerEnergy/ShieldRecoverConstB)) #
+
+;==================================================
+; Dragon Slayer Skill Settings
+;==================================================
+DragonSlayerConstA -> Dragon Slayer skill success rate formula const.
+DragonSlayerConstB -> Dragon Slayer skill success rate formula const.
+DragonSlayerConstC -> Dragon Slayer skill SD reduction percentage formula const.
+DragonSlayerConstD -> Dragon Slayer skill SD reduction percentage formula const.
+DragonSlayerMaxRate -> Dragon Slayer skill maximum SD reduction percentage.
+
+# FORMULA = (DragonSlayerConstA+(PlayerEnergy/DragonSlayerConstB)) #
+
+# FORMULA = (DragonSlayerConstC+(PlayerEnergy/DragonSlayerConstD)) #
+
+;==================================================
+; Greater Ignore Defense Rate Skill Settings
+;==================================================
+GreaterIgnoreDefenseRateConstA -> Greater Ignore Defense Rate skill ignore defense percentage formula const.
+GreaterIgnoreDefenseRateConstB -> Greater Ignore Defense Rate skill ignore defense percentage formula const.
+GreaterIgnoreDefenseRateTimeConstA -> Greater Ignore Defense Rate skill duration formula const (Seconds).
+GreaterIgnoreDefenseRateTimeConstB -> Greater Ignore Defense Rate skill duration formula const (Seconds).
+
+# FORMULA = (GreaterIgnoreDefenseRateConstA+(PlayerEnergy/GreaterIgnoreDefenseRateConstB)) #
+
+# FORMULA = (GreaterIgnoreDefenseRateTimeConstA+(PlayerEnergy/GreaterIgnoreDefenseRateTimeConstB)) #
+
+;==================================================
+; Fitness Skill Settings
+;==================================================
+FitnessConstA -> Fitness skill increase vitality formula const.
+FitnessConstB -> Fitness skill increase vitality formula const.
+FitnessTimeConstA -> Fitness skill duration formula const (Seconds).
+FitnessTimeConstB -> Fitness skill duration formula const (Seconds).
+
+# FORMULA = (FitnessConstA+(PlayerEnergy/FitnessConstB)) #
+
+# FORMULA = (FitnessTimeConstA+(PlayerEnergy/FitnessTimeConstB)) #
+
+;==================================================
+; Greater Defense Success Rate Skill Settings
+;==================================================
+GreaterDefenseSuccessRateConstA -> Greater Defense Success Rate skill increase defense success rate formula const.
+GreaterDefenseSuccessRateConstB -> Greater Defense Success Rate skill increase defense success rate formula const.
+GreaterDefenseSuccessRateTimeConstA -> Greater Defense Success Rate skill duration formula const (Seconds).
+GreaterDefenseSuccessRateTimeConstB -> Greater Defense Success Rate skill duration formula const (Seconds).
+
+# FORMULA = (GreaterDefenseSuccessRateConstA+(PlayerEnergy/GreaterDefenseSuccessRateConstB)) #
+
+# FORMULA = (GreaterDefenseSuccessRateTimeConstA+(PlayerEnergy/GreaterDefenseSuccessRateTimeConstB)) #
+
+;==================================================
+; Circle Shield Skill Settings
+;==================================================
+CircleShieldConstA -> Circle Shield skill success rate formula const.
+CircleShieldConstB -> Circle Shield skill success rate formula const.
+CircleShieldConstC -> Circle Shield skill decrease BP.
+CircleShieldTimeConstA -> Circle Shield skill duration formula const (Seconds).
+CircleShieldTimeConstB -> Circle Shield skill duration formula const (Seconds).
+
+# FORMULA = (CircleShieldConstA+(PlayerStrength/CircleShieldConstB)) #
+
+# FORMULA = (CircleShieldTimeConstA+(PlayerEnergy/CircleShieldTimeConstB)) #
+
+;==================================================
+; Obsidian Skill Settings
+;==================================================
+ObsidianConstA -> Obsidian skill increase skill damage formula const.
+ObsidianConstB -> Obsidian skill increase skill damage formula const.
+ObsidianTimeConstA -> Obsidian skill duration formula const (Seconds).
+ObsidianTimeConstB -> Obsidian skill duration formula const (Seconds).
+
+# FORMULA = (ObsidianConstA+(PlayerStrength/ObsidianConstB)) #
+
+# FORMULA = (ObsidianTimeConstA+(PlayerEnergy/ObsidianTimeConstB)) #
+
+;==================================================
+; Wrath Skill Settings
+;==================================================
+WrathConstA -> Wrath skill increase damage percentage.
+WrathConstB -> Wrath skill decrease defense percentage.
+WrathTimeConstA -> Wrath skill duration formula const (Seconds).
+WrathTimeConstB -> Wrath skill duration formula const (Seconds).
+
+# FORMULA = (WrathTimeConstA+(PlayerEnergy/WrathTimeConstB)) #
+
+;==================================================
+; Might Skill Settings
+;==================================================
+MightConstA -> Might skill increase damage percentage.
+MightConstB -> Might skill increase MP consumption percentage.
+MightTimeConstA -> Might skill duration formula const (Seconds).
+MightTimeConstB -> Might skill duration formula const (Seconds).
+
+# FORMULA = (MightTimeConstA+(PlayerEnergy/MightTimeConstB)) #
+
+;==================================================
+; Haste Skill Settings
+;==================================================
+HasteConstA -> Haste skill increase attack speed amount.
+HasteConstB -> Haste skill increase BP consumption percentage.
+HasteTimeConstA -> Haste skill duration formula const (Seconds).
+HasteTimeConstB -> Haste skill duration formula const (Seconds).
+
+# FORMULA = (HasteTimeConstA+(PlayerEnergy/HasteTimeConstB)) #
+
+;==================================================
+; Death Scythe Skill Settings
+;==================================================
+DeathScytheTimeConstA -> Death Scythe skill duration (Seconds).
+
+;==================================================
+; Darkness Skill Settings
+;==================================================
+DarknessConstA -> Darkness skill increase damage & defense percentage formula const.
+DarknessConstB -> Darkness skill life percentage formula const.
+DarknessTimeConstA -> Darkness skill duration formula const (Seconds).
+DarknessTimeConstB -> Darkness skill duration formula const (Seconds).
+DarknessMaxRate -> Darkness skill maximum increase damage & defense percentage.
+
+# FORMULA = (PlayerEnergy/DarknessConstA) #
+
+# FORMULA = (40-(PlayerEnergy/DarknessConstB)) #
+
+# FORMULA = (DarknessTimeConstA+(PlayerEnergy/DarknessTimeConstB)) #
+
+;==================================================
+; Bat Flock Skill Settings
+;==================================================
+BatFlockConstA -> Bat Flock skill periodic damage percentage.
+
+;==================================================
+; Detection Skill Settings
+;==================================================
+DetectionConstA -> Detection skill distance.
+DetectionConstB -> Improved Detection skill distance.
+DetectionTimeConstA -> Detection skill duration (Seconds).
+
+;==================================================
+; Demolish Skill Settings
+;==================================================
+DemolishConstA -> Demolish skill ignore defense formula const.
+DemolishConstB -> Demolish skill ignore defense formula const.
+DemolishTimeConstA -> Demolish skill duration (Seconds).
+
+# FORMULA = (DemolishConstA+(PlayerDexterity/DemolishConstB)) #
+
+;==================================================
+; Party Heal Skill Settings
+;==================================================
+PartyHealConstA -> Party Heal skill recover HP formula const.
+PartyHealConstB -> Party Heal skill recover HP formula const.
+
+# FORMULA = (PartyHealConstA+(PlayerEnergy/PartyHealConstB)) #
+
+;==================================================
+; Bless Skill Settings
+;==================================================
+BlessConstA -> Bless skill increase stats amount.
+BlessTimeConstA -> Bless skill duration (Seconds).
+
+# FORMULA = (PlayerEnergy/BlessConstA) #
+
+;==================================================
+; Blind Skill Settings
+;==================================================
+BlindConstA -> Blind skill success rate formula const.
+BlindConstB -> Blind skill success rate formula const.	
+BlindConstC -> Blind skill decrease attack success rate percentage.
+BlindTimeConstA -> Blind skill duration (Seconds).
+
+# FORMULA = (BlindConstA+(PlayerEnergy/BlindConstB)) #
+
+;==================================================
+; Earth Prison Skill Settings
+;==================================================
+EarthPrisonConstA -> Earth Prison skill stun rate.
+
+;==================================================
+; Iron Defense Skill Settings
+;==================================================
+IronDefenseConstA -> Iron Defense skill increase HP.
+IronDefenseConstB -> Iron Defense skill increase defense.
+IronDefenseTimeConstA -> Iron Defense skill duration (Seconds).
+
+;==================================================
+; Blood Howling Skill Settings
+;==================================================
+BloodHowlingConstA -> Blood Howling skill success rate.
+BloodHowlingConstB -> Blood Howling skill periodic damage.
+BloodHowlingTimeConstA -> Blood Howling skill duration (Seconds).
+
+;==================================================
+; Evasion Skill Settings
+;==================================================
+EvasionConstA -> Evasion skill increase defense success rate.
+EvasionConstB -> Evasion skill increase defense success rate PvP.
+EvasionTimeConstA -> Evasion skill duration (Seconds).
+
+;==================================================
+; Paralyze Skill Settings
+;==================================================
+ParalyzeConstA -> Paralyze skill success rate formula const.
+ParalyzeConstB -> Paralyze skill success rate formula const.
+ParalyzeConstC -> Paralyze skill periodic damage.
+ParalyzeTimeConstA -> Paralyze skill duration (Seconds).
+
+# FORMULA = (ParalyzeConstA+(PlayerEnergy/ParalyzeConstB)) #
+
+;==================================================
+; Burst Skill Settings
+;==================================================
+BurstConstA -> Burst skill ignore defense rate.
+BurstTimeConstA -> Burst skill duration formula const (Seconds).
+BurstTimeConstB -> Burst skill duration formula const (Seconds).
+
+# FORMULA = (BurstTimeConstA+(PlayerEnergy/BurstTimeConstB)) #
+
+;==================================================
+; Fire Blood Skill Settings
+;==================================================
+FireBloodConstA -> Fire Blood skill periodic damage percentage.
+
+;==================================================
+; Archangel Will Skill Settings
+;==================================================
+ArchangelWillConstA -> Archangel Will skill increase damage.
+ArchangelWillConstB -> Archangel Will skill increase skill damage.
+ArchangelWillTimeConstA -> Archangel Will skill duration (Seconds).
+
+;==================================================
+; Apply Pentagram Absorb Settings
+;==================================================
+ApplyElementalHPAbsorbRate -> Errtel of Radiance HP absorb rate.
+ApplyElementalSDAbsorbRate -> Errtel of Radiance SD absorb rate.
+
+;==================================================
+; Apply Pentagram Bastion Effect Settings
+;==================================================
+ApplyBastionEffectRate -> Errtel of Radiance Bastion effect rate.
+ApplyBastionEffectTime -> Errtel of Radiance Bastion effect time.
+
+;==================================================
+; Apply Pentagram Hemorrhage Effect Settings
+;==================================================
+ApplyHemorrhageEffectRate -> Errtel of Radiance Hemorrhage effect rate.
+ApplyHemorrhageEffectTime -> Errtel of Radiance Hemorrhage effect time.
+
+;==================================================
+; Apply Pentagram Paralysis Effect Settings
+;==================================================
+ApplyParalysisEffectRate -> Errtel of Radiance Paralysis effect rate.
+ApplyParalysisEffectTime -> Errtel of Radiance Paralysis effect time.
+
+;==================================================
+; Apply Pentagram Bondage Effect Settings
+;==================================================
+ApplyBondageEffectRate -> Errtel of Radiance Bondage effect rate.
+ApplyBondageEffectTime -> Errtel of Radiance Bondage effect time.
+
+;==================================================
+; Apply Pentagram Punish Effect Settings
+;==================================================
+ApplyPunishEffectRate -> Errtel of Radiance Punish effect rate.
+ApplyPunishEffectMaxDamage -> Errtel of Radiance Punish effect max damage.
+
+;==================================================
+; Apply Pentagram Blindness Effect Settings
+;==================================================
+ApplyBlindnessEffectRate -> Errtel of Radiance Blindness effect rate.
+ApplyBlindnessEffectTime -> Errtel of Radiance Blindness effect time.

@@ -1,0 +1,4 @@
+//ServerCode   ServerName         ServerAddress      ServerPort   ServerShow
+0              "GameServer"       "127.0.0.1"        55900        "SHOW"
+19             "GameServerCS"     "127.0.0.1"        55919        "HIDE"
+end

@@ -1,0 +1,2 @@
+//MinReset   MaxReset   MinMasterReset   MaxMasterReset   BonusIndex   BonusValue
+end

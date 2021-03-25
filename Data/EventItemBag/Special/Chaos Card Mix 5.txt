@@ -1,0 +1,131 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,016    0       0       37        12        12        12        13        *         *         0          //Sword of Destruction [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+00,017    0       0       37        12        12        12        13        *         *         0          //Dark Breaker [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+00,018    0       0       37        12        12        12        13        *         *         0          //Thunder Blade [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+00,031    0       0       37        12        12        12        13        *         *         0          //Rune Blade [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+02,010    0       0       37        12        12        12        13        *         *         0          //Great Scepter [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+02,011    0       0       37        12        12        12        13        *         *         0          //Lord Scepter [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+04,016    0       0       37        12        12        12        13        *         *         0          //Saint Crossbow [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+04,017    0       0       37        12        12        12        13        *         *         0          //Celestial Bow [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+05,007    0       0       37        *         12        12        13        *         *         0          //Chaos Lighting Staff [Level: +5~7 Luck Option: +4 Exc: 2]
+05,008    0       0       37        *         12        12        13        *         *         0          //Staff of Destruction [Level: +5~7 Luck Option: +4 Exc: 2]
+04,006    0       0       37        12        12        12        13        *         *         0          //Chaos Nature Bow [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+02,006    0       0       37        12        12        12        13        *         *         0          //Chaos Dragon Axe [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+02,005    0       0       37        12        12        12        13        *         *         0          //Crystal Sword [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+02,007    0       0       37        12        12        12        13        *         *         0          //Elemental Mace [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+03,009    0       0       37        12        12        12        13        *         *         0          //Bill of Balrog [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+04,013    0       0       37        12        12        12        13        *         *         0          //Bluewing Crossbow [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+04,014    0       0       37        12        12        12        13        *         *         0          //Aquagold Crossbow [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+05,006    0       0       37        *         12        12        13        *         *         0          //Staff of Resurrection [Level: +5~7 Luck Option: +4 Exc: 2]
+06,012    0       0       37        12        12        12        13        *         *         0          //Bronze Shield [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+06,013    0       0       37        12        12        12        13        *         *         0          //Dragon Shield [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+06,014    0       0       37        *         12        12        13        *         *         0          //Legendary Shield [Level: +5~7 Luck Option: +4 Exc: 2]
+06,015    0       0       37        *         12        12        13        *         *         0          //Grand Soul Shield [Level: +5~7 Luck Option: +4 Exc: 2]
+06,016    0       0       37        12        12        12        13        *         *         0          //Elemental Shield [Level: +5~7 Skill Luck Option: +4 Exc: 2]
+05,016    0       0       37        *         12        12        12        *         *         0          //Red Wing Stick [Level: +5~7 Luck Option: +4 Exc: 1]
+05,017    0       0       37        *         12        12        12        *         *         0          //Ancient Stick [Level: +5~7 Luck Option: +4 Exc: 1]
+08,015    0       0       37        *         12        12        13        *         *         0          //Storm Crow Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,015    0       0       37        *         12        12        13        *         *         0          //Storm Crow Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,015    0       0       37        *         12        12        13        *         *         0          //Storm Crow Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,015    0       0       37        *         12        12        13        *         *         0          //Storm Crow Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,016    0       0       37        *         12        12        13        *         *         0          //Black Dragon Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,016    0       0       37        *         12        12        13        *         *         0          //Black Dragon Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,016    0       0       37        *         12        12        13        *         *         0          //Black Dragon Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,016    0       0       37        *         12        12        13        *         *         0          //Black Dragon Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,016    0       0       37        *         12        12        13        *         *         0          //Black Dragon Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,017    0       0       37        *         12        12        13        *         *         0          //Dark Phoenix Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,017    0       0       37        *         12        12        13        *         *         0          //Dark Phoenix Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,017    0       0       37        *         12        12        13        *         *         0          //Dark Phoenix Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,017    0       0       37        *         12        12        13        *         *         0          //Dark Phoenix Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,017    0       0       37        *         12        12        13        *         *         0          //Dark Phoenix Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,018    0       0       37        *         12        12        13        *         *         0          //Grand Soul Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,018    0       0       37        *         12        12        13        *         *         0          //Grand Soul Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,018    0       0       37        *         12        12        13        *         *         0          //Grand Soul Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,018    0       0       37        *         12        12        13        *         *         0          //Grand Soul Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,018    0       0       37        *         12        12        13        *         *         0          //Grand Soul Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,019    0       0       37        *         12        12        13        *         *         0          //Holy Spirit Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,019    0       0       37        *         12        12        13        *         *         0          //Holy Spirit Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,019    0       0       37        *         12        12        13        *         *         0          //Holy Spirit Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,019    0       0       37        *         12        12        13        *         *         0          //Holy Spirit Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,019    0       0       37        *         12        12        13        *         *         0          //Holy Spirit Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+08,020    0       0       37        *         12        12        13        *         *         0          //Thunder Hawk Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,020    0       0       37        *         12        12        13        *         *         0          //Thunder Hawk Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,020    0       0       37        *         12        12        13        *         *         0          //Thunder Hawk Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,020    0       0       37        *         12        12        13        *         *         0          //Thunder Hawk Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,027    0       0       37        *         12        12        13        *         *         0          //Dark Steel Mask [Level: +5~7 Luck Option: +4 Exc: 2]
+08,027    0       0       37        *         12        12        13        *         *         0          //Dark Steel Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,027    0       0       37        *         12        12        13        *         *         0          //Dark Steel Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,027    0       0       37        *         12        12        13        *         *         0          //Dark Steel Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,027    0       0       37        *         12        12        13        *         *         0          //Dark Steel Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,034    0       0       37        *         12        12        13        *         *         0          //Ashcrow Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,034    0       0       37        *         12        12        13        *         *         0          //Ashcrow Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,034    0       0       37        *         12        12        13        *         *         0          //Ashcrow Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,034    0       0       37        *         12        12        13        *         *         0          //Ashcrow Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,034    0       0       37        *         12        12        13        *         *         0          //Ashcrow Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,035    0       0       37        *         12        12        13        *         *         0          //Eclipse Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,035    0       0       37        *         12        12        13        *         *         0          //Eclipse Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,035    0       0       37        *         12        12        13        *         *         0          //Eclipse Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,035    0       0       37        *         12        12        13        *         *         0          //Eclipse Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,035    0       0       37        *         12        12        13        *         *         0          //Eclipse Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,036    0       0       37        *         12        12        13        *         *         0          //Iris Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,036    0       0       37        *         12        12        13        *         *         0          //Iris Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,036    0       0       37        *         12        12        13        *         *         0          //Iris Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,036    0       0       37        *         12        12        13        *         *         0          //Iris Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,036    0       0       37        *         12        12        13        *         *         0          //Iris Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+08,037    0       0       37        *         12        12        13        *         *         0          //Valiant Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,037    0       0       37        *         12        12        13        *         *         0          //Valiant Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,037    0       0       37        *         12        12        13        *         *         0          //Valiant Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,037    0       0       37        *         12        12        13        *         *         0          //Valiant Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,038    0       0       37        *         12        12        13        *         *         0          //Glorious Mask [Level: +5~7 Luck Option: +4 Exc: 2]
+08,038    0       0       37        *         12        12        13        *         *         0          //Glorious Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,038    0       0       37        *         12        12        13        *         *         0          //Glorious Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,038    0       0       37        *         12        12        13        *         *         0          //Glorious Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,038    0       0       37        *         12        12        13        *         *         0          //Glorious Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,041    0       0       37        *         12        12        13        *         *         0          //Ancient Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,041    0       0       37        *         12        12        13        *         *         0          //Ancient Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,041    0       0       37        *         12        12        13        *         *         0          //Ancient Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,041    0       0       37        *         12        12        13        *         *         0          //Ancient Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,041    0       0       37        *         12        12        13        *         *         0          //Ancient Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+07,040    0       0       37        *         12        12        13        *         *         0          //Red Wing Helm [Level: +5~7 Luck Option: +4 Exc: 2]
+08,040    0       0       37        *         12        12        13        *         *         0          //Red Wing Armor [Level: +5~7 Luck Option: +4 Exc: 2]
+09,040    0       0       37        *         12        12        13        *         *         0          //Red Wing Pants [Level: +5~7 Luck Option: +4 Exc: 2]
+10,040    0       0       37        *         12        12        13        *         *         0          //Red Wing Gloves [Level: +5~7 Luck Option: +4 Exc: 2]
+11,040    0       0       37        *         12        12        13        *         *         0          //Red Wing Boots [Level: +5~7 Luck Option: +4 Exc: 2]
+13,008    0       0       37        *         *         12        13        *         *         0          //Ring of Ice [Level: +5~7 Option: +4 Exc: 2]
+13,009    0       0       37        *         *         12        13        *         *         0          //Ring of Poison [Level: +5~7 Option: +4 Exc: 2]
+13,021    0       0       37        *         *         12        13        *         *         0          //Ring of Fire [Level: +5~7 Option: +4 Exc: 2]
+13,022    0       0       37        *         *         12        13        *         *         0          //Ring of Earth [Level: +5~7 Option: +4 Exc: 2]
+13,023    0       0       37        *         *         12        13        *         *         0          //Ring of Wind [Level: +5~7 Option: +4 Exc: 2]
+13,024    0       0       37        *         *         12        13        *         *         0          //Ring of Magic [Level: +5~7 Option: +4 Exc: 2]
+13,012    0       0       37        *         *         12        13        *         *         0          //Pendant of Lighting [Level: +5~7 Option: +4 Exc: 2]
+13,013    0       0       37        *         *         12        13        *         *         0          //Pendant of Fire [Level: +5~7 Option: +4 Exc: 2]
+13,025    0       0       37        *         *         12        13        *         *         0          //Pendant of Ice [Level: +5~7 Option: +4 Exc: 2]
+13,026    0       0       37        *         *         12        13        *         *         0          //Pendant of Wind [Level: +5~7 Option: +4 Exc: 2]
+13,027    0       0       37        *         *         12        13        *         *         0          //Pendant of Water [Level: +5~7 Option: +4 Exc: 2]
+13,028    0       0       37        *         *         12        13        *         *         0          //Pendant of Ability [Level: +5~7 Option: +4 Exc: 2]
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,016    0       0       *         *         *         *         *         *         *         0          //Jewel of Life
+14,042    0       0       *         *         *         *         *         *         *         0          //Jewel of Harmony
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,022    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation
+14,041    0       0       *         *         *         *         *         *         *         0          //Gemstone
+14,044    0       0       *         *         *         *         *         *         *         0          //Higher refining stone
+12,030    0       0       27        *         *         *         *         *         *         0          //Bundle of Jewel of Bless [Level: +0~2]
+12,031    0       0       27        *         *         *         *         *         *         0          //Bundle of Jewel of Soul [Level: +0~2]
+13,004    0       0       *         *         *         *         *         *         *         0          //Dark Horse
+13,005    0       0       *         *         *         *         *         *         *         0          //Dark Raven
+13,037    0       0       *         *         *         *         *         *         *         0          //Horn of Fenrir
+end

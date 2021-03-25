@@ -1,0 +1,93 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,031    0       0       39        12        12        12        *         *         *         0          //Rune Blade [Level: +6~8 Skill Luck Option: +4]
+02,011    0       0       39        12        12        12        *         *         *         0          //Lord Scepter [Level: +6~8 Skill Luck Option: +4]
+05,009    0       0       39        12        12        12        *         *         *         0          //Dragon Soul Staff [Level: +6~8 Skill Luck Option: +4]
+04,017    0       0       39        12        12        12        *         *         *         0          //Celestial Bow [Level: +6~8 Skill Luck Option: +4]
+04,022    0       0       39        12        12        12        *         *         *         0          //Albatross Bow [Level: +6~8 Skill Luck Option: +4]
+00,020    0       0       37        12        12        12        *         *         *         0          //Knight Blade [Level: +5~7 Skill Luck Option: +4]
+00,025    0       0       39        12        12        12        *         *         *         0          //Sword Dancer [Level: +6~8 Skill Luck Option: +4]
+05,013    0       0       39        12        12        12        *         *         *         0          //Platina Staff [Level: +6~8 Skill Luck Option: +4]
+02,015    0       0       39        12        12        12        *         *         *         0          //Shining Scepter [Level: +6~8 Skill Luck Option: +4]
+07,017    0       0       39        *         12        12        *         *         *         0          //Dark Phoenix Helm [Level: +6~8 Luck Option: +4]
+08,017    0       0       39        *         12        12        *         *         *         0          //Dark Phoenix Armor [Level: +6~8 Luck Option: +4]
+09,017    0       0       39        *         12        12        *         *         *         0          //Dark Phoenix Pants [Level: +6~8 Luck Option: +4]
+10,017    0       0       39        *         12        12        *         *         *         0          //Dark Phoenix Gloves [Level: +6~8 Luck Option: +4]
+11,017    0       0       39        *         12        12        *         *         *         0          //Dark Phoenix Boots [Level: +6~8 Luck Option: +4]
+07,024    0       0       39        *         12        12        *         *         *         0          //Red Spirit Helm [Level: +6~8 Luck Option: +4]
+08,024    0       0       39        *         12        12        *         *         *         0          //Red Sprit Armor [Level: +6~8 Luck Option: +4]
+09,024    0       0       39        *         12        12        *         *         *         0          //Red Spirit Pants [Level: +6~8 Luck Option: +4]
+10,024    0       0       39        *         12        12        *         *         *         0          //Red Spirit Gloves [Level: +6~8 Luck Option: +4]
+11,024    0       0       39        *         12        12        *         *         *         0          //Red Spirit Boots [Level: +6~8 Luck Option: +4]
+08,037    0       0       39        *         12        12        *         *         *         0          //Valiant Armor [Level: +6~8 Luck Option: +4]
+09,037    0       0       39        *         12        12        *         *         *         0          //Valiant Pants [Level: +6~8 Luck Option: +4]
+10,037    0       0       39        *         12        12        *         *         *         0          //Valiant Gloves [Level: +6~8 Luck Option: +4]
+11,037    0       0       39        *         12        12        *         *         *         0          //Valiant Boots [Level: +6~8 Luck Option: +4]
+07,038    0       0       39        *         12        12        *         *         *         0          //Glorious Mask [Level: +6~8 Luck Option: +4]
+08,038    0       0       39        *         12        12        *         *         *         0          //Glorious Armor [Level: +6~8 Luck Option: +4]
+09,038    0       0       39        *         12        12        *         *         *         0          //Glorious Pants [Level: +6~8 Luck Option: +4]
+10,038    0       0       39        *         12        12        *         *         *         0          //Glorious Gloves [Level: +6~8 Luck Option: +4]
+11,038    0       0       39        *         12        12        *         *         *         0          //Glorious Boots [Level: +6~8 Luck Option: +4]
+10,021    0       0       37        *         12        12        *         *         *         0          //Great Dragon Gloves [Level: +5~7 Luck Option: +4]
+11,021    0       0       37        *         12        12        *         *         *         0          //Great Dragon Boots [Level: +5~7 Luck Option: +4]
+10,022    0       0       37        *         12        12        *         *         *         0          //Dark Soul Gloves [Level: +5~7 Luck Option: +4]
+11,022    0       0       37        *         12        12        *         *         *         0          //Dark Soul Boots [Level: +5~7 Luck Option: +4]
+00,016    0       0       *         12        12        12        12        *         *         0          //Sword of Destruction [Skill Luck Option: +4 Exc: 1]
+02,005    0       0       *         12        12        12        12        *         *         0          //Crystal Sword [Skill Luck Option: +4 Exc: 1]
+00,031    0       0       *         12        12        12        12        *         *         0          //Rune Blade [Skill Luck Option: +4 Exc: 1]
+04,014    0       0       *         12        12        12        12        *         *         0          //Aquagold Crossbow [Skill Luck Option: +4 Exc: 1]
+04,016    0       0       *         12        12        12        12        *         *         0          //Saint Crossbow [Skill Luck Option: +4 Exc: 1]
+05,008    0       0       *         12        12        12        12        *         *         0          //Staff of Destruction [Skill Luck Option: +4 Exc: 1]
+02,010    0       0       *         12        12        12        12        *         *         0          //Great Scepter [Skill Luck Option: +4 Exc: 1]
+07,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Helm [Luck Option: +4 Exc: 1]
+08,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Armor [Luck Option: +4 Exc: 1]
+09,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Pants [Luck Option: +4 Exc: 1]
+10,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Gloves [Luck Option: +4 Exc: 1]
+11,016    0       0       *         *         12        12        12        *         *         0          //Black Dragon Boots [Luck Option: +4 Exc: 1]
+07,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Helm [Luck Option: +4 Exc: 1]
+08,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Armor [Luck Option: +4 Exc: 1]
+09,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Pants [Luck Option: +4 Exc: 1]
+10,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Gloves [Luck Option: +4 Exc: 1]
+11,018    0       0       *         *         12        12        12        *         *         0          //Grand Soul Boots [Luck Option: +4 Exc: 1]
+07,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Helm [Luck Option: +4 Exc: 1]
+08,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Armor [Luck Option: +4 Exc: 1]
+09,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Pants [Luck Option: +4 Exc: 1]
+10,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Gloves [Luck Option: +4 Exc: 1]
+11,019    0       0       *         *         12        12        12        *         *         0          //Holy Spirit Boots [Luck Option: +4 Exc: 1]
+07,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Mask [Luck Option: +4 Exc: 1]
+08,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Armor [Luck Option: +4 Exc: 1]
+09,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Pants [Luck Option: +4 Exc: 1]
+10,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Gloves [Luck Option: +4 Exc: 1]
+11,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Boots [Luck Option: +4 Exc: 1]
+06,013    0       0       *         12        *         *         12        *         *         0          //Dragon Shield [Skill Exc: 1]
+06,014    0       0       *         12        *         *         12        *         *         0          //Legendary Shield [Skill Exc: 1]
+06,016    0       0       *         12        *         *         12        *         *         0          //Elemental Shield [Skill Exc: 1]
+06,015    0       0       *         12        *         *         12        *         *         0          //Grand Soul Shield [Skill Exc: 1]
+13,008    0       0       *         *         *         *         12        *         *         0          //Ring of Ice [Exc: 1]
+13,009    0       0       *         *         *         *         12        *         *         0          //Ring of Poison [Exc: 1]
+13,021    0       0       *         *         *         *         12        *         *         0          //Ring of Fire [Exc: 1]
+13,012    0       0       *         *         *         *         12        *         *         0          //Pendant of Lighting [Exc: 1]
+13,013    0       0       *         *         *         *         12        *         *         0          //Pendant of Fire [Exc: 1]
+13,025    0       0       *         *         *         *         12        *         *         0          //Pendant of Ice [Exc: 1]
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,016    0       0       *         *         *         *         *         *         *         0          //Jewel of Life
+14,022    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,042    0       0       *         *         *         *         *         *         *         0          //Jewel of Harmony
+14,019    0       0       37        *         *         *         *         *         *         0          //Devil's Invitation [Level: +5~7]
+13,018    0       0       39        *         *         *         *         *         *         0          //Invisibility Cloak [Level: +6~8]
+14,028    7       0       *         *         *         *         *         *         *         0          //Lost Map [Level: 7]
+13,051    0       0       35        *         *         *         *         *         *         0          //Scroll of Blood [Level: +4~6]
+end

@@ -1,0 +1,61 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,003    0       0       41        12        12        12        *         *         *         0          //Katana [Level: +7~9 Skill Luck Option: +4]
+00,005    0       0       41        12        12        12        *         *         *         0          //Blade [Level: +7~9 Skill Luck Option: +4]
+00,011    0       0       41        12        12        12        *         *         *         0          //Legendary Sword [Level: +7~9 Skill Luck Option: +4]
+01,003    0       0       41        12        12        12        *         *         *         0          //Tomahawk [Level: +7~9 Skill Luck Option: +4]
+02,001    0       0       41        12        12        12        *         *         *         0          //Morning Star [Level: +7~9 Skill Luck Option: +4]
+04,009    0       0       41        12        12        12        *         *         *         0          //Golden Crossbow [Level: +7~9 Skill Luck Option: +4]
+04,011    0       0       41        12        12        12        *         *         *         0          //Light Crossbow [Level: +7~9 Skill Luck Option: +4]
+05,000    0       0       41        12        12        12        *         *         *         0          //Skull Staff [Level: +7~9 Skill Luck Option: +4]
+05,002    0       0       41        12        12        12        *         *         *         0          //Serpent Staff [Level: +7~9 Skill Luck Option: +4]
+07,005    0       0       41        *         12        12        *         *         *         0          //Leather Helm [Level: +7~9 Luck Option: +4]
+08,005    0       0       41        *         12        12        *         *         *         0          //Leather Armor [Level: +7~9 Luck Option: +4]
+09,005    0       0       41        *         12        12        *         *         *         0          //Leather Pants [Level: +7~9 Luck Option: +4]
+10,005    0       0       41        *         12        12        *         *         *         0          //Leather Gloves [Level: +7~9 Luck Option: +4]
+11,005    0       0       41        *         12        12        *         *         *         0          //Leather Boots [Level: +7~9 Luck Option: +4]
+07,010    0       0       41        *         12        12        *         *         *         0          //Vine Helm [Level: +7~9 Luck Option: +4]
+08,010    0       0       41        *         12        12        *         *         *         0          //Vine Armor [Level: +7~9 Luck Option: +4]
+09,010    0       0       41        *         12        12        *         *         *         0          //Vine Pants [Level: +7~9 Luck Option: +4]
+10,010    0       0       41        *         12        12        *         *         *         0          //Vine Gloves [Level: +7~9 Luck Option: +4]
+11,010    0       0       41        *         12        12        *         *         *         0          //Vine Boots [Level: +7~9 Luck Option: +4]
+07,002    0       0       41        *         12        12        *         *         *         0          //Pad Helm [Level: +7~9 Luck Option: +4]
+08,002    0       0       41        *         12        12        *         *         *         0          //Pad Armor [Level: +7~9 Luck Option: +4]
+09,002    0       0       41        *         12        12        *         *         *         0          //Pad Pants [Level: +7~9 Luck Option: +4]
+10,002    0       0       41        *         12        12        *         *         *         0          //Pad Gloves [Level: +7~9 Luck Option: +4]
+11,002    0       0       41        *         12        12        *         *         *         0          //Pad Boots [Level: +7~9 Luck Option: +4]
+07,006    0       0       39        *         12        12        *         *         *         0          //Scale Helm [Level: +6~8 Luck Option: +4]
+08,006    0       0       39        *         12        12        *         *         *         0          //Scale Armor [Level: +6~8 Luck Option: +4]
+09,006    0       0       39        *         12        12        *         *         *         0          //Scale Pants [Level: +6~8 Luck Option: +4]
+10,006    0       0       39        *         12        12        *         *         *         0          //Scale Gloves [Level: +6~8 Luck Option: +4]
+11,006    0       0       39        *         12        12        *         *         *         0          //Scale Boots [Level: +6~8 Luck Option: +4]
+07,011    0       0       39        *         12        12        *         *         *         0          //Silk Helm [Level: +6~8 Luck Option: +4]
+08,011    0       0       39        *         12        12        *         *         *         0          //Silk Armor [Level: +6~8 Luck Option: +4]
+09,011    0       0       39        *         12        12        *         *         *         0          //Silk Pants [Level: +6~8 Luck Option: +4]
+10,011    0       0       39        *         12        12        *         *         *         0          //Silk Gloves [Level: +6~8 Luck Option: +4]
+11,011    0       0       39        *         12        12        *         *         *         0          //Silk Boots [Level: +6~8 Luck Option: +4]
+07,004    0       0       39        *         12        12        *         *         *         0          //Bone Helm [Level: +6~8 Luck Option: +4]
+08,004    0       0       39        *         12        12        *         *         *         0          //Bone Armor [Level: +6~8 Luck Option: +4]
+09,004    0       0       39        *         12        12        *         *         *         0          //Bone Pants [Level: +6~8 Luck Option: +4]
+10,004    0       0       39        *         12        12        *         *         *         0          //Bone Gloves [Level: +6~8 Luck Option: +4]
+11,004    0       0       39        *         12        12        *         *         *         0          //Bone Boots [Level: +6~8 Luck Option: +4]
+07,025    0       0       39        *         12        12        *         *         *         0          //Light Plate Mask [Level: +6~8 Luck Option: +4]
+08,025    0       0       39        *         12        12        *         *         *         0          //Light Plate Armor [Level: +6~8 Luck Option: +4]
+09,025    0       0       39        *         12        12        *         *         *         0          //Light Plate Pants [Level: +6~8 Luck Option: +4]
+10,025    0       0       39        *         12        12        *         *         *         0          //Light Plate Gloves [Level: +6~8 Luck Option: +4]
+11,025    0       0       39        *         12        12        *         *         *         0          //Light Plate Boots [Level: +6~8 Luck Option: +4]
+06,009    0       0       41        12        12        12        *         *         *         0          //Plate Shield [Level: +7~9 Skill Luck Option: +4]
+06,003    0       0       41        12        12        12        *         *         *         0          //Elven Shield [Level: +7~9 Skill Luck Option: +4]
+06,006    0       0       41        12        12        12        *         *         *         0          //Skull Shield [Level: +7~9 Skill Luck Option: +4]
+end

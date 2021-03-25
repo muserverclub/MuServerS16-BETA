@@ -1,0 +1,18 @@
+0
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            460          58             00         141            027            00             //Spider Eggs
+0            461          58             00         141            028            00             //Spider Eggs
+0            462          58             00         142            028            00             //Spider Eggs
+0            460          58             00         146            034            00             //Spider Eggs
+0            462          58             00         147            034            00             //Spider Eggs
+0            461          58             00         146            033            00             //Spider Eggs
+0            460          58             00         152            031            00             //Spider Eggs
+0            460          58             00         152            030            00             //Spider Eggs
+0            461          58             00         151            030            00             //Spider Eggs
+0            462          58             00         146            029            00             //Spider Eggs
+0            462          58             00         146            030            00             //Spider Eggs
+0            461          58             00         147            029            00             //Spider Eggs
+0            460          58             00         145            024            00             //Spider Eggs
+0            460          58             00         144            024            00             //Spider Eggs
+0            461          58             00         144            025            00             //Spider Eggs
+end

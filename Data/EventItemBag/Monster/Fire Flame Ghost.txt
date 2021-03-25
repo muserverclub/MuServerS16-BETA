@@ -1,0 +1,87 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+05,002    0       0       *         12        *         *         12        *         *         0          //Serpent Staff [Skill Exc: 1]
+05,003    0       0       *         12        *         *         12        *         *         0          //Thunder Staff [Skill Exc: 1]
+01,003    0       0       *         12        *         *         12        *         *         0          //Tomahawk [Skill Exc: 1]
+00,005    0       0       *         12        *         *         12        *         *         0          //Blade [Skill Exc: 1]
+04,004    0       0       *         12        *         *         12        *         *         0          //Tiger Bow [Skill Exc: 1]
+04,012    0       0       *         12        *         *         12        *         *         0          //Serpent Crossbow [Skill Exc: 1]
+02,008    0       0       *         12        *         *         12        *         *         0          //Battle Scepter [Skill Exc: 1]
+07,006    0       0       *         *         *         *         12        *         *         0          //Scale Helm [Exc: 1]
+08,006    0       0       *         *         *         *         12        *         *         0          //Scale Armor [Exc: 1]
+09,006    0       0       *         *         *         *         12        *         *         0          //Scale Pants [Exc: 1]
+10,006    0       0       *         *         *         *         12        *         *         0          //Scale Gloves [Exc: 1]
+11,006    0       0       *         *         *         *         12        *         *         0          //Scale Boots [Exc: 1]
+07,007    0       0       *         *         *         *         12        *         *         0          //Sphinx Mask [Exc: 1]
+08,007    0       0       *         *         *         *         12        *         *         0          //Sphinx Armor [Exc: 1]
+09,007    0       0       *         *         *         *         12        *         *         0          //Sphinx Pants [Exc: 1]
+10,007    0       0       *         *         *         *         12        *         *         0          //Sphinx Gloves [Exc: 1]
+11,007    0       0       *         *         *         *         12        *         *         0          //Sphinx Boots [Exc: 1]
+07,012    0       0       *         *         *         *         12        *         *         0          //Wind Helm [Exc: 1]
+08,012    0       0       *         *         *         *         12        *         *         0          //Wind Armor [Exc: 1]
+09,012    0       0       *         *         *         *         12        *         *         0          //Wind Pants [Exc: 1]
+10,012    0       0       *         *         *         *         12        *         *         0          //Wind Gloves [Exc: 1]
+11,012    0       0       *         *         *         *         12        *         *         0          //Wind Boots [Exc: 1]
+06,005    0       0       *         12        *         *         12        *         *         0          //Dragon Slayer Shield [Skill Exc: 1]
+06,011    0       0       *         12        *         *         12        *         *         0          //Serpent Shield [Skill Exc: 1]
+07,039    0       0       45        *         12        12        *         *         *         0          //Violent Wind Helm [Level: +9~11 Luck Option: +4]
+08,039    0       0       45        *         12        12        *         *         *         0          //Violent Wind Armor [Level: +9~11 Luck Option: +4]
+09,039    0       0       45        *         12        12        *         *         *         0          //Violent Wind Pants [Level: +9~11 Luck Option: +4]
+10,039    0       0       45        *         12        12        *         *         *         0          //Violent Wind Gloves [Level: +9~11 Luck Option: +4]
+11,039    0       0       45        *         12        12        *         *         *         0          //Violent Wind Boots [Level: +9~11 Luck Option: +4]
+07,040    0       0       45        *         12        12        *         *         *         0          //Red Wing Helm [Level: +9~11 Luck Option: +4]
+08,040    0       0       45        *         12        12        *         *         *         0          //Red Wing Armor [Level: +9~11 Luck Option: +4]
+09,040    0       0       45        *         12        12        *         *         *         0          //Red Wing Pants [Level: +9~11 Luck Option: +4]
+10,040    0       0       45        *         12        12        *         *         *         0          //Red Wing Gloves [Level: +9~11 Luck Option: +4]
+11,040    0       0       45        *         12        12        *         *         *         0          //Red Wing Boots [Level: +9~11 Luck Option: +4]
+05,014    0       0       45        12        12        12        *         *         *         0          //Mystery Stick [Level: +9~11 Skill Luck Option: +4]
+05,015    0       0       45        12        12        12        *         *         *         0          //Violent Wind Stick [Level: +9~11 Skill Luck Option: +4]
+05,016    0       0       45        12        12        12        *         *         *         0          //Red Wing Stick [Level: +9~11 Skill Luck Option: +4]
+07,039    0       0       47        *         12        12        *         *         *         0          //Violent Wind Helm [Level: +10~12 Luck Option: +4]
+08,039    0       0       47        *         12        12        *         *         *         0          //Violent Wind Armor [Level: +10~12 Luck Option: +4]
+09,039    0       0       47        *         12        12        *         *         *         0          //Violent Wind Pants [Level: +10~12 Luck Option: +4]
+10,039    0       0       47        *         12        12        *         *         *         0          //Violent Wind Gloves [Level: +10~12 Luck Option: +4]
+11,039    0       0       47        *         12        12        *         *         *         0          //Violent Wind Boots [Level: +10~12 Luck Option: +4]
+07,040    0       0       47        *         12        12        *         *         *         0          //Red Wing Helm [Level: +10~12 Luck Option: +4]
+08,040    0       0       47        *         12        12        *         *         *         0          //Red Wing Armor [Level: +10~12 Luck Option: +4]
+09,040    0       0       47        *         12        12        *         *         *         0          //Red Wing Pants [Level: +10~12 Luck Option: +4]
+10,040    0       0       47        *         12        12        *         *         *         0          //Red Wing Gloves [Level: +10~12 Luck Option: +4]
+11,040    0       0       47        *         12        12        *         *         *         0          //Red Wing Boots [Level: +10~12 Luck Option: +4]
+05,014    0       0       47        12        12        12        *         *         *         0          //Mystery Stick [Level: +10~12 Skill Luck Option: +4]
+05,015    0       0       47        12        12        12        *         *         *         0          //Violent Wind Stick [Level: +10~12 Skill Luck Option: +4]
+05,016    0       0       47        12        12        12        *         *         *         0          //Red Wing Stick [Level: +10~12 Skill Luck Option: +4]
+05,005    0       0       *         12        *         *         12        *         *         0          //Legendary Staff [Skill Exc: 1]
+04,014    0       0       *         12        *         *         12        *         *         0          //Aquagold Crossbow [Skill Exc: 1]
+02,005    0       0       *         12        *         *         12        *         *         0          //Crystal Sword [Skill Exc: 1]
+00,014    0       0       *         12        *         *         12        *         *         0          //Lighting Sword [Skill Exc: 1]
+02,009    0       0       *         12        *         *         12        *         *         0          //Master Scepter [Skill Exc: 1]
+07,001    0       0       *         *         *         *         12        *         *         0          //Dragon Helm [Exc: 1]
+10,001    0       0       *         *         *         *         12        *         *         0          //Dragon Gloves [Exc: 1]
+11,001    0       0       *         *         *         *         12        *         *         0          //Dragon Boots [Exc: 1]
+07,014    0       0       *         *         *         *         12        *         *         0          //Guardian Helm [Exc: 1]
+10,014    0       0       *         *         *         *         12        *         *         0          //Guardian Gloves [Exc: 1]
+11,014    0       0       *         *         *         *         12        *         *         0          //Guardian Boots [Exc: 1]
+07,003    0       0       *         *         *         *         12        *         *         0          //Legendary Helm [Exc: 1]
+08,003    0       0       *         *         *         *         12        *         *         0          //Legendary Armor [Exc: 1]
+10,003    0       0       *         *         *         *         12        *         *         0          //Legendary Gloves [Exc: 1]
+07,026    0       0       *         *         *         *         12        *         *         0          //Adamantine Mask [Exc: 1]
+10,026    0       0       *         *         *         *         12        *         *         0          //Adamantine Gloves [Exc: 1]
+11,026    0       0       *         *         *         *         12        *         *         0          //Adamantine Boots [Exc: 1]
+06,013    0       0       *         12        *         *         12        *         *         0          //Dragon Shield [Skill Exc: 1]
+06,014    0       0       *         12        *         *         12        *         *         0          //Legendary Shield [Skill Exc: 1]
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,022    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+end

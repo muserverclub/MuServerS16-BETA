@@ -1,0 +1,27 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+6145      0       0       0         0         0         0           //Wings of Heaven
+6144      0       0       0         0         0         0           //Wings of Elf
+6686      0       0       0         0         0         0           //Cape of Lord
+6146      0       0       0         0         0         0           //Wings of Satan
+7181      0       0       0         0         0         0           //Jewel of Bless
+7184      0       0       0         0         0         0           //Jewel of Life
+6159      0       0       0         0         0         0           //Jewel of Chaos
+7182      0       0       0         0         0         0           //Jewel of Soul
+6179      0       0       0         0         0         0           //Scroll of Fire Scream
+7688      0       0       0         0         0         0           //Scroll of Evil Spirit
+7709      0       0       0         0         0         0           //Scroll of Gigantic Storm
+7707      0       0       0         0         0         0           //Innovation Parchment
+7703      0       0       0         0         0         0           //Berserker Parchment
+7701      0       0       0         0         0         0           //Lightning Shock Parchment
+6186      0       0       0         0         0         0           //Wind of Despair
+6189      0       0       0         0         0         0           //Crystal of Multi-Shot
+7695      0       0       0         0         0         0           //Scroll of Soul Barrier
+7697      0       0       0         0         0         0           //Scroll of Ice Storm
+7337      0       0       0         0         0         0           //RageFighter Character Card
+7331      0       0       0         0         0         0           //Vault Expansion Certificate
+7279      0       0       0         0         0         0           //Mirror of Dimensions
+7277      0       0       0         0         0         0           //Complete Secromicon
+7270      0       0       0         0         0         0           //Gaion¡¯s Order
+6762      0       0       0         0         0         0           //Pet Unicorn
+6751      0       0       0         0         0         0           //Gladiator's Honor
+end

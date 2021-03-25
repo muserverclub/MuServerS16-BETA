@@ -1,0 +1,148 @@
+//Index   DropRate   OptionRate   Comment
+2         10000      2            //Rapier
+14        10000      2            //Lighting Sword
+32        10000      2            //Sacred Glove
+1025      10000      2            //Morning Star
+2053      10000      2            //Silver Bow
+2057      10000      2            //Golden Crossbow
+2560      10000      2            //Skull Staff
+3072      10000      2            //Small Shield
+3078      10000      2            //Skull Shield
+3081      10000      2            //Plate Shield
+3102      10000      2            //Pluma Shield
+3104      10000      2            //Vis Shield
+3114      10000      2            //El Hazard Shield
+3584      10000      2            //Bronze Helm
+3585      10000      2            //Dragon Helm
+3586      10000      2            //Pad Helm
+3587      10000      2            //Legendary Helm
+3588      10000      2            //Bone Helm
+3589      10000      2            //Leather Helm
+3590      10000      2            //Scale Helm
+3591      10000      2            //Sphinx Mask
+3592      10000      2            //Brass Helm
+3593      10000      2            //Plate Helm
+3594      10000      2            //Vine Helm
+3595      10000      2            //Silk Helm
+3596      10000      2            //Wind Helm
+3597      10000      2            //Spirit Helm
+3598      10000      2            //Guardian Helm
+3610      10000      2            //Adamantine Mask
+3624      10000      2            //Red Wing Helm
+3643      10000      2            //Sacred Fire Helm
+3676      10000      2            //Gru hill Helmet
+3678      10000      2            //Hirat Helmet
+3679      10000      2            //Sate Helmet
+3702      10000      2            //Rune Legendary Helmet
+3703      10000      2            //Kenaz Hood
+3761      10000      2            //Nightwing Helm
+4096      10000      2            //Bronze Armor
+4097      10000      2            //Dragon Armor
+4098      10000      2            //Pad Armor
+4099      10000      2            //Legendary Armor
+4100      10000      2            //Bone Armor
+4101      10000      2            //Leather Armor
+4102      10000      2            //Scale Armor
+4103      10000      2            //Sphinx Armor
+4104      10000      2            //Brass Armor
+4105      10000      2            //Plate Armor
+4106      10000      2            //Vine Armor
+4107      10000      2            //Silk Armor
+4108      10000      2            //Wind Armor
+4109      10000      2            //Spirit Armor
+4110      10000      2            //Guardian Armor
+4111      10000      2            //Storm Crow Armor
+4122      10000      2            //Adamantine Armor
+4136      10000      2            //Red Wing Armor
+4155      10000      2            //Sacred Fire Armor
+4188      10000      2            //Gru Hill Armor
+4190      10000      2            //Hirat Armor
+4191      10000      2            //Sate Armor
+4214      10000      2            //Rune Legendary Armor
+4215      10000      2            //Kanaz Armor
+4273      10000      2            //Nightwing Armor
+4608      10000      2            //Bronze Pants
+4609      10000      2            //Dragon Pants
+4610      10000      2            //Pad Pants
+4611      10000      2            //Legendary Pants
+4612      10000      2            //Bone Pants
+4613      10000      2            //Leather Pants
+4614      10000      2            //Scale Pants
+4615      10000      2            //Sphinx Pants
+4616      10000      2            //Brass Pants
+4617      10000      2            //Plate Pants
+4618      10000      2            //Vine Pants
+4619      10000      2            //Silk Pants
+4620      10000      2            //Wind Pants
+4621      10000      2            //Spirit Pants
+4622      10000      2            //Guardian Pants
+4623      10000      2            //Storm Crow Pants
+4634      10000      2            //Adamantine Pants
+4648      10000      2            //Red Wing Pants
+4667      10000      2            //Sacred Fire Pants
+4700      10000      2            //Gru Hill Pants
+4702      10000      2            //Hirat Pants
+4703      10000      2            //Sate Pants
+4726      10000      2            //Rune Legendary Pants
+4727      10000      2            //Kanaz Pants
+4785      10000      2            //Night Wing Pants
+5120      10000      2            //Bronze Gloves
+5121      10000      2            //Dragon Gloves
+5122      10000      2            //Pad Gloves
+5123      10000      2            //Legendary Gloves
+5124      10000      2            //Bone Gloves
+5125      10000      2            //Leather Gloves
+5126      10000      2            //Scale Gloves
+5127      10000      2            //Sphinx Gloves
+5128      10000      2            //Brass Gloves
+5129      10000      2            //Plate Gloves
+5130      10000      2            //Vine Gloves
+5131      10000      2            //Silk Gloves
+5132      10000      2            //Wind Gloves
+5133      10000      2            //Spirit Gloves
+5134      10000      2            //Guardian Gloves
+5135      10000      2            //Storm Crow Gloves
+5146      10000      2            //Adamantine Gloves
+5160      10000      2            //Red Wing Gloves
+5214      10000      2            //Hirat Gloves
+5215      10000      2            //Sate Gloves
+5238      10000      2            //Rune Legendary Gloves
+5239      10000      2            //Kanaz Gloves
+5297      10000      2            //Nightwing Gloves
+5632      10000      2            //Bronze Boots
+5633      10000      2            //Dragon Boots
+5634      10000      2            //Pad Boots
+5635      10000      2            //Legendary Boots
+5636      10000      2            //Bone Boots
+5637      10000      2            //Leather Boots
+5638      10000      2            //Scale Boots
+5639      10000      2            //Sphinx Boots
+5640      10000      2            //Brass Boots
+5641      10000      2            //Plate Boots
+5642      10000      2            //Vine Boots
+5643      10000      2            //Silk Boots
+5644      10000      2            //Wind Boots
+5645      10000      2            //Spirit Boots
+5646      10000      2            //Guardian Boots
+5647      10000      2            //Storm Crow Boots
+5658      10000      2            //Adamantine Boots
+5672      10000      2            //Red Wing Boots
+5691      10000      2            //Sacred Fire Boots
+5726      10000      2            //Hirat Boots
+5727      10000      2            //Sate Boots
+5750      10000      2            //Rune Legendary Boots
+5751      10000      2            //Kanaz Boots
+5809      10000      2            //Night Wing Boots
+6664      10000      2            //Ring of Ice
+6665      10000      2            //Ring of Poison
+6668      10000      2            //Pendant of Lighting
+6669      10000      2            //Pendant of Fire
+6677      10000      2            //Ring of Fire
+6678      10000      2            //Ring of Earth
+6679      10000      2            //Ring of Wind
+6680      10000      2            //Ring of Magic
+6681      10000      2            //Pendant of Ice
+6682      10000      2            //Pendant of Wind
+6683      10000      2            //Pendant of Water
+6684      10000      2            //Pendant of Ability
+end

@@ -1,0 +1,28 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+7683      0       1       0         0         0         0           //Scroll of Fire Ball
+7690      0       1       0         0         0         0           //Scroll of Power Wave
+7682      0       1       0         0         0         0           //Scroll of Lighting
+7681      0       1       0         0         0         0           //Scroll of Meteorite
+7685      0       1       0         0         0         0           //Scroll of Teleport
+7686      0       1       0         0         0         0           //Scroll of Ice
+7680      0       1       0         0         0         0           //Scroll of Poison
+3586      0       0       0         1         1         0           //Pad Helm
+4098      0       0       0         1         1         0           //Pad Armor
+4610      0       0       0         1         1         0           //Pad Pants
+5122      0       0       0         1         1         0           //Pad Gloves
+5634      0       0       0         1         1         0           //Pad Boots
+3588      2       0       0         1         1         0           //Bone Helm
+4100      2       0       0         1         1         0           //Bone Armor
+4612      2       0       0         1         1         0           //Bone Pants
+5124      2       0       0         1         1         0           //Bone Gloves
+5636      2       0       0         1         1         0           //Bone Boots
+3591      3       0       0         1         1         0           //Sphinx Mask
+4103      3       0       0         1         1         0           //Sphinx Armor
+4615      3       0       0         1         1         0           //Sphinx Pants
+5127      3       0       0         1         1         0           //Sphinx Gloves
+5639      3       0       0         1         1         0           //Sphinx Boots
+2563      3       0       0         1         1         0           //Thunder Staff
+2560      0       0       0         1         1         0           //Skull Staff
+2561      2       0       0         1         1         0           //Angelic Staff
+2562      3       0       0         1         1         0           //Serpent Staff
+end

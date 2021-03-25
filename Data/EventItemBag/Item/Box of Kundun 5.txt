@@ -1,0 +1,24 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,016    0       0       *         *         *         *         *         *         *         0          //Jewel of Life
+14,022    0       0       *         *         *         *         *         *         *         0          //Jewel of Creation
+14,044    0       0       *         *         *         *         *         *         *         0          //Higher refining stone
+14,019    0       0       39        *         *         *         *         *         *         0          //Devil's Invitation [Level: +6~8]
+13,018    0       0       41        *         *         *         *         *         *         0          //Invisibility Cloak [Level: +7~9]
+14,028    7       0       *         *         *         *         *         *         *         0          //Lost Map [Level: 7]
+13,051    0       0       35        *         *         *         *         *         *         0          //Scroll of Blood [Level: +4~6]
+end

@@ -1,0 +1,7 @@
+//Name                       Path
+"ConnectServer"              "..\\ConnectServer\\ConnectServer.exe"
+"JoinServer"                 "..\\JoinServer\\JoinServer.exe"
+"DataServer"                 "..\\DataServer\\DataServer.exe"
+"GameServer"                 "..\\GameServer\\GameServer.exe"
+"GameServerCS"               "..\\GameServerCS\\GameServer.exe"
+end

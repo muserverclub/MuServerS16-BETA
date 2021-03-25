@@ -1,0 +1,42 @@
+0
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            592          92             30         082            047            *              //Undine
+0            592          92             30         095            043            *              //Undine
+0            593          92             30         092            046            *              //Salamander
+0            593          92             30         088            048            *              //Salamander
+0            594          92             30         087            033            *              //Sylphid
+0            594          92             30         091            043            *              //Sylphid
+0            595          92             30         090            036            *              //Gnome
+0            595          92             30         083            034            *              //Gnome
+0            596          92             30         087            037            *              //Hellraiser
+0            596          92             30         094            033            *              //Hellraiser
+end
+
+1
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            592          92             30         187            096            *              //Undine
+0            592          92             30         192            096            *              //Undine
+0            593          92             30         181            104            *              //Salamander
+0            593          92             30         194            097            *              //Salamander
+0            594          92             30         191            104            *              //Sylphid
+0            594          92             30         182            099            *              //Sylphid
+0            595          92             30         184            093            *              //Gnome
+0            595          92             30         193            100            *              //Gnome
+0            596          92             30         189            098            *              //Hellraiser
+0            596          92             30         185            103            *              //Hellraiser
+end
+
+2
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            611          96             30         162            052            *              //Sellihoden
+0            611          96             30         154            049            *              //Sellihoden
+0            612          96             30         161            058            *              //Ukanva
+0            612          96             30         158            059            *              //Ukanva
+0            613          96             30         169            047            *              //Silla
+0            613          96             30         156            052            *              //Silla
+0            614          96             30         169            060            *              //Normus
+0            614          96             30         166            049            *              //Normus
+0            615          96             30         158            059            *              //Muff
+0            615          96             30         164            057            *              //Muff
+end
+

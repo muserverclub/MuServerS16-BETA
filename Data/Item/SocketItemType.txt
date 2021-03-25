@@ -1,0 +1,173 @@
+//Index   MaxSocket   Comment
+26        3           //Flameberge
+27        3           //Sword Breaker
+28        3           //Rune Bastard Sword
+29        3           //Sonic Blade
+30        3           //Asura
+36        3           //Cyclone Sword
+37        3           //Blast Break
+52        3           //Pantera Claws
+53        3           //Devast Claws
+69        3           //Paring Short Sword
+70        3           //Novakura Short Sword
+1040      3           //Frost Mace
+1041      3           //Absolute Scepter
+1043      3           //Thunderbolt
+1044      3           //Horn of Steal
+1054      3           //Frost Rune Mace
+1055      3           //Light Road Runic Mace
+1548      3           //Magmus Peer
+1558      3           //Rectuus Lance
+1559      3           //Russell Light Lance
+2071      3           //Dark Stinger
+2073      3           //Angelic Bow
+2074      3           //Devil Crossbow
+2081      3           //Devilwood Quiver
+2580      3           //Eternal Wing Stick
+2590      3           //Deadly Staff
+2591      3           //Inberial Staff
+2592      3           //Summon Spirit Stick
+2595      3           //Miracle Staff
+2597      3           //Spite Staff
+3089      3           //Crimson Glory
+3090      3           //Salamander Shield
+3091      3           //Frost Barrier
+3092      3           //Guardian Shield
+3094      3           //Lazy Wind Shield
+3095      3           //Light Lord Shield
+3096      3           //Dark Devil Shield
+3097      3           //Magic Knight Shield
+3112      3           //Grace Shield
+3113      3           //Constant Shield
+3098      3           //Ambition Shield
+3628      3           //Eternal Wing Helm
+3629      3           //Titan  Helm
+3630      3           //Brave Helm
+3633      3           //Seraphim Helm
+3634      3           //Divine Helm
+3635      3           //Royal Mask
+3636      3           //Hades Helm
+3637      3           //Succubus Helm
+3638      3           //Lazy Wind Helm
+3639      3           //Dark Devil Helm
+3640      3           //Sticky Helm
+3642      3           //Ambition Mask
+3658      3           //Stormwing Helm
+3659      3           //Light Lord Helmet
+3704      3           //Rune Divine Helmet
+3705      3           //Rune Light Helmet
+3730      3           //Tigris Helm
+3731      3           //Crimson Skull Helm
+3732      3           //Grace Helm
+3733      3           //Constant Helm
+3762      3           //Fidelity Helm
+3763      3           //Trace Helm
+4140      3           //Eternal Wing Armor
+4141      3           //Titan  Armor
+4142      3           //Brave Armor
+4143      3           //Phantom  Armor
+4144      3           //Destroy Armor
+4145      3           //Seraphim Armor
+4146      3           //Divine Armor
+4147      3           //Royal Armor
+4148      3           //Hades Armor
+4149      3           //Succubus Armor
+4150      3           //Lazy Wind Armor
+4151      3           //Dark Devil Armor
+4152      3           //Sticky Armor
+4153      3           //Hell Night Armor
+4154      3           //Ambition Armor
+4170      3           //Stormwing Armor
+4171      3           //Light Lord Armor
+4172      3           //Magic Knight Armor
+4216      3           //Rune Divine Armor
+4217      3           //Rune Light Armor
+4242      3           //Tigris Armor
+4243      3           //Crimson Skull Armor
+4244      3           //Grace Armor
+4245      3           //Constant Armor
+4274      3           //Fidelity Armor
+4275      3           //Trace Armor
+4652      3           //Eternal Wing Pants
+4653      3           //Titan  Pants
+4654      3           //Brave Pants
+4655      3           //Phantom  Pants
+4656      3           //Destroy Pants
+4657      3           //Seraphim Pants
+4658      3           //Divine Pants
+4659      3           //Royal Pants
+4660      3           //Hades Pants
+4661      3           //Succubus Pants
+4662      3           //Lazy Wind Pants
+4663      3           //Dark Devil Pants
+4664      3           //Sticky Pants
+4665      3           //Hell Night Pants
+4666      3           //Ambition Pants
+4682      3           //Stormwing Pants
+4683      3           //Light Lord Pants
+4684      3           //Magic Knight Pants
+4728      3           //Rune Divine Pants
+4729      3           //Rune Light Pants
+4754      3           //Tigris Pants
+4755      3           //Crimson Skull Pants
+4756      3           //Grace Pants
+4757      3           //Constant Pants
+4786      3           //Fidelity Pants
+4787      3           //Trace Pants
+5164      3           //Eternal Wing Gloves
+5165      3           //Titan  Gloves
+5166      3           //Brave Gloves
+5167      3           //Phantom  Gloves
+5168      3           //Destroy Gloves
+5169      3           //Seraphim Gloves
+5170      3           //Divine Gloves
+5171      3           //Royal Gloves
+5172      3           //Hades Gloves
+5173      3           //Succubus Gloves
+5174      3           //Lazy Wind Gloves
+5175      3           //Dark Devil Gloves
+5176      3           //Sticky Gloves
+5177      3           //Hell Night Gloves
+5178      3           //Ambition Gloves
+5194      3           //Stormwing Gloves
+5195      3           //Light Lord Gloves
+5196      3           //Magic Knight Gloves
+5240      3           //Rune Divine Gloves
+5241      3           //Rune Light Gloves
+5268      3           //Grace Gloves
+5269      3           //Constant Gloves
+5298      3           //Fidelity Gloves
+5299      3           //Trace Gloves
+5676      3           //Eternal Wing Boots
+5677      3           //Titan Boots
+5678      3           //Brave Boots
+5679      3           //Phantom Boots
+5680      3           //Destroy Boots
+5681      3           //Seraphim Boots
+5682      3           //Divine Boots
+5683      3           //Royal Boots
+5684      3           //Hades Boots
+5685      3           //Succubus Boots
+5686      3           //Lazy Wind Boots
+5687      3           //Dark Devil Boots
+5688      3           //Sticky Boots
+5689      3           //Hell Night Boots
+5690      3           //Ambition Boots
+5706      3           //Stormwing Boots
+5707      3           //Light Lord Boots
+5708      3           //Magic Knight Boots
+5752      3           //Rune Divine Boots
+5753      3           //Rune Light Boots
+5778      3           //Tigris Boots
+5779      3           //Crimson Skull Boots
+5780      3           //Grace Boots
+5781      3           //Constant Boots
+5810      3           //Fidelity Boots
+5811      3           //Trace Boots
+
+//Index   MaxSocket   Comment
+20,39     3           //Jasper Necklace
+20,40     3           //Lapis Lazuli Necklace
+20,41     3           //Battle Jasper Necklace
+20,42     3           //Battle Lagoon Necklace
+end

@@ -1,0 +1,10 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+1541      3       0       1         1         1         0           //Double Poleaxe
+1537      3       0       1         1         1         0           //Spear
+1539      3       0       1         1         1         0           //Giant Trident
+1543      3       0       1         1         1         0           //Berdysh
+1540      3       0       1         1         1         0           //Serpent Spear
+1536      3       0       1         1         1         0           //Light Spear
+10        3       0       1         1         1         0           //Light Saber
+1027      3       0       1         1         1         0           //Great Hammer
+end

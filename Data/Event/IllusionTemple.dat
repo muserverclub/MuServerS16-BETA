@@ -1,0 +1,14 @@
+0
+//AlarmTime   StandTime   EventTime   CloseTime
+5             1           15          4         
+end
+
+1
+//Year   Month   Day   DoW   Hour   Minute   Second
+*        *       *     *     1      30       0
+*        *       *     *     5      30       0
+*        *       *     *     9      30       0
+*        *       *     *     13     30       0
+*        *       *     *     17     30       0
+*        *       *     *     21     30       0
+end

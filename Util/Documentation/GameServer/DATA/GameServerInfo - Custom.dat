@@ -1,0 +1,193 @@
+[GameServerInfo]
+;==================================================
+; Custom Arena Settings
+;==================================================
+CustomArenaSwitch -> Custom Arena state (0=Off/1=On).
+CustomArenaMapNumber -> Custom Arena map number.
+CustomArenaVictimScoreDecrease -> Custom Arena decrease score on death.
+CustomArenaKillerScoreIncrease -> Custom Arena increase score on killing.
+
+;==================================================
+; Custom Attack Settings
+;==================================================
+CustomAttackSwitch -> "/attack" command state (0=Off/1=On).
+CustomAttackMapDisable -> "/attack" disabled map list (-1=None).
+CustomAttackEnable_AL0 -> "/attack" utilization state  (0=Off/1=On) (Free).
+CustomAttackEnable_AL1 -> "/attack" utilization state  (0=Off/1=On) (Vip1).
+CustomAttackEnable_AL2 -> "/attack" utilization state  (0=Off/1=On) (Vip2).
+CustomAttackEnable_AL3 -> "/attack" utilization state  (0=Off/1=On) (Vip3).
+CustomAttackBuffEnable_AL0 -> Auto buff state  (0=Off/1=On) (Free).
+CustomAttackBuffEnable_AL1 -> Auto buff state  (0=Off/1=On) (Vip1).
+CustomAttackBuffEnable_AL2 -> Auto buff state  (0=Off/1=On) (Vip2).
+CustomAttackBuffEnable_AL3 -> Auto buff state  (0=Off/1=On) (Vip3).
+CustomAttackPickEnable_AL0 -> Auto pick state  (0=Off/1=On) (Free).
+CustomAttackPickEnable_AL1 -> Auto pick state  (0=Off/1=On) (Vip1).
+CustomAttackPickEnable_AL2 -> Auto pick state  (0=Off/1=On) (Vip2).
+CustomAttackPickEnable_AL3 -> Auto pick state  (0=Off/1=On) (Vip3).
+CustomAttackRequireLevel_AL0 -> Required level to use "/attack" (Free).
+CustomAttackRequireLevel_AL1 -> Required level to use "/attack" (Vip1).
+CustomAttackRequireLevel_AL2 -> Required level to use "/attack" (Vip2).
+CustomAttackRequireLevel_AL3 -> Required level to use "/attack" (Vip3).
+CustomAttackRequireReset_AL0 -> Required reset to use "/attack" (Free).
+CustomAttackRequireReset_AL1 -> Required reset to use "/attack" (Vip1).
+CustomAttackRequireReset_AL2 -> Required reset to use "/attack" (Vip2).
+CustomAttackRequireReset_AL3 -> Required reset to use "/attack" (Vip3).
+
+# SYNTAX = /attack #
+
+# SYNTAX = /attack <STATE> <BUFF_STATE> <PICK_STATE> <SKILL_NUMBER> #
+
+;==================================================
+; Custom Attack Offline Settings
+;==================================================
+CustomAttackOfflineSwitch -> "/offattack" command state (0=Off/1=On).
+CustomAttackOfflineMapDisable -> "/offattack" disabled map list (-1=None).
+CustomAttackOfflineGPGain_AL0 -> Can gain Goblin Point while offline (0=No/1=Yes) (Free).
+CustomAttackOfflineGPGain_AL1 -> Can gain Goblin Point while offline (0=No/1=Yes) (Vip1).
+CustomAttackOfflineGPGain_AL2 -> Can gain Goblin Point while offline (0=No/1=Yes) (Vip2).
+CustomAttackOfflineGPGain_AL3 -> Can gain Goblin Point while offline (0=No/1=Yes) (Vip3).
+CustomAttackOfflineEnable_AL0 -> "/offattack" utilization state (0=Off/1=On) (Free).
+CustomAttackOfflineEnable_AL1 -> "/offattack" utilization state (0=Off/1=On) (Vip1).
+CustomAttackOfflineEnable_AL2 -> "/offattack" utilization state (0=Off/1=On) (Vip2).
+CustomAttackOfflineEnable_AL3 -> "/offattack" utilization state (0=Off/1=On) (Vip3).
+CustomAttackOfflineBuffEnable_AL0 -> Auto buff state (0=Off/1=On) (Free).
+CustomAttackOfflineBuffEnable_AL1 -> Auto buff state (0=Off/1=On) (Vip1).
+CustomAttackOfflineBuffEnable_AL2 -> Auto buff state (0=Off/1=On) (Vip2).
+CustomAttackOfflineBuffEnable_AL3 -> Auto buff state (0=Off/1=On) (Vip3).
+CustomAttackOfflinePickEnable_AL0 -> Auto pick state (0=Off/1=On) (Free).
+CustomAttackOfflinePickEnable_AL1 -> Auto pick state (0=Off/1=On) (Vip1).
+CustomAttackOfflinePickEnable_AL2 -> Auto pick state (0=Off/1=On) (Vip2).
+CustomAttackOfflinePickEnable_AL3 -> Auto pick state  (0=Off/1=On) (Vip3).
+CustomAttackOfflineKeepEnable_AL0 -> Keep character online after death or move (0=Off/1=On) (Free).
+CustomAttackOfflineKeepEnable_AL1 -> Keep character online after death or move (0=Off/1=On) (Vip1).
+CustomAttackOfflineKeepEnable_AL2 -> Keep character online after death or move (0=Off/1=On) (Vip2).
+CustomAttackOfflineKeepEnable_AL3 -> Keep character online after death or move (0=Off/1=On) (Vip3).
+CustomAttackOfflineRequireLevel_AL0 -> Required level to use "/offattack" (Free).
+CustomAttackOfflineRequireLevel_AL1 -> Required level to use "/offattack" (Vip1).
+CustomAttackOfflineRequireLevel_AL2 -> Required level to use "/offattack" (Vip2).
+CustomAttackOfflineRequireLevel_AL3 -> Required level to use "/offattack" (Vip3).
+CustomAttackOfflineRequireReset_AL0 -> Required reset to use "/offattack" (Free).
+CustomAttackOfflineRequireReset_AL1 -> Required reset to use "/offattack" (Vip1).
+CustomAttackOfflineRequireReset_AL2 -> Required reset to use "/offattack" (Vip2).
+CustomAttackOfflineRequireReset_AL3 -> Required reset to use "/offattack" (Vip3).
+CustomAttackOfflineRequireMoney_AL0 -> Required money to use "/offattack" (Free).
+CustomAttackOfflineRequireMoney_AL1 -> Required money to use "/offattack" (Vip1).
+CustomAttackOfflineRequireMoney_AL2 -> Required money to use "/offattack" (Vip2).
+CustomAttackOfflineRequireMoney_AL3 -> Required money to use "/offattack" (Vip3).
+CustomAttackOfflineMaxTimeLimit_AL0 -> Maximum offline time (Minutes) (Free).
+CustomAttackOfflineMaxTimeLimit_AL1 -> Maximum offline time (Minutes) (Vip1).
+CustomAttackOfflineMaxTimeLimit_AL2 -> Maximum offline time (Minutes) (Vip2).
+CustomAttackOfflineMaxTimeLimit_AL3 -> Maximum offline time (Minutes) (Vip3).
+
+# SYNTAX = /offattack #
+
+;==================================================
+; Custom Event Drop Settings
+;==================================================
+CustomEventDropSwitch -> Custom Event Drop state (0=Off/1=On).
+
+;==================================================
+; Custom Jewel Pack Settings
+;==================================================
+CustomJewelPackSwitch -> "/pack" command state (0=Off/1=On).
+CustomJewelPackMaxSize -> Maximum pack size (1 size=10 jewels).
+CustomJewelPackEnable_AL0 -> "/pack" utilization state  (0=Off/1=On) (Free).
+CustomJewelPackEnable_AL1 -> "/pack" utilization state  (0=Off/1=On) (Vip1).
+CustomJewelPackEnable_AL2 -> "/pack" utilization state  (0=Off/1=On) (Vip2).
+CustomJewelPackEnable_AL3 -> "/pack" utilization state  (0=Off/1=On) (Vip3).
+CustomJewelPackRequireMoney_AL0 -> Required money to use "/pack" (Free).
+CustomJewelPackRequireMoney_AL1 -> Required money to use "/pack" (Vip1).
+CustomJewelPackRequireMoney_AL2 -> Required money to use "/pack" (Vip2).
+CustomJewelPackRequireMoney_AL3 -> Required money to use "/pack" (Vip3).
+CustomJewelPackCommandJoBSyntax -> Jewel of Bless name.
+CustomJewelPackCommandJoSSyntax -> Jewel of Soul name.
+CustomJewelPackCommandJoLSyntax -> Jewel of Life name.
+CustomJewelPackCommandJCRSyntax -> Jewel of Creation name.
+CustomJewelPackCommandJoGSyntax -> Jewel of Guardian name.
+CustomJewelPackCommandJGMSyntax -> Gemstone name.
+CustomJewelPackCommandJoHSyntax -> Jewel of Harmony name.
+CustomJewelPackCommandJoCSyntax -> Jewel of Chaos name.
+CustomJewelPackCommandJLRSyntax -> Lower Refining Stone name.
+CustomJewelPackCommandJHRSyntax -> Higher Refining Stone name.
+
+# SYNTAX = /pack <JEWEL_NAME> <SIZE> #
+
+# SYNTAX = /part <JEWEL_NAME> <SIZE> #
+
+;==================================================
+; Custom Store Settings
+;==================================================
+CustomStoreSwitch -> "/store" command state (0=Off/1=On).
+CustomStoreMapDisable -> "/store" disabled map list (-1=None).
+CustomStoreEnable_AL0 -> "/store" utilization state  (0=Off/1=On) (Free).
+CustomStoreEnable_AL1 -> "/store" utilization state  (0=Off/1=On) (Vip1).
+CustomStoreEnable_AL2 -> "/store" utilization state  (0=Off/1=On) (Vip2).
+CustomStoreEnable_AL3 -> "/store" utilization state  (0=Off/1=On) (Vip3).
+CustomStoreRequireLevel_AL0 -> Required level to use "/store" (Free).
+CustomStoreRequireLevel_AL1 -> Required level to use "/store" (Vip1).
+CustomStoreRequireLevel_AL2 -> Required level to use "/store" (Vip2).
+CustomStoreRequireLevel_AL3 -> Required level to use "/store" (Vip3).
+CustomStoreRequireReset_AL0 -> Required reset to use "/store" (Free).
+CustomStoreRequireReset_AL1 -> Required reset to use "/store" (Vip1).
+CustomStoreRequireReset_AL2 -> Required reset to use "/store" (Vip2).
+CustomStoreRequireReset_AL3 -> Required reset to use "/store" (Vip3).
+CustomStoreJoBCommisionRate -> Percentage of Jewel of Bless lost on each transaction.
+CustomStoreJoSCommisionRate -> Percentage of Jewel of Soul lost on each transaction.
+CustomStoreJoCCommisionRate -> Percentage of Jewel of Chaos lost on each transaction.
+CustomStoreWCCCommisionRate -> Percentage of WCoinC lost on each transaction.
+CustomStoreWCPCommisionRate -> Percentage of WCoinP lost on each transaction.
+CustomStoreWCGCommisionRate -> Percentage of Goblin Point lost on each transaction.
+CustomStoreJCRCommisionRate -> Percentage of Jewel of Creation lost on each transaction.
+CustomStoreJoGCommisionRate -> Percentage of Jewel of Guardian lost on each transaction.
+CustomStoreJoHCommisionRate -> Percentage of Jewel of Harmony lost on each transaction.
+CustomStoreGCRCommisionRate -> Percentage of Ruud lost on each transaction.
+CustomStoreCommandJoBSyntax -> Jewel of Bless Store type.
+CustomStoreCommandJoSSyntax -> Jewel of Soul Store type.
+CustomStoreCommandJoCSyntax -> Jewel of Chaos Store type.
+CustomStoreCommandWCCSyntax -> WCoinC Store type.
+CustomStoreCommandWCPSyntax -> WCoinP Store type.
+CustomStoreCommandWCGSyntax -> Goblin Point Store type.
+CustomStoreCommandJCRSyntax -> Jewel of Creation Store type.
+CustomStoreCommandJoGSyntax -> Jewel of Guardian Store type.
+CustomStoreCommandJoHSyntax -> Jewel of Harmony Store type.
+CustomStoreCommandGCRSyntax -> Ruud Store type.
+CustomStoreJoBName -> Jewel of Bless Store name.
+CustomStoreJoSName -> Jewel of Soul Store name.
+CustomStoreJoCName -> Jewel of Chaos Store name.
+CustomStoreWCCName -> WCoinC Store name.
+CustomStoreWCPName -> WCoinP Store name.
+CustomStoreWCGName -> Goblin Point Store name.
+CustomStoreJCRName -> Jewel of Creation Store name.
+CustomStoreJoGName -> Jewel of Guardian Store name.
+CustomStoreJoHName -> Jewel of Harmony Store name.
+CustomStoreGCRName -> Ruud Store name.
+
+# SYNTAX = /store <STORE_TYPE> #
+
+;==================================================
+; Custom Store Offline Settings
+;==================================================
+CustomStoreOfflineSwitch -> "/offstore" command state (0=Off/1=On).
+CustomStoreOfflineMapDisable -> "/offstore" disabled map list (-1=None).
+CustomStoreOfflineGPGain_AL0 -> Can gain Goblin Point while offline (0=No/1=Yes) (Free).
+CustomStoreOfflineGPGain_AL1 -> Can gain Goblin Point while offline (0=No/1=Yes) (Vip1).
+CustomStoreOfflineGPGain_AL2 -> Can gain Goblin Point while offline (0=No/1=Yes) (Vip2).
+CustomStoreOfflineGPGain_AL3 -> Can gain Goblin Point while offline (0=No/1=Yes) (Vip3).
+CustomStoreOfflineEnable_AL0 -> "/offstore" utilization state  (0=Off/1=On) (Free).
+CustomStoreOfflineEnable_AL1 -> "/offstore" utilization state  (0=Off/1=On) (Vip1).
+CustomStoreOfflineEnable_AL2 -> "/offstore" utilization state  (0=Off/1=On) (Vip2).
+CustomStoreOfflineEnable_AL3 -> "/offstore" utilization state  (0=Off/1=On) (Vip3).
+CustomStoreOfflineRequireLevel_AL0 -> Required level to use "/offstore" (Free).
+CustomStoreOfflineRequireLevel_AL1 -> Required level to use "/offstore" (Vip1).
+CustomStoreOfflineRequireLevel_AL2 -> Required level to use "/offstore" (Vip2).
+CustomStoreOfflineRequireLevel_AL3 -> Required level to use "/offstore" (Vip3).
+CustomStoreOfflineRequireReset_AL0 -> Required reset to use "/offstore" (Free).
+CustomStoreOfflineRequireReset_AL1 -> Required reset to use "/offstore" (Vip1).
+CustomStoreOfflineRequireReset_AL2 -> Required reset to use "/offstore" (Vip2).
+CustomStoreOfflineRequireReset_AL3 -> Required reset to use "/offstore" (Vip3).
+CustomStoreOfflineMaxTimeLimit_AL0 -> Maximum offline time (Minutes) (Free).
+CustomStoreOfflineMaxTimeLimit_AL1 -> Maximum offline time (Minutes) (Vip1).
+CustomStoreOfflineMaxTimeLimit_AL2 -> Maximum offline time (Minutes) (Vip2).
+CustomStoreOfflineMaxTimeLimit_AL3 -> Maximum offline time (Minutes) (Vip3).
+
+# SYNTAX = /offstore #

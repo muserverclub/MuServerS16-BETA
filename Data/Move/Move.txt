@@ -1,0 +1,60 @@
+//Index   Name                    RequireMoney   MinLevel   MaxLevel   MinReset   MaxReset   AccountLevel   MonsterClass   Gate
+1         "Arena"                 2000           1          *          *          *          0              *              50
+48        "EventSquare"           20000          1          *          *          *          0              *              503
+44        "LorenMarket"           10000          1          *          *          *          0              *              333
+2         "Lorencia"              2000           10         *          *          *          0              7              17
+3         "Noria"                 2000           10         *          *          *          0              32             27
+31        "Elbeland"              2000           10         *          *          *          0              418            267
+32        "Elbeland2"             2500           10         *          *          *          0              422            268
+43        "Elbeland3"             3000           10         *          *          *          0              425            269
+4         "Devias"                2000           10         *          *          *          0              24             22
+5         "Devias2"               2500           10         *          *          *          0              19             72
+6         "Devias3"               3000           10         *          *          *          0              20             73
+7         "Devias4"               3500           10         *          *          *          0              20             74
+8         "Dungeon"               3000           30         *          *          *          0              11             2
+9         "Dungeon2"              3500           40         *          *          *          0              13             6
+10        "Dungeon3"              4000           40         *          *          *          0              8              10
+11        "Atlans"                4000           50         *          *          *          0              45             49
+12        "Atlans2"               4500           80         *          *          *          0              52             75
+13        "Atlans3"               5000           90         *          *          *          0              48             76
+14        "LostTower"             5000           50         *          *          *          0              39             42
+15        "LostTower2"            5500           50         *          *          *          0              34             31
+16        "LostTower3"            6000           50         *          *          *          0              41             33
+17        "LostTower4"            6500           50         *          *          *          0              37             35
+18        "LostTower5"            7000           50         *          *          *          0              40             37
+19        "LostTower6"            7500           70         *          *          *          0              35             39
+20        "LostTower7"            8000           70         *          *          *          0              35             41
+21        "Tarkan"                8000           140        *          *          *          0              57             57
+22        "Tarkan2"               8500           160        *          *          *          0              61             77
+50        "Ferea"                 50000          400        *          *          *          0              730            509
+25        "Aida1"                 8500           150        *          *          *          0              306            119
+27        "Aida2"                 8500           380        *          *          *          0              550            140
+23        "Icarus"                10000          160        *          *          *          0              70             63
+26        "Crywolf"               0              10         *          *          *          0              *              118
+28        "KanturuRuins1"         9000           160        *          *          *          0              353            138
+29        "KanturuRuins2"         9000           160        *          *          *          0              350            141
+45        "KanturuRuins3"         15000          380        *          *          *          0              556            334
+30        "KanturuRelics"         12000          300        *          *          *          0              360            139
+46        "Karutan1"              13000          280        *          *          *          0              574            335
+47        "Karutan2"              14000          380        *          *          *          0              576            344
+34        "Raklion"               15000          380        *          *          *          0              458            287
+51        "Nixies Lake"           50000          700        *          *          *          0              744            522
+33        "PeaceSwamp"            15000          380        *          *          *          0              449            273
+49        "Acheron"               50000          300        *          *          *          0              591            417
+42        "Vulcanus"              15000          300        *          *          *          0              490            294
+24        "LorenDeep"             0              10         *          *          *          0              *              104
+52        "Deep Dungeon 1"        50000          770        *          *          *          0              767            561
+53        "Deep Dungeon 2"        50000          770        *          *          *          0              772            562
+54        "Deep Dungeon 3"        50000          770        *          *          *          0              773            563
+55        "Deep Dungeon 4"        50000          770        *          *          *          0              769            564
+56        "Deep Dungeon 5"        50000          770        *          *          *          0              777            565
+57        "Swamp of Darkness"     50000          800        *          *          *          0              788            567
+58        "Kubera Mine"           50000          850        *          *          *          0              810            591
+59        "Atlans Abyss 1"        50000          1000       *          *          *          0              832            617
+60        "Atlans Abyss 2"        50000          1020       *          *          *          0              834            618
+61        "Atlans Abyss 3"        50000          1030       *          *          *          0              836            619
+62        "Scorched Canyon"       50000          1050       *          *          *          0              846            620
+//Index   Name                    RequireMoney   MinLevel   MaxLevel   MinReset   MaxReset   AccountLevel   MonsterClass   Gate
+63        "Crismon Icarus"        50000          1070       *          *          *          0              861            631
+64        "Ardil Temple"          50000          1100       *          *          *          0              867            634
+end

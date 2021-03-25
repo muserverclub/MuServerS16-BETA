@@ -1,0 +1,180 @@
+[GameServerInfo]
+;==================================================
+; Custom Arena Settings
+;==================================================
+CustomArenaSwitch = 0
+CustomArenaMapNumber = 40
+CustomArenaVictimScoreDecrease = 0
+CustomArenaKillerScoreIncrease = 100
+
+;==================================================
+; Custom Attack Settings
+;==================================================
+CustomAttackSwitch = 0
+CustomAttackMapDisable = *
+CustomAttackEnable_AL0 = 0
+CustomAttackEnable_AL1 = 0
+CustomAttackEnable_AL2 = 0
+CustomAttackEnable_AL3 = 0
+CustomAttackBuffEnable_AL0 = 0
+CustomAttackBuffEnable_AL1 = 0
+CustomAttackBuffEnable_AL2 = 0
+CustomAttackBuffEnable_AL3 = 0
+CustomAttackPickEnable_AL0 = 0
+CustomAttackPickEnable_AL1 = 0
+CustomAttackPickEnable_AL2 = 0
+CustomAttackPickEnable_AL3 = 0
+CustomAttackRequireLevel_AL0 = 0
+CustomAttackRequireLevel_AL1 = 0
+CustomAttackRequireLevel_AL2 = 0
+CustomAttackRequireLevel_AL3 = 0
+CustomAttackRequireReset_AL0 = 0
+CustomAttackRequireReset_AL1 = 0
+CustomAttackRequireReset_AL2 = 0
+CustomAttackRequireReset_AL3 = 0
+
+;==================================================
+; Custom Attack Offline Settings
+;==================================================
+CustomAttackOfflineSwitch = 0
+CustomAttackOfflineMapDisable = *
+CustomAttackOfflineGPGain_AL0 = 0
+CustomAttackOfflineGPGain_AL1 = 0
+CustomAttackOfflineGPGain_AL2 = 0
+CustomAttackOfflineGPGain_AL3 = 0
+CustomAttackOfflineEnable_AL0 = 0
+CustomAttackOfflineEnable_AL1 = 0
+CustomAttackOfflineEnable_AL2 = 0
+CustomAttackOfflineEnable_AL3 = 0
+CustomAttackOfflineBuffEnable_AL0 = 0
+CustomAttackOfflineBuffEnable_AL1 = 0
+CustomAttackOfflineBuffEnable_AL2 = 0
+CustomAttackOfflineBuffEnable_AL3 = 0
+CustomAttackOfflinePickEnable_AL0 = 0
+CustomAttackOfflinePickEnable_AL1 = 0
+CustomAttackOfflinePickEnable_AL2 = 0
+CustomAttackOfflinePickEnable_AL3 = 0
+CustomAttackOfflineKeepEnable_AL0 = 0
+CustomAttackOfflineKeepEnable_AL1 = 0
+CustomAttackOfflineKeepEnable_AL2 = 0
+CustomAttackOfflineKeepEnable_AL3 = 0
+CustomAttackOfflineRequireLevel_AL0 = 0
+CustomAttackOfflineRequireLevel_AL1 = 0
+CustomAttackOfflineRequireLevel_AL2 = 0
+CustomAttackOfflineRequireLevel_AL3 = 0
+CustomAttackOfflineRequireReset_AL0 = 0
+CustomAttackOfflineRequireReset_AL1 = 0
+CustomAttackOfflineRequireReset_AL2 = 0
+CustomAttackOfflineRequireReset_AL3 = 0
+CustomAttackOfflineRequireMoney_AL0 = 0
+CustomAttackOfflineRequireMoney_AL1 = 0
+CustomAttackOfflineRequireMoney_AL2 = 0
+CustomAttackOfflineRequireMoney_AL3 = 0
+CustomAttackOfflineMaxTimeLimit_AL0 = 0
+CustomAttackOfflineMaxTimeLimit_AL1 = 0
+CustomAttackOfflineMaxTimeLimit_AL2 = 0
+CustomAttackOfflineMaxTimeLimit_AL3 = 0
+
+;==================================================
+; Custom Event Drop Settings
+;==================================================
+CustomEventDropSwitch = 0
+
+;==================================================
+; Custom Jewel Pack Settings
+;==================================================
+CustomJewelPackSwitch = 0
+CustomJewelPackMaxSize = 16
+CustomJewelPackEnable_AL0 = 0
+CustomJewelPackEnable_AL1 = 0
+CustomJewelPackEnable_AL2 = 0
+CustomJewelPackEnable_AL3 = 0
+CustomJewelPackRequireMoney_AL0 = 0
+CustomJewelPackRequireMoney_AL1 = 0
+CustomJewelPackRequireMoney_AL2 = 0
+CustomJewelPackRequireMoney_AL3 = 0
+CustomJewelPackCommandJoBSyntax = bless
+CustomJewelPackCommandJoSSyntax = soul
+CustomJewelPackCommandJoLSyntax = life
+CustomJewelPackCommandJCRSyntax = creation
+CustomJewelPackCommandJoGSyntax = guardian
+CustomJewelPackCommandJGMSyntax = gem
+CustomJewelPackCommandJoHSyntax = harmony
+CustomJewelPackCommandJoCSyntax = chaos
+CustomJewelPackCommandJLRSyntax = loref
+CustomJewelPackCommandJHRSyntax = hiref
+
+;==================================================
+; Custom Store Settings
+;==================================================
+CustomStoreSwitch = 0
+CustomStoreMaxPack = 16
+CustomStoreMapDisable = *
+CustomStoreEnable_AL0 = 0
+CustomStoreEnable_AL1 = 0
+CustomStoreEnable_AL2 = 0
+CustomStoreEnable_AL3 = 0
+CustomStoreRequireLevel_AL0 = 0
+CustomStoreRequireLevel_AL1 = 0
+CustomStoreRequireLevel_AL2 = 0
+CustomStoreRequireLevel_AL3 = 0
+CustomStoreRequireReset_AL0 = 0
+CustomStoreRequireReset_AL1 = 0
+CustomStoreRequireReset_AL2 = 0
+CustomStoreRequireReset_AL3 = 0
+CustomStoreJoBCommisionRate = 0
+CustomStoreJoSCommisionRate = 0
+CustomStoreJoCCommisionRate = 0
+CustomStoreWCCCommisionRate = 0
+CustomStoreWCPCommisionRate = 0
+CustomStoreWCGCommisionRate = 0
+CustomStoreJCRCommisionRate = 0
+CustomStoreJoGCommisionRate = 0
+CustomStoreJoHCommisionRate = 0
+CustomStoreGCRCommisionRate = 0
+CustomStoreCommandJoBSyntax = bless
+CustomStoreCommandJoSSyntax = soul
+CustomStoreCommandJoCSyntax = chaos
+CustomStoreCommandWCCSyntax = wcc
+CustomStoreCommandWCPSyntax = wcp
+CustomStoreCommandWCGSyntax = wcg
+CustomStoreCommandJCRSyntax = creation
+CustomStoreCommandJoGSyntax = guardian
+CustomStoreCommandJoHSyntax = harmony
+CustomStoreCommandGCRSyntax = ruud
+CustomStoreJoBName = .::BLESS STORE::.
+CustomStoreJoSName = .::SOUL STORE::.
+CustomStoreJoCName = .::CHAOS STORE::.
+CustomStoreWCCName = .::WCC STORE::.
+CustomStoreWCPName = .::WCP STORE::.
+CustomStoreWCGName = .::WCG STORE::.
+CustomStoreJCRName = .::CREATION STORE::.
+CustomStoreJoGName = .::GUARDIAN STORE::.
+CustomStoreJoHName = .::HARMONY STORE::.
+CustomStoreGCRName = .::RUUD STORE::.
+
+;==================================================
+; Custom Store Offline Settings
+;==================================================
+CustomStoreOfflineSwitch = 0
+CustomStoreOfflineMapDisable = *
+CustomStoreOfflineGPGain_AL0 = 0
+CustomStoreOfflineGPGain_AL1 = 0
+CustomStoreOfflineGPGain_AL2 = 0
+CustomStoreOfflineGPGain_AL3 = 0
+CustomStoreOfflineEnable_AL0 = 0
+CustomStoreOfflineEnable_AL1 = 0
+CustomStoreOfflineEnable_AL2 = 0
+CustomStoreOfflineEnable_AL3 = 0
+CustomStoreOfflineRequireLevel_AL0 = 0
+CustomStoreOfflineRequireLevel_AL1 = 0
+CustomStoreOfflineRequireLevel_AL2 = 0
+CustomStoreOfflineRequireLevel_AL3 = 0
+CustomStoreOfflineRequireReset_AL0 = 0
+CustomStoreOfflineRequireReset_AL1 = 0
+CustomStoreOfflineRequireReset_AL2 = 0
+CustomStoreOfflineRequireReset_AL3 = 0
+CustomStoreOfflineMaxTimeLimit_AL0 = 0
+CustomStoreOfflineMaxTimeLimit_AL1 = 0
+CustomStoreOfflineMaxTimeLimit_AL2 = 0
+CustomStoreOfflineMaxTimeLimit_AL3 = 0

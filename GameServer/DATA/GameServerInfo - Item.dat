@@ -1,0 +1,303 @@
+[GameServerInfo]
+;==================================================
+; Transformation Ring Settings
+;==================================================
+TransformationRing1 = 2
+TransformationRing2 = 7
+TransformationRing3 = 14
+TransformationRing4 = 8
+TransformationRing5 = 9
+TransformationRing6 = 41
+
+;==================================================
+; Guardian Inc Damage Settings
+;==================================================
+SatanIncDamageConstA = 30
+DinorantIncDamageConstA = 15
+BlackFenrirIncDamageConstA = 10
+DemonIncDamageConstA = 40
+SkeletonIncDamageConstA = 20
+
+;==================================================
+; Guardian Dec Damage Settings
+;==================================================
+AngelDecDamageConstA = 20
+DinorantDecDamageConstA = 10
+DinorantDecDamageConstB = 5
+DarkHorseDecDamageConstA = 30
+DarkHorseDecDamageConstB = 2
+BlueFenrirDecDamageConstA = 10
+GuardianSpiritDecDamageConstA = 30
+
+;==================================================
+; Apple Potion Settings
+;==================================================
+DWApplePotionRate = 10
+DKApplePotionRate = 10
+FEApplePotionRate = 10
+MGApplePotionRate = 10
+DLApplePotionRate = 10
+SUApplePotionRate = 10
+RFApplePotionRate = 10
+GLApplePotionRate = 10
+RWApplePotionRate = 10
+SLApplePotionRate = 10
+GCApplePotionRate = 10
+
+;==================================================
+; Small Life Potion Settings
+;==================================================
+DWSmallLifePotionRate = 20
+DKSmallLifePotionRate = 20
+FESmallLifePotionRate = 20
+MGSmallLifePotionRate = 20
+DLSmallLifePotionRate = 20
+SUSmallLifePotionRate = 20
+RFSmallLifePotionRate = 20
+GLSmallLifePotionRate = 20
+RWSmallLifePotionRate = 20
+SLSmallLifePotionRate = 20
+GCSmallLifePotionRate = 20
+
+;==================================================
+; Midle Life Potion Settings
+;==================================================
+DWMidleLifePotionRate = 30
+DKMidleLifePotionRate = 30
+FEMidleLifePotionRate = 30
+MGMidleLifePotionRate = 30
+DLMidleLifePotionRate = 30
+SUMidleLifePotionRate = 30
+RFMidleLifePotionRate = 30
+GLMidleLifePotionRate = 30
+RWMidleLifePotionRate = 30
+SLMidleLifePotionRate = 30
+GCMidleLifePotionRate = 30
+
+;==================================================
+; Large Life Potion Settings
+;==================================================
+DWLargeLifePotionRate = 40
+DKLargeLifePotionRate = 40
+FELargeLifePotionRate = 40
+MGLargeLifePotionRate = 40
+DLLargeLifePotionRate = 40
+SULargeLifePotionRate = 40
+RFLargeLifePotionRate = 40
+GLLargeLifePotionRate = 40
+RWLargeLifePotionRate = 40
+SLLargeLifePotionRate = 40
+GCLargeLifePotionRate = 40
+
+;==================================================
+; Small Mana Potion Settings
+;==================================================
+DWSmallManaPotionRate = 20
+DKSmallManaPotionRate = 20
+FESmallManaPotionRate = 20
+MGSmallManaPotionRate = 20
+DLSmallManaPotionRate = 20
+SUSmallManaPotionRate = 20
+RFSmallManaPotionRate = 20
+GLSmallManaPotionRate = 20
+RWSmallManaPotionRate = 20
+SLSmallManaPotionRate = 20
+GCSmallManaPotionRate = 20
+
+;==================================================
+; Midle Mana Potion Settings
+;==================================================
+DWMidleManaPotionRate = 30
+DKMidleManaPotionRate = 30
+FEMidleManaPotionRate = 30
+MGMidleManaPotionRate = 30
+DLMidleManaPotionRate = 30
+SUMidleManaPotionRate = 30
+RFMidleManaPotionRate = 30
+GLMidleManaPotionRate = 30
+RWMidleManaPotionRate = 30
+SLMidleManaPotionRate = 30
+GCMidleManaPotionRate = 30
+
+;==================================================
+; Large Mana Potion Settings
+;==================================================
+DWLargeManaPotionRate = 40
+DKLargeManaPotionRate = 40
+FELargeManaPotionRate = 40
+MGLargeManaPotionRate = 40
+DLLargeManaPotionRate = 40
+SULargeManaPotionRate = 40
+RFLargeManaPotionRate = 40
+GLLargeManaPotionRate = 40
+RWLargeManaPotionRate = 40
+SLLargeManaPotionRate = 40
+GCLargeManaPotionRate = 40
+
+;==================================================
+; Small Shield Potion Settings
+;==================================================
+DWSmallShieldPotionRate = 25
+DKSmallShieldPotionRate = 25
+FESmallShieldPotionRate = 25
+MGSmallShieldPotionRate = 25
+DLSmallShieldPotionRate = 25
+SUSmallShieldPotionRate = 25
+RFSmallShieldPotionRate = 25
+GLSmallShieldPotionRate = 25
+RWSmallShieldPotionRate = 25
+SLSmallShieldPotionRate = 25
+GCSmallShieldPotionRate = 25
+
+;==================================================
+; Midle Shield Potion Settings
+;==================================================
+DWMidleShieldPotionRate = 35
+DKMidleShieldPotionRate = 35
+FEMidleShieldPotionRate = 35
+MGMidleShieldPotionRate = 35
+DLMidleShieldPotionRate = 35
+SUMidleShieldPotionRate = 35
+RFMidleShieldPotionRate = 35
+GLMidleShieldPotionRate = 35
+RWMidleShieldPotionRate = 35
+SLMidleShieldPotionRate = 35
+GCMidleShieldPotionRate = 35
+
+;==================================================
+; Large Shield Potion Settings
+;==================================================
+DWLargeShieldPotionRate = 45
+DKLargeShieldPotionRate = 45
+FELargeShieldPotionRate = 45
+MGLargeShieldPotionRate = 45
+DLLargeShieldPotionRate = 45
+SULargeShieldPotionRate = 45
+RFLargeShieldPotionRate = 45
+GLLargeShieldPotionRate = 45
+RWLargeShieldPotionRate = 45
+SLLargeShieldPotionRate = 45
+GCLargeShieldPotionRate = 45
+
+;==================================================
+; Small Compound Potion Settings
+;==================================================
+DWSmallCompoundPotionRate1 = 10
+DWSmallCompoundPotionRate2 = 5
+DKSmallCompoundPotionRate1 = 10
+DKSmallCompoundPotionRate2 = 5
+FESmallCompoundPotionRate1 = 10
+FESmallCompoundPotionRate2 = 5
+MGSmallCompoundPotionRate1 = 10
+MGSmallCompoundPotionRate2 = 5
+DLSmallCompoundPotionRate1 = 10
+DLSmallCompoundPotionRate2 = 5
+SUSmallCompoundPotionRate1 = 10
+SUSmallCompoundPotionRate2 = 5
+RFSmallCompoundPotionRate1 = 10
+RFSmallCompoundPotionRate2 = 5
+GLSmallCompoundPotionRate1 = 10
+GLSmallCompoundPotionRate2 = 5
+RWSmallCompoundPotionRate1 = 10
+RWSmallCompoundPotionRate2 = 5
+SLSmallCompoundPotionRate1 = 10
+SLSmallCompoundPotionRate2 = 5
+GCSmallCompoundPotionRate1 = 10
+GCSmallCompoundPotionRate2 = 5
+
+;==================================================
+; Midle Compound Potion Settings
+;==================================================
+DWMidleCompoundPotionRate1 = 25
+DWMidleCompoundPotionRate2 = 10
+DKMidleCompoundPotionRate1 = 25
+DKMidleCompoundPotionRate2 = 10
+FEMidleCompoundPotionRate1 = 25
+FEMidleCompoundPotionRate2 = 10
+MGMidleCompoundPotionRate1 = 25
+MGMidleCompoundPotionRate2 = 10
+DLMidleCompoundPotionRate1 = 25
+DLMidleCompoundPotionRate2 = 10
+SUMidleCompoundPotionRate1 = 25
+SUMidleCompoundPotionRate2 = 10
+RFMidleCompoundPotionRate1 = 25
+RFMidleCompoundPotionRate2 = 10
+GLMidleCompoundPotionRate1 = 25
+GLMidleCompoundPotionRate2 = 10
+RWMidleCompoundPotionRate1 = 25
+RWMidleCompoundPotionRate2 = 10
+SLMidleCompoundPotionRate1 = 25
+SLMidleCompoundPotionRate2 = 10
+GCMidleCompoundPotionRate1 = 25
+GCMidleCompoundPotionRate2 = 10
+
+;==================================================
+; Large Compound Potion Settings
+;==================================================
+DWLargeCompoundPotionRate1 = 45
+DWLargeCompoundPotionRate2 = 20
+DKLargeCompoundPotionRate1 = 45
+DKLargeCompoundPotionRate2 = 20
+FELargeCompoundPotionRate1 = 45
+FELargeCompoundPotionRate2 = 20
+MGLargeCompoundPotionRate1 = 45
+MGLargeCompoundPotionRate2 = 20
+DLLargeCompoundPotionRate1 = 45
+DLLargeCompoundPotionRate2 = 20
+SULargeCompoundPotionRate1 = 45
+SULargeCompoundPotionRate2 = 20
+RFLargeCompoundPotionRate1 = 45
+RFLargeCompoundPotionRate2 = 20
+GLLargeCompoundPotionRate1 = 45
+GLLargeCompoundPotionRate2 = 20
+RWLargeCompoundPotionRate1 = 45
+RWLargeCompoundPotionRate2 = 20
+SLLargeCompoundPotionRate1 = 45
+SLLargeCompoundPotionRate2 = 20
+GCLargeCompoundPotionRate1 = 45
+GCLargeCompoundPotionRate2 = 20
+
+;==================================================
+; Elite Life Potion Settings
+;==================================================
+DWEliteLifePotionRate = 100
+DKEliteLifePotionRate = 100
+FEEliteLifePotionRate = 100
+MGEliteLifePotionRate = 100
+DLEliteLifePotionRate = 100
+SUEliteLifePotionRate = 100
+RFEliteLifePotionRate = 100
+GLEliteLifePotionRate = 100
+RWEliteLifePotionRate = 100
+SLEliteLifePotionRate = 100
+GCEliteLifePotionRate = 100
+
+;==================================================
+; Elite Mana Potion Settings
+;==================================================
+DWEliteManaPotionRate = 100
+DKEliteManaPotionRate = 100
+FEEliteManaPotionRate = 100
+MGEliteManaPotionRate = 100
+DLEliteManaPotionRate = 100
+SUEliteManaPotionRate = 100
+RFEliteManaPotionRate = 100
+GLEliteManaPotionRate = 100
+RWEliteManaPotionRate = 100
+SLEliteManaPotionRate = 100
+GCEliteManaPotionRate = 100
+
+;==================================================
+; Elite Shield Potion Settings
+;==================================================
+DWEliteShieldPotionRate = 65
+DKEliteShieldPotionRate = 65
+FEEliteShieldPotionRate = 65
+MGEliteShieldPotionRate = 65
+DLEliteShieldPotionRate = 65
+SUEliteShieldPotionRate = 65
+RFEliteShieldPotionRate = 65
+GLEliteShieldPotionRate = 65
+RWEliteShieldPotionRate = 65
+SLEliteShieldPotionRate = 65
+GCEliteShieldPotionRate = 65

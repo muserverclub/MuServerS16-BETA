@@ -1,0 +1,215 @@
+0
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            386          45             10         131            093            *              //Illusion Sorcerer Spirit
+0            387          45             10         131            089            *              //Illusion Sorcerer Spirit
+0            388          45             10         131            085            *              //Illusion Sorcerer Spirit
+0            386          45             10         168            123            *              //Illusion Sorcerer Spirit
+0            387          45             10         164            123            *              //Illusion Sorcerer Spirit
+0            388          45             10         160            123            *              //Illusion Sorcerer Spirit
+0            386          45             10         169            048            *              //Illusion Sorcerer Spirit
+0            387          45             10         169            052            *              //Illusion Sorcerer Spirit
+0            388          45             10         169            056            *              //Illusion Sorcerer Spirit
+0            386          45             10         206            085            *              //Illusion Sorcerer Spirit
+0            387          45             10         206            081            *              //Illusion Sorcerer Spirit
+0            388          45             10         206            077            *              //Illusion Sorcerer Spirit
+0            386          45             10         158            085            *              //Illusion Sorcerer Spirit
+0            387          45             10         168            094            *              //Illusion Sorcerer Spirit
+0            388          45             10         169            075            *              //Illusion Sorcerer Spirit
+0            386          45             10         179            085            *              //Illusion Sorcerer Spirit
+0            387          45             10         157            066            *              //Illusion Sorcerer Spirit
+0            388          45             10         162            066            *              //Illusion Sorcerer Spirit
+0            386          45             10         150            078            *              //Illusion Sorcerer Spirit
+0            387          45             10         150            073            *              //Illusion Sorcerer Spirit
+0            388          45             10         176            103            *              //Illusion Sorcerer Spirit
+0            386          45             10         181            103            *              //Illusion Sorcerer Spirit
+0            387          45             10         187            098            *              //Illusion Sorcerer Spirit
+0            388          45             10         187            092            *              //Illusion Sorcerer Spirit
+0            386          45             10         197            057            *              //Illusion Sorcerer Spirit
+0            387          45             10         141            113            *              //Illusion Sorcerer Spirit
+0            388          45             10         193            061            *              //Illusion Sorcerer Spirit
+0            386          45             10         145            109            *              //Illusion Sorcerer Spirit
+0            387          45             10         189            065            *              //Illusion Sorcerer Spirit
+0            388          45             10         149            105            *              //Illusion Sorcerer Spirit
+0            386          45             10         167            087            *              //Illusion Sorcerer Spirit
+0            387          45             10         171            083            *              //Illusion Sorcerer Spirit
+end
+
+1
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            389          46             10         131            093            *              //Illusion Sorcerer Spirit
+0            390          46             10         131            089            *              //Illusion Sorcerer Spirit
+0            391          46             10         131            085            *              //Illusion Sorcerer Spirit
+0            389          46             10         168            123            *              //Illusion Sorcerer Spirit
+0            390          46             10         164            123            *              //Illusion Sorcerer Spirit
+0            391          46             10         160            123            *              //Illusion Sorcerer Spirit
+0            389          46             10         169            048            *              //Illusion Sorcerer Spirit
+0            390          46             10         169            052            *              //Illusion Sorcerer Spirit
+0            391          46             10         169            056            *              //Illusion Sorcerer Spirit
+0            389          46             10         206            085            *              //Illusion Sorcerer Spirit
+0            390          46             10         206            081            *              //Illusion Sorcerer Spirit
+0            391          46             10         206            077            *              //Illusion Sorcerer Spirit
+0            389          46             10         158            085            *              //Illusion Sorcerer Spirit
+0            390          46             10         168            094            *              //Illusion Sorcerer Spirit
+0            391          46             10         169            075            *              //Illusion Sorcerer Spirit
+0            389          46             10         179            085            *              //Illusion Sorcerer Spirit
+0            390          46             10         157            066            *              //Illusion Sorcerer Spirit
+0            391          46             10         162            066            *              //Illusion Sorcerer Spirit
+0            389          46             10         150            078            *              //Illusion Sorcerer Spirit
+0            390          46             10         150            073            *              //Illusion Sorcerer Spirit
+0            391          46             10         176            103            *              //Illusion Sorcerer Spirit
+0            389          46             10         181            103            *              //Illusion Sorcerer Spirit
+0            390          46             10         187            098            *              //Illusion Sorcerer Spirit
+0            391          46             10         187            092            *              //Illusion Sorcerer Spirit
+0            389          46             10         197            057            *              //Illusion Sorcerer Spirit
+0            390          46             10         141            113            *              //Illusion Sorcerer Spirit
+0            391          46             10         193            061            *              //Illusion Sorcerer Spirit
+0            389          46             10         145            109            *              //Illusion Sorcerer Spirit
+0            390          46             10         189            065            *              //Illusion Sorcerer Spirit
+0            391          46             10         149            105            *              //Illusion Sorcerer Spirit
+0            389          46             10         167            087            *              //Illusion Sorcerer Spirit
+0            390          46             10         171            083            *              //Illusion Sorcerer Spirit
+end
+
+2
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            392          47             10         131            093            *              //Illusion Sorcerer Spirit
+0            393          47             10         131            089            *              //Illusion Sorcerer Spirit
+0            394          47             10         131            085            *              //Illusion Sorcerer Spirit
+0            392          47             10         168            123            *              //Illusion Sorcerer Spirit
+0            393          47             10         164            123            *              //Illusion Sorcerer Spirit
+0            394          47             10         160            123            *              //Illusion Sorcerer Spirit
+0            392          47             10         169            048            *              //Illusion Sorcerer Spirit
+0            393          47             10         169            052            *              //Illusion Sorcerer Spirit
+0            394          47             10         169            056            *              //Illusion Sorcerer Spirit
+0            392          47             10         206            085            *              //Illusion Sorcerer Spirit
+0            393          47             10         206            081            *              //Illusion Sorcerer Spirit
+0            394          47             10         206            077            *              //Illusion Sorcerer Spirit
+0            392          47             10         158            085            *              //Illusion Sorcerer Spirit
+0            393          47             10         168            094            *              //Illusion Sorcerer Spirit
+0            394          47             10         169            075            *              //Illusion Sorcerer Spirit
+0            392          47             10         179            085            *              //Illusion Sorcerer Spirit
+0            393          47             10         157            066            *              //Illusion Sorcerer Spirit
+0            394          47             10         162            066            *              //Illusion Sorcerer Spirit
+0            392          47             10         150            078            *              //Illusion Sorcerer Spirit
+0            393          47             10         150            073            *              //Illusion Sorcerer Spirit
+0            394          47             10         176            103            *              //Illusion Sorcerer Spirit
+0            392          47             10         181            103            *              //Illusion Sorcerer Spirit
+0            393          47             10         187            098            *              //Illusion Sorcerer Spirit
+0            394          47             10         187            092            *              //Illusion Sorcerer Spirit
+0            392          47             10         197            057            *              //Illusion Sorcerer Spirit
+0            393          47             10         141            113            *              //Illusion Sorcerer Spirit
+0            394          47             10         193            061            *              //Illusion Sorcerer Spirit
+0            392          47             10         145            109            *              //Illusion Sorcerer Spirit
+0            393          47             10         189            065            *              //Illusion Sorcerer Spirit
+0            394          47             10         149            105            *              //Illusion Sorcerer Spirit
+0            392          47             10         167            087            *              //Illusion Sorcerer Spirit
+0            393          47             10         171            083            *              //Illusion Sorcerer Spirit
+end
+
+3
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            395          48             10         131            093            *              //Illusion Sorcerer Spirit
+0            396          48             10         131            089            *              //Illusion Sorcerer Spirit
+0            397          48             10         131            085            *              //Illusion Sorcerer Spirit
+0            395          48             10         168            123            *              //Illusion Sorcerer Spirit
+0            396          48             10         164            123            *              //Illusion Sorcerer Spirit
+0            397          48             10         160            123            *              //Illusion Sorcerer Spirit
+0            395          48             10         169            048            *              //Illusion Sorcerer Spirit
+0            396          48             10         169            052            *              //Illusion Sorcerer Spirit
+0            397          48             10         169            056            *              //Illusion Sorcerer Spirit
+0            395          48             10         206            085            *              //Illusion Sorcerer Spirit
+0            396          48             10         206            081            *              //Illusion Sorcerer Spirit
+0            397          48             10         206            077            *              //Illusion Sorcerer Spirit
+0            395          48             10         158            085            *              //Illusion Sorcerer Spirit
+0            396          48             10         168            094            *              //Illusion Sorcerer Spirit
+0            397          48             10         169            075            *              //Illusion Sorcerer Spirit
+0            395          48             10         179            085            *              //Illusion Sorcerer Spirit
+0            396          48             10         157            066            *              //Illusion Sorcerer Spirit
+0            397          48             10         162            066            *              //Illusion Sorcerer Spirit
+0            395          48             10         150            078            *              //Illusion Sorcerer Spirit
+0            396          48             10         150            073            *              //Illusion Sorcerer Spirit
+0            397          48             10         176            103            *              //Illusion Sorcerer Spirit
+0            395          48             10         181            103            *              //Illusion Sorcerer Spirit
+0            396          48             10         187            098            *              //Illusion Sorcerer Spirit
+0            397          48             10         187            092            *              //Illusion Sorcerer Spirit
+0            395          48             10         197            057            *              //Illusion Sorcerer Spirit
+0            396          48             10         141            113            *              //Illusion Sorcerer Spirit
+0            397          48             10         193            061            *              //Illusion Sorcerer Spirit
+0            395          48             10         145            109            *              //Illusion Sorcerer Spirit
+0            396          48             10         189            065            *              //Illusion Sorcerer Spirit
+0            397          48             10         149            105            *              //Illusion Sorcerer Spirit
+0            395          48             10         167            087            *              //Illusion Sorcerer Spirit
+0            396          48             10         171            083            *              //Illusion Sorcerer Spirit
+end
+
+4
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            398          49             10         131            093            *              //Illusion Sorcerer Spirit
+0            399          49             10         131            089            *              //Illusion Sorcerer Spirit
+0            400          49             10         131            085            *              //Illusion Sorcerer Spirit
+0            398          49             10         168            123            *              //Illusion Sorcerer Spirit
+0            399          49             10         164            123            *              //Illusion Sorcerer Spirit
+0            400          49             10         160            123            *              //Illusion Sorcerer Spirit
+0            398          49             10         169            048            *              //Illusion Sorcerer Spirit
+0            399          49             10         169            052            *              //Illusion Sorcerer Spirit
+0            400          49             10         169            056            *              //Illusion Sorcerer Spirit
+0            398          49             10         206            085            *              //Illusion Sorcerer Spirit
+0            399          49             10         206            081            *              //Illusion Sorcerer Spirit
+0            400          49             10         206            077            *              //Illusion Sorcerer Spirit
+0            398          49             10         158            085            *              //Illusion Sorcerer Spirit
+0            399          49             10         168            094            *              //Illusion Sorcerer Spirit
+0            400          49             10         169            075            *              //Illusion Sorcerer Spirit
+0            398          49             10         179            085            *              //Illusion Sorcerer Spirit
+0            399          49             10         157            066            *              //Illusion Sorcerer Spirit
+0            400          49             10         162            066            *              //Illusion Sorcerer Spirit
+0            398          49             10         150            078            *              //Illusion Sorcerer Spirit
+0            399          49             10         150            073            *              //Illusion Sorcerer Spirit
+0            400          49             10         176            103            *              //Illusion Sorcerer Spirit
+0            398          49             10         181            103            *              //Illusion Sorcerer Spirit
+0            399          49             10         187            098            *              //Illusion Sorcerer Spirit
+0            400          49             10         187            092            *              //Illusion Sorcerer Spirit
+0            398          49             10         197            057            *              //Illusion Sorcerer Spirit
+0            399          49             10         141            113            *              //Illusion Sorcerer Spirit
+0            400          49             10         193            061            *              //Illusion Sorcerer Spirit
+0            398          49             10         145            109            *              //Illusion Sorcerer Spirit
+0            399          49             10         189            065            *              //Illusion Sorcerer Spirit
+0            400          49             10         149            105            *              //Illusion Sorcerer Spirit
+0            398          49             10         167            087            *              //Illusion Sorcerer Spirit
+0            399          49             10         171            083            *              //Illusion Sorcerer Spirit
+end
+
+5
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            401          50             10         131            093            *              //Illusion Sorcerer Spirit
+0            402          50             10         131            089            *              //Illusion Sorcerer Spirit
+0            403          50             10         131            085            *              //Illusion Sorcerer Spirit
+0            401          50             10         168            123            *              //Illusion Sorcerer Spirit
+0            402          50             10         164            123            *              //Illusion Sorcerer Spirit
+0            403          50             10         160            123            *              //Illusion Sorcerer Spirit
+0            401          50             10         169            048            *              //Illusion Sorcerer Spirit
+0            402          50             10         169            052            *              //Illusion Sorcerer Spirit
+0            403          50             10         169            056            *              //Illusion Sorcerer Spirit
+0            401          50             10         206            085            *              //Illusion Sorcerer Spirit
+0            402          50             10         206            081            *              //Illusion Sorcerer Spirit
+0            403          50             10         206            077            *              //Illusion Sorcerer Spirit
+0            401          50             10         158            085            *              //Illusion Sorcerer Spirit
+0            402          50             10         168            094            *              //Illusion Sorcerer Spirit
+0            403          50             10         169            075            *              //Illusion Sorcerer Spirit
+0            401          50             10         179            085            *              //Illusion Sorcerer Spirit
+0            402          50             10         157            066            *              //Illusion Sorcerer Spirit
+0            403          50             10         162            066            *              //Illusion Sorcerer Spirit
+0            401          50             10         150            078            *              //Illusion Sorcerer Spirit
+0            402          50             10         150            073            *              //Illusion Sorcerer Spirit
+0            403          50             10         176            103            *              //Illusion Sorcerer Spirit
+0            401          50             10         181            103            *              //Illusion Sorcerer Spirit
+0            402          50             10         187            098            *              //Illusion Sorcerer Spirit
+0            403          50             10         187            092            *              //Illusion Sorcerer Spirit
+0            401          50             10         197            057            *              //Illusion Sorcerer Spirit
+0            402          50             10         141            113            *              //Illusion Sorcerer Spirit
+0            403          50             10         193            061            *              //Illusion Sorcerer Spirit
+0            401          50             10         145            109            *              //Illusion Sorcerer Spirit
+0            402          50             10         189            065            *              //Illusion Sorcerer Spirit
+0            403          50             10         149            105            *              //Illusion Sorcerer Spirit
+0            401          50             10         167            087            *              //Illusion Sorcerer Spirit
+0            402          50             10         171            083            *              //Illusion Sorcerer Spirit
+end

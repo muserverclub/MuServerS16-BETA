@@ -1,0 +1,361 @@
+//Index   ItemMinIndex   ItemMaxIndex   Name                                 Rate   Comment
+1         0000           2559           "Add Hunt MP"                        50     //General Weapon
+2         0000           2559           "Add Hunt HP"                        50     //General Weapon
+4         0000           2559           "Add Speed"                          50     //General Weapon
+8         0000           2559           "Mul Physi Damage"                   50     //General Weapon
+16        0000           2559           "Add Physi Damage By Level"          50     //General Weapon
+32        0000           2559           "Add Excellent Damage Rate"          50     //General Weapon
+1         2560           3071           "Add Hunt MP"                        50     //General Staff
+2         2560           3071           "Add Hunt HP"                        50     //General Staff
+4         2560           3071           "Add Speed"                          50     //General Staff
+8         2560           3071           "Mul Magic Damage"                   50     //General Staff
+16        2560           3071           "Add Magic Damage By Level"          50     //General Staff
+32        2560           3071           "Add Excellent Damage Rate"          50     //General Staff
+1         2581           2589           "Add Hunt MP"                        50     //General Book
+2         2581           2589           "Add Hunt HP"                        50     //General Book
+4         2581           2589           "Add Speed"                          50     //General Book
+8         2581           2589           "Mul Curse Damage"                   50     //General Book
+16        2581           2589           "Add Curse Damage By Level"          50     //General Book
+32        2581           2589           "Add Excellent Damage Rate"          50     //General Book
+1         2607           2607           "Add Hunt MP"                        50     //[Bound] Book of Lagle
+2         2607           2607           "Add Hunt HP"                        50     //[Bound] Book of Lagle
+4         2607           2607           "Add Speed"                          50     //[Bound] Book of Lagle
+8         2607           2607           "Mul Curse Damage"                   50     //[Bound] Book of Lagle
+16        2607           2607           "Add Curse Damage By Level"          50     //[Bound] Book of Lagle
+32        2607           2607           "Add Excellent Damage Rate"          50     //[Bound] Book of Lagle
+1         2617           2620           "Add Hunt MP"                        50     //Mastery Book
+2         2617           2620           "Add Hunt HP"                        50     //Mastery Book
+4         2617           2620           "Add Speed"                          50     //Mastery Book
+8         2617           2620           "Mul Curse Damage"                   50     //Mastery Book
+16        2617           2620           "Add Curse Damage By Level"          50     //Mastery Book
+32        2617           2620           "Add Excellent Damage Rate"          50     //Mastery Book
+1         2623           2623           "Add Hunt MP"                        50     //Blue Eye Book
+2         2623           2623           "Add Hunt HP"                        50     //Blue Eye Book
+4         2623           2623           "Add Speed"                          50     //Blue Eye Book
+8         2623           2623           "Mul Curse Damage"                   50     //Blue Eye Book
+16        2623           2623           "Add Curse Damage By Level"          50     //Blue Eye Book
+32        2623           2623           "Add Excellent Damage Rate"          50     //Blue Eye Book
+1         2626           2626           "Add Hunt MP"                        50     //Silver Heart Book
+2         2626           2626           "Add Hunt HP"                        50     //Silver Heart Book
+4         2626           2626           "Add Speed"                          50     //Silver Heart Book
+8         2626           2626           "Mul Curse Damage"                   50     //Silver Heart Book
+16        2626           2626           "Add Curse Damage By Level"          50     //Silver Heart Book
+32        2626           2626           "Add Excellent Damage Rate"          50     //Silver Heart Book
+1         3072           3583           "Add Money Amount Drop Rate"         50     //General Shield
+2         3072           3583           "Mul Defense Success Rate"           50     //General Shield
+4         3072           3583           "Add Damage Reflect"                 50     //General Shield
+8         3072           3583           "Add Damage Reduction"               50     //General Shield
+16        3072           3583           "Mul MP"                             50     //General Shield
+32        3072           3583           "Mul HP"                             50     //General Shield
+1         3584           6143           "Add Money Amount Drop Rate"         50     //General Armor
+2         3584           6143           "Mul Defense Success Rate"           50     //General Armor
+4         3584           6143           "Add Damage Reflect"                 50     //General Armor
+8         3584           6143           "Add Damage Reduction"               50     //General Armor
+16        3584           6143           "Mul MP"                             50     //General Armor
+32        3584           6143           "Mul HP"                             50     //General Armor
+1         6147           6147           "Add Wing HP"                        50     //Wings of Spirit
+2         6147           6147           "Add Wing MP"                        50     //Wings of Spirit
+4         6147           6147           "Add Ignore Defense Rate"            50     //Wings of Spirit
+8         6147           6147           "Add BP"                             00     //Wings of Spirit
+16        6147           6147           "Add Speed"                          00     //Wings of Spirit
+1         6148           6148           "Add Wing HP"                        50     //Wings of Soul
+2         6148           6148           "Add Wing MP"                        50     //Wings of Soul
+4         6148           6148           "Add Ignore Defense Rate"            50     //Wings of Soul
+8         6148           6148           "Add BP"                             00     //Wings of Soul
+16        6148           6148           "Add Speed"                          00     //Wings of Soul
+1         6149           6149           "Add Wing HP"                        50     //Wings of Devil
+2         6149           6149           "Add Wing MP"                        50     //Wings of Devil
+4         6149           6149           "Add Ignore Defense Rate"            50     //Wings of Devil
+8         6149           6149           "Add BP"                             00     //Wings of Devil
+16        6149           6149           "Add Speed"                          00     //Wings of Devil
+1         6150           6150           "Add Wing HP"                        50     //Wings of Darkness
+2         6150           6150           "Add Wing MP"                        50     //Wings of Darkness
+4         6150           6150           "Add Ignore Defense Rate"            50     //Wings of Darkness
+8         6150           6150           "Add BP"                             00     //Wings of Darkness
+16        6150           6150           "Add Speed"                          00     //Wings of Darkness
+1         6180           6180           "Add Ignore Defense Rate"            50     //Wings of Storm
+2         6180           6180           "Add Full Damage Reflect Rate"       50     //Wings of Storm
+4         6180           6180           "Add D. Full HP Restore Rate"        50     //Wings of Storm
+8         6180           6180           "Add D. Full MP Restore Rate"        50     //Wings of Storm
+1         6181           6181           "Add Ignore Defense Rate"            50     //Wings of Space Time
+2         6181           6181           "Add Full Damage Reflect Rate"       50     //Wings of Space Time
+4         6181           6181           "Add D. Full HP Restore Rate"        50     //Wings of Space Time
+8         6181           6181           "Add D. Full MP Restore Rate"        50     //Wings of Space Time
+1         6182           6182           "Add Ignore Defense Rate"            50     //Wings of Illusion
+2         6182           6182           "Add Full Damage Reflect Rate"       50     //Wings of Illusion
+4         6182           6182           "Add D. Full HP Restore Rate"        50     //Wings of Illusion
+8         6182           6182           "Add D. Full MP Restore Rate"        50     //Wings of Illusion
+1         6183           6183           "Add Ignore Defense Rate"            50     //Wings of Hurricane
+2         6183           6183           "Add Full Damage Reflect Rate"       50     //Wings of Hurricane
+4         6183           6183           "Add D. Full HP Restore Rate"        50     //Wings of Hurricane
+8         6183           6183           "Add D. Full MP Restore Rate"        50     //Wings of Hurricane
+1         6184           6184           "Add Ignore Defense Rate"            50     //Mantle of Monarch
+2         6184           6184           "Add Full Damage Reflect Rate"       50     //Mantle of Monarch
+4         6184           6184           "Add D. Full HP Restore Rate"        50     //Mantle of Monarch
+8         6184           6184           "Add D. Full MP Restore Rate"        50     //Mantle of Monarch
+1         6186           6186           "Add Wing HP"                        50     //Wings of Despair
+2         6186           6186           "Add Wing MP"                        50     //Wings of Despair
+4         6186           6186           "Add Ignore Defense Rate"            50     //Wings of Despair
+8         6186           6186           "Add BP"                             00     //Wings of Despair
+16        6186           6186           "Add Speed"                          00     //Wings of Despair
+1         6187           6187           "Add Ignore Defense Rate"            50     //Wings of Violent Wind
+2         6187           6187           "Add Full Damage Reflect Rate"       50     //Wings of Violent Wind
+4         6187           6187           "Add D. Full HP Restore Rate"        50     //Wings of Violent Wind
+8         6187           6187           "Add D. Full MP Restore Rate"        50     //Wings of Violent Wind
+1         6193           6193           "Add Wing HP"                        50     //Cloak of Fighter
+2         6193           6193           "Add Wing MP"                        50     //Cloak of Fighter
+4         6193           6193           "Add Ignore Defense Rate"            50     //Cloak of Fighter
+8         6193           6193           "Add BP"                             00     //Cloak of Fighter
+16        6193           6193           "Add Speed"                          00     //Cloak of Fighter
+1         6194           6194           "Add Ignore Defense Rate"            50     //Mantle of Warrior
+2         6194           6194           "Add Full Damage Reflect Rate"       50     //Mantle of Warrior
+4         6194           6194           "Add D. Full HP Restore Rate"        50     //Mantle of Warrior
+8         6194           6194           "Add D. Full MP Restore Rate"        50     //Mantle of Warrior
+1         6406           6406           "Add Ignore Defense Rate"            50     //Cloak of Death
+2         6406           6406           "Add D. Full HP Restore Rate"        50     //Cloak of Death
+1         6407           6407           "Add Ignore Defense Rate"            50     //Wings of Chaos
+2         6407           6407           "Add D. Full HP Restore Rate"        50     //Wings of Chaos
+1         6408           6408           "Add Ignore Defense Rate"            50     //Wings of Magic
+2         6408           6408           "Add D. Full HP Restore Rate"        50     //Wings of Magic
+1         6409           6409           "Add Ignore Defense Rate"            50     //Wings of Life
+2         6409           6409           "Add D. Full HP Restore Rate"        50     //Wings of Life
+1         6410           6410           "Add Ignore Defense Rate"            50     //Wings of Conqueror
+2         6410           6410           "Add Full Damage Reflect Rate"       50     //Wings of Conqueror
+4         6410           6410           "Add D. Full HP Restore Rate"        50     //Wings of Conqueror
+1         6411           6411           "Add Double Damage Rate"             50     //Wings of Angel and Devil
+2         6411           6411           "Add Ignore Defense Rate"            50     //Wings of Angel and Devil
+4         6411           6411           "Add D. Full HP Restore Rate"        50     //Wings of Angel and Devil
+1         6412           6412           "Add Ignore Defense Rate"            50     //Wings of Conqueror
+2         6412           6412           "Add Full Damage Reflect Rate"       50     //Wings of Conqueror
+4         6412           6412           "Add D. Full HP Restore Rate"        50     //Wings of Conqueror
+1         6413           6413           "Add Wing HP"                        50     //Cloak of Limit
+2         6413           6413           "Add Wing MP"                        50     //Cloak of Limit
+4         6413           6413           "Add Ignore Defense Rate"            50     //Cloak of Limit
+8         6413           6413           "Add BP"                             00     //Cloak of Limit
+16        6413           6413           "Add Speed"                          00     //Cloak of Limit
+1         6414           6414           "Add Ignore Defense Rate"            50     //Cloak of Transcendence
+2         6414           6414           "Add Full Damage Reflect Rate"       50     //Cloak of Transcendence
+4         6414           6414           "Add D. Full HP Restore Rate"        50     //Cloak of Transcendence
+8         6414           6414           "Add D. Full MP Restore Rate"        50     //Cloak of Transcendence
+1         6423           6406           "Add Ignore Defense Rate"            50     //Cloak of Death (Bound)
+2         6423           6406           "Add D. Full HP Restore Rate"        50     //Cloak of Death (Bound)
+1         6424           6407           "Add Ignore Defense Rate"            50     //Wings of Chaos (Bound)
+2         6424           6407           "Add D. Full HP Restore Rate"        50     //Wings of Chaos (Bound)
+1         6425           6408           "Add Ignore Defense Rate"            50     //Wings of Magic (Bound)
+2         6425           6408           "Add D. Full HP Restore Rate"        50     //Wings of Magic (Bound)
+1         6426           6409           "Add Ignore Defense Rate"            50     //Wings of Life (Bound)
+2         6426           6409           "Add D. Full HP Restore Rate"        50     //Wings of Life (Bound)
+1         6566           6566           "Add Wing HP"                        50     //[Bound]Wings of Soul
+2         6566           6566           "Add Wing MP"                        50     //[Bound]Wings of Soul
+4         6566           6566           "Add Ignore Defense Rate"            50     //[Bound]Wings of Soul
+8         6566           6566           "Add BP"                             00     //[Bound]Wings of Soul
+16        6566           6566           "Add Speed"                          00     //[Bound]Wings of Soul
+1         6567           6567           "Add Wing HP"                        50     //[Bound]Wings of Dragon
+2         6567           6567           "Add Wing MP"                        50     //[Bound]Wings of Dragon
+4         6567           6567           "Add Ignore Defense Rate"            50     //[Bound]Wings of Dragon
+8         6567           6567           "Add BP"                             00     //[Bound]Wings of Dragon
+16        6567           6567           "Add Speed"                          00     //[Bound]Wings of Dragon
+1         6568           6568           "Add Wing HP"                        50     //[Bound]Wings of Spirits
+2         6568           6568           "Add Wing MP"                        50     //[Bound]Wings of Spirits
+4         6568           6568           "Add Ignore Defense Rate"            50     //[Bound]Wings of Spirits
+8         6568           6568           "Add BP"                             00     //[Bound]Wings of Spirits
+16        6568           6568           "Add Speed"                          00     //[Bound]Wings of Spirits
+1         6569           6569           "Add Wing HP"                        50     //[Bound]Wings of Darkness
+2         6569           6569           "Add Wing MP"                        50     //[Bound]Wings of Darkness
+4         6569           6569           "Add Ignore Defense Rate"            50     //[Bound]Wings of Darkness
+8         6569           6569           "Add BP"                             00     //[Bound]Wings of Darkness
+16        6569           6569           "Add Speed"                          00     //[Bound]Wings of Darkness
+1         6570           6570           "Add Wing HP"                        50     //[Bound]Cape of Lord
+2         6570           6570           "Add Wing MP"                        50     //[Bound]Cape of Lord
+4         6570           6570           "Add Ignore Defense Rate"            50     //[Bound]Cape of Lord
+8         6570           6570           "Add Wing Leadership"                50     //[Bound]Cape of Lord
+1         6571           6571           "Add Wing HP"                        50     //[Bound]Wings of Despair
+2         6571           6571           "Add Wing MP"                        50     //[Bound]Wings of Despair
+4         6571           6571           "Add Ignore Defense Rate"            50     //[Bound]Wings of Despair
+8         6571           6571           "Add BP"                             00     //[Bound]Wings of Despair
+16        6571           6571           "Add Speed"                          00     //[Bound]Wings of Despair
+1         6572           6572           "Add Wing HP"                        50     //[Bound]Cape of Fighter
+2         6572           6572           "Add Wing MP"                        50     //[Bound]Cape of Fighter
+4         6572           6572           "Add Ignore Defense Rate"            50     //[Bound]Cape of Fighter
+8         6572           6572           "Add BP"                             00     //[Bound]Cape of Fighter
+16        6572           6572           "Add Speed"                          00     //[Bound]Cape of Fighter
+1         6573           6573           "Add Wing HP"                        50     //[Bound]Cloak of Limit
+2         6573           6573           "Add Wing MP"                        50     //[Bound]Cloak of Limit
+4         6573           6573           "Add Ignore Defense Rate"            50     //[Bound]Cloak of Limit
+8         6573           6573           "Add BP"                             00     //[Bound]Cloak of Limit
+16        6573           6573           "Add Speed"                          00     //[Bound]Cloak of Limit
+1         6574           6574           "Add Ignore Defense Rate"            50     //[Bound]Wings of Eternal
+2         6574           6574           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Eternal
+4         6574           6574           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Eternal
+8         6574           6574           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Eternal
+1         6575           6575           "Add Ignore Defense Rate"            50     //[Bound]Wings of Storm
+2         6575           6575           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Storm
+4         6575           6575           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Storm
+8         6575           6575           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Storm
+1         6576           6576           "Add Ignore Defense Rate"            50     //[Bound]Wings of Illusion
+2         6576           6576           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Illusion
+4         6576           6576           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Illusion
+8         6576           6576           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Illusion
+1         6577           6577           "Add Ignore Defense Rate"            50     //[Bound]Wings of Ruin
+2         6577           6577           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Ruin
+4         6577           6577           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Ruin
+8         6577           6577           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Ruin
+1         6578           6578           "Add Ignore Defense Rate"            50     //[Bound]Cape of Emperor
+2         6578           6578           "Add Full Damage Reflect Rate"       50     //[Bound]Cape of Emperor
+4         6578           6578           "Add D. Full HP Restore Rate"        50     //[Bound]Cape of Emperor
+8         6578           6578           "Add D. Full MP Restore Rate"        50     //[Bound]Cape of Emperor
+1         6579           6579           "Add Ignore Defense Rate"            50     //[Bound]Wings of Dimension
+2         6579           6579           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Dimension
+4         6579           6579           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Dimension
+8         6579           6579           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Dimension
+1         6580           6580           "Add Ignore Defense Rate"            50     //[Bound]Cape of Overrule
+2         6580           6580           "Add Full Damage Reflect Rate"       50     //[Bound]Cape of Overrule
+4         6580           6580           "Add D. Full HP Restore Rate"        50     //[Bound]Cape of Overrule
+8         6580           6580           "Add D. Full MP Restore Rate"        50     //[Bound]Cape of Overrule
+1         6581           6581           "Add Ignore Defense Rate"            50     //[Bound]Cloak of Transcendence
+2         6581           6581           "Add Full Damage Reflect Rate"       50     //[Bound]Cloak of Transcendence
+4         6581           6581           "Add D. Full HP Restore Rate"        50     //[Bound]Cloak of Transcendence
+8         6581           6581           "Add D. Full MP Restore Rate"        50     //[Bound]Cloak of Transcendence
+1         6611           6611           "Add Ignore Defense Rate"            50     //Wings of Disillusion
+2         6611           6611           "Add Full Damage Reflect Rate"       50     //Wings of Disillusion
+4         6611           6611           "Add D. Full HP Restore Rate"        50     //Wings of Disillusion
+8         6611           6611           "Add D. Full MP Restore Rate"        50     //Wings of Disillusion
+1         6612           6612           "Add Ignore Defense Rate"            50     //[Bound]Wings of Disillusion
+2         6612           6612           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Disillusion
+4         6612           6612           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Disillusion
+8         6612           6612           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Disillusion
+1         6616           6616           "Add Ignore Defense Rate"            50     //Wings of Silence
+2         6616           6616           "Add Full Damage Reflect Rate"       50     //Wings of Silence
+4         6616           6616           "Add D. Full HP Restore Rate"        50     //Wings of Silence
+8         6616           6616           "Add D. Full MP Restore Rate"        50     //Wings of Silence
+1         6617           6617           "Add Ignore Defense Rate"            50     //[Bound]Wings of Silence
+2         6617           6617           "Add Full Damage Reflect Rate"       50     //[Bound]Wings of Silence
+4         6617           6617           "Add D. Full HP Restore Rate"        50     //[Bound]Wings of Silence
+8         6617           6617           "Add D. Full MP Restore Rate"        50     //[Bound]Wings of Silence
+1         6633           6633           "Add Ignore Defense Rate"            50     //Wings of Hit
+2         6633           6633           "Add Full Damage Reflect Rate"       50     //Wings of Hit
+4         6633           6633           "Add D. Full HP Restore Rate"        50     //Wings of Hit
+8         6633           6633           "Add D. Full MP Restore Rate"        50     //Wings of Hit
+1         6640           6640           "Add Ignore Defense Rate"            50     //[Bound] Wings of Hit
+2         6640           6640           "Add Full Damage Reflect Rate"       50     //[Bound] Wings of Hit
+4         6640           6640           "Add D. Full HP Restore Rate"        50     //[Bound] Wings of Hit
+8         6640           6640           "Add D. Full MP Restore Rate"        50     //[Bound] Wings of Hit
+1         6659           6659           "Add Dinorant 1"                     50     //Dinorant
+2         6659           6659           "Add BP"                             50     //Dinorant
+4         6659           6659           "Add Speed"                          50     //Dinorant
+1         6664           6664           "Add Money Amount Drop Rate"         50     //Ring of Ice
+2         6664           6664           "Mul Defense Success Rate"           50     //Ring of Ice
+4         6664           6664           "Add Damage Reflect"                 50     //Ring of Ice
+8         6664           6664           "Add Damage Reduction"               50     //Ring of Ice
+16        6664           6664           "Mul MP"                             50     //Ring of Ice
+32        6664           6664           "Mul HP"                             50     //Ring of Ice
+1         6665           6665           "Add Money Amount Drop Rate"         50     //Ring of Poison
+2         6665           6665           "Mul Defense Success Rate"           50     //Ring of Poison
+4         6665           6665           "Add Damage Reflect"                 50     //Ring of Poison
+8         6665           6665           "Add Damage Reduction"               50     //Ring of Poison
+16        6665           6665           "Mul MP"                             50     //Ring of Poison
+32        6665           6665           "Mul HP"                             50     //Ring of Poison
+1         6668           6668           "Add Hunt MP"                        50     //Pendant of Lighting
+2         6668           6668           "Add Hunt HP"                        50     //Pendant of Lighting
+4         6668           6668           "Add Speed"                          50     //Pendant of Lighting
+8         6668           6668           "Mul Magic Damage"                   50     //Pendant of Lighting
+16        6668           6668           "Add Magic Damage By Level"          50     //Pendant of Lighting
+32        6668           6668           "Add Excellent Damage Rate"          50     //Pendant of Lighting
+1         6669           6669           "Add Hunt MP"                        50     //Pendant of Fire
+2         6669           6669           "Add Hunt HP"                        50     //Pendant of Fire
+4         6669           6669           "Add Speed"                          50     //Pendant of Fire
+8         6669           6669           "Mul Physi Damage"                   50     //Pendant of Fire
+16        6669           6669           "Add Physi Damage By Level"          50     //Pendant of Fire
+32        6669           6669           "Add Excellent Damage Rate"          50     //Pendant of Fire
+1         6677           6677           "Add Money Amount Drop Rate"         50     //Ring of Fire
+2         6677           6677           "Mul Defense Success Rate"           50     //Ring of Fire
+4         6677           6677           "Add Damage Reflect"                 50     //Ring of Fire
+8         6677           6677           "Add Damage Reduction"               50     //Ring of Fire
+16        6677           6677           "Mul MP"                             50     //Ring of Fire
+32        6677           6677           "Mul HP"                             50     //Ring of Fire
+1         6678           6678           "Add Money Amount Drop Rate"         50     //Ring of Earth
+2         6678           6678           "Mul Defense Success Rate"           50     //Ring of Earth
+4         6678           6678           "Add Damage Reflect"                 50     //Ring of Earth
+8         6678           6678           "Add Damage Reduction"               50     //Ring of Earth
+16        6678           6678           "Mul MP"                             50     //Ring of Earth
+32        6678           6678           "Mul HP"                             50     //Ring of Earth
+1         6679           6679           "Add Money Amount Drop Rate"         50     //Ring of Wind
+2         6679           6679           "Mul Defense Success Rate"           50     //Ring of Wind
+4         6679           6679           "Add Damage Reflect"                 50     //Ring of Wind
+8         6679           6679           "Add Damage Reduction"               50     //Ring of Wind
+16        6679           6679           "Mul MP"                             50     //Ring of Wind
+32        6679           6679           "Mul HP"                             50     //Ring of Wind
+1         6680           6680           "Add Money Amount Drop Rate"         50     //Ring of Magic
+2         6680           6680           "Mul Defense Success Rate"           50     //Ring of Magic
+4         6680           6680           "Add Damage Reflect"                 50     //Ring of Magic
+8         6680           6680           "Add Damage Reduction"               50     //Ring of Magic
+16        6680           6680           "Mul MP"                             50     //Ring of Magic
+32        6680           6680           "Mul HP"                             50     //Ring of Magic
+1         6681           6681           "Add Hunt MP"                        50     //Pendant of Ice
+2         6681           6681           "Add Hunt HP"                        50     //Pendant of Ice
+4         6681           6681           "Add Speed"                          50     //Pendant of Ice
+8         6681           6681           "Mul Magic Damage"                   50     //Pendant of Ice
+16        6681           6681           "Add Magic Damage By Level"          50     //Pendant of Ice
+32        6681           6681           "Add Excellent Damage Rate"          50     //Pendant of Ice
+1         6682           6682           "Add Hunt MP"                        50     //Pendant of Wind
+2         6682           6682           "Add Hunt HP"                        50     //Pendant of Wind
+4         6682           6682           "Add Speed"                          50     //Pendant of Wind
+8         6682           6682           "Mul Physi Damage"                   50     //Pendant of Wind
+16        6682           6682           "Add Physi Damage By Level"          50     //Pendant of Wind
+32        6682           6682           "Add Excellent Damage Rate"          50     //Pendant of Wind
+1         6683           6683           "Add Hunt MP"                        50     //Pendant of Water
+2         6683           6683           "Add Hunt HP"                        50     //Pendant of Water
+4         6683           6683           "Add Speed"                          50     //Pendant of Water
+8         6683           6683           "Mul Magic Damage"                   50     //Pendant of Water
+16        6683           6683           "Add Magic Damage By Level"          50     //Pendant of Water
+32        6683           6683           "Add Excellent Damage Rate"          50     //Pendant of Water
+1         6684           6684           "Add Hunt MP"                        50     //Pendant of Ability
+2         6684           6684           "Add Hunt HP"                        50     //Pendant of Ability
+4         6684           6684           "Add Speed"                          50     //Pendant of Ability
+8         6684           6684           "Mul Physi Damage"                   50     //Pendant of Ability
+16        6684           6684           "Add Physi Damage By Level"          50     //Pendant of Ability
+32        6684           6684           "Add Excellent Damage Rate"          50     //Pendant of Ability
+1         6686           6686           "Add Wing HP"                        50     //Cape of Lord
+2         6686           6686           "Add Wing MP"                        50     //Cape of Lord
+4         6686           6686           "Add Ignore Defense Rate"            50     //Cape of Lord
+8         6686           6686           "Add Wing Leadership"                50     //Cape of Lord
+1         6693           6693           "Add Fenrir 1"                       50     //Fenrir
+2         6693           6693           "Add Fenrir 2"                       50     //Fenrir
+4         6693           6693           "Add Fenrir 3"                       50     //Fenrir
+1         6825           6825           "Add Money Amount Drop Rate"         50     //Decoration Ring
+2         6825           6825           "Mul Defense Success Rate"           50     //Decoration Ring
+4         6825           6825           "Add Damage Reflect"                 50     //Decoration Ring
+8         6825           6825           "Add Damage Reduction"               50     //Decoration Ring
+16        6825           6825           "Mul MP"                             50     //Decoration Ring
+32        6825           6825           "Mul HP"                             50     //Decoration Ring
+1         6826           6826           "Add Money Amount Drop Rate"         50     //Blessed Decoration Ring
+2         6826           6826           "Mul Defense Success Rate"           50     //Blessed Decoration Ring
+4         6826           6826           "Add Damage Reflect"                 50     //Blessed Decoration Ring
+8         6826           6826           "Add Damage Reduction"               50     //Blessed Decoration Ring
+16        6826           6826           "Mul MP"                             50     //Blessed Decoration Ring
+32        6826           6826           "Mul HP"                             50     //Blessed Decoration Ring
+1         6827           6827           "Add Hunt MP"                        50     //Necklace of Agony
+2         6827           6827           "Add Hunt HP"                        50     //Necklace of Agony
+4         6827           6827           "Add Speed"                          50     //Necklace of Agony
+8         6827           6827           "Mul Physi Damage"                   50     //Necklace of Agony
+16        6827           6827           "Add Physi Damage By Level"          50     //Necklace of Agony
+32        6827           6827           "Add Excellent Damage Rate"          50     //Necklace of Agony
+1         6828           6828           "Add Hunt MP"                        50     //Solid Symbol
+2         6828           6828           "Add Hunt HP"                        50     //Solid Symbol
+4         6828           6828           "Add Speed"                          50     //Solid Symbol
+8         6828           6828           "Mul Physi Damage"                   50     //Solid Symbol
+16        6828           6828           "Add Physi Damage By Level"          50     //Solid Symbol
+32        6828           6828           "Add Excellent Damage Rate"          50     //Solid Symbol
+1         6829           6829           "Add Money Amount Drop Rate"         50     //Ring of Ultimatum
+2         6829           6829           "Mul Defense Success Rate"           50     //Ring of Ultimatum
+4         6829           6829           "Add Damage Reflect"                 50     //Ring of Ultimatum
+8         6829           6829           "Add Damage Reduction"               50     //Ring of Ultimatum
+16        6829           6829           "Mul MP"                             50     //Ring of Ultimatum
+32        6829           6829           "Mul HP"                             50     //Ring of Ultimatum
+1         6832           6832           "Add Money Amount Drop Rate"         50     //Protection Ring
+2         6832           6832           "Mul Defense Success Rate"           50     //Protection Ring
+4         6832           6832           "Add Damage Reflect"                 50     //Protection Ring
+8         6832           6832           "Add Damage Reduction"               50     //Protection Ring
+16        6832           6832           "Mul MP"                             50     //Protection Ring
+32        6832           6832           "Mul HP"                             50     //Protection Ring
+end

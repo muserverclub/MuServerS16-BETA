@@ -1,0 +1,130 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL   RW
+0         5         9500          0             0             1    1    1    1    1    1    1    1    1
+0         6         100           0             0             1    1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+7,98      0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,99      0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,100     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,101     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,102     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,103     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,104     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,105     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,122     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,158     0       0       0         0         0         0         0         0         0         0          //BA Helm
+7,161     0       0       0         0         0         0         0         0         0         0          //BA Helm
+8,98      0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,99      0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,100     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,101     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,102     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,103     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,104     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,105     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,122     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,158     0       0       0         0         0         0         0         0         0         0          //BA Armor
+8,161     0       0       0         0         0         0         0         0         0         0          //BA Armor
+9,98      0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,99      0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,100     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,101     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,102     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,103     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,104     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,105     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,122     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,158     0       0       0         0         0         0         0         0         0         0          //BA Pants
+9,161     0       0       0         0         0         0         0         0         0         0          //BA Pants
+10,98     0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,99     0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,100    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,101    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,102    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,103    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,104    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,105    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,122    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,158    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+10,161    0       0       0         0         0         0         0         0         0         0          //BA Gloves
+11,98     0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,99     0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,100    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,101    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,102    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,103    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,104    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,105    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,122    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,158    0       0       0         0         0         0         0         0         0         0          //BA Boots
+11,161    0       0       0         0         0         0         0         0         0         0          //BA Boots
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+7,98      0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,99      0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,100     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,101     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,102     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,103     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,104     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,105     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,122     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,158     0       0       1         1         1         1         1         1         1         0          //BA Helm
+7,161     0       0       1         1         1         1         1         1         1         0          //BA Helm
+8,98      0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,99      0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,100     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,101     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,102     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,103     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,104     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,105     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,122     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,158     0       0       1         1         1         1         1         1         1         0          //BA Armor
+8,161     0       0       1         1         1         1         1         1         1         0          //BA Armor
+9,98      0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,99      0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,100     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,101     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,102     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,103     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,104     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,105     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,122     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,158     0       0       1         1         1         1         1         1         1         0          //BA Pants
+9,161     0       0       1         1         1         1         1         1         1         0          //BA Pants
+10,98     0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,99     0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,100    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,101    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,102    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,103    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,104    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,105    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,122    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,158    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+10,161    0       0       1         1         1         1         1         1         1         0          //BA Gloves
+11,98     0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,99     0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,100    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,101    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,102    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,103    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,104    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,105    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,122    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,158    0       0       1         1         1         1         1         1         1         0          //BA Boots
+11,161    0       0       1         1         1         1         1         1         1         0          //BA Boots
+end

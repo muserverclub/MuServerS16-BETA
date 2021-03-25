@@ -1,0 +1,681 @@
+//Index   StatType   OptionIndex1   OptionIndex2   OptionIndex3   Comment
+2         0          21             0              0              //Rapier
+14        0          11             0              0              //Lighting Sword
+32        0          37             38             0              //Sacred Glove
+1025      0          1              0              0              //Morning Star
+2053      1          29             0              0              //Silver Bow
+2057      1          23             0              0              //Golden Crossbow
+2560      2          13             0              0              //Skull Staff
+3072      3          0              2              0              //Small Shield
+3078      3          17             0              0              //Skull Shield
+3081      3          5              0              0              //Plate Shield
+3102      3          74             0              0              //Pluma Shield
+3104      3          72             0              0              //Vis Shield
+3114      3          143            0              0              //El Hazard Shield
+3584      3          4              0              0              //Bronze Helm
+3585      3          11             12             0              //Dragon Helm
+3586      3          13             14             0              //Pad Helm
+3587      3          19             20             0              //Legendary Helm
+3588      3          16             0              0              //Bone Helm
+3589      3          1              2              0              //Leather Helm
+3590      3          5              6              0              //Scale Helm
+3591      3          17             0              0              //Sphinx Mask
+3592      3          8              0              0              //Brass Helm
+3593      3          10             0              0              //Plate Helm
+3594      3          21             22             0              //Vine Helm
+3595      3          23             0              0              //Silk Helm
+3596      3          25             0              0              //Wind Helm
+3597      3          28             0              0              //Spirit Helm
+3598      3          0              30             0              //Guardian Helm
+3610      3          33             0              0              //Adamantine Mask
+3624      3          35             36             0              //Red Wing Helm
+3643      1          37             0              0              //Sacred Fire Helm
+3646      3          39             0              0              //Scale Helm
+3647      3          40             0              0              //Silk Helm
+3648      3          41             0              0              //Sphinx Helm
+3649      3          42             0              0              //Violent Wind Helm
+3650      3          43             0              0              //Dark Soul Helm
+3651      3          44             0              0              //Dragon Helm
+3652      3          45             0              0              //Guardian Helm
+3653      3          46             0              0              //Legendary Helm
+3654      3          47             0              0              //Red Wing Helm
+3656      3          49             0              0              //Storm Jahad Helm
+3676      3          71             0              0              //Gru hill Helmet
+3678      3          72             0              0              //Hirat Helmet
+3679      3          74             0              0              //Sate Helmet
+3680      3          76             0              0              //Robust Helmet
+3681      3          77             0              0              //Princie Helmet
+3682      5          78             0              0              //Bloodangel Knight Helm
+3683      5          80             0              0              //Bloodangel Wizard Helm
+3684      5          82             0              0              //Bloodangel Elf Helm (A)
+3685      5          84             0              0              //Bloodangel Summoner Helm
+3687      5          88             0              0              //Bloodangel Lord Helm
+3688      5          90             0              0              //Bloodangel Fighter Helm
+3689      5          92             0              0              //Bloodangel Lancer Helm
+3690      5          132            0              0              //Awakening Soul Knight Helm
+3691      5          133            0              0              //Awakening Soul Wizard Helm
+3692      5          134            0              0              //Awakening Soul Elf Helm (A)
+3693      5          135            0              0              //Awakening Soul Summoner Helm
+3695      5          137            0              0              //Awakening Soul Lord Helm
+3696      5          138            0              0              //Awakening Soul Fighter Helm
+3697      5          139            0              0              //Awakening Soul Lancer Helm
+3698      5          140            0              0              //Awakening Soul Elf Helm (B)
+3702      3          148            149            0              //Rune Legendary Helmet
+3703      3          143            0              0              //Kenaz Hood
+3706      5          144            0              0              //Bloodangel Runist Helm
+3707      5          145            0              0              //Darkangel Runist Helm
+3708      3          146            0              0              //Rune Spink Mask
+3709      3          147            0              0              //Rune Legendary Helmet
+3710      3          148            149            0              //[Bound] Rune Legendary Helmet
+3711      5          160            0              0              //Holyangel Runist Helm
+3712      5          161            0              0              //Awakening Soul Runist Helm
+3713      5          162            0              0              //Blue Eye Runist Helm
+3714      3          94             95             0              //[Bound] Dragon Helm
+3715      3          96             97             0              //[Bound] Legendary Helm
+3716      3          98             99             0              //[Bound] Guardian Helm
+3718      3          102            103            0              //[Bound] Adamantine Mask
+3719      3          104            105            0              //[Bound] Red Winged Helm
+3720      3          106            107            0              //[Bound] Storm Zahard Helm
+3721      3          108            109            0              //[Bound] Princie Helmet
+3722      5          110            0              0              //Darkangel Knight Helm
+3723      5          111            0              0              //Darkangel Wizard Helm
+3724      5          112            0              0              //Darkangel Elf Helm (A)
+3725      5          113            0              0              //Darkangel Summoner Helm
+3727      5          115            0              0              //Darkangel Lord Helm
+3728      5          116            0              0              //Darkangel Fighter Helm
+3729      5          117            0              0              //Darkangel Lancer Helm
+3734      5          118            0              0              //Holyangel Knight Helm
+3735      5          119            0              0              //Holyangel Wizard Helm
+3736      5          120            0              0              //Holyangel Elf Helm (A)
+3737      5          121            0              0              //Holyangel Summoner Helm
+3739      5          123            0              0              //Holyangel Lord Helm
+3740      5          124            0              0              //Holyangel Fighter Helm
+3741      5          125            0              0              //Holyangel Lancer Helm
+3742      5          126            0              0              //Bloodangel Elf Helm (B)
+3743      5          127            0              0              //Darkangel Elf Helm (B)
+3744      5          128            0              0              //Holyangel Elf Helm (B)
+3748      5          150            0              0              //Blue Eye Knight Helm
+3749      5          151            0              0              //Blue Eye Wizard Helm
+3750      5          152            0              0              //Blue Eye Elf Helm (A)
+3751      5          153            0              0              //Blue Eye Summoner Helm
+3753      5          155            0              0              //Blue Eye Lord Helm
+3754      5          156            0              0              //Blue Eye Fighter Helm
+3755      5          157            0              0              //Blue Eye Lancer Helmet
+3756      5          158            0              0              //Blue Eye Elf Helm (B)
+3761      3          164            0              0              //Nightwing Helm
+3764      5          169            0              0              //Bloodangel Slayer Helm
+3765      5          170            0              0              //Darkangel Slayer Helm
+3766      5          171            0              0              //Holyangel Slayer Helm
+3767      5          172            0              0              //Soul Slayer Helm
+3768      5          173            0              0              //Blue Eye Slayer Helm
+3770      3          165            0              0              //Slayer Helm (B)
+3771      3          166            0              0              //Slayer Demonic Helm (B)
+3772      3          167            168            0              //[Bound] Slayer Demonic Helm
+3773      5          174            0              0              //Silverheart Knight Helm
+3774      5          175            0              0              //Silverheart Wizard Helm
+3775      5          176            0              0              //Silverheart Elf Helm (A)
+3776      5          177            0              0              //Silverheart Summoner Helm
+3778      5          179            0              0              //Silverheart Lord Helm
+3779      5          180            0              0              //Silverheart Fighter Helm
+3780      5          181            0              0              //Silverheart Lancer Helm
+3781      5          182            0              0              //Silverheart Elf Helm (B)
+3783      5          184            0              0              //Silverheart Runist Helm
+4096      3          3              0              0              //Bronze Armor
+4097      3          0              12             0              //Dragon Armor
+4098      3          13             0              0              //Pad Armor
+4099      3          19             20             0              //Legendary Armor
+4100      3          15             16             0              //Bone Armor
+4101      3          1              0              0              //Leather Armor
+4102      3          5              6              0              //Scale Armor
+4103      3          17             18             0              //Sphinx Armor
+4104      3          7              0              0              //Brass Armor
+4105      3          9              10             0              //Plate Armor
+4106      3          22             0              0              //Vine Armor
+4107      3          23             0              0              //Silk Armor
+4108      3          25             0              0              //Wind Armor
+4109      3          27             0              0              //Spirit Armor
+4110      3          29             30             0              //Guardian Armor
+4111      3          31             32             0              //Storm Crow Armor
+4122      3          33             0              0              //Adamantine Armor
+4136      3          0              36             0              //Red Wing Armor
+4155      0          37             38             0              //Sacred Fire Armor
+4158      3          39             0              0              //Scale Armor
+4159      3          40             0              0              //Silk Armor
+4160      3          41             0              0              //Sphinx Armor
+4161      3          42             0              0              //Violent Wind Armor
+4162      3          43             0              0              //Dark Soul Armor
+4163      3          44             0              0              //Dragon Armor
+4164      3          45             0              0              //Guardian Armor
+4165      3          46             0              0              //Legendary Armor
+4166      3          47             0              0              //Red Wing Armor
+4167      3          48             0              0              //Atlans Armor
+4168      3          49             0              0              //Storm Jahad Armor
+4188      3          71             0              0              //Gru Hill Armor
+4190      3          72             0              0              //Hirat Armor
+4191      3          74             0              0              //Sate Armor
+4192      3          76             0              0              //Robust Armor
+4193      3          77             0              0              //Princie Armor
+4194      5          78             0              0              //Bloodangel Knight Armor
+4195      5          80             0              0              //Bloodangel Wizard Armor
+4196      5          82             0              0              //Bloodangel Elf Armor (A)
+4197      5          84             0              0              //Bloodangel Summoner Armor
+4198      5          86             0              0              //Bloodangel Magic Armor (A)
+4199      5          88             0              0              //Bloodangel Lord Armor
+4200      5          90             0              0              //Bloodangel Fighter Armor
+4201      5          92             0              0              //Bloodangel Lancer Armor
+4202      5          132            0              0              //Awakening Soul Knight Armor
+4203      5          133            0              0              //Awakening Soul Wizard Armor
+4204      5          134            0              0              //Awakening Soul Elf Armor (A)
+4205      5          135            0              0              //Awakening Soul Summoner Armor
+4206      5          136            0              0              //Awakening Soul Magic Armor (A)
+4207      5          137            0              0              //Awakening Soul Lord Armor
+4208      5          138            0              0              //Awakening Soul Fighter Armor
+4209      5          139            0              0              //Awakening Soul Lancer Armor
+4210      5          140            0              0              //Awakening Soul Elf Armor (B)
+4211      5          141            0              0              //Awakening Soul Magic Armor (B)
+4214      3          148            149            0              //Rune Legendary Armor
+4215      3          142            143            0              //Kanaz Armor
+4218      5          144            0              0              //Bloodangel Runist Armor
+4219      5          145            0              0              //Darkangel Runist Armor
+4220      3          146            0              0              //Rune Spink Armor
+4221      3          147            0              0              //Rune Legendary Armor
+4222      3          148            149            0              //[Bound] Rune Legendary Armor
+4223      5          160            0              0              //Holyangel Runist Armor
+4224      5          161            0              0              //Awakening Soul Runist Armor
+4225      5          162            0              0              //Blue Eye Runist Armor
+4226      3          94             95             0              //[Bound] Dragon Armor
+4227      3          96             97             0              //[Bound] Legendary Armor
+4228      3          98             99             0              //[Bound] Guardian Armor
+4229      3          100            101            0              //[Bound] Atlans Armor
+4230      3          102            103            0              //[Bound] Adamantine Armor
+4231      3          104            105            0              //[Bound] Red Winged Armor
+4232      3          106            107            0              //[Bound] Storm Zahard Armor
+4233      3          108            109            0              //[Bound] Princie Armor
+4234      5          110            0              0              //Darkangel Knight Armor
+4235      5          111            0              0              //Darkangel Wizard Armor
+4236      5          112            0              0              //Darkangel Elf Armor (A)
+4237      5          113            0              0              //Darkangel Summoner Armor
+4238      5          114            0              0              //Darkangel Magic Armor (A)
+4239      5          115            0              0              //Darkangel Lord Armor
+4240      5          116            0              0              //Darkangel Fighter Armor
+4241      5          117            0              0              //Darkangel Lancer Armor
+4246      5          118            0              0              //Holyangel Knight Armor
+4247      5          119            0              0              //Holyangel Wizard Armor
+4248      5          120            0              0              //Holyangel Elf Armor (A)
+4249      5          121            0              0              //Holyangel Summoner Armor
+4250      5          122            0              0              //Holyangel Magic Armor (A)
+4251      5          123            0              0              //Holyangel Lord Armor
+4252      5          124            0              0              //Holyangel Fighter Armor
+4253      5          125            0              0              //Holyangel Lancer Armor
+4254      5          126            0              0              //Bloodangel Elf Armor (B)
+4255      5          127            0              0              //Darkangel Elf Armor (B)
+4256      5          128            0              0              //Holyangel Elf Armor (B)
+4257      5          129            0              0              //Bloodangel Magic Armor (B)
+4258      5          130            0              0              //Darkangel Magic Armor (B)
+4259      5          131            0              0              //Holyangel Magic Armor (B)
+4260      5          150            0              0              //Blue Eye Knight Armor
+4261      5          151            0              0              //Blue Eye Wizard Armor
+4262      5          152            0              0              //Blue Eye Elf Armor (A)
+4263      5          153            0              0              //Blue Eye Summoner Armor
+4264      5          154            0              0              //Blue Eye Magic Armor (A)
+4265      5          155            0              0              //Blue Eye Lord Armor
+4266      5          156            0              0              //Blue Eye Fighter Armor
+4267      5          157            0              0              //Blue Eye Lancer Armor
+4268      5          158            0              0              //Blue Eye Elf Armor  (B)
+4269      5          159            0              0              //Blue Eye Magic Armor (B)
+4273      3          163            164            0              //Nightwing Armor
+4276      5          169            0              0              //Bloodangel Slayer Armor
+4277      5          170            0              0              //Darkangel Slayer Armor
+4278      5          171            0              0              //Holyangel Slayer Armor
+4279      5          172            0              0              //Soul Slayer Armor
+4280      5          173            0              0              //Blue Eye Slayer Armor
+4282      3          165            0              0              //Slayer Armor (B)
+4283      3          166            0              0              //Slayer Demonic Armor (B)
+4284      3          167            168            0              //[Bound] Slayer Demonic Armor
+4285      5          174            0              0              //Silverheart Knight Armor
+4286      5          175            0              0              //Silverheart Wizard Armor
+4287      5          176            0              0              //Silverheart Elf Armor (A)
+4288      5          177            0              0              //Silverheart Summoner Armor
+4289      5          178            0              0              //Silverheart Magic Armor (A)
+4290      5          179            0              0              //Silverheart Lord Armor
+4291      5          180            0              0              //Silverheart Fighter Armor
+4292      5          181            0              0              //Silverheart Lancer Armor
+4293      5          182            0              0              //Silverheart Elf Armor (B)
+4294      5          183            0              0              //Silverheart Magic Armor (B)
+4295      5          184            0              0              //Silverheart Runist Armor
+4608      3          3              4              0              //Bronze Pants
+4609      3          0              12             0              //Dragon Pants
+4610      3          13             14             0              //Pad Pants
+4611      3          0              20             0              //Legendary Pants
+4612      3          15             0              0              //Bone Pants
+4613      3          1              2              0              //Leather Pants
+4614      3          5              6              0              //Scale Pants
+4615      3          17             18             0              //Sphinx Pants
+4616      3          7              8              0              //Brass Pants
+4617      3          10             0              0              //Plate Pants
+4618      3          21             22             0              //Vine Pants
+4619      3          23             24             0              //Silk Pants
+4620      3          25             26             0              //Wind Pants
+4621      3          27             28             0              //Spirit Pants
+4622      3          0              30             0              //Guardian Pants
+4623      3          31             32             0              //Storm Crow Pants
+4634      3          33             34             0              //Adamantine Pants
+4648      3          35             0              0              //Red Wing Pants
+4667      1          37             38             0              //Sacred Fire Pants
+4670      3          39             0              0              //Scale Pants
+4671      3          40             0              0              //Silk Pants
+4672      3          41             0              0              //Sphinx Pants
+4673      3          42             0              0              //Violent Wind Pants
+4674      3          43             0              0              //Dark Soul Pants
+4675      3          44             0              0              //Dragon Pants
+4676      3          45             0              0              //Guardian Pants
+4677      3          46             0              0              //Legendary Pants
+4678      3          47             0              0              //Red Wing Pants
+4679      3          48             0              0              //Atlans Pants
+4680      3          49             0              0              //Storm Jahad Pants
+4700      3          71             0              0              //Gru Hill Pants
+4702      3          72             73             0              //Hirat Pants
+4703      3          74             75             0              //Sate Pants
+4704      3          76             0              0              //Robust Pants
+4705      3          77             0              0              //Princie Pants
+4706      5          78             0              0              //Bloodangel Knight Pants
+4707      5          80             0              0              //Bloodangel Wizard Pants
+4708      5          82             0              0              //Bloodangel Elf Pants (A)
+4709      5          84             0              0              //Bloodangel Summoner Pants
+4710      5          86             0              0              //Bloodangel Magic Pants (A)
+4711      5          88             0              0              //Bloodangel Lord Pants
+4712      5          90             0              0              //Bloodangel Fighter Pants
+4713      5          92             0              0              //Bloodangel Lancer Pants
+4714      5          132            0              0              //Awakening Soul Knight Pants
+4715      5          133            0              0              //Awakening Soul Wizard Pants
+4716      5          134            0              0              //Awakening Soul Elf Pants (A)
+4717      5          135            0              0              //Awakening Soul Summoner Pants
+4718      5          136            0              0              //Awakening Soul Magic Pants (A)
+4719      5          137            0              0              //Awakening Soul Lord Pants
+4720      5          138            0              0              //Awakening Soul Fighter Pants
+4721      5          139            0              0              //Awakening Soul Lancer Pants
+4722      5          140            0              0              //Awakening Soul Elf Pants (B)
+4723      5          141            0              0              //Awakening Soul Magic Pants (B)
+4726      3          148            149            0              //Rune Legendary Pants
+4727      3          142            143            0              //Kanaz Pants
+4730      5          144            0              0              //Bloodangel Runist Pants
+4731      5          145            0              0              //Darkangel Runist Pants
+4732      3          146            0              0              //Rune Spink Pants
+4733      3          147            0              0              //Rune Legendary Pants
+4734      3          148            149            0              //[Bound] Rune Legendary Armor
+4735      5          160            0              0              //Holyangel Runist Pants
+4736      5          161            0              0              //Awakening Soul Runist Pants
+4737      5          162            0              0              //Blue Eye Runist Pants
+4738      3          94             95             0              //[Bound] Dragon Pants
+4739      3          96             97             0              //[Bound] Legendary Pants
+4740      3          98             99             0              //[Bound] Guardian Pants
+4741      3          100            101            0              //[Bound] Atlans Pants
+4742      3          102            103            0              //[Bound] Adamantine Pants
+4743      3          104            105            0              //[Bound] Red Winged Pants
+4744      3          106            107            0              //[Bound] Storm Zahard Pants
+4745      3          108            109            0              //[Bound] Princie Pants
+4746      5          110            0              0              //Darkangel Knight Pants
+4747      5          111            0              0              //Darkangel Wizard Pants
+4748      5          112            0              0              //Darkangel Elf Pants (A)
+4749      5          113            0              0              //Darkangel Summoner Pants
+4750      5          114            0              0              //Darkangel Magic Pants (A)
+4751      5          115            0              0              //Darkangel Lord Pants
+4752      5          116            0              0              //Darkangel Fighter Pants
+4753      5          117            0              0              //Darkangel Lancer Pants
+4758      5          118            0              0              //Holyangel Knight Pants
+4759      5          119            0              0              //Holyangel Wizard Pants
+4760      5          120            0              0              //Holyangel Elf Pants (A)
+4761      5          121            0              0              //Holyangel Summoner Pants
+4762      5          122            0              0              //Holyangel Magic Pants (A)
+4763      5          123            0              0              //Holyangel Lord Pants
+4764      5          124            0              0              //Holyangel Fighter Pants
+4765      5          125            0              0              //Holyangel Lancer Pants
+4766      5          126            0              0              //Bloodangel Elf Pants (B)
+4767      5          127            0              0              //Darkangel Elf Pants (B)
+4768      5          128            0              0              //Holyangel Elf Pants (B)
+4769      5          129            0              0              //Bloodangel Magic Pants (B)
+4770      5          130            0              0              //Darkangel Magic Pants (B)
+4771      5          131            0              0              //Holyangel Magic Pants (B)
+4772      5          150            0              0              //Blue Eye Knight Pants
+4773      5          151            0              0              //Blue Eye Wizard Pants
+4774      5          152            0              0              //Blue Eye Elf Pants (A)
+4775      5          153            0              0              //Blue Eye Summoner Pants
+4776      5          154            0              0              //Blue Eye Magic Pants (A)
+4777      5          155            0              0              //Blue Eye Lord Pants
+4778      5          156            0              0              //Blue Eye Fighter Pants
+4779      5          157            0              0              //Blue Eye Lancer Pants
+4780      5          158            0              0              //Blue Eye Elf Pants (B)
+4781      5          159            0              0              //Blue Eye Magic Pants (B)
+4785      3          163            164            0              //Night Wing Pants
+4788      5          169            0              0              //Bloodangel Slayer Pants
+4789      5          170            0              0              //Darkangel Slayer Pants
+4790      5          171            0              0              //Holyangel Slayer Pants
+4791      5          172            0              0              //Soul Slayer Pants
+4792      5          173            0              0              //Blue Eye Slayer Pants
+4794      3          165            0              0              //Slayer Pants (B)
+4795      3          166            0              0              //Slayer Demonic Pants (B)
+4796      3          167            168            0              //[Bound] Slayer Demonic Pants
+4797      5          174            0              0              //Silverheart Knight Pants
+4798      5          175            0              0              //Silverheart Wizard Pants
+4799      5          176            0              0              //Silverheart Elf Pants (A)
+4800      5          177            0              0              //Silverheart Summoner Pants
+4801      5          178            0              0              //Silverheart Magic Pants (A)
+4802      5          179            0              0              //Silverheart Lord Pants
+4803      5          180            0              0              //Silverheart Fighter Pants
+4804      5          181            0              0              //Silverheart LancerPants
+4805      5          182            0              0              //Silverheart Elf Pants (B)
+4806      5          183            0              0              //Silverheart Magic Pants (B)
+4807      5          184            0              0              //Silverheart Runist Pants
+5120      3          4              0              0              //Bronze Gloves
+5121      3          11             0              0              //Dragon Gloves
+5122      3          13             0              0              //Pad Gloves
+5123      3          19             0              0              //Legendary Gloves
+5124      3          16             0              0              //Bone Gloves
+5125      3          1              0              0              //Leather Gloves
+5126      3          6              0              0              //Scale Gloves
+5127      3          17             0              0              //Sphinx Gloves
+5128      3          7              0              0              //Brass Gloves
+5129      3          9              0              0              //Plate Gloves
+5130      3          21             0              0              //Vine Gloves
+5131      3          23             24             0              //Silk Gloves
+5132      3          25             0              0              //Wind Gloves
+5133      3          27             0              0              //Spirit Gloves
+5134      3          29             0              0              //Guardian Gloves
+5135      3          0              32             0              //Storm Crow Gloves
+5146      3          0              34             0              //Adamantine Gloves
+5160      3          35             36             0              //Red Wing Gloves
+5182      3          39             0              0              //Scale Gloves
+5183      3          40             0              0              //Silk Gloves
+5184      3          41             0              0              //Sphinx Gloves
+5185      3          42             0              0              //Violent Wind Gloves
+5186      3          43             0              0              //Dark Soul Gloves
+5187      3          44             0              0              //Dragon Gloves
+5188      3          45             0              0              //Guardian Gloves
+5189      3          46             0              0              //Legendary Gloves
+5190      3          47             0              0              //Red Wing Gloves
+5191      3          48             0              0              //Atlans Gloves
+5214      3          73             0              0              //Hirat Gloves
+5215      3          75             0              0              //Sate Gloves
+5216      3          76             0              0              //Robust Gloves
+5217      3          77             0              0              //Princie Gloves
+5219      5          80             0              0              //Bloodangel Wizard Gloves
+5220      5          82             0              0              //Bloodangel Elf Gloves (A)
+5221      5          84             0              0              //Bloodangel Summoner Gloves
+5222      5          86             0              0              //Bloodangel Magic Gloves (A)
+5223      5          88             0              0              //Bloodangel Lord Gloves
+5225      5          92             0              0              //Bloodangel Lancer Gloves
+5227      5          133            0              0              //Awakening Soul Wizard Gloves
+5228      5          134            0              0              //Awakening Soul Elf Gloves (A)
+5229      5          135            0              0              //Awakening Soul Summoner Gloves
+5230      5          136            0              0              //Awakening Soul Magic Gloves (A)
+5231      5          137            0              0              //Awakening Soul Lord Gloves
+5233      5          139            0              0              //Awakening Soul Lancer Gloves
+5234      5          140            0              0              //Awakening Soul Elf Gloves (B)
+5235      5          141            0              0              //Awakening Soul Magic Gloves (B)
+5238      3          148            149            0              //Rune Legendary Gloves
+5239      3          142            0              0              //Kanaz Gloves
+5242      5          144            0              0              //Bloodangel Runist Glove
+5243      5          145            0              0              //Darkangel Runist Gloves
+5244      3          146            0              0              //Rune Spink Gloves
+5245      3          147            0              0              //Rune Legendary Gloves
+5246      3          148            149            0              //[Bound] Rune Legendary Gloves
+5247      5          160            0              0              //Holyangel Runist Gloves
+5248      5          161            0              0              //Awakening Soul Runist Gloves
+5249      5          162            0              0              //Blue Eye Runist Gloves
+5250      3          94             95             0              //[Bound] Dragon Gloves
+5251      3          96             97             0              //[Bound] Legendary Gloves
+5252      3          98             99             0              //[Bound] Guardian Gloves
+5253      3          100            101            0              //[Bound] Atlans Gloves
+5254      3          102            103            0              //[Bound] Adamantine Gloves
+5255      3          104            105            0              //[Bound] Red Winged Gloves
+5257      3          108            109            0              //[Bound] Princie Gloves
+5259      5          111            0              0              //Darkangel Wizard Gloves
+5260      5          112            0              0              //Darkangel Elf Gloves (A)
+5261      5          113            0              0              //Darkangel Summoner Gloves
+5262      5          114            0              0              //Darkangel Magic Gloves (A)
+5263      5          115            0              0              //Darkangel Lord Gloves
+5265      5          117            0              0              //Darkangel Lancer Gloves
+5271      5          119            0              0              //Holyangel Wizard Gloves
+5272      5          120            0              0              //Holyangel Elf Gloves (A)
+5273      5          121            0              0              //Holyangel Summoner Gloves
+5274      5          122            0              0              //Holyangel Magic Gloves (A)
+5275      5          123            0              0              //Holyangel Lord Gloves
+5277      5          125            0              0              //Holyangel Lancer Gloves
+5278      5          126            0              0              //Bloodangel Elf Gloves (B)
+5279      5          127            0              0              //Darkangel Elf Gloves (B)
+5280      5          128            0              0              //Holyangel Elf Gloves (B)
+5281      5          129            0              0              //Bloodangel Magic Gloves (B)
+5282      5          130            0              0              //Darkangel Magic Gloves (B)
+5283      5          131            0              0              //Holyangel Magic Gloves (B)
+5285      5          151            0              0              //Blue Eye Wizard Gloves
+5286      5          152            0              0              //Blue Eye Elf Gloves (A)
+5287      5          153            0              0              //Blue Eye Summoner Gloves
+5288      5          154            0              0              //Blue Eye Magic Gloves (A)
+5289      5          155            0              0              //Blue Eye Lord Gloves
+5291      5          157            0              0              //Blue Eye Lancer Gloves
+5292      5          158            0              0              //Blue Eye Elf Gloves (B)
+5293      5          159            0              0              //Blue Eye Magic Gloves (B)
+5297      3          163            164            0              //Nightwing Gloves
+5300      5          169            0              0              //Bloodangel Slayer Gloves
+5301      5          170            0              0              //Darkangel Slayer Gloves
+5302      5          171            0              0              //Holyangel Slayer Gloves
+5303      5          172            0              0              //Soul Slayer Gloves
+5304      5          173            0              0              //Blue Eye Slayer Gloves
+5306      3          165            0              0              //Slayer Gloves (B)
+5307      3          166            0              0              //Slayer Demonic Gloves (B)
+5308      3          167            168            0              //[Bound] Slayer Demonic Gloves
+5310      5          175            0              0              //Silverheart Wizard Gloves
+5311      5          176            0              0              //Silverheart Elf Gloves (A)
+5312      5          177            0              0              //Silverheart Summoner Gloves
+5313      5          178            0              0              //Silverheart Magic Gloves (A)
+5314      5          179            0              0              //Silverheart Lord Gloves
+5316      5          181            0              0              //Silverheart Lancer Gloves
+5317      5          182            0              0              //Silverheart Elf Gloves (B)
+5318      5          183            0              0              //Silverheart Magic Gloves (B)
+5319      5          184            0              0              //Silverheart Runist Gloves
+5632      3          3              0              0              //Bronze Boots
+5633      3          11             0              0              //Dragon Boots
+5634      3          14             0              0              //Pad Boots
+5635      3          0              20             0              //Legendary Boots
+5636      3          15             16             0              //Bone Boots
+5637      3          1              2              0              //Leather Boots
+5638      3          6              0              0              //Scale Boots
+5639      3          17             18             0              //Sphinx Boots
+5640      3          7              0              0              //Brass Boots
+5641      3          9              0              0              //Plate Boots
+5642      3          21             22             0              //Vine Boots
+5643      3          24             0              0              //Silk Boots
+5644      3          25             26             0              //Wind Boots
+5645      3          28             0              0              //Spirit Boots
+5646      3          29             30             0              //Guardian Boots
+5647      3          31             0              0              //Storm Crow Boots
+5658      3          0              34             0              //Adamantine Boots
+5672      3          0              36             0              //Red Wing Boots
+5691      1          38             0              0              //Sacred Fire Boots
+5694      3          39             0              0              //Scale Boots
+5695      3          40             0              0              //Silk Boots
+5696      3          41             0              0              //Sphinx Boots
+5697      3          42             0              0              //Violent Wind Boots
+5698      3          43             0              0              //Dark Soul Boots
+5699      3          44             0              0              //Dragon Boots
+5700      3          45             0              0              //Guardian Boots
+5701      3          46             0              0              //Legendary Boots
+5702      3          47             0              0              //Red Wing Boots
+5703      3          48             0              0              //Atlans Boots
+5704      3          49             0              0              //Storm Jahad Boots
+5726      3          73             0              0              //Hirat Boots
+5727      3          75             0              0              //Sate Boots
+5728      3          76             0              0              //Robust Boots
+5729      3          77             0              0              //Princie Boots
+5730      5          78             0              0              //Bloodangel Knight Boots
+5734      5          86             0              0              //Bloodangel Magic Boots (A)
+5736      5          90             0              0              //Bloodangel Fighter Boots
+5738      5          132            0              0              //Awakening Soul Knight Boots
+5742      5          136            0              0              //Awakening Soul Magic Boots (A)
+5744      5          138            0              0              //Awakening Soul Fighter Boots
+5747      5          141            0              0              //Awakening Soul Magic Boots (B)
+5750      3          148            149            0              //Rune Legendary Boots
+5751      3          142            0              0              //Kanaz Boots
+5756      3          146            0              0              //Rune Spink Boots
+5757      3          147            0              0              //Rune Legendary Boots
+5758      3          148            149            0              //[Bound] Rune Legendary Boots
+5762      3          94             95             0              //[Bound] Dragon Boots
+5763      3          96             97             0              //[Bound] Legendary Boots
+5764      3          98             99             0              //[Bound] Guardian Boots
+5765      3          100            101            0              //[Bound] Atlans Boots
+5766      3          102            103            0              //[Bound] Adamantine Boots
+5767      3          104            105            0              //[Bound] Red Winged Boots
+5768      3          106            107            0              //[Bound] Storm Zahard Boots
+5769      3          108            109            0              //[Bound] Princie Boots
+5770      5          110            0              0              //Darkangel Knight Boots
+5774      5          114            0              0              //Darkangel Magic Boots (A)
+5776      5          116            0              0              //Darkangel Fighter Boots
+5782      5          118            0              0              //Holyangel Knight Boots
+5786      5          122            0              0              //Holyangel Magic Boots (A)
+5788      5          124            0              0              //Holyangel Fighter Boots
+5793      5          129            0              0              //Bloodangel Magic Boots (B)
+5794      5          130            0              0              //Darkangel Magic Boots (B)
+5795      5          131            0              0              //Holyangel Magic Boots (B)
+5796      5          150            0              0              //Blue Eye Knight Boots
+5800      5          154            0              0              //Blue Eye Magic Boots (A)
+5802      5          156            0              0              //Blue Eye Fighter Boots
+5805      5          159            0              0              //Blue Eye Magic Boots (B)
+5809      3          163            0              0              //Night Wing Boots
+5818      3          165            0              0              //Slayer Boots (B)
+5819      3          166            0              0              //Slayer Demonic Boots (B)
+5820      3          167            168            0              //[Bound] Slayer Demonic Boots
+5821      5          174            0              0              //Silverheart Knight Boots
+5825      5          178            0              0              //Silverheart Magic Boots (A)
+5827      5          180            0              0              //Silverheart Fighter Boots
+5830      5          183            0              0              //Silverheart Magic Boots (B)
+6664      1          1              73             0              //Ring of Ice
+6665      3          9              33             75             //Ring of Poison
+6668      2          5              0              0              //Pendant of Lighting
+6669      0          7              0              0              //Pendant of Fire
+6677      2          19             32             0              //Ring of Fire
+6678      0          21             12             0              //Ring of Earth
+6679      1          9              71             0              //Ring of Wind
+6680      2          13             35             0              //Ring of Magic
+6681      0          13             34             0              //Pendant of Ice
+6682      1          15             0              0              //Pendant of Wind
+6683      3          31             0              0              //Pendant of Water
+6684      *          29             0              0              //Pendant of Ability
+//Index   StatType   OptionIndex1   OptionIndex2   OptionIndex3   Comment
+3784      3          188            0              0
+3785      3          189            0              0
+3786      3          190            0              0
+3787      3          191            0              0
+3788      3          192            0              0
+3789      3          193            0              0
+3793      3          194            195            0
+3796      3          196            0              0
+3797      3          197            0              0
+3798      3          198            0              0
+3799      3          199            0              0
+3802      3          202            0              0
+3803      3          203            0              0
+3804      3          204            205            0
+3805      3          206            0              0
+3806      3          207            0              0
+3807      3          208            0              0
+3808      3          209            0              0
+3810      3          211            0              0
+3811      3          212            0              0
+3812      3          213            0              0
+3813      3          214            0              0
+3815      3          216            0              0
+3816      3          217            0              0
+3817      3          218            0              0
+4296      3          188            0              0
+4297      3          189            0              0
+4298      3          190            0              0
+4299      3          191            0              0
+4300      3          192            0              0
+4301      3          193            0              0
+4305      3          194            195            0
+4308      3          196            0              0
+4309      3          197            0              0
+4310      3          198            0              0
+4311      3          199            0              0
+4314      3          202            0              0
+4315      3          203            0              0
+4316      3          204            205            0
+4317      3          206            0              0
+4318      3          207            0              0
+4319      3          208            0              0
+4320      3          209            0              0
+4321      3          210            0              0
+4322      3          211            0              0
+4323      3          212            0              0
+4324      3          213            0              0
+4325      3          214            0              0
+4326      3          215            0              0
+4327      3          216            0              0
+4328      3          217            0              0
+4329      3          218            0              0
+4808      3          188            0              0
+4809      3          189            0              0
+4810      3          190            0              0
+4811      3          191            0              0
+4812      3          192            0              0
+4813      3          193            0              0
+4817      3          194            195            0
+4820      3          196            0              0
+4821      3          197            0              0
+4822      3          198            0              0
+4823      3          199            0              0
+4826      3          202            0              0
+4827      3          203            0              0
+4828      3          204            205            0
+4829      3          206            0              0
+4830      3          207            0              0
+4831      3          208            0              0
+4832      3          209            0              0
+4833      3          210            0              0
+4834      3          211            0              0
+4835      3          212            0              0
+4836      3          213            0              0
+4837      3          214            0              0
+4838      3          215            0              0
+4839      3          216            0              0
+4840      3          217            0              0
+4841      3          218            0              0
+5329      3          195            0              0
+5338      3          202            0              0
+5339      3          203            0              0
+5340      3          204            205            0
+5342      3          207            0              0
+5343      3          208            0              0
+5344      3          209            0              0
+5345      3          210            0              0
+5346      3          211            0              0
+5348      3          213            0              0
+5349      3          214            0              0
+5350      3          215            0              0
+5351      3          216            0              0
+5352      3          217            0              0
+5832      3          188            0              0
+5833      3          189            0              0
+5834      3          190            0              0
+5835      3          191            0              0
+5836      3          192            0              0
+5837      3          193            0              0
+5841      3          194            0              0
+5844      3          196            0              0
+5845      3          197            0              0
+5846      3          198            0              0
+5847      3          199            0              0
+5850      3          202            0              0
+5851      3          203            0              0
+5852      3          204            205            0
+5853      3          206            0              0
+5857      3          210            0              0
+5859      3          212            0              0
+5862      3          215            0              0
+5865      3          218            0              0
+
+3769      3          185            0              0
+4281      3          185            0              0
+4793      3          185            0              0
+5305      3          185            0              0
+end

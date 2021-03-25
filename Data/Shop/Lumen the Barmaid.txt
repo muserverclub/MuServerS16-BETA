@@ -1,0 +1,13 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+7177      0       1       0         0         0         0           //Ale
+7178      0       1       0         0         0         0           //Town Portal Scroll
+6672      1       1       0         0         0         0           //Scroll of Archangel
+6672      2       1       0         0         0         0           //Scroll of Archangel
+6673      1       1       0         0         0         0           //Blood Bone
+6673      2       1       0         0         0         0           //Blood Bone
+7185      1       0       0         0         0         0           //Devil's Eye
+7185      2       0       0         0         0         0           //Devil's Eye
+7186      1       0       0         0         0         0           //Devil's Key
+7186      2       0       0         0         0         0           //Devil's Key
+6685      0       1       0         0         0         0           //Armor of Guardsman
+end

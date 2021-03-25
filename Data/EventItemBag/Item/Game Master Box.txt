@@ -1,0 +1,63 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+13,001    0       0       *         *         *         *         *         *         *         0          //Imp
+13,000    0       0       *         *         *         *         *         *         *         0          //Guardian Angel
+00,014    0       0       *         12        12        12        12        *         *         0          //Lighting Sword [Skill Luck Option: +4 Exc: 1]
+02,010    0       0       *         12        12        12        12        *         *         0          //Great Scepter [Skill Luck Option: +4 Exc: 1]
+04,012    0       0       *         12        12        12        12        *         *         0          //Serpent Crossbow [Skill Luck Option: +4 Exc: 1]
+05,005    0       0       *         12        12        12        12        *         *         0          //Legendary Staff [Skill Luck Option: +4 Exc: 1]
+05,016    0       0       *         12        12        12        12        *         *         0          //Red Wing Stick [Skill Luck Option: +4 Exc: 1]
+00,016    0       0       *         12        12        12        12        *         *         0          //Sword of Destruction [Skill Luck Option: +4 Exc: 1]
+02,012    0       0       *         12        12        12        12        *         *         0          //Great Lord Scepter [Skill Luck Option: +4 Exc: 1]
+04,017    0       0       *         12        12        12        12        *         *         0          //Celestial Bow [Skill Luck Option: +4 Exc: 1]
+05,006    0       0       *         12        12        12        12        *         *         0          //Staff of Resurrection [Skill Luck Option: +4 Exc: 1]
+05,017    0       0       *         12        12        12        12        *         *         0          //Ancient Stick [Skill Luck Option: +4 Exc: 1]
+07,001    0       0       *         *         12        12        12        *         *         0          //Dragon Helm [Luck Option: +4 Exc: 1]
+08,001    0       0       *         *         12        12        12        *         *         0          //Dragon Armor [Luck Option: +4 Exc: 1]
+09,001    0       0       *         *         12        12        12        *         *         0          //Dragon Pants [Luck Option: +4 Exc: 1]
+10,001    0       0       *         *         12        12        12        *         *         0          //Dragon Gloves [Luck Option: +4 Exc: 1]
+11,001    0       0       *         *         12        12        12        *         *         0          //Dragon Boots [Luck Option: +4 Exc: 1]
+07,014    0       0       *         *         12        12        12        *         *         0          //Guardian Helm [Luck Option: +4 Exc: 1]
+08,014    0       0       *         *         12        12        12        *         *         0          //Guardian Armor [Luck Option: +4 Exc: 1]
+09,014    0       0       *         *         12        12        12        *         *         0          //Guardian Pants [Luck Option: +4 Exc: 1]
+10,014    0       0       *         *         12        12        12        *         *         0          //Guardian Gloves [Luck Option: +4 Exc: 1]
+11,014    0       0       *         *         12        12        12        *         *         0          //Guardian Boots [Luck Option: +4 Exc: 1]
+07,003    0       0       *         *         12        12        12        *         *         0          //Legendary Helm [Luck Option: +4 Exc: 1]
+08,003    0       0       *         *         12        12        12        *         *         0          //Legendary Armor [Luck Option: +4 Exc: 1]
+09,003    0       0       *         *         12        12        12        *         *         0          //Legendary Pants [Luck Option: +4 Exc: 1]
+10,003    0       0       *         *         12        12        12        *         *         0          //Legendary Gloves [Luck Option: +4 Exc: 1]
+11,003    0       0       *         *         12        12        12        *         *         0          //Legendary Boots [Luck Option: +4 Exc: 1]
+07,026    0       0       *         *         12        12        12        *         *         0          //Adamantine Mask [Luck Option: +4 Exc: 1]
+08,026    0       0       *         *         12        12        12        *         *         0          //Adamantine Armor [Luck Option: +4 Exc: 1]
+09,026    0       0       *         *         12        12        12        *         *         0          //Adamantine Pants [Luck Option: +4 Exc: 1]
+10,026    0       0       *         *         12        12        12        *         *         0          //Adamantine Gloves [Luck Option: +4 Exc: 1]
+11,026    0       0       *         *         12        12        12        *         *         0          //Adamantine Boots [Luck Option: +4 Exc: 1]
+07,040    0       0       *         *         12        12        12        *         *         0          //Red Wing Helm [Luck Option: +4 Exc: 1]
+08,040    0       0       *         *         12        12        12        *         *         0          //Red Wing Armor [Luck Option: +4 Exc: 1]
+09,040    0       0       *         *         12        12        12        *         *         0          //Red Wing Pants [Luck Option: +4 Exc: 1]
+10,040    0       0       *         *         12        12        12        *         *         0          //Red Wing Gloves [Luck Option: +4 Exc: 1]
+11,040    0       0       *         *         12        12        12        *         *         0          //Red Wing Boots [Luck Option: +4 Exc: 1]
+08,015    0       0       *         *         12        12        12        *         *         0          //Storm Crow Armor [Luck Option: +4 Exc: 1]
+09,015    0       0       *         *         12        12        12        *         *         0          //Storm Crow Pants [Luck Option: +4 Exc: 1]
+10,015    0       0       *         *         12        12        12        *         *         0          //Storm Crow Gloves [Luck Option: +4 Exc: 1]
+11,015    0       0       *         *         12        12        12        *         *         0          //Storm Crow Boots [Luck Option: +4 Exc: 1]
+07,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Mask [Luck Option: +4 Exc: 1]
+08,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Armor [Luck Option: +4 Exc: 1]
+09,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Pants [Luck Option: +4 Exc: 1]
+10,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Gloves [Luck Option: +4 Exc: 1]
+11,027    0       0       *         *         12        12        12        *         *         0          //Dark Steel Boots [Luck Option: +4 Exc: 1]
+13,008    0       0       *         *         12        12        12        *         *         0          //Ring of Ice [Luck Option: +4 Exc: 1]
+13,009    0       0       *         *         12        12        12        *         *         0          //Ring of Poison [Luck Option: +4 Exc: 1]
+13,012    0       0       *         *         12        12        12        *         *         0          //Pendant of Lighting [Luck Option: +4 Exc: 1]
+end

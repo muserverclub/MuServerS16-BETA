@@ -1,0 +1,433 @@
+[GameServerInfo]
+;==================================================
+; Customer Settings
+;==================================================
+CustomerLicenseId -> License number.
+
+;==================================================
+; Server Settings
+;==================================================
+ServerName -> GameServer room name.
+ServerCode -> GameServer room code.
+ServerType -> GameServer room type (0=Common/1=Siege/2=Market/3=Arca).
+ServerLang -> GameServer room default language (0=Eng/1=Por/2=Spn).
+ServerLock -> Minimum premium value to acess the server.
+ServerTick -> GameServer refresh rate, higher the number higher cpu usage, but more accurate timers (Min 1, Max 25).
+ServerPort -> GameServer initialization port.
+ServerVersion -> Client version.
+ServerSerial -> Client serial.
+ServerMaxUserNumber -> Maximum users on GameServer.
+
+;==================================================
+; Connection Settings
+;==================================================
+DataServerAddress -> DataServer connection IP address.
+DataServerPort -> DataServer connection port.
+JoinServerAddress -> JoinServer connection IP address.
+JoinServerPort -> JoinServer connection port.
+ConnectServerAddress -> ConnectServer connection IP address.
+ConnectServerPort -> ConnectServer connection port.
+
+;==================================================
+; Log Settings
+;==================================================
+WriteChatLog -> User chat log (0=Off/1=On).
+WriteCommandLog -> Command log (0=Off/1=On).
+WriteTradeLog -> Trade log (0=Off/1=On).
+WriteConnectLog -> Connection system log (0=Off/1=On).
+WriteItemLog -> Item move log (0=Off/1=On).
+WriteHackLog -> Hack info log (0=Off/1=On).
+WriteCashShopLog -> CashShop log (0=Off/1=On).
+WriteChaosMixLog -> ChaosMix log (0=Off/1=On).
+WriteScriptLog -> Script system log (0=Off/1=On).
+
+;==================================================
+; Hack Settings
+;==================================================
+CheckAutoPotionHack -> Potion usage check system (0=Off/1=On).
+CheckAutoPotionHackTolerance -> Cooldown time between potion use (Miliseconds).
+CheckAutoComboHack -> Combo usage check system (0=Off/1=On).
+CheckAutoComboHackTolerance -> Cooldown time between combo use (Miliseconds).
+
+;==================================================
+; Common Settings
+;==================================================
+MaxItemOption -> Maximum uses of Jewel of Life on items.
+MaxIpConnection -> Max number of connections with the same IP.
+PersonalCodeCheck -> Personal Code check (0=Off/1=On).
+EntryNoticeSwitch -> Character game entry message (0=Off/1=On).
+EventNoticeWindow -> Event notice pop up on character entry (0=Off/1=On).
+TeleportAttackCheck -> Can attack while teleporting (0=Yes/1=No).
+EffectOverwriteMode -> Effect overwrite mode (0=Stronger Effect/1=Newer Effect).
+ChaosMixPlusItemAnnounce -> Global annunce when +15 item is made (0=Off/1=On).
+SetItemAcceptHarmonySwitch -> Set item supports Jewel of Harmony (0=Off/1=On).
+
+;==================================================
+; Monster Settings
+;==================================================
+MonsterMaxLifeRate -> Monster base life percentage.
+MonsterDefenseRate -> Monster base defense percentage.
+MonsterDefenseSuccessRateRate -> Monster base defense success rate percentage.
+MonsterPhysiDamageRate -> Monster base physical damage percentage.
+MonsterAttackSuccessRateRate -> Monster base attack success rate percentage.
+
+;==================================================
+; Reconnect Settings
+;==================================================
+ReconnectTime -> Maximum time to player reconnection, in seconds.
+ReconnectOfflineTime -> Maximum time to offline player reconnection, in seconds.
+
+;==================================================
+; PK Settings
+;==================================================
+NonPK -> Room PvP State (0=On/1=Off).
+PKLimitFree -> Remove PKs limitations (0=No/1=Yes).
+PKLimitShop -> Blocks PKs opening shops (0=No/1=Yes).
+PKLimitMove -> Blocks PKs move (0=No/1=Yes).
+PKLimitMoveSummon -> Blocks PKs being summoned (0=No/1=Yes).
+PKLimitEventEntry -> Blocks PKs entering events (0=No/1=Yes).
+PKDownPlusTimePoint -> Amount of PK points gained per second.
+PKDownPlusKillPoint -> Divisor of the amount of PK points gained after monster kill (MonsterLevel/config).
+PKDownRequirePoint1 -> Amount of points required to lower PK level at stage 1.
+PKDownRequirePoint2 -> Amount of points required to lower PK level at stage 2.
+PKDownRequirePoint3 -> Amount of points required to lower PK level at stage 3.
+PKDownRequirePoint4 -> Amount of points required to lower PK level above stage 3.
+
+;==================================================
+; Personal Shop Settings
+;==================================================
+PersonalShopMoneyCommisionRate -> Percentage of zen lost on each transaction.
+PersonalShopJewelCommisionRate -> Percentage of jewels lost on each transaction.
+
+;==================================================
+; Guild Settings
+;==================================================
+GuildCreateSwitch -> Guild create state (0=Off/1=On).	
+GuildDeleteSwitch -> Guild delete state (0=Off/1=On).
+GuildCreateMinLevel -> Minimum level required to create guild.
+GuildInsertMaxUser1 -> Max guild member.
+GuildInsertMaxUser2 -> Max guild member (Dark Lord GuildMaster).
+GuildAllianceMinUser -> Min guild member required to create an alliance.
+GuildAllianceMaxCount -> Max number of guild on an alliance.
+GuildOwnerDestroyLimit -> CastleSiege owner guild delete state (0=Off/1=On).
+
+;==================================================
+; Elf Buffer Settings
+;==================================================
+ElfBufferMaxLevel_AL0 -> Max level to get the buff (Free).
+ElfBufferMaxLevel_AL1 -> Max level to get the buff (Vip1).
+ElfBufferMaxLevel_AL2 -> Max level to get the buff (Vip2).
+ElfBufferMaxLevel_AL3 -> Max level to get the buff (Vip3).
+ElfBufferMaxReset_AL0 -> Max reset to get the buff (Free).
+ElfBufferMaxReset_AL1 -> Max reset to get the buff (Vip1).
+ElfBufferMaxReset_AL2 -> Max reset to get the buff (Vip2).
+ElfBufferMaxReset_AL3 -> Max reset to get the buff (Vip3).
+ElfBufferDamageConstA -> Damage increase formula constant.
+ElfBufferDamageConstB -> Damage increase formula constant.
+ElfBufferDefenseConstA -> Defense increase formula constant.
+ElfBufferDefenseConstB -> Defense increase formula constant.
+
+# FORMULA = (ElfBufferDamageConstA+(PlayerLevel/ElfBufferDamageConstB)) #
+
+# FORMULA = (ElfBufferDefenseConstA+(PlayerLevel/ElfBufferDefenseConstB)) #
+
+;==================================================
+; Experience Settings
+;==================================================
+AddExperienceRate_AL0 -> Base experience multiplier (Free).
+AddExperienceRate_AL1 -> Base experience multiplier (Vip1).
+AddExperienceRate_AL2 -> Base experience multiplier (Vip2).
+AddExperienceRate_AL3 -> Base experience multiplier (Vip3).
+AddMasterExperienceRate_AL0 -> Base master experience multiplier (Free).
+AddMasterExperienceRate_AL1 -> Base master experience multiplier (Vip1).
+AddMasterExperienceRate_AL2 -> Base master experience multiplier (Vip2).
+AddMasterExperienceRate_AL3 -> Base master experience multiplier (Vip3).
+MinMasterExperienceMonsterLevel_AL0 -> Min monster level to give master experience (Free).
+MinMasterExperienceMonsterLevel_AL1 -> Min monster level to give master experience (Vip1).
+MinMasterExperienceMonsterLevel_AL2 -> Min monster level to give master experience (Vip2).
+MinMasterExperienceMonsterLevel_AL3 -> Min monster level to give master experience (Vip3).
+MinMasterExperienceExtMonsterLevel_AL0 -> Min monster level to give extended master experience (Free).
+MinMasterExperienceExtMonsterLevel_AL1 -> Min monster level to give extended master experience (Vip1).
+MinMasterExperienceExtMonsterLevel_AL2 -> Min monster level to give extended master experience (Vip2).
+MinMasterExperienceExtMonsterLevel_AL3 -> Min monster level to give extended master experience (Vip3).
+AddEventExperienceRate_AL0 -> Base event reward experience multiplier (Free).
+AddEventExperienceRate_AL1 -> Base event reward experience multiplier (Vip1).
+AddEventExperienceRate_AL2 -> Base event reward experience multiplier (Vip2).
+AddEventExperienceRate_AL3 -> Base event reward experience multiplier (Vip3).
+AddQuestExperienceRate_AL0 -> Base quest reward experience multiplier (Free).
+AddQuestExperienceRate_AL1 -> Base quest reward experience multiplier (Vip1).
+AddQuestExperienceRate_AL2 -> Base quest reward experience multiplier (Vip2).
+AddQuestExperienceRate_AL3 -> Base quest reward experience multiplier (Vip3).
+
+;==================================================
+; Item Drop Settings
+;==================================================
+ItemDropTime -> Time to items dissapear on the ground.
+ItemDropRate_AL0 -> Chance to drop items from monsters (Free).
+ItemDropRate_AL1 -> Chance to drop items from monsters (Vip1).
+ItemDropRate_AL2 -> Chance to drop items from monsters (Vip2).
+ItemDropRate_AL3 -> Chance to drop items from monsters (Vip3).
+
+;==================================================
+; Money Drop Settings
+;==================================================
+MoneyDropTime -> Time to zen dissapear on the ground.
+MoneyAmountDropRate_AL0 -> Zen percentage that will drop from monsters (0=Disable zen drop) (Free).
+MoneyAmountDropRate_AL1 -> Zen percentage that will drop from monsters (0=Disable zen drop) (Vip1).
+MoneyAmountDropRate_AL2 -> Zen percentage that will drop from monsters (0=Disable zen drop) (Vip2).
+MoneyAmountDropRate_AL3 -> Zen percentage that will drop from monsters (0=Disable zen drop) (Vip3).
+
+;==================================================
+; Item Durability Settings
+;==================================================
+WeaponDurabilityRate -> Weapon durability decrease percentage.
+ArmorDurabilityRate -> Armor durability decrease percentage.
+WingDurabilityRate -> Wing durability decrease percentage.
+GuardianDurabilityRate -> Guardian durability decrease percentage.
+PendantDurabilityRate -> Pendant durability decrease percentage.
+RingDurabilityRate -> Ring durability decrease percentage.
+EarringDurabilityRate -> Earring durability decrease percentage.
+PetDurabilityRate -> Dark Lord pet durability decrease percentage.
+MuunDurabilityRate -> Muun durability decrease percentage.
+
+;==================================================
+; Trade Item Block Settings
+;==================================================
+TradeItemBlock -> Trade item block system state (0=Off/1=On).
+TradeItemBlockExc -> Block excellent items on trade (0=No/1=Yes).
+TradeItemBlockSet -> Block set items on trade (0=No/1=Yes).
+TradeItemBlock380 -> Block 380 items on trade (0=No/1=Yes).
+TradeItemBlockHarmony -> Block harmony items on trade (0=No/1=Yes).
+TradeItemBlockSockets -> Block sockets items on trade (0=No/1=Yes).
+TradeItemBlockSell -> Trade blocked items cannot be sold (0=No/1=Yes).
+
+;==================================================
+; Level Up Settings
+;==================================================
+MaxLevel -> Max character level (Can't be higher than 400).
+MaxLevelUp -> Max number of levels that can be get at once.
+MaxLevelUpEvent -> Max number of levels that can be get at once with event experience.
+MaxLevelUpQuest -> Max number of levels that can be get at once with quest experience.
+MaxStatPoint_AL0 -> Max allowed stat point (Free).
+MaxStatPoint_AL1 -> Max allowed stat point (Vip1).
+MaxStatPoint_AL2 -> Max allowed stat point (Vip2).
+MaxStatPoint_AL3 -> Max allowed stat point (Vip3).
+DWLevelUpPoint -> Points get by Dark Wizard each level.
+DKLevelUpPoint -> Points get by Dark Knight each level.
+FELevelUpPoint -> Points get by Fairy Elf each level.
+MGLevelUpPoint -> Points get by Magic Gladiator each level.
+DLLevelUpPoint -> Points get by Dark Lord each level.
+SULevelUpPoint -> Points get by Summoner each level.
+RFLevelUpPoint -> Points get by Rage Fighter each level.
+GLLevelUpPoint -> Points get by Grow Lancer each level.
+RWLevelUpPoint -> Points get by Rune Wizard each level.
+SLLevelUpPoint -> Points get by Slayer each level.
+PlusStatPoint -> Bonus points get each level after doing Marlon quest.
+
+;==================================================
+; Create Character Settings
+;==================================================
+CharacterCreateSwitch -> Character creation state (0=Off/1=On).
+MGCreateType -> Magic Gladiator creation mode (0=Level/1=Card).				
+DLCreateType -> Dark Lord creation mode (0=Level/1=Card).		
+SUCreateType -> Summoner creation mode (0=Level/1=Card).
+RFCreateType -> Rage Fighter creation mode (0=Level/1=Card).
+GLCreateType -> Grow Lancer creation mode (0=Level/1=Card).
+MGCreateLevel_AL0 -> Min level required to create Magic Gladiator (Free).
+MGCreateLevel_AL1 -> Min level required to create Magic Gladiator (Vip1).
+MGCreateLevel_AL2 -> Min level required to create Magic Gladiator (Vip2).
+MGCreateLevel_AL3 -> Min level required to create Magic Gladiator (Vip3).
+DLCreateLevel_AL0 -> Min level required to create Dark Lord (Free).
+DLCreateLevel_AL1 -> Min level required to create Dark Lord (Vip1).
+DLCreateLevel_AL2 -> Min level required to create Dark Lord (Vip2).
+DLCreateLevel_AL3 -> Min level required to create Dark Lord (Vip3).
+SUCreateLevel_AL0 -> Min level required to create Summoner (Free).
+SUCreateLevel_AL1 -> Min level required to create Summoner (Vip1).
+SUCreateLevel_AL2 -> Min level required to create Summoner (Vip2).
+SUCreateLevel_AL3 -> Min level required to create Summoner (Vip3).
+RFCreateLevel_AL0 -> Min level required to create Rage Fighter (Free).
+RFCreateLevel_AL1 -> Min level required to create Rage Fighter (Vip1).
+RFCreateLevel_AL2 -> Min level required to create Rage Fighter (Vip2).
+RFCreateLevel_AL3 -> Min level required to create Rage Fighter (Vip3).
+GLCreateLevel_AL0 -> Min level required to create Grow Lancer (Free).
+GLCreateLevel_AL1 -> Min level required to create Grow Lancer (Vip1).
+GLCreateLevel_AL2 -> Min level required to create Grow Lancer (Vip2).
+GLCreateLevel_AL3 -> Min level required to create Grow Lancer (Vip3).
+
+;==================================================
+; Delete Character Settings
+;==================================================
+CharacterDeleteSwitch -> Character delete state (0=Off/1=On).
+CharacterDeleteMaxLevel -> Max level to delete a character (0=Any).
+CharacterDeleteMaxReset -> Max reset to delete a character (0=Any).
+
+;==================================================
+; Shield Gauge Settings
+;==================================================
+ShieldGaugeRate -> Percentage of damage dealt to Shield Gauge on PvP.
+ShieldGaugeConstA -> Shield Gauge amount formula constant.
+ShieldGaugeConstB -> Shield Gauge amount formula constant.
+ShieldGaugeAttackRate -> Shield Gauge attack success rate formula constant.
+ShieldGaugeAttackComboMiss -> Combo miss if any of its spells also miss (0=No/1=Yes).
+
+;==================================================
+; Master Skill Tree Settings
+;==================================================
+MasterSkillTree -> Master Skill Tree system state (0=Off/1=On).
+MasterSkillTreePoint -> Master points get each level.
+MasterSkillTreeMaxLevel -> Max master level.
+
+;==================================================
+; Master Skill Tree Ext Settings
+;==================================================
+MasterSkillTreeExt -> Master Skill Tree Ext system state (0=Off/1=On).
+MasterSkillTreeExtPoint -> Master ext points get each level.
+MasterSkillTreeExtMaxLevel -> Max master level.
+
+;==================================================
+; Gens System Settings
+;==================================================
+GensSystemSwitch -> Gens system state (0=Off/1=On).
+GensSystemGuildLock -> Allow players from different gens to guild (0=Yes/1=No).
+GensSystemPartyLock -> Allow players from different gens to party (0=Yes/1=No).
+GensSystemInsertMinLevel -> Min level to join gens.
+GensSystemInsertLeftTime -> Min time player needs to join another gens after leaving one (Minutes).
+GensSystemContributionFloodTime -> Time duration a killed gens member wont give points to the same killer (Seconds).
+GensSystemVictimContributionDecrease -> Average points lost on dying.
+GensSystemKillerContributionIncrease -> Average points won on killing.
+GensSystemVictimMinContributionDecrease -> Min points lost on dying.
+GensSystemVictimMaxContributionDecrease -> Max points lost on dying.
+GensSystemKillerMinContributionIncrease -> Min points won on killing.
+GensSystemKillerMaxContributionIncrease -> Max points won on killing.
+GensSystemStartRewardDay -> Reward period start day.
+GensSystemFinalRewardDay -> Reward period final day.
+
+;==================================================
+; Helper Settings
+;==================================================
+HelperSwitch -> Helper system state (0=Off/1=On).
+HelperActiveLevel -> Min level to use helper.
+HelperActiveDelay -> Time between helper payment (Minutes).
+HelperActiveMoney1 -> Money taken each payment on stage 1.
+HelperActiveMoney2 -> Money taken each payment on stage 2.
+HelperActiveMoney3 -> Money taken each payment on stage 3.
+HelperActiveMoney4 -> Money taken each payment on stage 4.
+HelperActiveMoney5 -> Money taken each payment on stage 5.
+
+;==================================================
+; Cash Shop Settings
+;==================================================
+CashShopSwitch -> CashShop system state (0=Off/1=On).
+CashShopWCGiftEnable -> CashShop WCoinC gift (0=Off/1=On).
+CashShopWPGiftEnable -> CashShop WCoinP gift (0=Off/1=On).
+CashShopGPGiftEnable -> CashShop Goblin Point gift (0=Off/1=On).
+CashShopExpireEnable -> Period item expire (0=Off/1=On).
+CashShopScriptVersion1 -> CashShop script version.
+CashShopScriptVersion2 -> CashShop script version.
+CashShopScriptVersion3 -> CashShop script version.
+CashShopBannerVersion1 -> CashShop banner version.
+CashShopBannerVersion2 -> CashShop banner version.
+CashShopBannerVersion3 -> CashShop banner version.
+CashShopGoblinPointDelay -> Time online required to get Goblin Points (Minutes).
+CashShopGoblinPointValue_AL0 -> Amount of Goblin Points get (Free).
+CashShopGoblinPointValue_AL1 -> Amount of Goblin Points get (Vip1).
+CashShopGoblinPointValue_AL2 -> Amount of Goblin Points get (Vip2).
+CashShopGoblinPointValue_AL3 -> Amount of Goblin Points get (Vip3).
+
+;==================================================
+; Event Inventory Settings
+;==================================================
+EventInventorySwitch -> EventInventory system state (0=Off/1=On).
+EventInventoryExpireYear -> EventInventory expiration year.
+EventInventoryExpireMonth -> EventInventory expiration month.
+EventInventoryExpireDay -> EventInventory expiration day.
+
+;==================================================
+; Mu Rummy Settings
+;==================================================
+MuRummySwitch -> MuRummy system state (0=Off/1=On).
+MuRummyRewardScore1 -> Points required to win reward 1.
+MuRummyRewardScore2 -> Points required to win reward 2.
+MuRummyRewardScore3 -> Points required to win reward 3.
+MuRummyRewardMoneyAmount -> Zen reward amount.
+
+;==================================================
+; Evolution Monster Settings
+;==================================================
+EvolutionMonsterSwitch -> Evolution Monster system state (0=Off/1=On).
+EvolutionMonsterTimeLimit -> Maximum active time, in minutes, of each Evomon.
+EvolutionMonsterSpecialReward -> Reward group for Special Evomon.
+
+;==================================================
+; Bomb Hunt Settings
+;==================================================
+BombHuntSwitch -> Bomb Hunt system state (0=Off/1=On).
+
+;==================================================
+; Hunting Log Settings
+;==================================================
+HuntingLogSwitch -> Hunting Log system state (0=Off/1=On).
+
+;==================================================
+; Party Settings
+;==================================================
+PartyMoneyDistribute -> Split picked zen between all near party members (0=Off/1=On).
+PartyExperienceRange -> Party level range without penalty.
+PartyGeneralExperience1 -> Percentage of experience get on 1 user(s) party without different class.
+PartyGeneralExperience2 -> Percentage of experience get on 2 user(s) party without different class.
+PartyGeneralExperience3 -> Percentage of experience get on 3 user(s) party without different class.
+PartyGeneralExperience4 -> Percentage of experience get on 4 user(s) party without different class.
+PartyGeneralExperience5 -> Percentage of experience get on 5 user(s) party without different class.
+PartySpecialExperience1 -> Percentage of experience get on 1 user(s) party with different class.
+PartySpecialExperience2 -> Percentage of experience get on 2 user(s) party with different class.
+PartySpecialExperience3 -> Percentage of experience get on 3 user(s) party with different class.
+PartySpecialExperience4 -> Percentage of experience get on 4 user(s) party with different class.
+PartySpecialExperience5 -> Percentage of experience get on 5 user(s) party with different class.
+
+;==================================================
+; Jewel Settings
+;==================================================
+SoulSuccessRate_AL0 -> Jewel of Soul success rate (Free).
+SoulSuccessRate_AL1 -> Jewel of Soul success rate (Vip1).
+SoulSuccessRate_AL2 -> Jewel of Soul success rate (Vip2).
+SoulSuccessRate_AL3 -> Jewel of Soul success rate (Vip3).
+LifeSuccessRate_AL0 -> Jewel of Life success rate (Free).
+LifeSuccessRate_AL1 -> Jewel of Life success rate (Vip1).
+LifeSuccessRate_AL2 -> Jewel of Life success rate (Vip2).
+LifeSuccessRate_AL3 -> Jewel of Life success rate (Vip3).
+HarmonySuccessRate_AL0 -> Jewel of Harmony success rate (Free).
+HarmonySuccessRate_AL1 -> Jewel of Harmony success rate (Vip1).
+HarmonySuccessRate_AL2 -> Jewel of Harmony success rate (Vip2).
+HarmonySuccessRate_AL3 -> Jewel of Harmony success rate (Vip3).
+SmeltStoneSuccessRate1_AL0 -> Smelt Stone success rate (Free).
+SmeltStoneSuccessRate1_AL1 -> Smelt Stone success rate (Vip1).
+SmeltStoneSuccessRate1_AL2 -> Smelt Stone success rate (Vip2).
+SmeltStoneSuccessRate1_AL3 -> Smelt Stone success rate (Vip3).
+SmeltStoneSuccessRate2_AL0 -> Smelt Stone success rate on excellent items (Free).
+SmeltStoneSuccessRate2_AL1 -> Smelt Stone success rate on excellent items (Vip1).
+SmeltStoneSuccessRate2_AL2 -> Smelt Stone success rate on excellent items (Vip2).
+SmeltStoneSuccessRate2_AL3 -> Smelt Stone success rate on excellent items (Vip3).
+AddLuckSuccessRate1_AL0 -> Luck bonus success rate (Free).
+AddLuckSuccessRate1_AL1 -> Luck bonus success rate (Vip1).
+AddLuckSuccessRate1_AL2 -> Luck bonus success rate (Vip2).
+AddLuckSuccessRate1_AL3 -> Luck bonus success rate (Vip3).
+AddLuckSuccessRate2_AL0 -> Luck bonus success rate on Chaos Machine (Free).
+AddLuckSuccessRate2_AL1 -> Luck bonus success rate on Chaos Machine (Vip1).
+AddLuckSuccessRate2_AL2 -> Luck bonus success rate on Chaos Machine (Vip2).
+AddLuckSuccessRate2_AL3 -> Luck bonus success rate on Chaos Machine (Vip3).
+
+;==================================================
+; Fruit Settings
+;==================================================
+FruitAddPointMin -> Min points increased by fruit.
+FruitAddPointMax -> Max points increased by fruit.
+FruitAddPointSuccessRate_AL0 -> Fruit increase point success rate (-1=Dynamic) (Free).
+FruitAddPointSuccessRate_AL1 -> Fruit increase point success rate (-1=Dynamic) (Vip1).
+FruitAddPointSuccessRate_AL2 -> Fruit increase point success rate (-1=Dynamic) (Vip2).
+FruitAddPointSuccessRate_AL3 -> Fruit increase point success rate (-1=Dynamic) (Vip3).
+FruitSubPointMin -> Min points decreased by fruit.
+FruitSubPointMax -> Max points decreased by fruit.
+FruitSubPointSuccessRate_AL0 -> Fruit decrease point success rate (-1=Dynamic) (Free).
+FruitSubPointSuccessRate_AL1 -> Fruit decrease point success rate (-1=Dynamic) (Vip1).
+FruitSubPointSuccessRate_AL2 -> Fruit decrease point success rate (-1=Dynamic) (Vip2).
+FruitSubPointSuccessRate_AL3 -> Fruit decrease point success rate (-1=Dynamic) (Vip3).

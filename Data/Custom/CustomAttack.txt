@@ -1,0 +1,242 @@
+//Class   Skill   Group   Value   BaseSpeed   MainSpeed   Comment
+0         0       0       0       2.000       0.012       //Melee
+0         1       1       0       1.200       0.006       //Poison
+0         2       1       0       1.200       0.006       //Meteorite
+0         3       1       0       1.200       0.006       //Lightning
+0         4       1       0       1.200       0.006       //Fire Ball
+0         5       2       1       1.200       0.006       //Flame
+0         7       1       0       1.200       0.006       //Ice
+0         8       2       0       1.200       0.006       //Twister
+0         9       2       1       1.200       0.006       //Evil Spirit
+0         10      2       1       1.200       0.006       //Hell Fire
+0         11      1       0       1.200       0.006       //Power Wave
+0         12      2       0       1.200       0.006       //Aqua Beam
+0         13      2       0       1.200       0.006       //Blast
+0         14      2       1       1.200       0.006       //Inferno
+0         16      0       1       1.200       0.006       //Mana Shield
+0         17      1       0       1.200       0.006       //Energy Ball
+0         38      3       0       1.200       0.006       //Decay
+0         39      3       0       1.200       0.006       //Ice Storm
+0         76      3       1       1.200       0.006       //Plasma Storm
+0         233     0       0       1.200       0.006       //Magic Circle
+0         495     3       1       1.200       0.006       //Earth Prison
+0         724     3       0       1.200       0.006       //Meteor Strike
+0         725     3       1       1.200       0.006       //Meteor Shower
+0         726     3       0       1.200       0.006       //Soul Seeker
+0         740     0       2       1.200       0.006       //Archangel Will
+0         1125    1       0       1.200       0.006       //Toxic Explosion
+0         1126    1       0       1.200       0.006       //Chill Explosion
+0         1127    1       0       1.200       0.006       //Bleed Explosion
+1         0       0       0       2.000       0.012       //Melee
+1         19      1       0       1.200       0.006       //Falling Slash
+1         20      1       0       1.200       0.006       //Lunge
+1         21      1       0       1.200       0.006       //Uppercut
+1         22      1       0       1.200       0.006       //Cyclone
+1         23      1       0       1.200       0.006       //Slash
+1         41      3       1       1.200       0.006       //Twisting Slash
+1         42      3       1       1.200       0.006       //Rageful Blow
+1         43      1       0       1.200       0.006       //Death Stab
+1         48      0       2       1.200       0.006       //Greater Life
+1         76      3       1       1.200       0.006       //Plasma Storm
+1         232     3       0       1.200       0.006       //Frozen Stab
+1         344     3       0       1.200       0.006       //Blood Storm
+1         723     3       0       1.200       0.006       //Fire Blow
+1         740     0       2       1.200       0.006       //Archangel Will
+1         1125    1       0       1.200       0.006       //Toxic Explosion
+1         1126    1       0       1.200       0.006       //Chill Explosion
+1         1127    1       0       1.200       0.006       //Bleed Explosion
+//Class   Skill   Group   Value   BaseSpeed   MainSpeed   Comment
+1         1500    0       0       1.200       0.006       //Sword Fury
+1         1501    3       0       1.200       0.006       //Sword Blow
+1         1502    0       0       1.200       0.006       //Strong Will
+1         1503    0       2       1.200       0.006       //Solid Protection
+
+
+2         0       0       0       2.000       0.012       //Melee
+2         24      2       1       1.200       0.006       //Triple Shot
+2         26      0       1       1.200       0.006       //Heal
+2         27      0       1       1.200       0.006       //Greater Defense
+2         28      0       1       1.200       0.006       //Greater Damage
+2         51      1       0       1.200       0.006       //Ice Arrow
+2         52      2       0       1.200       0.006       //Penetration
+2         76      3       1       1.200       0.006       //Plasma Storm
+2         77      0       0       1.200       0.006       //Infinity Arrow
+2         235     3       1       1.200       0.006       //Multi Shot
+2         425     0       1       1.200       0.006       //Cure
+2         427     1       0       1.200       0.006       //Poison Arrow
+2         430     0       1       1.200       0.006       //Bless
+2         727     3       0       1.200       0.006       //Focus Shot
+2         740     0       2       1.200       0.006       //Archangel Will
+2         1125    1       0       1.200       0.006       //Toxic Explosion
+2         1126    1       0       1.200       0.006       //Chill Explosion
+2         1127    1       0       1.200       0.006       //Bleed Explosion
+3         0       0       0       2.000       0.012       //Melee
+3         1       1       0       1.200       0.006       //Poison
+3         2       1       0       1.200       0.006       //Meteorite
+3         3       1       0       1.200       0.006       //Lightning
+3         4       1       0       1.200       0.006       //Fire Ball
+3         5       2       1       1.200       0.006       //Flame
+3         7       1       0       1.200       0.006       //Ice
+3         8       2       0       1.200       0.006       //Twister
+3         9       2       1       1.200       0.006       //Evil Spirit
+3         10      2       1       1.200       0.006       //Hell Fire
+3         11      1       0       1.200       0.006       //Power Wave
+3         12      2       0       1.200       0.006       //Aqua Beam
+3         13      2       0       1.200       0.006       //Blast
+3         14      2       1       1.200       0.006       //Inferno
+3         19      1       0       1.200       0.006       //Falling Slash
+3         20      1       0       1.200       0.006       //Lunge
+3         21      1       0       1.200       0.006       //Uppercut
+3         22      1       0       1.200       0.006       //Cyclone
+3         23      1       0       1.200       0.006       //Slash
+3         41      3       1       1.200       0.006       //Twisting Slash
+3         55      2       0       1.200       0.006       //Fire Slash
+3         56      3       1       1.200       0.006       //Power Slash
+3         76      3       1       1.200       0.006       //Plasma Storm
+3         236     3       1       1.200       0.006       //Sword Slash
+3         237     3       1       1.200       0.006       //Lightning Storm
+3         344     3       0       1.200       0.006       //Blood Storm
+3         495     3       1       1.200       0.006       //Earth Prison
+3         731     3       0       1.200       0.006       //Aqua Blood
+3         732     3       0       1.200       0.006       //Fire Blood
+3         733     3       0       1.200       0.006       //Dark Blast
+3         734     3       0       1.200       0.006       //Meteor Impact
+3         740     0       2       1.200       0.006       //Archangel Will
+3         1125    1       0       1.200       0.006       //Toxic Explosion
+3         1126    1       0       1.200       0.006       //Chill Explosion
+3         1127    1       0       1.200       0.006       //Bleed Explosion
+4         0       0       0       2.000       0.012       //Melee
+4         19      1       0       1.200       0.006       //Falling Slash
+4         20      1       0       1.200       0.006       //Lunge
+4         21      1       0       1.200       0.006       //Uppercut
+4         22      1       0       1.200       0.006       //Cyclone
+4         60      3       0       1.200       0.006       //Force
+4         61      1       0       1.200       0.006       //Fire Burst
+4         62      3       1       1.200       0.006       //Earthquake
+4         64      0       2       1.200       0.006       //Greater Critical Damage
+4         65      3       1       1.200       0.006       //Electric Spark
+4         66      3       0       1.200       0.006       //Force Wave
+4         76      3       1       1.200       0.006       //Plasma Storm
+4         78      2       0       1.200       0.006       //Fire Scream
+4         238     3       1       1.200       0.006       //Birds
+4         737     3       0       1.200       0.006       //Wind Soul
+4         740     0       2       1.200       0.006       //Archangel Will
+4         1125    1       0       1.200       0.006       //Toxic Explosion
+4         1126    1       0       1.200       0.006       //Chill Explosion
+4         1127    1       0       1.200       0.006       //Bleed Explosion
+5         0       0       0       2.000       0.012       //Melee
+5         2       1       0       1.200       0.006       //Meteorite
+5         4       1       0       1.200       0.006       //Fire Ball
+5         7       1       0       1.200       0.006       //Ice
+5         11      1       0       1.200       0.006       //Power Wave
+5         76      3       1       1.200       0.006       //Plasma Storm
+5         214     1       0       1.200       0.006       //Drain Life
+5         215     1       0       1.200       0.006       //Chain Lightning
+5         217     0       1       1.200       0.006       //Damage Reflect
+5         218     0       0       1.200       0.006       //Berserker
+5         221     3       1       1.200       0.006       //Lesser Damage
+5         222     3       1       1.200       0.006       //Lesser Defense
+5         223     1       0       1.200       0.006       //Sahamutt
+5         224     1       0       1.200       0.006       //Neil
+5         225     1       0       1.200       0.006       //Ghost Phantom
+5         230     3       1       1.200       0.006       //Red Storm
+5         288     3       1       1.200       0.006       //Death Scythe
+5         289     0       0       1.200       0.006       //Darkness
+5         461     1       0       1.200       0.006       //Blind
+5         661     1       0       1.200       0.006       //Paralyze
+5         729     3       0       1.200       0.006       //Fire Beast
+5         730     3       0       1.200       0.006       //Aqua Beast
+5         740     0       2       1.200       0.006       //Archangel Will
+5         1125    1       0       1.200       0.006       //Toxic Explosion
+5         1126    1       0       1.200       0.006       //Chill Explosion
+5         1127    1       0       1.200       0.006       //Bleed Explosion
+6         0       0       0       2.000       0.012       //Melee
+6         19      1       0       1.200       0.006       //Falling Slash
+6         76      3       1       1.200       0.006       //Plasma Storm
+6         260     1       0       1.200       0.006       //Large Ring Blower
+6         261     4       0       1.200       0.006       //Upper Beast
+6         262     4       0       1.200       0.006       //Chain Driver
+6         263     4       0       1.200       0.006       //Dark Side
+6         264     3       0       1.200       0.006       //Dragon Lore
+6         265     1       0       1.200       0.006       //Dragon Slayer
+6         266     0       0       1.200       0.006       //Greater Ignore Damage Rate
+6         267     0       2       1.200       0.006       //Fitness
+6         268     0       2       1.200       0.006       //Greater Defense Success Rate
+6         270     1       0       1.200       0.006       //Phoenix Shot
+6         282     3       0       1.200       0.006       //Spirit Hook
+6         565     0       0       1.200       0.006       //Blood Howling
+6         739     3       0       1.200       0.006       //Dark Phoenix Shot
+6         740     0       2       1.200       0.006       //Archangel Will
+6         1125    1       0       1.200       0.006       //Toxic Explosion
+6         1126    1       0       1.200       0.006       //Chill Explosion
+6         1127    1       0       1.200       0.006       //Bleed Explosion
+7         0       0       0       2.000       0.012       //Melee
+7         20      1       0       1.200       0.006       //Lunge
+7         76      3       1       1.200       0.006       //Plasma Storm
+7         271     1       0       1.200       0.006       //Spin Step
+7         272     0       0       1.200       0.006       //Circle Shield
+7         273     0       2       1.200       0.006       //Obsidian
+7         274     1       0       1.200       0.006       //Magic Pin
+7         276     1       0       1.200       0.006       //Harsh Strike
+7         277     3       1       1.200       0.006       //Shining Peak
+7         278     0       0       1.200       0.006       //Wrath
+7         279     3       1       1.200       0.006       //Breche
+7         700     0       0       1.200       0.006       //Burst
+7         740     0       2       1.200       0.006       //Archangel Will
+7         1125    1       0       1.200       0.006       //Toxic Explosion
+7         1126    1       0       1.200       0.006       //Chill Explosion
+7         1127    1       0       1.200       0.006       //Bleed Explosion
+8         0       0       0       2.000       0.012       //Melee
+8         1       1       0       1.200       0.006       //Poison
+8         2       1       0       1.200       0.006       //Meteorite
+8         4       1       0       1.200       0.006       //Fire Ball
+8         5       2       1       1.200       0.006       //Flame
+8         8       2       0       1.200       0.006       //Twister
+8         9       2       1       1.200       0.006       //Evil Spirit
+8         10      2       1       1.200       0.006       //Hell Fire
+8         13      2       0       1.200       0.006       //Blast
+8         14      2       1       1.200       0.006       //Inferno
+8         17      1       0       1.200       0.006       //Energy Ball
+8         39      3       0       1.200       0.006       //Ice Storm
+8         76      3       1       1.200       0.006       //Plasma Storm
+8         233     0       0       1.200       0.006       //Magic Circle
+8         495     3       1       1.200       0.006       //Earth Prison
+8         283     3       1       1.200       0.006       //Magic Arrow
+8         284     3       1       1.200       0.006       //Plasma Ball
+8         285     3       0       1.200       0.006       //Shock Blast
+8         286     0       0       1.200       0.006       //Might
+8         287     0       2       1.200       0.006       //Haste
+8         740     0       2       1.200       0.006       //Archangel Will
+8         1125    1       0       1.200       0.006       //Toxic Explosion
+8         1126    1       0       1.200       0.006       //Chill Explosion
+8         1127    1       0       1.200       0.006       //Bleed Explosion
+9         0       0       0       2.000       0.012       //Melee
+9         20      1       0       1.200       0.006       //Lunge
+9         21      1       0       1.200       0.006       //Uppercut
+9         22      1       0       1.200       0.006       //Cyclone
+9         41      3       1       1.200       0.006       //Twisting Slash
+9         42      3       1       1.200       0.006       //Rageful Blow
+9         76      3       1       1.200       0.006       //Plasma Storm
+9         292     3       1       1.200       0.006       //Sword Inertia
+9         293     3       1       1.200       0.006       //Bat Flock
+9         294     3       0       1.200       0.006       //Pierce Attack
+9         295     0       0       1.200       0.006       //Detection
+9         297     0       2       1.200       0.006       //Demolish
+9         740     0       2       1.200       0.006       //Archangel Will
+9         1125    1       0       1.200       0.006       //Toxic Explosion
+9         1126    1       0       1.200       0.006       //Chill Explosion
+9         1127    1       0       1.200       0.006       //Bleed Explosion
+//Class   Skill   Group   Value   BaseSpeed   MainSpeed   Comment
+10        0       0       0       2.000       0.012       //Melee
+10        76      3       1       1.200       0.006       //Plasma Storm
+10        740     0       2       1.200       0.006       //Archangel Will
+10        1125    1       0       1.200       0.006       //Toxic Explosion
+10        1126    1       0       1.200       0.006       //Chill Explosion
+10        1127    1       0       1.200       0.006       //Bleed Explosion
+10        2001    3       1       1.200       0.006       //Dark Plasma
+10        2002    3       1       1.200       0.006       //Ice Break
+10        2003    3       1       1.200       0.006       //Ice Blast
+10        2004    3       1       1.200       0.006       //Death Fire
+10        2005    3       1       1.200       0.006       //Bursting Flare
+10        2006    3       1       1.200       0.006       //Death Ice
+end

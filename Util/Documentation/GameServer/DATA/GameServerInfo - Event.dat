@@ -1,0 +1,175 @@
+[GameServerInfo]
+;==================================================
+; Acheron Guardian Event Settings
+;==================================================
+AcheronGuardianEvent -> Acheron Guardian event state (0=Off/1=On).
+AcheronGuardianEventTime -> Acheron Guardian event duration (Minutes).
+
+;==================================================
+; Arca Battle Event Settings
+;==================================================
+ArcaBattleEvent -> Arca Battle event state (0=Off/1=On).
+ArcaBattleMinGuildMember -> Minimum guild members required to register to Arca Battle.
+ArcaBattleMaxGuildMember -> Maximum guild members allowed to join Arca Battle.
+
+;==================================================
+; Blood Castle Event Settings
+;==================================================
+BloodCastleEvent -> Blood Castle event state (0=Off/1=On).
+BloodCastleMaxUser -> Blood Castle event maximum users.
+BloodCastleMaxEntryCount_AL0 -> Blood Castle event maximum entry count (0=Unlimited) (Free).
+BloodCastleMaxEntryCount_AL1 -> Blood Castle event maximum entry count (0=Unlimited) (Vip1).
+BloodCastleMaxEntryCount_AL2 -> Blood Castle event maximum entry count (0=Unlimited) (Vip2).
+BloodCastleMaxEntryCount_AL3 -> Blood Castle event maximum entry count (0=Unlimited) (Vip3).
+
+;==================================================
+; Bonus Manager Settings
+;==================================================
+BonusManagerSwitch -> Bonus Manager state (0=Off/1=On).
+
+;==================================================
+; Boss Lord Ferea Settings
+;==================================================
+BossLordFereaSwitch -> Boss Lord Ferea state (0=Off/1=On).
+BossLordFereaMinRegenTime -> Boss minimum respawn time, in seconds.
+BossLordFereaMaxRegenTime -> Boss maximum respawn time, in seconds.
+
+;==================================================
+; Boss Nix Settings
+;==================================================
+BossNixSwitch -> Boss Nix state (0=Off/1=On).
+BossNixMinRegenTime -> Boss minimum respawn time, in seconds.
+BossNixMaxRegenTime -> Boss maximum respawn time, in seconds.
+
+;==================================================
+; Boss God of Darkness Settings
+;==================================================
+BossGodOfDarknessSwitch -> Boss God of Darkness state (0=Off/1=On).
+BossGodOfDarknessBattleTime = God of Darknes battle time, in seconds.
+BossGodOfDarknessMinRegenTime -> Boss minimum respawn time, in seconds.
+BossGodOfDarknessMaxRegenTime -> Boss maximum respawn time, in seconds.
+
+;==================================================
+; Castle Deep Event Settings
+;==================================================
+CastleDeepEvent -> Castle Deep event state (0=Off/1=On).
+CastleDeepEventTime -> Castle Deep event duration (Minutes).
+
+;==================================================
+; Castle Siege Event Settings
+;==================================================
+CastleSiegeEvent -> Castle Siege event state (0=Off/1=On).
+CastleSiegeCycleStartYear -> Castle Siege event start cycle year.
+CastleSiegeCycleStartMonth -> Castle Siege event start cycle month.
+CastleSiegeCycleStartDay -> Castle Siege event start cycle day.
+CastleSiegeSpecificState -> Do not touch.
+CastleSiegeStateStartYear -> Do not touch.
+CastleSiegeStateStartMonth -> Do not touch.
+CastleSiegeStateStartDay -> Do not touch.
+CastleSiegeStateStartHour -> Do not touch.
+CastleSiegeStateStartMinute -> Do not touch.
+CastleSiegeOffensiveWeaponDamage -> Castle Siege event attack catapult damage.
+CastleSiegeDefensiveWeaponDamage -> Castle Siege event defense catapult damage.
+CastleSiegeLowerAccumulatedTimeValue -> Castle Siege event accumulated time lost after leaving the crown (Miliseconds).
+CastleSiegeDecayAccumulatedTimeValue -> Castle Siege event accumulated time lost each second away from crown room (Miliseconds).
+
+;==================================================
+; Chaos Castle Event Settings
+;==================================================
+ChaosCastleEvent -> Chaos Castle event state (0=Off/1=On).
+ChaosCastleMinUser -> Chaos Castle event minimum users required to start.
+ChaosCastleBlowUserRate -> Chaos Castle event monsters rate of knocking the user after dying.
+ChaosCastleMaxEntryCount_AL0 -> Chaos Castle event maximum entry count (0=Unlimited) (Free).
+ChaosCastleMaxEntryCount_AL1 -> Chaos Castle event maximum entry count (0=Unlimited) (Vip1).
+ChaosCastleMaxEntryCount_AL2 -> Chaos Castle event maximum entry count (0=Unlimited) (Vip2).
+ChaosCastleMaxEntryCount_AL3 -> Chaos Castle event maximum entry count (0=Unlimited) (Vip3).
+
+;==================================================
+; Crywolf Event Settings
+;==================================================
+CrywolfEvent -> Crywolf event state (0=Off/1=On).
+CrywolfBenefitSwitch -> Crywolf event benefit state (0=Off/1=On).
+CrywolfBenefitChaosRate -> Crywolf event benefit increase chaos mix rate.
+CrywolfBenefitMonsterLife -> Crywolf event benefit change monster life percentage.
+CrywolfPenaltySwitch -> Crywolf event penalty state (0=Off/1=On).
+CrywolfPenaltyJewelDrop -> Crywolf event penalty change jewel drop percentage.
+CrywolfPenaltyExperience -> Crywolf event penalty change experience gain percentage.
+
+;==================================================
+; Devil Square Event Settings
+;==================================================
+DevilSquareEvent -> Devil Square event state (0=Off/1=On).
+DevilSquareMaxUser -> Devil Square event maximum users.
+DevilSquareMaxEntryCount_AL0 -> Devil Square event maximum entry count (0=Unlimited) (Free).
+DevilSquareMaxEntryCount_AL1 -> Devil Square event maximum entry count (0=Unlimited) (Vip1).
+DevilSquareMaxEntryCount_AL2 -> Devil Square event maximum entry count (0=Unlimited) (Vip2).
+DevilSquareMaxEntryCount_AL3 -> Devil Square event maximum entry count (0=Unlimited) (Vip3).
+
+;==================================================
+; Double Goer Event Settings
+;==================================================
+DoubleGoerEvent -> Double Goer event state (0=Off/1=On).
+DoubleGoerDifficultRate -> Double Goer event difficulty percentage.
+DoubleGoerMaxEntryCount_AL0 -> Double Goer event maximum entry count (0=Unlimited) (Free).
+DoubleGoerMaxEntryCount_AL1 -> Double Goer event maximum entry count (0=Unlimited) (Vip1).
+DoubleGoerMaxEntryCount_AL2 -> Double Goer event maximum entry count (0=Unlimited) (Vip2).
+DoubleGoerMaxEntryCount_AL3 -> Double Goer event maximum entry count (0=Unlimited) (Vip3).
+
+;==================================================
+; Illusion Temple Event Settings
+;==================================================
+IllusionTempleEvent -> Illusion Temple event state (0=Off/1=On).
+IllusionTempleMinUser -> Illusion Temple event minimum users required to start.
+IllusionTempleMaxEntryCount_AL0 -> Illusion Temple event maximum entry count (0=Unlimited) (Free).
+IllusionTempleMaxEntryCount_AL1 -> Illusion Temple event maximum entry count (0=Unlimited) (Vip1).
+IllusionTempleMaxEntryCount_AL2 -> Illusion Temple event maximum entry count (0=Unlimited) (Vip2).
+IllusionTempleMaxEntryCount_AL3 -> Illusion Temple event maximum entry count (0=Unlimited) (Vip3).
+
+;==================================================
+; Imperial Guardian Event Settings
+;==================================================
+ImperialGuardianEvent -> Imperial Guardian event state (0=Off/1=On).
+ImperialGuardianDifficultRate -> Imperial Guardian event difficulty percentage.
+ImperialGuardianRewardExperience1 -> Imperial Guardian event reward experience.
+ImperialGuardianRewardExperience2 -> Imperial Guardian event reward experience sunday.
+ImperialGuardianMaxEntryCount_AL0 -> Imperial Guardian event maximum entry count (0=Unlimited) (Free).
+ImperialGuardianMaxEntryCount_AL1 -> Imperial Guardian event maximum entry count (0=Unlimited) (Vip1).
+ImperialGuardianMaxEntryCount_AL2 -> Imperial Guardian event maximum entry count (0=Unlimited) (Vip2).
+ImperialGuardianMaxEntryCount_AL3 -> Imperial Guardian event maximum entry count (0=Unlimited) (Vip3).
+
+;==================================================
+; Invasion Manager Settings
+;==================================================
+InvasionManagerSwitch -> Invasion Manager state (0=Off/1=On).
+
+;==================================================
+; Kanturu Event Settings
+;==================================================
+KanturuEvent -> Kanturu event state (0=Off/1=On).
+
+;==================================================
+; Labyrinth Event Settings
+;==================================================
+LabyrinthEvent -> Labyrinth event state (0=Off/1=On).
+LabyrinthStartDoW -> Labyrinth working day of week, -1 any.
+LabyrinthStartMinHour -> Labyrinth working minimum hour, -1 any.
+LabyrinthStartMaxHour -> Labyrinth working maximum hour, -1 any.
+LabyrinthRewardValue1 -> Ruud reward for each main mission completed (Level 1).
+LabyrinthRewardValue2 -> Ruud reward for each main mission completed (Level 2).
+LabyrinthRewardValue3 -> Ruud reward for each main mission completed (Level 3).
+LabyrinthRewardValue4 -> Ruud reward for each main mission completed (Level 4).
+LabyrinthRewardValue5 -> Ruud reward for each main mission completed (Level 5).
+LabyrinthRewardValue6 -> Ruud reward for each main mission completed (Level 6).
+LabyrinthRewardValue7 -> Ruud reward for each main mission completed (Level 7).
+LabyrinthRewardMaxJewel -> Maximum Jewel of Bless gained as reward.
+
+;==================================================
+; Moss Merchant Event Settings
+;==================================================
+MossMerchantEvent -> Moss Merchant event state (0=Off/1=On).
+MossMerchantEventTime -> Moss Merchant event duration (Minutes).
+
+;==================================================
+; Raklion Event Settings
+;==================================================
+RaklionEvent -> Raklion event state (0=Off/1=On).

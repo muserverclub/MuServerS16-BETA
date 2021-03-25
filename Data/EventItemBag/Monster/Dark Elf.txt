@@ -1,0 +1,45 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,017    0       0       33        12        12        12        *         *         *         0          //Dark Breaker [Level: +3~5 Skill Luck Option: +4]
+00,018    0       0       33        12        12        12        *         *         *         0          //Thunder Blade [Level: +3~5 Skill Luck Option: +4]
+02,012    0       0       33        12        12        12        *         *         *         0          //Great Lord Scepter [Level: +3~5 Skill Luck Option: +4]
+04,019    0       0       33        12        12        12        *         *         *         0          //Great Reign Crossbow [Level: +3~5 Skill Luck Option: +4]
+05,009    0       0       33        12        12        12        *         *         *         0          //Dragon Soul Staff [Level: +3~5 Skill Luck Option: +4]
+06,013    0       0       33        12        12        12        *         *         *         0          //Dragon Shield [Level: +3~5 Skill Luck Option: +4]
+06,016    0       0       33        12        12        12        *         *         *         0          //Elemental Shield [Level: +3~5 Skill Luck Option: +4]
+05,006    0       0       *         12        12        12        12        *         *         0          //Staff of Resurrection [Skill Luck Option: +4 Exc: 1]
+02,004    0       0       *         12        12        12        12        *         *         0          //Crystal Morning Star [Skill Luck Option: +4 Exc: 1]
+02,009    0       0       *         12        12        12        12        *         *         0          //Master Scepter [Skill Luck Option: +4 Exc: 1]
+04,014    0       0       *         12        12        12        12        *         *         0          //Aquagold Crossbow [Skill Luck Option: +4 Exc: 1]
+02,005    0       0       *         12        12        12        12        *         *         0          //Crystal Sword [Skill Luck Option: +4 Exc: 1]
+07,001    0       0       *         *         12        12        12        *         *         0          //Dragon Helm [Luck Option: +4 Exc: 1]
+07,003    0       0       *         *         12        12        12        *         *         0          //Legendary Helm [Luck Option: +4 Exc: 1]
+07,014    0       0       *         *         12        12        12        *         *         0          //Guardian Helm [Luck Option: +4 Exc: 1]
+08,001    0       0       *         *         12        12        12        *         *         0          //Dragon Armor [Luck Option: +4 Exc: 1]
+08,003    0       0       *         *         12        12        12        *         *         0          //Legendary Armor [Luck Option: +4 Exc: 1]
+08,014    0       0       *         *         12        12        12        *         *         0          //Guardian Armor [Luck Option: +4 Exc: 1]
+09,001    0       0       *         *         12        12        12        *         *         0          //Dragon Pants [Luck Option: +4 Exc: 1]
+09,003    0       0       *         *         12        12        12        *         *         0          //Legendary Pants [Luck Option: +4 Exc: 1]
+09,014    0       0       *         *         12        12        12        *         *         0          //Guardian Pants [Luck Option: +4 Exc: 1]
+10,001    0       0       *         *         12        12        12        *         *         0          //Dragon Gloves [Luck Option: +4 Exc: 1]
+10,003    0       0       *         *         12        12        12        *         *         0          //Legendary Gloves [Luck Option: +4 Exc: 1]
+10,014    0       0       *         *         12        12        12        *         *         0          //Guardian Gloves [Luck Option: +4 Exc: 1]
+11,001    0       0       *         *         12        12        12        *         *         0          //Dragon Boots [Luck Option: +4 Exc: 1]
+11,003    0       0       *         *         12        12        12        *         *         0          //Legendary Boots [Luck Option: +4 Exc: 1]
+11,014    0       0       *         *         12        12        12        *         *         0          //Guardian Boots [Luck Option: +4 Exc: 1]
+13,036    0       0       *         *         *         *         *         *         *         0          //Broken Horn
+13,018    0       0       35        *         *         *         *         *         *         0          //Invisibility Cloak [Level: +4~6]
+14,019    0       0       35        *         *         *         *         *         *         0          //Devil's Invitation [Level: +4~6]
+14,028    0       0       35        *         *         *         *         *         *         0          //Lost Map [Level: +4~6]
+end

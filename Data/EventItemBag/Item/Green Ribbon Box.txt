@@ -1,0 +1,87 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+00,014    0       0       35        12        12        12        *         *         *         0          //Lighting Sword [Level: +4~6 Skill Luck Option: +4]
+04,013    0       0       35        12        12        12        *         *         *         0          //Bluewing Crossbow [Level: +4~6 Skill Luck Option: +4]
+05,005    0       0       35        12        12        12        *         *         *         0          //Legendary Staff [Level: +4~6 Skill Luck Option: +4]
+07,001    0       0       35        *         12        12        *         *         *         0          //Dragon Helm [Level: +4~6 Luck Option: +4]
+08,001    0       0       35        *         12        12        *         *         *         0          //Dragon Armor [Level: +4~6 Luck Option: +4]
+09,001    0       0       35        *         12        12        *         *         *         0          //Dragon Pants [Level: +4~6 Luck Option: +4]
+10,001    0       0       35        *         12        12        *         *         *         0          //Dragon Gloves [Level: +4~6 Luck Option: +4]
+11,001    0       0       35        *         12        12        *         *         *         0          //Dragon Boots [Level: +4~6 Luck Option: +4]
+07,014    0       0       35        *         12        12        *         *         *         0          //Guardian Helm [Level: +4~6 Luck Option: +4]
+08,014    0       0       35        *         12        12        *         *         *         0          //Guardian Armor [Level: +4~6 Luck Option: +4]
+09,014    0       0       35        *         12        12        *         *         *         0          //Guardian Pants [Level: +4~6 Luck Option: +4]
+10,014    0       0       35        *         12        12        *         *         *         0          //Guardian Gloves [Level: +4~6 Luck Option: +4]
+11,014    0       0       35        *         12        12        *         *         *         0          //Guardian Boots [Level: +4~6 Luck Option: +4]
+07,003    0       0       35        *         12        12        *         *         *         0          //Legendary Helm [Level: +4~6 Luck Option: +4]
+08,003    0       0       35        *         12        12        *         *         *         0          //Legendary Armor [Level: +4~6 Luck Option: +4]
+09,003    0       0       35        *         12        12        *         *         *         0          //Legendary Pants [Level: +4~6 Luck Option: +4]
+10,003    0       0       35        *         12        12        *         *         *         0          //Legendary Gloves [Level: +4~6 Luck Option: +4]
+11,003    0       0       35        *         12        12        *         *         *         0          //Legendary Boots [Level: +4~6 Luck Option: +4]
+07,034    0       0       33        *         12        12        *         *         *         0          //Ashcrow Helm [Level: +3~5 Luck Option: +4]
+08,034    0       0       33        *         12        12        *         *         *         0          //Ashcrow Armor [Level: +3~5 Luck Option: +4]
+09,034    0       0       33        *         12        12        *         *         *         0          //Ashcrow Pants [Level: +3~5 Luck Option: +4]
+10,034    0       0       33        *         12        12        *         *         *         0          //Ashcrow Gloves [Level: +3~5 Luck Option: +4]
+11,034    0       0       33        *         12        12        *         *         *         0          //Ashcrow Boots [Level: +3~5 Luck Option: +4]
+07,035    0       0       33        *         12        12        *         *         *         0          //Eclipse Helm [Level: +3~5 Luck Option: +4]
+08,035    0       0       33        *         12        12        *         *         *         0          //Eclipse Armor [Level: +3~5 Luck Option: +4]
+09,035    0       0       33        *         12        12        *         *         *         0          //Eclipse Pants [Level: +3~5 Luck Option: +4]
+10,035    0       0       33        *         12        12        *         *         *         0          //Eclipse Gloves [Level: +3~5 Luck Option: +4]
+11,035    0       0       33        *         12        12        *         *         *         0          //Eclipse Boots [Level: +3~5 Luck Option: +4]
+07,036    0       0       33        *         12        12        *         *         *         0          //Iris Helm [Level: +3~5 Luck Option: +4]
+08,036    0       0       33        *         12        12        *         *         *         0          //Iris Armor [Level: +3~5 Luck Option: +4]
+09,036    0       0       33        *         12        12        *         *         *         0          //Iris Pants [Level: +3~5 Luck Option: +4]
+10,036    0       0       33        *         12        12        *         *         *         0          //Iris Gloves [Level: +3~5 Luck Option: +4]
+11,036    0       0       33        *         12        12        *         *         *         0          //Iris Boots [Level: +3~5 Luck Option: +4]
+08,015    0       0       33        *         12        12        *         *         *         0          //Storm Crow Armor [Level: +3~5 Luck Option: +4]
+09,015    0       0       33        *         12        12        *         *         *         0          //Storm Crow Pants [Level: +3~5 Luck Option: +4]
+10,015    0       0       33        *         12        12        *         *         *         0          //Storm Crow Gloves [Level: +3~5 Luck Option: +4]
+11,015    0       0       33        *         12        12        *         *         *         0          //Storm Crow Boots [Level: +3~5 Luck Option: +4]
+07,026    0       0       33        *         12        12        *         *         *         0          //Adamantine Mask [Level: +3~5 Luck Option: +4]
+08,026    0       0       33        *         12        12        *         *         *         0          //Adamantine Armor [Level: +3~5 Luck Option: +4]
+09,026    0       0       33        *         12        12        *         *         *         0          //Adamantine Pants [Level: +3~5 Luck Option: +4]
+10,026    0       0       33        *         12        12        *         *         *         0          //Adamantine Gloves [Level: +3~5 Luck Option: +4]
+11,026    0       0       33        *         12        12        *         *         *         0          //Adamantine Boots [Level: +3~5 Luck Option: +4]
+06,013    0       0       35        12        12        12        *         *         *         0          //Dragon Shield [Level: +4~6 Skill Luck Option: +4]
+06,014    0       0       35        12        12        12        *         *         *         0          //Legendary Shield [Level: +4~6 Skill Luck Option: +4]
+00,005    0       0       *         12        12        12        12        *         *         0          //Blade [Skill Luck Option: +4 Exc: 1]
+02,003    0       0       *         12        12        12        12        *         *         0          //Great Hammer [Skill Luck Option: +4 Exc: 1]
+02,008    0       0       *         12        12        12        12        *         *         0          //Battle Scepter [Skill Luck Option: +4 Exc: 1]
+04,004    0       0       *         12        12        12        12        *         *         0          //Tiger Bow [Skill Luck Option: +4 Exc: 1]
+04,012    0       0       *         12        12        12        12        *         *         0          //Serpent Crossbow [Skill Luck Option: +4 Exc: 1]
+05,002    0       0       *         12        12        12        12        *         *         0          //Serpent Staff [Skill Luck Option: +4 Exc: 1]
+07,005    0       0       *         *         12        12        12        *         *         0          //Leather Helm [Luck Option: +4 Exc: 1]
+08,005    0       0       *         *         12        12        12        *         *         0          //Leather Armor [Luck Option: +4 Exc: 1]
+09,005    0       0       *         *         12        12        12        *         *         0          //Leather Pants [Luck Option: +4 Exc: 1]
+10,005    0       0       *         *         12        12        12        *         *         0          //Leather Gloves [Luck Option: +4 Exc: 1]
+11,005    0       0       *         *         12        12        12        *         *         0          //Leather Boots [Luck Option: +4 Exc: 1]
+07,007    0       0       *         *         12        12        12        *         *         0          //Sphinx Mask [Luck Option: +4 Exc: 1]
+08,007    0       0       *         *         12        12        12        *         *         0          //Sphinx Armor [Luck Option: +4 Exc: 1]
+09,007    0       0       *         *         12        12        12        *         *         0          //Sphinx Pants [Luck Option: +4 Exc: 1]
+10,007    0       0       *         *         12        12        12        *         *         0          //Sphinx Gloves [Luck Option: +4 Exc: 1]
+11,007    0       0       *         *         12        12        12        *         *         0          //Sphinx Boots [Luck Option: +4 Exc: 1]
+07,012    0       0       *         *         12        12        12        *         *         0          //Wind Helm [Luck Option: +4 Exc: 1]
+08,012    0       0       *         *         12        12        12        *         *         0          //Wind Armor [Luck Option: +4 Exc: 1]
+09,012    0       0       *         *         12        12        12        *         *         0          //Wind Pants [Luck Option: +4 Exc: 1]
+10,012    0       0       *         *         12        12        12        *         *         0          //Wind Gloves [Luck Option: +4 Exc: 1]
+11,012    0       0       *         *         12        12        12        *         *         0          //Wind Boots [Luck Option: +4 Exc: 1]
+06,011    0       0       *         12        12        12        12        *         *         0          //Serpent Shield [Skill Luck Option: +4 Exc: 1]
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,016    0       0       *         *         *         *         *         *         *         0          //Jewel of Life
+14,019    0       0       33        *         *         *         *         *         *         0          //Devil's Invitation [Level: +3~5]
+13,018    0       0       35        *         *         *         *         *         *         0          //Invisibility Cloak [Level: +4~6]
+13,051    0       0       31        *         *         *         *         *         *         0          //Scroll of Blood [Level: +2~4]
+end

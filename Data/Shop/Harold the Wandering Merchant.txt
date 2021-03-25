@@ -1,0 +1,27 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+3589      0       0       0         1         1         0           //Leather Helm
+4101      0       0       0         1         1         0           //Leather Armor
+4613      0       0       0         1         1         0           //Leather Pants
+5125      0       0       0         1         1         0           //Leather Gloves
+5637      0       0       0         1         1         0           //Leather Boots
+3584      2       0       0         1         1         0           //Bronze Helm
+4096      2       0       0         1         1         0           //Bronze Armor
+4608      2       0       0         1         1         0           //Bronze Pants
+5120      2       0       0         1         1         0           //Bronze Gloves
+5632      2       0       0         1         1         0           //Bronze Boots
+3590      3       0       0         1         1         0           //Scale Helm
+4102      3       0       0         1         1         0           //Scale Armor
+4614      3       0       0         1         1         0           //Scale Pants
+5126      3       0       0         1         1         0           //Scale Gloves
+5638      3       0       0         1         1         0           //Scale Boots
+3592      3       0       0         1         1         0           //Brass Helm
+4104      3       0       0         1         1         0           //Brass Armor
+4616      3       0       0         1         1         0           //Brass Pants
+5128      3       0       0         1         1         0           //Brass Gloves
+5640      3       0       0         1         1         0           //Brass Boots
+3593      3       0       0         1         1         0           //Plate Helm
+4105      3       0       0         1         1         0           //Plate Armor
+4617      3       0       0         1         1         0           //Plate Pants
+5129      3       0       0         1         1         0           //Plate Gloves
+5641      3       0       0         1         1         0           //Plate Boots
+end

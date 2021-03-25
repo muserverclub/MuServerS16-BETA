@@ -1,0 +1,387 @@
+0
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            084          11             30         014            034            *              //Chief Skeleton Warrior
+0            084          11             30         014            038            *              //Chief Skeleton Warrior
+0            084          11             30         015            045            *              //Chief Skeleton Warrior
+0            084          11             30         015            031            *              //Chief Skeleton Warrior
+0            085          11             30         013            023            *              //Chief Skeleton Archer
+0            085          11             30         015            043            *              //Chief Skeleton Archer
+0            085          11             30         015            030            *              //Chief Skeleton Archer
+0            085          11             30         015            033            *              //Chief Skeleton Archer
+0            085          11             30         014            021            *              //Chief Skeleton Archer
+0            085          11             30         013            043            *              //Chief Skeleton Archer
+0            085          11             30         015            026            *              //Chief Skeleton Archer
+0            086          11             30         015            046            *              //Dark Skull Soldier
+0            086          11             30         015            063            *              //Dark Skull Soldier
+0            086          11             30         015            053            *              //Dark Skull Soldier
+0            086          11             30         013            065            *              //Dark Skull Soldier
+0            086          11             30         014            064            *              //Dark Skull Soldier
+0            086          11             30         014            067            *              //Dark Skull Soldier
+0            086          11             30         013            053            *              //Dark Skull Soldier
+0            086          11             30         015            065            *              //Dark Skull Soldier
+0            086          11             30         015            060            *              //Dark Skull Soldier
+0            086          11             30         013            057            *              //Dark Skull Soldier
+0            087          11             30         013            069            *              //Giant Ogre
+0            087          11             30         014            061            *              //Giant Ogre
+0            087          11             30         013            055            *              //Giant Ogre
+0            087          11             30         014            070            *              //Giant Ogre
+0            087          11             30         013            048            *              //Giant Ogre
+0            087          11             30         013            063            *              //Giant Ogre
+0            088          11             30         013            078            *              //Red Skeleton Knight
+0            088          11             30         014            083            *              //Red Skeleton Knight
+0            088          11             30         014            078            *              //Red Skeleton Knight
+0            088          11             30         015            078            *              //Red Skeleton Knight
+0            088          11             30         016            080            *              //Red Skeleton Knight
+0            088          11             30         015            062            *              //Red Skeleton Knight
+0            088          11             30         015            068            *              //Red Skeleton Knight
+0            088          11             30         014            047            *              //Red Skeleton Knight
+1            089          11             30         016            087            *              //Magic Skeleton
+1            089          11             30         014            080            *              //Magic Skeleton
+1            089          11             30         018            081            *              //Magic Skeleton
+end
+
+1
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            090          12             30         014            034            *              //Chief Skeleton Warrior
+0            090          12             30         014            038            *              //Chief Skeleton Warrior
+0            090          12             30         013            035            *              //Chief Skeleton Warrior
+0            090          12             30         014            027            *              //Chief Skeleton Warrior
+0            090          12             30         014            024            *              //Chief Skeleton Warrior
+0            090          12             30         014            032            *              //Chief Skeleton Warrior
+0            090          12             30         015            045            *              //Chief Skeleton Warrior
+0            090          12             30         015            031            *              //Chief Skeleton Warrior
+0            091          12             30         013            045            *              //Chief Skeleton Archer
+0            091          12             30         015            021            *              //Chief Skeleton Archer
+0            091          12             30         013            031            *              //Chief Skeleton Archer
+0            091          12             30         015            030            *              //Chief Skeleton Archer
+0            091          12             30         015            033            *              //Chief Skeleton Archer
+0            091          12             30         014            021            *              //Chief Skeleton Archer
+0            091          12             30         013            043            *              //Chief Skeleton Archer
+0            091          12             30         015            026            *              //Chief Skeleton Archer
+0            092          12             30         015            046            *              //Dark Skull Soldier
+0            092          12             30         015            063            *              //Dark Skull Soldier
+0            092          12             30         015            053            *              //Dark Skull Soldier
+0            092          12             30         013            065            *              //Dark Skull Soldier
+0            092          12             30         013            067            *              //Dark Skull Soldier
+0            092          12             30         014            067            *              //Dark Skull Soldier
+0            092          12             30         013            053            *              //Dark Skull Soldier
+0            092          12             30         015            065            *              //Dark Skull Soldier
+0            092          12             30         015            060            *              //Dark Skull Soldier
+0            092          12             30         013            057            *              //Dark Skull Soldier
+0            093          12             30         013            069            *              //Giant Ogre
+0            093          12             30         014            061            *              //Giant Ogre
+0            093          12             30         013            055            *              //Giant Ogre
+0            093          12             30         013            063            *              //Giant Ogre
+0            094          12             30         013            078            *              //Red Skeleton Knight
+0            094          12             30         014            083            *              //Red Skeleton Knight
+0            094          12             30         020            088            *              //Red Skeleton Knight
+0            094          12             30         015            068            *              //Red Skeleton Knight
+0            094          12             30         014            047            *              //Red Skeleton Knight
+1            095          12             30         014            080            *              //Magic Skeleton
+1            095          12             30         018            081            *              //Magic Skeleton
+end
+
+2
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            096          13             30         014            034            *              //Chief Skeleton Warrior
+0            096          13             30         014            038            *              //Chief Skeleton Warrior
+0            096          13             30         013            035            *              //Chief Skeleton Warrior
+0            096          13             30         013            028            *              //Chief Skeleton Warrior
+0            096          13             30         013            039            *              //Chief Skeleton Warrior
+0            096          13             30         014            027            *              //Chief Skeleton Warrior
+0            096          13             30         014            024            *              //Chief Skeleton Warrior
+0            096          13             30         015            031            *              //Chief Skeleton Warrior
+0            097          13             30         013            045            *              //Chief Skeleton Archer
+0            097          13             30         013            023            *              //Chief Skeleton Archer
+0            097          13             30         015            043            *              //Chief Skeleton Archer
+0            097          13             30         015            039            *              //Chief Skeleton Archer
+0            097          13             30         014            021            *              //Chief Skeleton Archer
+0            097          13             30         013            043            *              //Chief Skeleton Archer
+0            097          13             30         015            026            *              //Chief Skeleton Archer
+0            098          13             30         015            046            *              //Dark Skull Soldier
+0            098          13             30         015            063            *              //Dark Skull Soldier
+0            098          13             30         015            053            *              //Dark Skull Soldier
+0            098          13             30         013            065            *              //Dark Skull Soldier
+0            098          13             30         013            067            *              //Dark Skull Soldier
+0            098          13             30         014            064            *              //Dark Skull Soldier
+0            098          13             30         014            067            *              //Dark Skull Soldier
+0            098          13             30         013            053            *              //Dark Skull Soldier
+0            098          13             30         015            065            *              //Dark Skull Soldier
+0            098          13             30         015            060            *              //Dark Skull Soldier
+0            098          13             30         013            057            *              //Dark Skull Soldier
+0            099          13             30         013            069            *              //Giant Ogre
+0            099          13             30         014            056            *              //Giant Ogre
+0            099          13             30         014            070            *              //Giant Ogre
+0            099          13             30         013            048            *              //Giant Ogre
+0            099          13             30         013            063            *              //Giant Ogre
+0            111          13             30         013            078            *              //Red Skeleton Knight
+0            111          13             30         014            083            *              //Red Skeleton Knight
+0            111          13             30         014            078            *              //Red Skeleton Knight
+0            111          13             30         014            054            *              //Red Skeleton Knight
+0            111          13             30         014            036            *              //Red Skeleton Knight
+0            111          13             30         015            068            *              //Red Skeleton Knight
+0            111          13             30         014            047            *              //Red Skeleton Knight
+1            112          13             30         016            087            *              //Magic Skeleton
+1            112          13             30         012            081            *              //Magic Skeleton
+1            112          13             30         013            088            *              //Magic Skeleton
+1            112          13             30         013            085            *              //Magic Skeleton
+end
+
+3
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            113          14             30         014            034            *              //Chief Skeleton Warrior
+0            113          14             30         014            038            *              //Chief Skeleton Warrior
+0            113          14             30         013            035            *              //Chief Skeleton Warrior
+0            113          14             30         013            028            *              //Chief Skeleton Warrior
+0            113          14             30         015            035            *              //Chief Skeleton Warrior
+0            113          14             30         014            033            *              //Chief Skeleton Warrior
+0            113          14             30         015            031            *              //Chief Skeleton Warrior
+0            114          14             30         013            045            *              //Chief Skeleton Archer
+0            114          14             30         013            023            *              //Chief Skeleton Archer
+0            114          14             30         015            043            *              //Chief Skeleton Archer
+0            114          14             30         015            039            *              //Chief Skeleton Archer
+0            114          14             30         013            043            *              //Chief Skeleton Archer
+0            114          14             30         015            026            *              //Chief Skeleton Archer
+0            115          14             30         015            046            *              //Dark Skull Soldier
+0            115          14             30         015            063            *              //Dark Skull Soldier
+0            115          14             30         014            049            *              //Dark Skull Soldier
+0            115          14             30         015            057            *              //Dark Skull Soldier
+0            115          14             30         014            064            *              //Dark Skull Soldier
+0            115          14             30         014            067            *              //Dark Skull Soldier
+0            115          14             30         013            053            *              //Dark Skull Soldier
+0            115          14             30         015            065            *              //Dark Skull Soldier
+0            115          14             30         015            060            *              //Dark Skull Soldier
+0            115          14             30         013            057            *              //Dark Skull Soldier
+0            116          14             30         013            069            *              //Giant Ogre
+0            116          14             30         014            061            *              //Giant Ogre
+0            116          14             30         013            055            *              //Giant Ogre
+0            116          14             30         013            048            *              //Giant Ogre
+0            116          14             30         013            063            *              //Giant Ogre
+0            117          14             30         013            078            *              //Red Skeleton Knight
+0            117          14             30         014            083            *              //Red Skeleton Knight
+0            117          14             30         020            088            *              //Red Skeleton Knight
+0            117          14             30         014            054            *              //Red Skeleton Knight
+0            117          14             30         014            036            *              //Red Skeleton Knight
+0            117          14             30         015            068            *              //Red Skeleton Knight
+0            117          14             30         014            047            *              //Red Skeleton Knight
+1            118          14             30         013            093            *              //Magic Skeleton
+1            118          14             30         014            080            *              //Magic Skeleton
+1            118          14             30         018            081            *              //Magic Skeleton
+end
+
+4
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            119          15             30         014            034            *              //Chief Skeleton Warrior
+0            119          15             30         014            038            *              //Chief Skeleton Warrior
+0            119          15             30         013            035            *              //Chief Skeleton Warrior
+0            119          15             30         013            028            *              //Chief Skeleton Warrior
+0            119          15             30         015            035            *              //Chief Skeleton Warrior
+0            119          15             30         014            032            *              //Chief Skeleton Warrior
+0            119          15             30         015            045            *              //Chief Skeleton Warrior
+0            119          15             30         015            031            *              //Chief Skeleton Warrior
+0            120          15             30         013            045            *              //Chief Skeleton Archer
+0            120          15             30         013            023            *              //Chief Skeleton Archer
+0            120          15             30         015            043            *              //Chief Skeleton Archer
+0            120          15             30         015            037            *              //Chief Skeleton Archer
+0            120          15             30         014            021            *              //Chief Skeleton Archer
+0            120          15             30         013            043            *              //Chief Skeleton Archer
+0            120          15             30         015            026            *              //Chief Skeleton Archer
+0            121          15             30         015            046            *              //Dark Skull Soldier
+0            121          15             30         014            067            *              //Dark Skull Soldier
+0            121          15             30         013            053            *              //Dark Skull Soldier
+0            121          15             30         015            065            *              //Dark Skull Soldier
+0            121          15             30         015            060            *              //Dark Skull Soldier
+0            121          15             30         013            057            *              //Dark Skull Soldier
+0            122          15             30         013            069            *              //Giant Ogre
+0            122          15             30         014            070            *              //Giant Ogre
+0            122          15             30         013            048            *              //Giant Ogre
+0            122          15             30         013            063            *              //Giant Ogre
+0            123          15             30         013            078            *              //Red Skeleton Knight
+0            123          15             30         014            083            *              //Red Skeleton Knight
+0            123          15             30         020            088            *              //Red Skeleton Knight
+0            123          15             30         014            054            *              //Red Skeleton Knight
+0            123          15             30         014            036            *              //Red Skeleton Knight
+0            123          15             30         015            068            *              //Red Skeleton Knight
+0            123          15             30         014            047            *              //Red Skeleton Knight
+1            124          15             30         016            087            *              //Magic Skeleton
+1            124          15             30         013            093            *              //Magic Skeleton
+1            124          15             30         014            080            *              //Magic Skeleton
+1            124          15             30         018            081            *              //Magic Skeleton
+end
+
+5
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            125          16             30         014            034            *              //Chief Skeleton Warrior
+0            125          16             30         014            038            *              //Chief Skeleton Warrior
+0            125          16             30         013            035            *              //Chief Skeleton Warrior
+0            125          16             30         013            028            *              //Chief Skeleton Warrior
+0            125          16             30         015            031            *              //Chief Skeleton Warrior
+0            126          16             30         013            045            *              //Chief Skeleton Archer
+0            126          16             30         013            023            *              //Chief Skeleton Archer
+0            126          16             30         015            030            *              //Chief Skeleton Archer
+0            126          16             30         015            033            *              //Chief Skeleton Archer
+0            126          16             30         014            021            *              //Chief Skeleton Archer
+0            126          16             30         013            043            *              //Chief Skeleton Archer
+0            126          16             30         015            026            *              //Chief Skeleton Archer
+0            127          16             30         015            046            *              //Dark Skull Soldier
+0            127          16             30         015            063            *              //Dark Skull Soldier
+0            127          16             30         014            064            *              //Dark Skull Soldier
+0            127          16             30         014            067            *              //Dark Skull Soldier
+0            127          16             30         013            053            *              //Dark Skull Soldier
+0            127          16             30         015            065            *              //Dark Skull Soldier
+0            127          16             30         015            060            *              //Dark Skull Soldier
+0            127          16             30         013            057            *              //Dark Skull Soldier
+0            128          16             30         013            069            *              //Giant Ogre
+0            128          16             30         014            061            *              //Giant Ogre
+0            128          16             30         013            055            *              //Giant Ogre
+0            128          16             30         014            070            *              //Giant Ogre
+0            128          16             30         013            048            *              //Giant Ogre
+0            128          16             30         013            063            *              //Giant Ogre
+0            129          16             30         013            078            *              //Red Skeleton Knight
+0            129          16             30         014            083            *              //Red Skeleton Knight
+0            129          16             30         014            054            *              //Red Skeleton Knight
+0            129          16             30         014            036            *              //Red Skeleton Knight
+0            129          16             30         015            068            *              //Red Skeleton Knight
+0            129          16             30         014            047            *              //Red Skeleton Knight
+1            130          16             30         016            087            *              //Magic Skeleton
+1            130          16             30         014            080            *              //Magic Skeleton
+1            130          16             30         018            081            *              //Magic Skeleton
+end
+
+6
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            138          17             30         014            034            *              //Chief Skeleton Warrior
+0            138          17             30         014            038            *              //Chief Skeleton Warrior
+0            138          17             30         013            035            *              //Chief Skeleton Warrior
+0            138          17             30         013            028            *              //Chief Skeleton Warrior
+0            138          17             30         014            024            *              //Chief Skeleton Warrior
+0            138          17             30         014            032            *              //Chief Skeleton Warrior
+0            138          17             30         015            045            *              //Chief Skeleton Warrior
+0            138          17             30         015            031            *              //Chief Skeleton Warrior
+0            139          17             30         015            026            *              //Chief Skeleton Archer
+0            139          17             30         013            045            *              //Chief Skeleton Archer
+0            139          17             30         013            023            *              //Chief Skeleton Archer
+0            139          17             30         015            021            *              //Chief Skeleton Archer
+0            139          17             30         013            031            *              //Chief Skeleton Archer
+0            139          17             30         015            030            *              //Chief Skeleton Archer
+0            139          17             30         015            033            *              //Chief Skeleton Archer
+0            139          17             30         014            021            *              //Chief Skeleton Archer
+0            139          17             30         013            043            *              //Chief Skeleton Archer
+0            140          17             30         015            046            *              //Dark Skull Soldier
+0            140          17             30         015            063            *              //Dark Skull Soldier
+0            140          17             30         014            044            *              //Dark Skull Soldier
+0            140          17             30         015            051            *              //Dark Skull Soldier
+0            140          17             30         014            049            *              //Dark Skull Soldier
+0            140          17             30         015            065            *              //Dark Skull Soldier
+0            140          17             30         015            060            *              //Dark Skull Soldier
+0            140          17             30         013            057            *              //Dark Skull Soldier
+0            141          17             30         013            069            *              //Giant Ogre
+0            141          17             30         014            061            *              //Giant Ogre
+0            141          17             30         013            063            *              //Giant Ogre
+0            141          17             30         013            048            *              //Giant Ogre
+0            142          17             30         013            078            *              //Red Skeleton Knight
+0            142          17             30         014            083            *              //Red Skeleton Knight
+0            142          17             30         015            094            *              //Red Skeleton Knight
+0            142          17             30         020            082            *              //Red Skeleton Knight
+1            143          17             30         019            085            *              //Magic Skeleton
+1            143          17             30         013            093            *              //Magic Skeleton
+end
+
+7
+//Stage      Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+0            428          52             30         014            034            *              //Chief Skeleton Warrior
+0            428          52             30         014            038            *              //Chief Skeleton Warrior
+0            428          52             30         013            035            *              //Chief Skeleton Warrior
+0            428          52             30         013            028            *              //Chief Skeleton Warrior
+0            428          52             30         015            035            *              //Chief Skeleton Warrior
+0            428          52             30         014            033            *              //Chief Skeleton Warrior
+0            428          52             30         015            041            *              //Chief Skeleton Warrior
+0            428          52             30         014            042            *              //Chief Skeleton Warrior
+0            428          52             30         015            025            *              //Chief Skeleton Warrior
+0            428          52             30         015            023            *              //Chief Skeleton Warrior
+0            428          52             30         013            026            *              //Chief Skeleton Warrior
+0            428          52             30         013            037            *              //Chief Skeleton Warrior
+0            428          52             30         014            040            *              //Chief Skeleton Warrior
+0            428          52             30         013            039            *              //Chief Skeleton Warrior
+0            428          52             30         014            027            *              //Chief Skeleton Warrior
+0            428          52             30         014            024            *              //Chief Skeleton Warrior
+0            428          52             30         014            032            *              //Chief Skeleton Warrior
+0            428          52             30         015            045            *              //Chief Skeleton Warrior
+0            428          52             30         015            031            *              //Chief Skeleton Warrior
+0            429          52             30         015            026            *              //Chief Skeleton Archer
+0            429          52             30         013            045            *              //Chief Skeleton Archer
+0            429          52             30         013            023            *              //Chief Skeleton Archer
+0            429          52             30         015            043            *              //Chief Skeleton Archer
+0            429          52             30         015            039            *              //Chief Skeleton Archer
+0            429          52             30         015            037            *              //Chief Skeleton Archer
+0            429          52             30         013            029            *              //Chief Skeleton Archer
+0            429          52             30         015            028            *              //Chief Skeleton Archer
+0            429          52             30         013            025            *              //Chief Skeleton Archer
+0            429          52             30         013            021            *              //Chief Skeleton Archer
+0            429          52             30         014            022            *              //Chief Skeleton Archer
+0            429          52             30         015            021            *              //Chief Skeleton Archer
+0            429          52             30         013            031            *              //Chief Skeleton Archer
+0            429          52             30         015            030            *              //Chief Skeleton Archer
+0            429          52             30         015            033            *              //Chief Skeleton Archer
+0            429          52             30         014            021            *              //Chief Skeleton Archer
+0            429          52             30         013            043            *              //Chief Skeleton Archer
+0            430          52             30         015            046            *              //Dark Skull Soldier
+0            430          52             30         015            063            *              //Dark Skull Soldier
+0            430          52             30         015            053            *              //Dark Skull Soldier
+0            430          52             30         013            065            *              //Dark Skull Soldier
+0            430          52             30         013            067            *              //Dark Skull Soldier
+0            430          52             30         015            059            *              //Dark Skull Soldier
+0            430          52             30         013            059            *              //Dark Skull Soldier
+0            430          52             30         015            055            *              //Dark Skull Soldier
+0            430          52             30         013            062            *              //Dark Skull Soldier
+0            430          52             30         013            041            *              //Dark Skull Soldier
+0            430          52             30         015            069            *              //Dark Skull Soldier
+0            430          52             30         013            050            *              //Dark Skull Soldier
+0            430          52             30         015            048            *              //Dark Skull Soldier
+0            430          52             30         013            046            *              //Dark Skull Soldier
+0            430          52             30         014            044            *              //Dark Skull Soldier
+0            430          52             30         015            051            *              //Dark Skull Soldier
+0            430          52             30         014            049            *              //Dark Skull Soldier
+0            430          52             30         015            057            *              //Dark Skull Soldier
+0            430          52             30         014            064            *              //Dark Skull Soldier
+0            430          52             30         014            067            *              //Dark Skull Soldier
+0            430          52             30         013            053            *              //Dark Skull Soldier
+0            430          52             30         015            065            *              //Dark Skull Soldier
+0            430          52             30         015            060            *              //Dark Skull Soldier
+0            430          52             30         013            057            *              //Dark Skull Soldier
+0            431          52             30         013            069            *              //Giant Ogre
+0            431          52             30         014            061            *              //Giant Ogre
+0            431          52             30         013            055            *              //Giant Ogre
+0            431          52             30         014            058            *              //Giant Ogre
+0            431          52             30         014            052            *              //Giant Ogre
+0            431          52             30         015            050            *              //Giant Ogre
+0            431          52             30         015            066            *              //Giant Ogre
+0            431          52             30         014            056            *              //Giant Ogre
+0            431          52             30         014            070            *              //Giant Ogre
+0            431          52             30         013            063            *              //Giant Ogre
+0            431          52             30         013            048            *              //Giant Ogre
+0            432          52             30         013            078            *              //Red Skeleton Knight
+0            432          52             30         014            083            *              //Red Skeleton Knight
+0            432          52             30         014            078            *              //Red Skeleton Knight
+0            432          52             30         015            078            *              //Red Skeleton Knight
+0            432          52             30         016            080            *              //Red Skeleton Knight
+0            432          52             30         015            062            *              //Red Skeleton Knight
+0            432          52             30         052            083            *              //Red Skeleton Knight
+0            432          52             30         014            090            *              //Red Skeleton Knight
+0            432          52             30         011            083            *              //Red Skeleton Knight
+0            432          52             30         015            094            *              //Red Skeleton Knight
+0            432          52             30         020            082            *              //Red Skeleton Knight
+0            432          52             30         020            088            *              //Red Skeleton Knight
+0            432          52             30         014            054            *              //Red Skeleton Knight
+0            432          52             30         014            036            *              //Red Skeleton Knight
+0            432          52             30         015            068            *              //Red Skeleton Knight
+0            432          52             30         014            047            *              //Red Skeleton Knight
+1            433          52             30         016            087            *              //Magic Skeleton
+1            433          52             30         012            081            *              //Magic Skeleton
+1            433          52             30         013            088            *              //Magic Skeleton
+1            433          52             30         013            085            *              //Magic Skeleton
+1            433          52             30         019            085            *              //Magic Skeleton
+1            433          52             30         013            093            *              //Magic Skeleton
+1            433          52             30         014            080            *              //Magic Skeleton
+1            433          52             30         018            081            *              //Magic Skeleton
+end

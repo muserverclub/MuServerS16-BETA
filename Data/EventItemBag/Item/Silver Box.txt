@@ -1,0 +1,22 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+14,070    0       0       *         *         *         *         *         *         *         0          //Elite Healing Potion
+14,071    0       0       *         *         *         *         *         *         *         0          //Elite Mana Potion
+14,086    0       0       *         *         *         *         *         *         *         0          //Cherry Blossom Rice Cake
+14,085    0       0       *         *         *         *         *         *         *         0          //Cherry Blossom Wine
+14,087    0       0       *         *         *         *         *         *         *         0          //Cherry Blossom Flower Petal
+12,015    0       0       *         *         *         *         *         *         *         0          //Jewel of Chaos
+14,014    0       0       *         *         *         *         *         *         *         0          //Jewel of Soul
+14,013    0       0       *         *         *         *         *         *         *         0          //Jewel of Bless
+end

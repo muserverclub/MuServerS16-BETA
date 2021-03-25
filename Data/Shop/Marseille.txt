@@ -1,0 +1,7 @@
+//Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
+7683      0       0       0         0         0         0           //Scroll of Fire Ball
+7690      0       0       0         0         0         0           //Scroll of Power Wave
+7681      0       0       0         0         0         0           //Scroll of Meteorite
+7686      0       0       0         0         0         0           //Scroll of Ice
+7700      0       0       0         0         0         0           //Drain Life Parchment
+end

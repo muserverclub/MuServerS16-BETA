@@ -1,0 +1,18 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF   GL
+0         5         10000         1000          0             1    1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+
+14,019    0       0       29        *         *         *         *         *         *         0          //Devil's Invitation [Level: +1~3]
+13,018    0       0       29        *         *         *         *         *         *         0          //Invisibility Cloak [Level: +1~3]
+14,028    0       0       29        *         *         *         *         *         *         0          //Lost Map [Level: +1~3]
+13,051    0       0       29        *         *         *         *         *         *         0          //Scroll of Blood [Level: +1~3]
+end
