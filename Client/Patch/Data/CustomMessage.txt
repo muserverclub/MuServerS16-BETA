@@ -1,0 +1,38 @@
+0
+//Index   Message
+0         "Level: %d | Resets: %d"
+1         "Reconnecting..."
+2         "Logging in..."
+3         "Waiting character list..."
+4         "Waiting character info..."
+5         "MU"
+6         "MU (%s)"
+7         "MU"
+8         "The game has been minimized."
+end
+
+1
+//Index   Message
+0         "Nível: %d | Resets: %d"
+1         "Reconectando..."
+2         "Entrando..."
+3         "Listando personagens..."
+4         "Entrando no personagem..."
+5         "MU"
+6         "MU (%s)"
+7         "MU"
+8         "O jogo foi minimizado."
+end
+
+2
+//Index   Message
+0         "Nivel: %d | Resets: %d"
+1         "Reconectando..."
+2         "Iniciando sesión..."
+3         "Listado caracteres..."
+4         "Entrando en el carácter..."
+5         "MU"
+6         "MU (%s)"
+7         "MU"
+8         "El juego ha sido minimizado."
+end
