@@ -4,7 +4,7 @@
 7016      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Trans
 7017      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Trans
 7018      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Trans
-2601      0       0       0         0         0         0           100000  //Bloodangel Staff
+2601      0       0       0         0         0         0           50000   //Bloodangel Staff
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -39,7 +39,7 @@ end
 13,395    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Helm (Conviction)
 13,397    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Pants (Conviction)
 13,398    0       0       0         0         0         0           50000   //Sealed Defense Bloodangel Boots (Conviction)
-0042      0       0       0         0         0         0           100000  //Bloodangel Sword
+0042      0       0       0         0         0         0           50000   //Bloodangel Sword
 6,44      0       0       0         0         0         0           50000   //Bloodangel Shield
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
@@ -49,6 +49,7 @@ end
 7552      0       0       0         0         0         0           1000    //Sphere Upgrade Rune Capsule
 7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
 6433      0       0       0         0         0         0           1000    //Orb of Fire Blow
+6630      0       0       0         0         0         0           1000    //Orb of Sword Blow
 14,499    0       0       0         0         0         0           50000   //Offensive Knight Conversion Order
 14,500    0       0       0         0         0         0           50000   //Defensive Knight Conversion Order
 7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
@@ -75,7 +76,7 @@ end
 7024      0       0       0         0         0         0           30000   //Bloodangel Helm of Sealed Redem
 7025      0       0       0         0         0         0           30000   //Bloodangel Pants of Sealed Redem
 7026      0       0       0         0         0         0           30000   //Bloodangel Gloves of Sealed Redem
-2076      0       0       0         0         0         0           100000  //Bloodangel Bow
+2076      0       0       0         0         0         0           50000   //Bloodangel Bow
 2082      0       0       0         0         0         0           100000  //Bloodangel Quiver
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
@@ -111,7 +112,7 @@ end
 7028      0       0       0         0         0         0           50000   //Bloodangel Boots of Sealed Extrem
 7029      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Extrem
 7030      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Extrem
-0044      0       0       0         0         0         0           100000  //Bloodangel Magic Sword
+0044      0       0       0         0         0         0           50000   //Bloodangel Magic Sword
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -145,7 +146,7 @@ end
 7036      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Conq
 7037      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Conq
 7038      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Conq
-1046      0       0       0         0         0         0           100000  //Bloodangel Scepter
+1046      0       0       0         0         0         0           50000   //Bloodangel Scepter
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -174,7 +175,8 @@ end
 7044      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Honor
 7045      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Honor
 7046      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Honor
-2603      0       0       0         0         0         0           100000  //Bloodangel Stick
+2603      0       0       0         0         0         0           50000   //Bloodangel Stick
+2617      0       0       0         0         0         0           50000   //Bloodangel Book
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -204,7 +206,7 @@ end
 7048      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Destr
 7049      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Destr
 7050      0       0       0         0         0         0           50000   //Bloodangel Boots of Sealed Destr
-0046      0       0       0         0         0         0           100000  //Bloodangel Claws
+0046      0       0       0         0         0         0           50000   //Bloodangel Claws
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -234,7 +236,7 @@ end
 7056      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Tenac
 7057      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Tenac
 7058      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Tenac
-1555      0       0       0         0         0         0           100000  //Bloodangel Lance
+1555      0       0       0         0         0         0           50000   //Bloodangel Lance
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -262,7 +264,7 @@ end
 7012      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Rebel
 7013      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Rebel
 7014      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Rebel
-1056      0       0       0         0         0         0           100000  //Bloodangel Rune Mace
+1056      0       0       0         0         0         0           50000   //Bloodangel Rune Mace
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
@@ -291,7 +293,7 @@ end
 7040      0       0       0         0         0         0           50000   //Bloodangel Helm of Sealed Heart
 7041      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Heart
 7042      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Heart
-0071      0       0       0         0         0         0           100000  //Bloodangel Short Sword
+0071      0       0       0         0         0         0           50000   //Bloodangel Short Sword
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
