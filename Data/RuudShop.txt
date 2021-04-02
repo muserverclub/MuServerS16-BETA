@@ -186,6 +186,7 @@ end
 7532      0       0       0         0         0         0           5000    //Socket Upgrade Note
 6439      0       0       0         0         0         0           1000    //Parchment of Fire Beast
 6440      0       0       0         0         0         0           1000    //Parchment of Aqua Beast
+7725      0       0       0         0         0         0           1000    //Death Side Parchment
 7558      0       5       0         0         0         0           2500    //Spirit Nixie's Shard
 6551      0       0       0         0         0         0           1000    //[Bound]Loch's Magic Solution
 6553      0       0       0         0         0         0           75000   //[Bound]Condor's Magic Solution
