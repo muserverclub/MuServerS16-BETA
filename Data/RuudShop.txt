@@ -113,6 +113,7 @@ end
 7029      0       0       0         0         0         0           50000   //Bloodangel Pants of Sealed Extrem
 7030      0       0       0         0         0         0           50000   //Bloodangel Gloves of Sealed Extrem
 0044      0       0       0         0         0         0           50000   //Bloodangel Magic Sword
+2601      0       0       0         0         0         0           50000   //Bloodangel Staff
 7509      0       0       0         0         0         0           50000   //Darkangel Soul
 7554      0       0       0         0         0         0           100000  //Darkangel Anvil
 7557      0       0       0         0         0         0           50000   //Holyangel Soul
