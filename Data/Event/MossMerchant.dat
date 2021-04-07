@@ -17,7 +17,8 @@ end
 6         0       7182        1           *           *
 7         0       7581        1           *           *
 8         1       7181        1           *           *
-9         0       *           0           *           *
+9         1       7181        1           *           *
+10        1       7581        3           7181        10
 end
 
 2         0
@@ -138,7 +139,6 @@ end
 7135      *         *         *         *         *         *         *         2500         //Event Map Ticket
 7181      *         *         *         *         *         *         *         6666         //Jewel of Bless
 7357      *         *         *         *         *         *         *         6666         //Elemental Talisman of Luck
-7392      *         *         *         *         *         *         *         6666         //Bless of Light (Greater)
 7444      *         *         *         *         *         *         *         6666         //Master EXP Potion (4)
 7520      *         *         *         *         *         *         *         6666         //Ruud Box(1000)
 end
@@ -150,7 +150,6 @@ end
 6924      *         *         *         *         *         *         *         1250         //Dark Transformation Ring
 7135      *         *         *         *         *         *         *         1250         //Event Map Ticket
 7221      *         *         *         *         *         *         *         6666         //Talisman of Luck
-7444      *         *         *         *         *         *         *         6666         //Master EXP Potion (4)
 end
 
 2         8
@@ -165,6 +164,35 @@ end
 7190      *         *         *         *         *         *         *         6666         //Jewel of Creation
 7199      *         *         *         *         *         *         *         6666         //Guardian Jewel
 7210      *         *         *         *         *         *         *         6666         //Jewel of Harmony
+end
+
+2         9  //Guardian Box
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+7645      *         *         *         *         *         *         *         500          //Seal of Ghost Horses
+7634      *         *         *         *         *         *         *         500          //Sculpture
+7635      *         *         *         *         1         *         *         500          //Guardian Enhanced Stone
+7540      *         *         *         *         1         *         *         2500         //Bless of Ligh (Middle)
+7182      *         *         *         *         *         *         *         6666         //Jewel of Soul
+7184      *         *         *         *         *         *         *         6666         //Jewel of Life
+7190      *         *         *         *         *         *         *         6666         //Jewel of Creation
+6159      *         *         *         *         *         *         *         6666         //Jewel of Chaos
+7645      *         *         *         *         *         *         *         500          //Seal of Ghost Horses
+7634      *         *         *         *         *         *         *         500          //Sculpture
+7635      *         *         *         *         1         *         *         500          //Guardian Enhanced Stone
+end
+
+2         10 //Miracle Coin
+//Index   Option0   Option1   Option2   Option3   Option4   Option5   Option6   GambleRate   Comment
+51        9         9         9         9         9         9         9         300          //Blessed Sword
+7123      *         *         *         *         *         *         *         500          //Garuda Feather
+6924      *         *         *         *         *         *         *         1250         //Dark Transformation Ring
+7264      *         *         *         *         *         *         *         4000         //Talisman of Chaos Assembly
+7567      *         *         *         *         *         *         *         200          //(Hero) Bloodangel Spirit
+7166      *         *         *         *         *         *         *         2000         //Three Vacancies
+7124      *         *         *         *         *         *         *         500          //Golden Sentence
+7444      *         *         *         *         *         *         *         800          //Master EXP Potion (4)
+7504      *         *         *         *         *         *         *         800          //Mastery Reward Chest(100)
+7392      *         *         *         *         *         *         *         1000         //Bless of Light (Greater)
 end
 
 3
