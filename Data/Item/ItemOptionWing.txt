@@ -29,7 +29,7 @@
 6409      3          35           1            29           2            4               //Wings of Life
 6410      3          71           0            71           0            0               //Wings of Conqueror
 6411      3          60           1            60           1            0               //Wings of Angel and Devil
-6412      3          71           0            71           0            0               //Wings of Conqueror
+6412      4          39           2            39           2            0               //Wings of Conqueror
 6413      2          20           2            10           2            5               //Cloak of Limit
 6414      4          39           2            39           2            0               //Cloak of Transcendence
 6422      2          12           2            12           2            0               //Small Cloak of Limit
