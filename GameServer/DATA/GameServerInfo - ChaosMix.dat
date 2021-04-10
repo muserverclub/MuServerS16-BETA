@@ -428,6 +428,14 @@ AncientEarringMixRate5_AL2 = 100
 AncientEarringMixRate5_AL3 = 100
 
 ;==================================================
+; Blood Angel Random Item Mix Settings
+;==================================================
+BloodAngelRandomItemMixRate_AL0 = 40
+BloodAngelRandomItemMixRate_AL1 = 40
+BloodAngelRandomItemMixRate_AL2 = 40
+BloodAngelRandomItemMixRate_AL3 = 40
+
+;==================================================
 ; Ghost Horse Upgrade Mix Settings
 ;==================================================
 GhostHorseUpgradeMixRate_AL0 = 70

@@ -573,7 +573,6 @@ SLAttackSuccessRateConstA = 5
 SLAttackSuccessRateConstB = 3
 SLAttackSuccessRateConstC = 2
 SLAttackSuccessRateConstD = 4
-
 GCAttackSuccessRateConstA = 5
 GCAttackSuccessRateConstB = 3
 GCAttackSuccessRateConstC = 2
@@ -622,10 +621,9 @@ SLAttackSuccessRatePvPConstA = 3
 SLAttackSuccessRatePvPConstB = 1
 SLAttackSuccessRatePvPConstC = 5
 SLAttackSuccessRatePvPConstD = 2
-
 GCAttackSuccessRatePvPConstA = 3
 GCAttackSuccessRatePvPConstB = 1
-GCAttackSuccessRatePvPConstC = 5
+GCAttackSuccessRatePvPConstC = 7
 GCAttackSuccessRatePvPConstD = 2
 
 ;==================================================
@@ -651,8 +649,7 @@ RWPhysiSpeedConstA = 12
 RWMagicSpeedConstA = 12
 SLPhysiSpeedConstA = 15
 SLMagicSpeedConstA = 20
-
-GCPhysiSpeedConstA = 15
+GCPhysiSpeedConstA = 20
 GCMagicSpeedConstA = 20
 
 ;==================================================
@@ -668,8 +665,7 @@ RFDefenseSuccessRateConstA = 10
 GLDefenseSuccessRateConstA = 4
 RWDefenseSuccessRateConstA = 3
 SLDefenseSuccessRateConstA = 3
-
-GCDefenseSuccessRateConstA = 3
+GCDefenseSuccessRateConstA = 4
 
 ;==================================================
 ; Character Defense Success Rate PvP Settings
@@ -704,10 +700,9 @@ RWDefenseSuccessRatePvPConstC = 3
 SLDefenseSuccessRatePvPConstA = 2
 SLDefenseSuccessRatePvPConstB = 1
 SLDefenseSuccessRatePvPConstC = 3
-
 GCDefenseSuccessRatePvPConstA = 2
 GCDefenseSuccessRatePvPConstB = 1
-GCDefenseSuccessRatePvPConstC = 3
+GCDefenseSuccessRatePvPConstC = 2
 
 ;==================================================
 ; Character Defense Settings
@@ -722,8 +717,7 @@ RFDefenseConstA = 8
 GLDefenseConstA = 7
 RWDefenseConstA = 5
 SLDefenseConstA = 10
-
-GCDefenseConstA = 10
+GCDefenseConstA = 3
 
 ;==================================================
 ; Character Elemental Damage Rate Settings
@@ -899,11 +893,10 @@ MGElementalDefenseConstA = 5
 DLElementalDefenseConstA = 7
 SUElementalDefenseConstA = 3
 RFElementalDefenseConstA = 8
-GLElementalDefenseConstA = 8
+GLElementalDefenseConstA = 7
 RWElementalDefenseConstA = 3
-SLElementalDefenseConstA = 10
-
-GCElementalDefenseConstA = 10
+SLElementalDefenseConstA = 3
+GCElementalDefenseConstA = 3
 
 ;==================================================
 ; Character Elemental Damage Settings
@@ -989,7 +982,6 @@ SLElementalAttackSuccessRateConstA = 5
 SLElementalAttackSuccessRateConstB = 4
 SLElementalAttackSuccessRateConstC = 3
 SLElementalAttackSuccessRateConstD = 2
-
 GCElementalAttackSuccessRateConstA = 5
 GCElementalAttackSuccessRateConstB = 4
 GCElementalAttackSuccessRateConstC = 3
