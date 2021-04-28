@@ -83,6 +83,7 @@
 7635      50         *             //Guardian Enhanced Stone
 7636      50         *             //Elite Guardian Enhanced
 7637      50         7638          //Guardian Elite Opt Change Pcs
+7639      50         *             //Sealed Armor Sculpture
 //Index   MaxStack   CreateIndex   Comment
 20,43     5          20,50         //Blood Angel Chaos Fragment
 20,44     5          20,51         //Dark Angel Chaos Fragment
